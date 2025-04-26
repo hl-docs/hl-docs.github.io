@@ -1,0 +1,11 @@
+<map id="EHANDLE" name="EHANDLE">
+<area shape="rect" id="Node000001" title="Represents a handle to an entity in the game." alt="" coords="5,352,88,379"/>
+<area shape="rect" id="Node000002" href="$db/d8e/structedict__s.html" title=" " alt="" coords="92,101,156,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,130,62,140,50,154,37,179,30,206,28,263,35,315,45,351,40,352,30,316,23,263,25,205,32,177,45,150,59,136,76,126"/>
+<area shape="rect" id="Node000004" href="$d2/d88/structentvars__s.html" title=" " alt="" coords="151,352,227,379"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="117,143,108,182,102,230,105,280,112,304,122,327,135,340,152,350,149,355,132,345,118,329,107,306,100,281,97,230,103,181,112,142"/>
+<area shape="rect" id="Node000003" href="$d5/de3/structlink__s.html" title=" " alt="" coords="96,8,152,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,50,127,101,121,101,121,50"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="168,11,175,15,178,22,170,31,152,33,152,28,167,26,173,21,171,19,166,16"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="197,337,208,298,215,250,213,200,207,176,196,154,178,136,155,125,157,121,181,132,201,150,212,174,219,199,221,251,213,299,202,338"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="CHoundeye::SonicAttack" name="CHoundeye::SonicAttack">
-<area shape="rect" id="Node000001" title="Performs a sonic attack." alt="" coords="201,5,368,32"/>
-<area shape="rect" id="Node000002" href="$class_c_houndeye.html#a0d9231f867a7904885d0362fe5a1794c" title="Runs a task for the Houndeye." alt="" coords="5,5,153,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,21,153,21,153,16,185,16"/>
-</map>

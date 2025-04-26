@@ -1,0 +1,17 @@
+<map id="DisguiseButton" name="DisguiseButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,279,383,305"/>
+<area shape="rect" id="Node000002" href="$d5/dd3/class_command_button.html" title=" " alt="" coords="132,172,251,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,203,288,221,312,249,326,277,322,280,307,252,284,225,255,207"/>
+<area shape="rect" id="Node000004" href="$df/d43/class_c_command_menu.html" title=" " alt="" coords="5,279,127,305"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="119,202,100,212,85,224,76,237,72,251,68,279,63,278,66,250,72,235,81,221,97,207,116,198"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="124,81,184,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,122,188,170,184,172,163,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="135,270,160,253,178,226,187,198,192,200,183,228,164,257,138,274"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="144,283,153,292,145,301,128,304,127,299,143,296,148,292,140,287"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="15,172,69,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="51,213,66,278,61,279,46,214"/>
+<area shape="rect" id="Node000006" href="$d7/ded/class_command_label.html" title=" " alt="" coords="208,81,319,108"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="246,122,204,173,200,170,242,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="237,5,290,32"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="266,47,266,81,261,81,261,47"/>
+</map>

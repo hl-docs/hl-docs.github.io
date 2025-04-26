@@ -1,8 +1,0 @@
-<map id="CBasePlayerItem::iItemSlot" name="CBasePlayerItem::iItemSlot">
-<area shape="rect" id="Node000001" title=" " alt="" coords="469,31,650,57"/>
-<area shape="rect" id="Node000002" href="$class_c_weapon_box.html#acdb4ed5f282c7dd76be50b17a7b8652c" title="Checks if a weapon is already packed in the weapon box." alt="" coords="241,5,421,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,35,421,31,422,26,454,30"/>
-<area shape="rect" id="Node000003" href="$class_c_weapon_box.html#a7f33df277fa88eca673576ad2f403f55" title="Adds a weapon to the weapon box." alt="" coords="5,31,193,57"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="453,47,193,47,193,41,453,41"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,33,193,36,193,31,225,28"/>
-</map>

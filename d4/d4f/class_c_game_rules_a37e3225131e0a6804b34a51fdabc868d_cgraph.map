@@ -1,0 +1,5 @@
+<map id="CGameRules::RefreshSkillData" name="CGameRules::RefreshSkillData">
+<area shape="rect" id="Node000001" title="Refreshes the skill data based on the current skill level." alt="" coords="5,5,208,32"/>
+<area shape="rect" id="Node000002" href="$d3/d08/skill_8cpp.html#a9b053753ee170bcaccfbd5dbf5908f08" title="Retrieves the skill variable value based on the current skill level." alt="" coords="256,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,16,240,16,240,21,208,21"/>
+</map>

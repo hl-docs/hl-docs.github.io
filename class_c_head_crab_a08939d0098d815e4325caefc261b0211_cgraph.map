@@ -1,5 +1,0 @@
-<map id="CHeadCrab::DeathSound" name="CHeadCrab::DeathSound">
-<area shape="rect" id="Node000001" title="Emits a death sound for the headcrab." alt="" coords="5,5,172,32"/>
-<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="220,5,358,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,16,204,16,204,21,172,21"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CHudSpectator::AddWaypoint" name="CHudSpectator::AddWaypoint">
+<area shape="rect" id="Node000001" title="Adds a waypoint for the camera to follow during a spectator replay." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="Node000002" href="$de/dd7/class_c_hud_spectator.html#a15551e823f222d69b2fcebcf74bbc7fc" title="Sets the spectator camera view to a given position and angle." alt="" coords="249,5,459,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,16,233,16,233,21,201,21"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="CPlane::InitializePlane" name="CPlane::InitializePlane">
-<area shape="rect" id="Node000001" title="Initializes the plane with a normal vector and a point." alt="" coords="506,31,657,57"/>
-<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#a98c837906ad17c13ce0292888cc88a7e" title="Checks for the possibility of friendly fire." alt="" coords="252,31,458,57"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,47,458,47,458,41,490,41"/>
-<area shape="rect" id="Node000003" href="$class_c_a_grunt.html#af4314f91038ec3fa59b8202e8de3a2ca" title="Checks if the Alien Grunt can perform a ranged attack." alt="" coords="5,5,204,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,35,204,31,204,26,237,29"/>
-<area shape="rect" id="Node000004" href="$class_c_h_grunt.html#a489abde51cc63bb8147fa6a0e62284e6" title="Starts a task for the grunt." alt="" coords="37,56,172,83"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="237,59,173,65,172,60,236,53"/>
-</map>

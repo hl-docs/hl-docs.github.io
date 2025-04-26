@@ -1,0 +1,5 @@
+<map id="CHalfLifeRules" name="CHalfLifeRules">
+<area shape="rect" id="Node000001" title="Single&#45;player game rules for Half&#45;Life." alt="" coords="5,80,111,107"/>
+<area shape="rect" id="Node000002" href="$d4/d4f/class_c_game_rules.html" title="Base class for game rules in Half&#45;Life." alt="" coords="9,5,107,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,48,61,80,55,80,55,48"/>
+</map>

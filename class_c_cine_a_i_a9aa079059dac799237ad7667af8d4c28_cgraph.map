@@ -1,7 +1,0 @@
-<map id="CCineAI::StartSequence" name="CCineAI::StartSequence">
-<area shape="rect" id="Node000001" title="Starts a sequence for the target monster in AI scripted sequences." alt="" coords="5,31,168,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_animating.html#a48b692e6ced2770a3f5e2fe4705c5ba9" title="Looks up the sequence index for a given label." alt="" coords="222,5,448,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,33,206,29,206,34,169,38"/>
-<area shape="rect" id="Node000003" href="$class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="216,56,454,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,50,200,53,200,58,168,55"/>
-</map>

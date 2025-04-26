@@ -1,5 +1,0 @@
-<map id="CSentry::Precache" name="CSentry::Precache">
-<area shape="rect" id="Node000001" title="Preloads all resources needed by the sentry." alt="" coords="5,5,137,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_turret.html#addd5ede1f632a47e3e344c6e2516d6df" title="Preloads all resources needed by the base turret." alt="" coords="185,5,341,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,16,169,16,169,21,137,21"/>
-</map>

@@ -1,0 +1,17 @@
+<map id="CBaseMonster::StopFollowing" name="CBaseMonster::StopFollowing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="650,81,847,108"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#a00e1852d5fc02ebb132ded6e7377dfca" title="Limits the number of followers for the talk monster." alt="" coords="410,81,602,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="634,97,603,97,603,92,634,92"/>
+<area shape="rect" id="Node000003" href="$da/d04/class_c_talk_monster.html#a100840a7f1417df9e0630754fba12ceb" title="Handles the use interaction for the talk monster." alt="" coords="182,56,362,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,85,362,82,363,76,395,80"/>
+<area shape="rect" id="Node000006" href="$da/d04/class_c_talk_monster.html#a09f20f4407d2c7294a4ab9feb3e0a09b" title="Handles the death of the talk monster." alt="" coords="201,107,343,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="395,109,343,115,343,110,395,104"/>
+<area shape="rect" id="Node000004" href="$d0/d51/class_c_barney.html#abf46f736a42ef4e60fd853d9e86526d2" title="Spawns the Barney entity." alt="" coords="10,5,129,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="200,54,125,35,126,30,201,49"/>
+<area shape="rect" id="Node000005" href="$dc/d29/class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="5,56,134,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="166,72,134,72,134,67,166,67"/>
+<area shape="rect" id="Node000007" href="$d0/d51/class_c_barney.html#a485e807682e97b90132aaca8a62b2af2" title="Handles the death of the Barney entity." alt="" coords="14,107,125,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="186,123,125,123,125,117,186,117"/>
+<area shape="rect" id="Node000008" href="$dc/d29/class_c_scientist.html#aaedf2fab34bc89a2056bc25c39d4b080" title="Handles the death of the scientist." alt="" coords="9,157,130,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="201,140,126,159,125,154,200,135"/>
+</map>

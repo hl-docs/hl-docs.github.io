@@ -1,0 +1,40 @@
+<map id="CMultiManager::ManagerThink" name="CMultiManager::ManagerThink">
+<area shape="rect" id="Node000001" title="Executes the think function for the multi&#45;manager." alt="" coords="5,283,203,309"/>
+<area shape="rect" id="Node000002" href="$dc/d55/subs_8cpp.html#abce1dd6337addcc3256c7bf526e3948f" title="Fires the specified targets." alt="" coords="302,131,389,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,280,308,164,311,168,128,284"/>
+<area shape="rect" id="Node000010" href="$d4/d6e/class_c_multi_manager.html#a08a1fe6f91843c646528335388b1accf" title=" " alt="" coords="758,308,918,335"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="172,307,251,319,384,326,518,329,743,324,743,329,518,334,384,332,250,324,171,313"/>
+<area shape="rect" id="Node000011" href="$d4/d6e/class_c_multi_manager.html#a9f0e2fa1ca8842e542ce61dc78041091" title="Activates the multi&#45;manager." alt="" coords="251,283,440,309"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="203,302,235,302,235,308,203,308"/>
+<area shape="rect" id="Node000016" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="295,384,396,411"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="133,308,252,363,286,376,285,381,250,368,131,312"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="488,56,710,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,128,487,92,516,84,518,89,489,97,384,133"/>
+<area shape="rect" id="Node000004" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="564,131,635,157"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="389,141,548,141,548,147,389,147"/>
+<area shape="rect" id="Node000007" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="762,181,914,208"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="390,150,488,167,624,180,747,188,747,193,624,185,488,172,389,155"/>
+<area shape="rect" id="Node000009" href="$d5/de5/class_c_base_entity.html#a96cff69ad8420acf0b7d0be685ff77a8" title=" " alt="" coords="537,5,662,32"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="360,128,414,85,449,62,487,42,520,30,522,35,489,46,452,66,417,90,364,132"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="561,133,552,123,556,113,572,106,599,104,631,107,645,116,642,121,629,113,599,109,573,111,560,116,557,122,565,130"/>
+<area shape="rect" id="Node000005" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="773,131,903,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="635,141,757,141,757,147,635,147"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="997,156,1044,183"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="904,150,982,161,981,167,903,156"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="914,182,981,172,982,177,914,187"/>
+<area shape="rect" id="Node000008" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="966,207,1075,233"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="914,203,950,208,950,213,914,208"/>
+<area shape="poly" id="edge18_Node000011_Node000001" title=" " alt="" coords="250,290,218,290,218,284,250,285"/>
+<area shape="poly" id="edge19_Node000011_Node000011" title=" " alt="" coords="305,284,298,274,303,264,319,258,345,256,374,259,390,265,387,270,373,264,345,261,320,263,306,268,303,273,309,281"/>
+<area shape="rect" id="Node000012" href="$d4/d6e/class_c_multi_manager.html#a2d07b45f818cebf5221eebf550bd7410" title="Clones the multi&#45;manager entity." alt="" coords="525,232,674,259"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="415,279,513,260,515,265,416,285"/>
+<area shape="rect" id="Node000015" href="$d4/d6e/class_c_multi_manager.html#affff49d8c8ecea020a0b8457c37590dc" title=" " alt="" coords="505,283,694,309"/>
+<area shape="poly" id="edge20_Node000011_Node000015" title=" " alt="" coords="441,293,489,293,489,299,441,299"/>
+<area shape="rect" id="Node000013" href="$d6/db6/cbase_8h.html#afdb9a60de9742917308f705391b22517" title=" " alt="" coords="792,232,884,259"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="674,243,776,243,776,248,674,248"/>
+<area shape="poly" id="edge15_Node000013_Node000006" title=" " alt="" coords="884,230,917,218,964,192,982,184,984,189,967,197,919,222,885,235"/>
+<area shape="poly" id="edge16_Node000013_Node000008" title=" " alt="" coords="884,236,950,227,951,232,885,242"/>
+<area shape="rect" id="Node000014" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="992,257,1049,284"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="885,249,976,262,976,267,884,254"/>
+<area shape="poly" id="edge21_Node000015_Node000010" title=" " alt="" coords="694,303,743,309,743,314,694,309"/>
+</map>

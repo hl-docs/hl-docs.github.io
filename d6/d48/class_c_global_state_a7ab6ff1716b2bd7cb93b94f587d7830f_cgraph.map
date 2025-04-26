@@ -1,0 +1,7 @@
+<map id="CGlobalState::EntitySetState" name="CGlobalState::EntitySetState">
+<area shape="rect" id="Node000001" title="Sets the state of a global entity." alt="" coords="5,5,197,32"/>
+<area shape="rect" id="Node000002" href="$d6/d48/class_c_global_state.html#ac6fc345bb9caa58d1bd7e8478ae627e5" title="Finds a global entity by name." alt="" coords="245,5,376,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,16,229,16,229,21,197,21"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="424,5,486,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,16,408,16,408,21,377,21"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="CVAR_CREATE" name="CVAR_CREATE">
-<area shape="rect" id="Node000001" title=" " alt="" coords="203,56,319,83"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_ammo.html#a093db8dab3dcca28eb23ee87b4b41f15" title="Initializes the Ammo HUD." alt="" coords="22,5,138,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,54,130,35,131,30,197,49"/>
-<area shape="rect" id="Node000003" href="$class_c_hud_status_bar.html#a48e5b1a5d5d4aefe610897e69e2f0b9b" title="Initializes the HUD status bar element." alt="" coords="12,56,148,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,72,149,72,149,67,187,67"/>
-<area shape="rect" id="Node000004" href="$class_c_hud_death_notice.html#a3c40c7b3e960773b6329897906d4e1c7" title="Initializes the death notice HUD element." alt="" coords="5,107,155,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,90,131,109,130,104,195,85"/>
-</map>

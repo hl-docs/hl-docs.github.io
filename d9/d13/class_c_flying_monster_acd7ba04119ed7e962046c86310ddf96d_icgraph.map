@@ -1,0 +1,5 @@
+<map id="CFlyingMonster::Move" name="CFlyingMonster::Move">
+<area shape="rect" id="Node000001" title="Moves the flying monster." alt="" coords="189,5,339,32"/>
+<area shape="rect" id="Node000002" href="$d4/d30/class_c_ichthyosaur.html#afab24936cd9d0234bdc63fb232bcaf9f" title="Moves the ichthyosaur." alt="" coords="5,5,141,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
+</map>

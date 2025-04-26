@@ -1,0 +1,14 @@
+<map id="COsprey::UpdateGoal" name="COsprey::UpdateGoal">
+<area shape="rect" id="Node000001" title="Updates the goal entity for the Osprey." alt="" coords="5,56,154,83"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="249,5,309,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,53,233,27,234,33,136,58"/>
+<area shape="rect" id="Node000004" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="226,56,332,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,67,210,67,210,72,154,72"/>
+<area shape="rect" id="Node000005" href="$dc/d44/dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="202,107,356,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="136,81,209,100,208,105,134,86"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="454,31,497,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,20,438,37,438,42,309,25"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="332,60,438,46,438,51,333,65"/>
+<area shape="rect" id="Node000006" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="404,107,546,133"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="356,117,389,117,389,123,356,123"/>
+</map>

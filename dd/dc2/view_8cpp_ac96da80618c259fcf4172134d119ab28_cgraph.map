@@ -1,0 +1,5 @@
+<map id="V_DriftPitch" name="V_DriftPitch">
+<area shape="rect" id="Node000001" title="Drifts the pitch of the player&#39;s view towards the ideal pitch." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="Node000002" href="$dd/dc2/view_8cpp.html#a3b47064c7823c244a7e152184ccccd64" title="Starts the pitch drift effect." alt="" coords="144,5,262,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,16,128,16,128,21,96,21"/>
+</map>

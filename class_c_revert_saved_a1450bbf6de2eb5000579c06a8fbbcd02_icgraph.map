@@ -1,5 +1,0 @@
-<map id="CRevertSaved::MessageThink" name="CRevertSaved::MessageThink">
-<area shape="rect" id="Node000001" title="Handles the message display logic." alt="" coords="186,5,379,32"/>
-<area shape="rect" id="Node000002" href="$class_c_revert_saved.html#a5ca27e9679a041de5dd4d53d1eb65e84" title="Activates the revert saved entity." alt="" coords="5,5,138,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
-</map>

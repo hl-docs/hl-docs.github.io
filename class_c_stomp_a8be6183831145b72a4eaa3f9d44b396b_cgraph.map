@@ -1,9 +1,0 @@
-<map id="CStomp::Spawn" name="CStomp::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the stomp effect." alt="" coords="5,31,121,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="173,5,303,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,33,157,28,158,33,122,38"/>
-<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="169,56,307,83"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,50,154,54,153,60,121,55"/>
-<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="355,5,401,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,16,340,16,340,21,304,21"/>
-</map>

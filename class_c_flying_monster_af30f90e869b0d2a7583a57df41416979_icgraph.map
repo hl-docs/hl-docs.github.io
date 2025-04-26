@@ -1,5 +1,0 @@
-<map id="CFlyingMonster::ChangeYaw" name="CFlyingMonster::ChangeYaw">
-<area shape="rect" id="Node000001" title="Changes the yaw of the flying monster." alt="" coords="228,5,417,32"/>
-<area shape="rect" id="Node000002" href="$class_c_ichthyosaur.html#a0e813ef2e04c46afe2f5e8236074740e" title="Changes the yaw of the ichthyosaur." alt="" coords="5,5,180,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,21,180,21,180,16,212,16"/>
-</map>

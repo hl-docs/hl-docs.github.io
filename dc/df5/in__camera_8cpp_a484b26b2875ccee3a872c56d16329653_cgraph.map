@@ -1,0 +1,5 @@
+<map id="CAM_InDown" name="CAM_InDown">
+<area shape="rect" id="Node000001" title="Zooms the camera in." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="Node000002" href="$d8/d8c/input_8cpp.html#a4b3bad5f852a07e61e1c9b3d5781fe79" title="Handles a key down event for a specific key binding (kbutton_t)." alt="" coords="153,5,229,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,137,16,137,21,105,21"/>
+</map>

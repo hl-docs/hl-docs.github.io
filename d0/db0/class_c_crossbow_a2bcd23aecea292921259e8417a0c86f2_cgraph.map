@@ -1,0 +1,5 @@
+<map id="CCrossbow::SecondaryAttack" name="CCrossbow::SecondaryAttack">
+<area shape="rect" id="Node000001" title="Handles the secondary attack of the crossbow weapon." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="Node000002" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="249,5,409,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,16,233,16,233,21,201,21"/>
+</map>

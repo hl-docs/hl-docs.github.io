@@ -1,0 +1,9 @@
+<map id="CGMan::TraceAttack" name="CGMan::TraceAttack">
+<area shape="rect" id="Node000001" title="Handles the trace attack on the G&#45;Man." alt="" coords="5,31,149,57"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#a0a4b57092b62d45ab3add37da4958c08" title=" " alt="" coords="197,5,317,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,31,181,27,182,32,149,37"/>
+<area shape="rect" id="Node000003" href="$dc/d44/dlls_2util_8cpp.html#a550a9917cf17ef5811cc0bf16fbd674b" title="Emits a ricochet effect at a specified position." alt="" coords="204,56,310,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,51,189,57,188,62,148,57"/>
+<area shape="rect" id="Node000004" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="365,56,499,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="310,67,350,67,350,72,310,72"/>
+</map>

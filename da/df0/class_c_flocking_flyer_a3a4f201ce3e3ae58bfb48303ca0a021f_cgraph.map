@@ -1,0 +1,9 @@
+<map id="CFlockingFlyer::FPathBlocked" name="CFlockingFlyer::FPathBlocked">
+<area shape="rect" id="Node000001" title="Checks if the boid&#39;s path is blocked." alt="" coords="5,56,204,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="294,5,341,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,53,278,25,280,30,164,58"/>
+<area shape="rect" id="Node000003" href="$d3/d55/hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="252,56,383,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,67,236,67,236,72,204,72"/>
+<area shape="rect" id="Node000004" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="262,107,373,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,81,248,101,247,106,163,86"/>
+</map>

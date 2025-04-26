@@ -1,0 +1,33 @@
+<map id="CrossProduct" name="CrossProduct">
+<area shape="rect" id="Node000001" title="Computes the cross product of two 3D vectors." alt="" coords="1009,157,1110,184"/>
+<area shape="rect" id="Node000002" href="$d4/d30/class_c_ichthyosaur.html#a0122fb50de81d5ced27a437e9761974e" title="Probes the environment to detect obstacles." alt="" coords="806,44,961,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,151,904,73,907,69,1026,146"/>
+<area shape="rect" id="Node000005" href="$df/d58/pm__shared_8c.html#aa1c56bb275cd735559053b988b2efbe7" title="Handles flying movement mode." alt="" coords="835,132,931,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="994,164,931,155,932,150,995,159"/>
+<area shape="rect" id="Node000013" href="$df/d58/pm__shared_8c.html#a818c67f4fa99074d55d1a5b318f7e9c2" title="Move the player when they are on a ladder." alt="" coords="825,183,942,209"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="994,183,942,190,942,185,993,177"/>
+<area shape="rect" id="Node000014" href="$d4/d30/class_c_ichthyosaur.html#a18b594eb6441785ceb517044738281ff" title="Runs a specific task for the ichthyosaur." alt="" coords="805,233,961,260"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="1022,194,962,224,932,235,930,230,960,219,1020,189"/>
+<area shape="rect" id="Node000003" href="$d4/d30/class_c_ichthyosaur.html#af8a9e18391b2098fbbfca89996315cd6" title="Updates the ichthyosaur&#39;s swimming behavior." alt="" coords="620,5,757,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="797,43,757,35,758,30,798,38"/>
+<area shape="rect" id="Node000004" href="$d4/d30/class_c_ichthyosaur.html#ace8284a24b562b26adb3f46b6850ceb8" title="Handles the ichthyosaur&#39;s thinking logic." alt="" coords="388,5,572,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="604,21,572,21,572,16,604,16"/>
+<area shape="rect" id="Node000006" href="$df/d58/pm__shared_8c.html#a6106b5a209788312b2b32ab754c7652a" title="Handles movement while in the air." alt="" coords="641,56,736,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="831,128,724,86,726,81,833,123"/>
+<area shape="rect" id="Node000007" href="$df/d58/pm__shared_8c.html#a4af09a5ca8abcfc2d4e5d71a6f24848d" title="Returns with origin, angles, and velocity modified in place." alt="" coords="422,157,538,184"/>
+<area shape="poly" id="edge10_Node000005_Node000007" title=" " alt="" coords="819,145,725,143,620,148,539,160,538,155,619,143,725,138,819,139"/>
+<area shape="rect" id="Node000011" href="$df/d58/pm__shared_8c.html#a24c79215f9e832d9ae899b101e106f6c" title="Handles walking movement on the ground." alt="" coords="634,157,743,184"/>
+<area shape="poly" id="edge11_Node000005_Node000011" title=" " alt="" coords="820,156,743,166,743,161,820,151"/>
+<area shape="rect" id="Node000012" href="$df/d58/pm__shared_8c.html#ab21bc511cc58597b54ecdfc8b27958cc" title="Handles movement while in water." alt="" coords="632,208,745,235"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="822,167,806,173,758,198,730,210,728,205,756,194,804,168,820,162"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="645,92,621,104,510,159,508,154,619,99,643,87"/>
+<area shape="rect" id="Node000008" href="$df/d58/pm__shared_8c.html#a93976be26aeba051339105f9caa17b67" title="The main player physics update function." alt="" coords="262,157,340,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="407,173,341,173,341,168,407,168"/>
+<area shape="rect" id="Node000009" href="$d9/dbd/cdll__int_8cpp.html#ac1888150107edabbf964bc55a56f0403" title="Moves the player based on movement commands." alt="" coords="92,157,214,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="246,173,214,173,214,168,246,168"/>
+<area shape="rect" id="Node000010" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,157,44,184"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="76,173,44,173,44,168,76,168"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="618,173,538,173,538,168,618,168"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="616,207,538,187,539,182,617,201"/>
+<area shape="poly" id="edge16_Node000013_Node000007" title=" " alt="" coords="822,217,806,224,783,238,758,249,719,258,688,261,657,258,619,249,584,237,550,220,498,187,501,182,553,216,586,232,620,244,658,252,688,255,719,252,756,244,780,233,804,219,820,213"/>
+</map>

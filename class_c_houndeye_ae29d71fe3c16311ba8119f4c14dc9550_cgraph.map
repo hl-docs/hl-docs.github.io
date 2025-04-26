@@ -1,5 +1,0 @@
-<map id="CHoundeye::FCanActiveIdle" name="CHoundeye::FCanActiveIdle">
-<area shape="rect" id="Node000001" title="Determines if the Houndeye can perform an active idle." alt="" coords="5,5,188,32"/>
-<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#a2b887c5d4e97c9b6bb0f7c59c8535cc3" title=" " alt="" coords="236,5,460,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,21,188,21"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CGameRules::SetDefaultPlayerTeam" name="CGameRules::SetDefaultPlayerTeam">
-<area shape="rect" id="Node000001" title=" " alt="" coords="366,5,601,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player.html#a3b8e70ac52dfbe0eb3841f7b7fa8fbf7" title="Initializes the player entity upon spawning." alt="" coords="174,5,318,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,21,318,21,318,16,350,16"/>
-<area shape="rect" id="Node000003" href="$client_8cpp.html#af33d5a5c62848a1bc073582e1906210a" title="Called each time a player is spawned." alt="" coords="5,5,126,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,21,126,21,126,16,158,16"/>
-</map>

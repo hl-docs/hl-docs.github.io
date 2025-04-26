@@ -1,5 +1,0 @@
-<map id="CGenericMonster::HandleAnimEvent" name="CGenericMonster::HandleAnimEvent">
-<area shape="rect" id="Node000001" title="Handles animation events specific to the generic monster." alt="" coords="5,5,206,48"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a39aef199e5a7d7558f2fdac85ee6c30a" title="Handles animation events for the monster." alt="" coords="254,5,439,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,24,238,24,238,29,206,29"/>
-</map>

@@ -1,0 +1,17 @@
+<map id="TeamOnlyCommandButton" name="TeamOnlyCommandButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,279,451,305"/>
+<area shape="rect" id="Node000002" href="$d5/dd3/class_command_button.html" title=" " alt="" coords="135,172,253,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,202,290,220,326,249,353,276,349,280,323,253,287,225,250,207"/>
+<area shape="rect" id="Node000004" href="$df/d43/class_c_command_menu.html" title=" " alt="" coords="5,279,127,305"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="122,203,103,212,87,224,79,237,73,251,69,279,64,278,68,250,74,234,83,221,100,207,119,198"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="127,81,186,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,122,191,170,186,172,166,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="137,270,163,253,181,226,189,198,194,200,185,228,167,257,140,275"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="144,283,153,292,145,301,128,304,127,299,143,296,148,292,140,287"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="18,172,72,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="53,213,66,278,61,279,48,214"/>
+<area shape="rect" id="Node000006" href="$d7/ded/class_command_label.html" title=" " alt="" coords="210,81,322,108"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="248,122,206,173,202,170,244,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="240,5,292,32"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="269,47,269,81,263,81,263,47"/>
+</map>

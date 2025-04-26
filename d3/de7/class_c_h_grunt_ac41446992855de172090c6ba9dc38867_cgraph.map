@@ -1,0 +1,17 @@
+<map id="CHGrunt::GetScheduleOfType" name="CHGrunt::GetScheduleOfType">
+<area shape="rect" id="Node000001" title="Retrieves the schedule of a specific type for the grunt." alt="" coords="5,31,201,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="312,5,359,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,31,296,20,297,25,201,36"/>
+<area shape="rect" id="Node000003" href="$d6/df1/sound_8cpp.html#a008281b5a5a3c722a6424dbf30f1cb24" title="Plays a random sentence from a group by name." alt="" coords="249,56,422,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,52,234,56,233,61,201,57"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="481,5,619,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="395,53,475,34,476,39,396,58"/>
+<area shape="rect" id="Node000006" href="$d6/df1/sound_8cpp.html#a3fe80c53eaa2f42deeb7a14a10ee5533" title="Gets the index of a sentence group by name." alt="" coords="470,56,630,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="422,67,454,67,454,72,422,72"/>
+<area shape="rect" id="Node000007" href="$d6/df1/sound_8cpp.html#aae0ad5b2266f4050c68b37d8477281fd" title="Picks a random sentence from a group using the LRU list." alt="" coords="479,107,622,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="396,81,476,100,475,105,395,86"/>
+<area shape="rect" id="Node000005" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="683,5,833,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="620,16,667,16,667,21,620,21"/>
+<area shape="rect" id="Node000008" href="$d6/df1/sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="678,107,838,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="622,117,663,117,663,123,622,123"/>
+</map>

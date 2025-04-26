@@ -1,0 +1,9 @@
+<map id="CTalkMonster::IdleRespond" name="CTalkMonster::IdleRespond">
+<area shape="rect" id="Node000001" title="Responds to a previous question." alt="" coords="412,31,592,57"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="199,31,364,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,47,365,47,365,41,396,41"/>
+<area shape="rect" id="Node000003" href="$d0/d51/class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="10,5,146,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,34,146,30,146,24,184,29"/>
+<area shape="rect" id="Node000004" href="$dc/d29/class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="5,56,151,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="184,59,152,63,151,58,183,54"/>
+</map>

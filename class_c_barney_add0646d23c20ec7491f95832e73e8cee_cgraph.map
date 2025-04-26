@@ -1,9 +1,0 @@
-<map id="CBarney::Precache" name="CBarney::Precache">
-<area shape="rect" id="Node000001" title="Preloads all resources needed by the Barney entity." alt="" coords="5,31,140,57"/>
-<area shape="rect" id="Node000002" href="$class_c_talk_monster.html#a89db03753b3cd44fef2c0f06067bafd2" title="Precaches resources for the talk monster." alt="" coords="188,5,352,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,33,172,29,172,34,141,38"/>
-<area shape="rect" id="Node000003" href="$class_c_barney.html#ac8cc050b79a9e156d6a9903e1298e860" title="Initializes the talk data for the Barney entity." alt="" coords="210,56,330,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,50,195,57,194,62,140,55"/>
-<area shape="rect" id="Node000004" href="$class_c_talk_monster.html#a3f97f054f7ed3aba0606dc8003fde68c" title="Initializes the talk monster&#39;s talking capabilities." alt="" coords="400,56,550,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="330,67,384,67,384,72,330,72"/>
-</map>

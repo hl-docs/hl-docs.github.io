@@ -1,0 +1,9 @@
+<map id="V_FindViewModelByWeaponModel" name="V_FindViewModelByWeaponModel">
+<area shape="rect" id="Node000001" title="Finds the view model associated with a weapon model." alt="" coords="442,5,667,32"/>
+<area shape="rect" id="Node000002" href="$dd/dc2/view_8cpp.html#a40c60871c5337416492e52d53c480159" title="Calculates the spectator&#39;s view during different modes." alt="" coords="239,5,394,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,21,395,21,395,16,427,16"/>
+<area shape="rect" id="Node000003" href="$dd/dc2/view_8cpp.html#a5101ada71cb8cbb94a50a8409280a993" title="Calculates the player&#39;s or spectator&#39;s view during the frame." alt="" coords="92,5,191,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,21,191,21,191,16,224,16"/>
+<area shape="rect" id="Node000004" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,21,44,21,44,16,77,16"/>
+</map>

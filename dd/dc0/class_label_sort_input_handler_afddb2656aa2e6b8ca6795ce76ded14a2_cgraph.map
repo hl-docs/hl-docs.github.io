@@ -1,0 +1,15 @@
+<map id="LabelSortInputHandler::mouseDoublePressed" name="LabelSortInputHandler::mouseDoublePressed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,162,64"/>
+<area shape="rect" id="Node000002" href="$d4/d64/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#ae18bd6ece87801edc4e1893c278d3722" title=" " alt="" coords="210,5,419,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,40,194,40,194,45,162,45"/>
+<area shape="rect" id="Node000003" href="$d6/d3f/hud__servers_8cpp.html#a5b40bd582b22110d0a8c35df4b66f2d3" title="Sorts the servers in the global server browser by a specified field." alt="" coords="467,29,555,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,40,451,40,451,45,420,45"/>
+<area shape="rect" id="Node000004" href="$d1/d59/class_c_hud_servers.html#abc932c1494ebad070f85b5cb2d4de5c9" title="Sorts the server list by the specified field." alt="" coords="603,29,775,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="556,40,588,40,588,45,556,45"/>
+<area shape="rect" id="Node000005" href="$d6/d3f/hud__servers_8cpp.html#a9b978150e6d467b9331ee9da4fa6a0f3" title="C&#45;style compare function for use with qsort." alt="" coords="823,29,947,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="775,40,807,40,807,45,775,45"/>
+<area shape="rect" id="Node000006" href="$d6/d3f/hud__servers_8cpp.html#a7f6ba08f26ef473bd55f336aecfa9753" title="Wrapper for CompareField for use with qsort, assumes ascending sort order." alt="" coords="995,29,1154,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="947,40,979,40,979,45,947,45"/>
+<area shape="rect" id="Node000007" href="$d6/d3f/hud__servers_8cpp.html#ae43e1b962ca384ca82262c942c744490" title="Compares two servers based on a specific field value." alt="" coords="1202,29,1304,56"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1155,40,1187,40,1187,45,1155,45"/>
+</map>

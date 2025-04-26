@@ -1,7 +1,0 @@
-<map id="PM_CheckStuck" name="PM_CheckStuck">
-<area shape="rect" id="Node000001" title="Checks if the player is stuck in geometry." alt="" coords="5,31,125,57"/>
-<area shape="rect" id="Node000002" href="$pm__shared_8c.html#ad37cd74af4d373565bf41d1aadd71efc" title="Gets random offset values for stuck player recovery." alt="" coords="173,5,365,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,34,157,30,158,35,125,39"/>
-<area shape="rect" id="Node000003" href="$pm__shared_8c.html#a372e93482a2f26558e804e63118e9375" title="Resets the stuck player recovery system." alt="" coords="190,56,348,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,49,175,55,175,60,125,54"/>
-</map>

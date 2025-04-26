@@ -1,0 +1,7 @@
+<map id="CTalkMonster::PrescheduleThink" name="CTalkMonster::PrescheduleThink">
+<area shape="rect" id="Node000001" title="Performs pre&#45;schedule thinking for the talk monster." alt="" coords="5,23,187,65"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#ad47e63eada724d17f05421fd73911cd1" title=" " alt="" coords="235,5,434,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,32,219,28,219,34,187,37"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#a0e452f766d29a4d6008044338dbd3aa6" title=" " alt="" coords="236,56,433,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,51,221,55,220,60,187,56"/>
+</map>

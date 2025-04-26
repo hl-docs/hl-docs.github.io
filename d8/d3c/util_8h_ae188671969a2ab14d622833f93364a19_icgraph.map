@@ -1,0 +1,32 @@
+<map id="VecBModelOrigin" name="VecBModelOrigin">
+<area shape="rect" id="Node000001" title="Calculates the origin of a bounding model." alt="" coords="1027,196,1149,223"/>
+<area shape="rect" id="Node000002" href="$d3/d9c/class_c_breakable.html#a7920746bea8c47175abe7162461a8a62" title="Handles the death of the breakable entity." alt="" coords="834,95,950,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1046,191,918,124,921,119,1048,186"/>
+<area shape="rect" id="Node000010" href="$d2/d1d/class_c_bubbling.html#ace240386694f2376f4c7dc08139148e2" title="Think function for the bubbling effect." alt="" coords="820,171,964,197"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1011,202,964,196,965,191,1012,197"/>
+<area shape="rect" id="Node000013" href="$da/d1d/class_c_func_rotating.html#aad77be7f6df9854b69b5d0c7f438f697" title="Handles touch events for the rotating entity." alt="" coords="805,221,979,248"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1012,222,980,226,979,221,1011,217"/>
+<area shape="rect" id="Node000015" href="$db/dfc/class_c_pendulum.html#a789b3bcebdd6842b0377198896bbc7c2" title="Handles touch events for the pendulum." alt="" coords="826,272,958,299"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1048,232,980,262,946,274,944,269,978,258,1046,228"/>
+<area shape="rect" id="Node000003" href="$d3/d9c/class_c_breakable.html#ac085211900af2e77d708383264bc2de9" title="Handles the touch event for the breakable entity." alt="" coords="370,5,535,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="854,89,808,66,756,47,699,34,641,26,535,20,535,15,642,21,700,29,757,41,810,61,856,84"/>
+<area shape="rect" id="Node000006" href="$d3/d9c/class_c_breakable.html#adf5b94e0c19f1a449b894ddc982199c4" title="Handles damage taken by the breakable entity." alt="" coords="584,56,757,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="818,98,750,86,751,81,819,93"/>
+<area shape="rect" id="Node000008" href="$d3/d9c/class_c_breakable.html#a1d067db7acedbf1c8c2d8fd86f8ccaf5" title="Breaks the breakable entity when triggered." alt="" coords="611,107,730,133"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="819,115,731,119,731,114,819,109"/>
+<area shape="rect" id="Node000004" href="$d3/d9c/class_c_breakable.html#aa9ae6e72694530afcfe91852e1907af8" title="Spawns the breakable entity." alt="" coords="185,5,320,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,21,321,21,321,16,354,16"/>
+<area shape="rect" id="Node000005" href="$d1/d45/class_c_pushable.html#a7dc12c6652e12e9faaa2b7c4ceda1c8d" title="Spawns the pushable entity." alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,21,137,21,137,16,169,16"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="594,54,512,35,513,30,595,49"/>
+<area shape="rect" id="Node000007" href="$d1/d45/class_c_pushable.html#a45a316bc228c4fc5dac7fb9d25aa9969" title="Handles damage taken by the pushable entity." alt="" coords="368,56,536,83"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="569,72,537,72,537,67,569,67"/>
+<area shape="rect" id="Node000009" href="$d1/d45/class_c_pushable.html#a4594fa40f664a12a658889b6ec2d213f" title="Uses the pushable entity." alt="" coords="395,107,510,133"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="595,123,510,123,510,117,595,117"/>
+<area shape="rect" id="Node000011" href="$d2/d1d/class_c_bubbling.html#a7251cec5536b54452ae5d87e0f03a9d6" title="Spawns the bubbling effect entity." alt="" coords="607,157,734,184"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="804,181,735,177,735,172,805,176"/>
+<area shape="rect" id="Node000012" href="$d2/d1d/class_c_bubbling.html#a32c5181e39fad0d4cf4e4fe32cf6e642" title="Toggles the bubbling effect on or off." alt="" coords="615,208,726,235"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="805,201,727,215,726,209,804,196"/>
+<area shape="rect" id="Node000014" href="$da/d1d/class_c_func_rotating.html#a80cb8b777d098fdba450cc9953ec27d0" title="Spawns the func_rotating entity." alt="" coords="593,259,748,285"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="795,254,749,262,748,256,794,248"/>
+</map>

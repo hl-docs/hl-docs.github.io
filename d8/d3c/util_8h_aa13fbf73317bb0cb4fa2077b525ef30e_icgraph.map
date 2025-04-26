@@ -1,0 +1,21 @@
+<map id="UTIL_LogPrintf" name="UTIL_LogPrintf">
+<area shape="rect" id="Node000001" title="Logs a message to the server console." alt="" coords="390,168,495,195"/>
+<area shape="rect" id="Node000002" href="$d5/d5d/class_c_half_life_multiplay.html#ac1dd7dd4bdf2dc7547cd884a456f09a2" title="Handles a client disconnecting from the server." alt="" coords="195,5,337,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,156,388,109,365,84,340,62,323,51,325,46,344,58,369,80,392,106,427,153"/>
+<area shape="rect" id="Node000003" href="$d6/d16/class_c_half_life_teamplay.html#ac0fc8aaae964ae8985007b82acafe5ff" title="Handles changes to a player&#39;s user info." alt="" coords="190,72,342,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="403,162,341,129,317,118,319,113,343,124,406,158"/>
+<area shape="rect" id="Node000004" href="$d9/d95/client_8cpp.html#aad05fa4f76693ce17508a15ec69427bb" title="Processes changes to a player&#39;s user information." alt="" coords="190,139,342,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,173,342,167,343,162,375,167"/>
+<area shape="rect" id="Node000005" href="$d5/d5d/class_c_half_life_multiplay.html#a74e4c102a8f878277aeba81bd1738fe4" title="Sends a death notice to all clients." alt="" coords="204,189,328,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="375,195,329,203,328,198,374,190"/>
+<area shape="rect" id="Node000007" href="$d9/d95/client_8cpp.html#a2bdc7b8c8b206cea10e51dbb42e9a848" title="Processes a player&#39;s chat message." alt="" coords="227,256,305,283"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="412,206,343,246,307,261,305,256,341,242,409,201"/>
+<area shape="rect" id="Node000009" href="$d5/d5d/class_c_half_life_multiplay.html#a7609c4699f8c75f0e2ee8730aad1c179" title="Initializes the HUD for a player." alt="" coords="204,307,328,349"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="425,209,390,253,344,297,325,308,322,304,340,293,386,250,421,206"/>
+<area shape="rect" id="Node000006" href="$d6/d16/class_c_half_life_teamplay.html#ac5ea703eac1a11a07cbe4acece6a60c4" title="Handles the death notice for players." alt="" coords="5,189,142,232"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="188,213,142,213,142,208,188,208"/>
+<area shape="rect" id="Node000008" href="$d9/d95/client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="17,256,130,283"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="211,272,131,272,131,267,211,267"/>
+<area shape="rect" id="Node000010" href="$d6/d16/class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="5,307,142,349"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="188,331,142,331,142,325,188,325"/>
+</map>

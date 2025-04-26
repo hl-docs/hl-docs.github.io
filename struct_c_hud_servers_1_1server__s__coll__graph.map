@@ -1,6 +1,0 @@
-<map id="CHudServers::server_s" name="CHudServers::server_s">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,96,158,123"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="174,101,184,109,176,117,158,120,158,115,174,112,179,109,171,106"/>
-<area shape="rect" id="Node000002" href="$structnetadr__s.html" title=" " alt="" coords="46,5,117,32"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="84,48,84,95,79,95,79,48"/>
-</map>

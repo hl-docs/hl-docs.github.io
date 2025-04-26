@@ -1,0 +1,16 @@
+<map id="CFuncRotating::Rotate" name="CFuncRotating::Rotate">
+<area shape="rect" id="Node000001" title="Rotates the func_rotating entity." alt="" coords="663,23,817,50"/>
+<area shape="rect" id="Node000002" href="$da/d1d/class_c_func_rotating.html#a2be8414cdb57f1918d088d3c55e9154a" title="Handles the use action for the rotating entity." alt="" coords="208,23,394,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="668,22,615,14,529,8,442,14,366,25,365,20,442,8,529,3,616,8,669,17"/>
+<area shape="rect" id="Node000004" href="$da/d1d/class_c_func_rotating.html#a06e64c3f9362381dda67dc17cadc4025" title="Decelerates the rotating entity to a standstill." alt="" coords="442,23,615,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="647,39,616,39,616,34,647,34"/>
+<area shape="rect" id="Node000005" href="$da/d1d/class_c_func_rotating.html#a0435512ae7f52147020fc0aa3cb90ed8" title="Accelerates the rotating entity to its target speed." alt="" coords="450,74,607,100"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="667,56,588,76,587,70,666,51"/>
+<area shape="rect" id="Node000003" href="$da/d1d/class_c_func_rotating.html#a80cb8b777d098fdba450cc9953ec27d0" title="Spawns the func_rotating entity." alt="" coords="5,48,160,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,52,160,55,160,50,192,46"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="427,39,394,39,394,34,427,34"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="450,72,364,53,365,48,451,67"/>
+<area shape="rect" id="Node000006" href="$da/d1d/class_c_func_rotating.html#a9d953a37d5a9cbe68eda3ebcbf0664f8" title="Pre&#45;caches sounds for the func_rotating entity." alt="" coords="216,74,386,100"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="435,90,386,90,386,84,435,84"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="200,78,160,73,161,68,201,73"/>
+</map>

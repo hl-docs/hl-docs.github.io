@@ -1,0 +1,7 @@
+<map id="CBaseTrigger::ActivateMultiTrigger" name="CBaseTrigger::ActivateMultiTrigger">
+<area shape="rect" id="Node000001" title="Activates the multiple trigger." alt="" coords="438,5,619,48"/>
+<area shape="rect" id="Node000002" href="$d1/d69/class_c_base_trigger.html#abb716e997f98c7205d84f85c48cae5bf" title="Handles the use action for the counting trigger." alt="" coords="215,13,390,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,29,390,29,390,24,423,24"/>
+<area shape="rect" id="Node000003" href="$d0/d13/class_c_trigger_counter.html#a2b601f9f14c72a39ee1109a70782187a" title="Initializes the counter trigger entity." alt="" coords="5,13,167,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,29,167,29,167,24,199,24"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="TeamFortressViewport::ShowClassMenu" name="TeamFortressViewport::ShowClassMenu">
+<area shape="rect" id="Node000001" title="Displays the class selection menu." alt="" coords="706,139,857,181"/>
+<area shape="rect" id="Node000002" href="$db/d40/class_team_fortress_viewport.html#aeca33c3bab59bf72010004041d8c5364" title="Displays a VGUI menu based on the specified menu ID." alt="" coords="506,139,658,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="690,163,658,163,658,157,690,157"/>
+<area shape="rect" id="Node000003" href="$de/d37/class_c_menu_handler___text_window.html#aa84e01da19f1f95b0811ab25ca5ab476" title=" " alt="" coords="274,5,458,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="547,130,505,95,457,62,434,51,436,46,460,58,509,91,550,126"/>
+<area shape="rect" id="Node000004" href="$db/d40/class_team_fortress_viewport.html#a9459e8b460b7deb3889648dfb5cbcb29" title="Handles direct key input and dispatches it to active menus or performs default behavior." alt="" coords="291,72,442,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="496,136,437,118,439,113,497,131"/>
+<area shape="rect" id="Node000007" href="$db/d40/class_team_fortress_viewport.html#aa3e065e7b121377c4521dedcdaa5fc2c" title="Handles the message of the message of the day (MOTD)." alt="" coords="291,139,442,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="491,163,442,163,442,157,491,157"/>
+<area shape="rect" id="Node000008" href="$db/d40/class_team_fortress_viewport.html#a134495fd5dee19d9922f10c7ec499975" title="Handles the VGUI menu message." alt="" coords="290,205,443,248"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="497,189,439,207,437,202,496,184"/>
+<area shape="rect" id="Node000009" href="$d1/d71/hud__spectator_8cpp.html#a1175aa7c226725e5cce2dcc79957752d" title="Displays spectator help text or menu." alt="" coords="315,272,418,299"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="551,194,509,230,460,262,419,278,418,273,457,258,506,226,547,190"/>
+<area shape="rect" id="Node000005" href="$d8/d8c/input_8cpp.html#acae0b9c23c657f3a85229c9d78d8adea" title="Handles keyboard input events for the HUD (Heads&#45;Up Display)." alt="" coords="100,80,218,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,96,218,96,218,91,276,91"/>
+<area shape="rect" id="Node000006" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,80,44,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="85,96,44,96,44,91,85,91"/>
+<area shape="rect" id="Node000010" href="$de/dd7/class_c_hud_spectator.html#a699359672bc053ee8c212523c63d3543" title="Initializes the HUD Spectator system and registers commands/variables." alt="" coords="92,272,226,299"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="299,288,226,288,226,283,299,283"/>
+</map>

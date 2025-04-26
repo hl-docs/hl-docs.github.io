@@ -1,7 +1,0 @@
-<map id="CRecharge::KeyValue" name="CRecharge::KeyValue">
-<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the recharge entity." alt="" coords="5,31,155,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="253,5,315,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,32,237,22,238,27,155,37"/>
-<area shape="rect" id="Node000003" href="$class_c_base_toggle.html#a99ba6e5114504377f537ca98b3afec40" title="Handles key&#45;value pairs for the toggle entity." alt="" coords="203,56,365,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,51,188,55,187,60,155,56"/>
-</map>

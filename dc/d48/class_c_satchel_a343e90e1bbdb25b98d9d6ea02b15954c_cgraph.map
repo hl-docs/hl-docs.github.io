@@ -1,0 +1,5 @@
+<map id="CSatchel::CanDeploy" name="CSatchel::CanDeploy">
+<area shape="rect" id="Node000001" title="Checks if the satchel charge can be deployed." alt="" coords="5,13,151,40"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#ae1181fcbf5b7c587b316bad26ab2fbbe" title="Returns the index of the primary ammo type." alt="" coords="199,5,352,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,24,183,24,183,29,151,29"/>
+</map>

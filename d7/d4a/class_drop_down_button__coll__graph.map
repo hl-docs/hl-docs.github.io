@@ -1,0 +1,22 @@
+<map id="DropDownButton" name="DropDownButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="300,365,419,392"/>
+<area shape="rect" id="Node000002" href="$d1/dd5/class_color_button.html" title=" " alt="" coords="273,289,363,316"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,328,355,364,350,366,330,330"/>
+<area shape="rect" id="Node000003" href="$d5/dd3/class_command_button.html" title=" " alt="" coords="140,183,259,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,212,301,231,311,245,316,261,321,289,315,290,311,262,306,248,297,235,271,216"/>
+<area shape="rect" id="Node000005" href="$df/d43/class_c_command_menu.html" title=" " alt="" coords="5,289,127,316"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="127,214,109,223,93,235,83,248,76,262,70,290,65,288,71,260,78,245,89,231,106,219,125,209"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="168,81,228,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="201,124,202,183,197,183,196,124"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="140,282,168,263,186,236,195,209,200,210,191,239,172,267,143,286"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="144,295,153,303,145,310,128,312,127,307,143,305,148,303,141,300"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="23,183,77,209"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="57,224,67,289,61,289,52,225"/>
+<area shape="rect" id="Node000007" href="$d7/ded/class_command_label.html" title=" " alt="" coords="252,81,363,108"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="278,119,259,134,211,184,208,181,256,130,274,115"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="328,5,380,32"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="341,46,317,82,313,80,336,43"/>
+<area shape="rect" id="Node000009" href="$d2/d0f/class_c_image_label.html" title=" " alt="" coords="353,132,449,159"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="366,45,398,130,393,132,361,47"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="400,175,377,317,365,365,360,364,371,315,394,174"/>
+</map>

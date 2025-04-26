@@ -1,0 +1,36 @@
+<map id="CFuncTrackChange::Find" name="CFuncTrackChange::Find">
+<area shape="rect" id="Node000001" title="Finds the associated track entities for the track change." alt="" coords="5,156,174,183"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="222,5,444,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,154,147,99,181,68,220,42,233,36,236,40,223,46,185,72,151,103,103,157"/>
+<area shape="rect" id="Node000003" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="297,80,369,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,153,221,116,281,101,283,106,222,121,124,158"/>
+<area shape="rect" id="Node000006" href="$dc/dc7/class_c_path_track.html#ac0acf77d9813bb6001ccec511a1a0bf8" title="Retrieves the instance of a path track from an entity." alt="" coords="260,131,406,157"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="174,158,244,150,245,156,175,163"/>
+<area shape="rect" id="Node000011" href="$d5/d0d/class_c_func_track_train.html#a4603fbb9dfda7b252e70695fabb0e24f" title="Returns an instance of the track train entity." alt="" coords="245,181,421,208"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="175,175,229,181,229,187,174,181"/>
+<area shape="rect" id="Node000012" href="$dc/dc7/class_c_path_track.html#a6309d49441997076efe40ad41b80f78e" title="Finds the nearest path track to a given position." alt="" coords="262,232,404,259"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="124,181,222,217,250,225,249,230,221,223,122,186"/>
+<area shape="rect" id="Node000016" href="$d0/d93/class_c_func_track_change.html#ad1b482c695c5447c2cd2544202585097" title="Updates the auto targets based on the current toggle state." alt="" coords="241,283,425,325"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="107,181,156,224,188,248,223,268,235,274,232,279,220,273,185,252,153,228,103,185"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="294,82,287,72,291,62,307,56,333,53,362,56,376,63,374,68,360,61,333,59,308,61,295,66,292,71,299,78"/>
+<area shape="rect" id="Node000004" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="500,80,630,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="369,91,484,91,484,96,369,96"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="693,80,740,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="630,91,678,91,678,96,630,96"/>
+<area shape="rect" id="Node000007" href="$d8/d3c/util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="513,181,617,208"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="398,155,498,177,496,183,397,161"/>
+<area shape="rect" id="Node000010" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="510,131,619,157"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="406,141,495,141,495,147,406,147"/>
+<area shape="rect" id="Node000008" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="685,131,748,157"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="606,178,670,156,672,162,608,183"/>
+<area shape="rect" id="Node000009" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="688,181,745,208"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="617,192,672,192,672,197,617,197"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="421,192,497,192,497,197,421,197"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="397,178,494,157,496,162,398,183"/>
+<area shape="rect" id="Node000013" href="$dc/dc7/class_c_path_track.html#a7c88acc042e1fbbca05de3d1d871c88e" title="Retrieves the next path track in the sequence." alt="" coords="492,283,637,309"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="398,257,486,276,485,281,397,262"/>
+<area shape="rect" id="Node000014" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="512,232,618,259"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="404,243,496,243,496,248,404,248"/>
+<area shape="rect" id="Node000015" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="695,232,738,259"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="618,243,679,243,679,248,618,248"/>
+</map>

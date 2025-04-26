@@ -1,0 +1,100 @@
+<map id="CBaseDelay" name="CBaseDelay">
+<area shape="rect" id="Node000001" title="Base class for entities with delayed actions." alt="" coords="148,892,241,919"/>
+<area shape="rect" id="Node000003" href="$db/dd5/class_c_auto_trigger.html" title=" " alt="" coords="316,588,412,615"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,876,201,823,216,756,244,686,263,654,287,625,313,608,316,613,291,629,267,657,248,689,221,758,206,824,200,877"/>
+<area shape="rect" id="Node000004" href="$db/dc1/class_c_base_animating.html" title="Base class for entities with animation capabilities." alt="" coords="305,639,423,665"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,877,206,833,223,779,249,724,267,698,287,675,304,664,307,668,291,679,271,701,254,726,228,781,211,834,202,878"/>
+<area shape="rect" id="Node000143" href="$d3/d9c/class_c_breakable.html" title=" " alt="" coords="320,689,408,716"/>
+<area shape="poly" id="edge37_Node000001_Node000143" title=" " alt="" coords="201,876,213,842,231,802,255,761,287,726,318,709,320,714,291,730,260,764,235,804,218,844,206,878"/>
+<area shape="rect" id="Node000145" href="$da/df5/class_c_env_beverage.html" title=" " alt="" coords="312,740,416,767"/>
+<area shape="poly" id="edge39_Node000001_Node000145" title=" " alt="" coords="207,877,239,826,262,799,287,776,310,764,312,769,291,781,265,803,244,829,212,879"/>
+<area shape="rect" id="Node000146" href="$d8/dda/class_c_env_funnel.html" title=" " alt="" coords="319,791,409,817"/>
+<area shape="poly" id="edge40_Node000001_Node000146" title=" " alt="" coords="218,879,250,852,288,827,317,814,319,819,290,832,253,857,222,883"/>
+<area shape="rect" id="Node000147" href="$d3/d2f/class_c_fire_and_die.html" title=" " alt="" coords="317,841,411,868"/>
+<area shape="poly" id="edge41_Node000001_Node000147" title=" " alt="" coords="255,885,316,866,317,871,257,890"/>
+<area shape="rect" id="Node000148" href="$d3/d21/class_c_gib_shooter.html" title=" " alt="" coords="316,892,411,919"/>
+<area shape="poly" id="edge42_Node000001_Node000148" title=" " alt="" coords="257,903,315,903,315,908,257,908"/>
+<area shape="rect" id="Node000150" href="$d8/dbc/class_c_team_check.html" title=" " alt="" coords="314,943,413,969"/>
+<area shape="poly" id="edge44_Node000001_Node000150" title=" " alt="" coords="257,921,317,940,316,945,255,926"/>
+<area shape="rect" id="Node000151" href="$d7/d32/class_c_team_set.html" title=" " alt="" coords="323,993,405,1020"/>
+<area shape="poly" id="edge45_Node000001_Node000151" title=" " alt="" coords="222,927,253,954,290,979,323,993,321,998,288,984,250,958,218,931"/>
+<area shape="rect" id="Node000152" href="$d9/d05/class_c_test_effect.html" title=" " alt="" coords="320,1044,408,1071"/>
+<area shape="poly" id="edge46_Node000001_Node000152" title=" " alt="" coords="212,931,244,982,265,1007,291,1030,320,1045,318,1050,287,1034,262,1011,239,985,207,934"/>
+<area shape="rect" id="Node000153" href="$d2/dc7/class_c_trigger_camera.html" title=" " alt="" coords="307,1095,421,1121"/>
+<area shape="poly" id="edge47_Node000001_Node000153" title=" " alt="" coords="206,933,218,967,235,1006,260,1046,291,1081,308,1092,306,1096,287,1085,255,1049,231,1009,213,969,201,935"/>
+<area shape="rect" id="Node000154" href="$d6/ded/class_c_trigger_change_target.html" title=" " alt="" coords="289,1145,438,1172"/>
+<area shape="poly" id="edge48_Node000001_Node000154" title=" " alt="" coords="202,933,211,976,228,1030,254,1084,271,1109,291,1131,307,1143,304,1147,287,1135,267,1112,249,1087,223,1032,206,978,197,934"/>
+<area shape="rect" id="Node000155" href="$da/d5a/class_c_trigger_relay.html" title=" " alt="" coords="313,1196,415,1223"/>
+<area shape="poly" id="edge49_Node000001_Node000155" title=" " alt="" coords="200,934,206,986,221,1053,248,1122,267,1154,291,1182,314,1197,311,1201,287,1186,263,1157,244,1124,216,1054,201,987,195,934"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="5,892,100,919"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,903,147,903,147,908,115,908"/>
+<area shape="rect" id="Node000005" href="$d0/d36/class_c_act_animating.html" title=" " alt="" coords="493,107,602,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="434,628,436,625,454,556,486,406,541,133,546,134,491,407,459,557,441,628,437,632"/>
+<area shape="rect" id="Node000013" href="$dc/d11/class_c_base_player_item.html" title="Represents a base class for player items in the game." alt="" coords="486,436,609,463"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="431,629,437,625,475,585,505,539,526,495,539,462,544,464,531,497,509,541,479,588,440,629,434,633"/>
+<area shape="rect" id="Node000030" href="$d6/d0d/class_c_base_toggle.html" title="Base class for toggleable entities." alt="" coords="498,639,597,665"/>
+<area shape="poly" id="edge20_Node000004_Node000030" title=" " alt="" coords="438,649,498,649,498,655,438,655"/>
+<area shape="rect" id="Node000140" href="$d9/d46/class_c_t_f_goal.html" title=" " alt="" coords="511,740,584,767"/>
+<area shape="poly" id="edge34_Node000004_Node000140" title=" " alt="" coords="427,669,440,675,491,707,531,737,528,741,488,711,437,680,425,674"/>
+<area shape="rect" id="Node000006" href="$d4/d80/class_c_xen_hair.html" title=" " alt="" coords="696,5,771,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="575,95,612,68,655,42,695,26,697,31,658,46,615,72,578,99"/>
+<area shape="rect" id="Node000007" href="$d5/d27/class_c_xen_p_light.html" title=" " alt="" coords="689,56,778,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="613,99,688,79,690,84,615,105"/>
+<area shape="rect" id="Node000008" href="$dc/d7f/class_c_xen_spore.html" title=" " alt="" coords="691,107,776,133"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="618,117,690,117,690,123,618,123"/>
+<area shape="rect" id="Node000012" href="$d6/d6a/class_c_xen_tree.html" title=" " alt="" coords="695,157,772,184"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="615,135,696,158,694,163,613,141"/>
+<area shape="rect" id="Node000009" href="$d1/dbe/class_c_xen_spore_large.html" title=" " alt="" coords="859,31,976,57"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="790,100,809,92,857,67,882,55,884,60,859,72,811,97,792,105"/>
+<area shape="rect" id="Node000010" href="$d1/dc8/class_c_xen_spore_med.html" title=" " alt="" coords="862,81,972,108"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="791,109,861,100,862,105,792,115"/>
+<area shape="rect" id="Node000011" href="$db/d03/class_c_xen_spore_small.html" title=" " alt="" coords="858,132,976,159"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="791,125,858,135,857,140,791,131"/>
+<area shape="rect" id="Node000014" href="$da/d7d/class_c_base_player_weapon.html" title="Represents a base class for player weapons in the game." alt="" coords="661,284,806,311"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="563,421,601,370,627,343,655,320,677,309,680,314,658,325,630,347,605,374,567,424"/>
+<area shape="rect" id="Node000015" href="$d0/db0/class_c_crossbow.html" title="Represents the Crossbow weapon in the game." alt="" coords="874,183,961,209"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="767,273,857,219,881,208,883,212,859,224,769,277"/>
+<area shape="rect" id="Node000016" href="$d5/d05/class_c_crowbar.html" title="Represents a crowbar weapon in the game." alt="" coords="879,233,956,260"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="799,277,877,255,879,260,800,282"/>
+<area shape="rect" id="Node000017" href="$de/d32/class_c_egon.html" title="Represents the Egon weapon in the game." alt="" coords="887,284,947,311"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="822,295,887,295,887,300,822,300"/>
+<area shape="rect" id="Node000018" href="$db/dab/class_c_gauss.html" title="Represents the Gauss Gun weapon in the game." alt="" coords="883,335,951,361"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="800,313,883,336,882,341,799,318"/>
+<area shape="rect" id="Node000019" href="$d4/d7c/class_c_glock.html" title="Represents the Glock 9mm handgun weapon in the game." alt="" coords="885,385,949,412"/>
+<area shape="poly" id="edge18_Node000014_Node000019" title=" " alt="" coords="770,314,811,332,827,345,836,358,845,370,860,383,886,397,883,402,856,388,841,374,832,361,823,349,809,337,768,319"/>
+<area shape="poly" id="edge19_Node000014_Node000019" title=" " alt="" coords="821,316,839,338,860,359,903,382,900,387,856,363,835,341,817,319"/>
+<area shape="rect" id="Node000031" href="$d8/dd6/class_c_base_button.html" title="Represents a button entity in the game." alt="" coords="684,335,783,361"/>
+<area shape="poly" id="edge21_Node000030_Node000031" title=" " alt="" coords="556,623,606,479,634,410,655,371,683,355,685,360,659,375,639,412,611,481,561,625"/>
+<area shape="rect" id="Node000033" href="$de/d3b/class_c_base_door.html" title=" " alt="" coords="690,385,777,412"/>
+<area shape="poly" id="edge22_Node000030_Node000033" title=" " alt="" coords="552,623,564,579,584,525,614,470,633,445,655,422,671,411,688,404,690,409,673,416,658,426,637,448,619,473,589,528,569,581,557,624"/>
+<area shape="rect" id="Node000035" href="$d4/d7a/class_c_base_monster.html" title=" " alt="" coords="680,436,787,463"/>
+<area shape="poly" id="edge23_Node000030_Node000035" title=" " alt="" coords="556,623,571,589,592,548,620,508,655,473,678,459,681,464,658,477,624,511,597,551,576,591,561,625"/>
+<area shape="rect" id="Node000112" href="$dc/d48/class_c_base_plat_train.html" title=" " alt="" coords="678,487,789,513"/>
+<area shape="poly" id="edge24_Node000030_Node000112" title=" " alt="" coords="563,623,601,573,627,546,655,523,677,512,680,516,658,528,630,550,605,576,567,627"/>
+<area shape="rect" id="Node000118" href="$d1/d69/class_c_base_trigger.html" title=" " alt="" coords="684,537,783,564"/>
+<area shape="poly" id="edge25_Node000030_Node000118" title=" " alt="" coords="575,627,612,600,655,574,683,562,685,567,658,578,615,604,578,631"/>
+<area shape="rect" id="Node000132" href="$d9/dd4/class_c_func_illusionary.html" title=" " alt="" coords="675,588,792,615"/>
+<area shape="poly" id="edge26_Node000030_Node000132" title=" " alt="" coords="611,632,681,613,682,618,612,637"/>
+<area shape="rect" id="Node000133" href="$df/dcf/class_c_func_mortar_field.html" title="Represents a mortar field in the game world." alt="" coords="671,639,796,665"/>
+<area shape="poly" id="edge27_Node000030_Node000133" title=" " alt="" coords="612,649,671,649,671,655,612,655"/>
+<area shape="rect" id="Node000134" href="$dc/d8d/class_c_momentary_door.html" title=" " alt="" coords="672,689,795,716"/>
+<area shape="poly" id="edge28_Node000030_Node000134" title=" " alt="" coords="612,667,682,686,681,691,611,672"/>
+<area shape="rect" id="Node000135" href="$da/d0a/class_c_momentary_rot_button.html" title=" " alt="" coords="657,740,810,767"/>
+<area shape="poly" id="edge29_Node000030_Node000135" title=" " alt="" coords="578,673,615,700,658,726,685,737,683,742,655,730,612,704,575,677"/>
+<area shape="rect" id="Node000136" href="$d4/d6e/class_c_multi_manager.html" title=" " alt="" coords="679,791,788,817"/>
+<area shape="poly" id="edge30_Node000030_Node000136" title=" " alt="" coords="571,676,622,737,658,777,680,788,678,793,655,781,618,740,567,679"/>
+<area shape="rect" id="Node000137" href="$da/d4f/class_c_recharge.html" title="Represents a rechargeable battery entity in the game." alt="" coords="691,841,776,868"/>
+<area shape="poly" id="edge31_Node000030_Node000137" title=" " alt="" coords="573,676,611,727,625,756,631,781,639,804,658,827,674,838,691,845,689,850,671,842,655,831,635,807,626,783,619,758,606,729,569,679"/>
+<area shape="rect" id="Node000138" href="$de/d02/class_c_scripted_sentence.html" title=" " alt="" coords="667,892,800,919"/>
+<area shape="poly" id="edge32_Node000030_Node000138" title=" " alt="" coords="574,675,593,699,611,727,621,750,626,771,629,808,635,843,644,860,659,878,674,889,671,894,655,882,639,863,630,845,624,809,621,771,616,751,606,729,589,702,570,678"/>
+<area shape="rect" id="Node000139" href="$db/d84/class_c_wall_health.html" title="Represents a wall&#45;mounted health charger in the game." alt="" coords="687,943,780,969"/>
+<area shape="poly" id="edge33_Node000030_Node000139" title=" " alt="" coords="575,675,594,699,611,727,622,757,627,785,627,835,627,858,631,881,641,904,659,929,672,939,687,946,685,951,669,944,655,933,636,907,626,883,622,859,622,835,622,785,617,759,606,729,590,702,571,679"/>
+<area shape="rect" id="Node000141" href="$d6/dc1/class_c_t_f_goal_item.html" title=" " alt="" coords="685,993,782,1020"/>
+<area shape="poly" id="edge35_Node000140_Node000141" title=" " alt="" coords="599,767,611,777,628,804,635,830,636,856,634,881,632,906,634,930,642,955,659,980,671,989,685,996,683,1001,668,994,655,983,637,957,629,931,627,906,629,881,631,856,630,831,623,806,607,780,596,771"/>
+<area shape="rect" id="Node000142" href="$de/db5/class_c_t_f_timer_goal.html" title=" " alt="" coords="681,1044,786,1071"/>
+<area shape="poly" id="edge36_Node000140_Node000142" title=" " alt="" coords="599,767,611,777,631,811,639,843,638,875,634,907,630,938,630,968,638,999,659,1030,682,1046,679,1050,655,1034,634,1001,625,969,625,937,629,906,633,875,633,844,626,813,607,780,596,771"/>
+<area shape="rect" id="Node000144" href="$d1/d45/class_c_pushable.html" title=" " alt="" coords="505,791,590,817"/>
+<area shape="poly" id="edge38_Node000143_Node000144" title=" " alt="" coords="424,717,440,726,455,739,465,751,474,764,488,776,508,788,506,792,485,781,470,767,460,755,451,742,437,730,421,722"/>
+<area shape="rect" id="Node000149" href="$d2/d6b/class_c_env_shooter.html" title=" " alt="" coords="499,892,596,919"/>
+<area shape="poly" id="edge43_Node000148_Node000149" title=" " alt="" coords="427,903,499,903,499,908,427,908"/>
+</map>

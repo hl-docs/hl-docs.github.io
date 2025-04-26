@@ -1,0 +1,5 @@
+<map id="CScientist::GetScheduleOfType" name="CScientist::GetScheduleOfType">
+<area shape="rect" id="Node000001" title="Retrieves a specific schedule type for the scientist." alt="" coords="218,5,423,32"/>
+<area shape="rect" id="Node000002" href="$dc/d29/class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="5,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
+</map>

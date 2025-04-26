@@ -1,0 +1,5 @@
+<map id="CControllerZapBall::AnimateThink" name="CControllerZapBall::AnimateThink">
+<area shape="rect" id="Node000001" title="Think function for the controller zap ball entity." alt="" coords="5,5,134,48"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="182,13,282,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,24,166,24,166,29,134,29"/>
+</map>

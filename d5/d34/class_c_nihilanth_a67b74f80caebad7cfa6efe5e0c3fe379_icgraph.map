@@ -1,0 +1,5 @@
+<map id="CNihilanth::StartupThink" name="CNihilanth::StartupThink">
+<area shape="rect" id="Node000001" title="Handles the startup think behavior for the Nihilanth." alt="" coords="181,5,342,32"/>
+<area shape="rect" id="Node000002" href="$d5/d34/class_c_nihilanth.html#af4a7daca0fab2778ee5f871884d80f49" title="Spawns the Nihilanth entity in the game world." alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,21,133,21,133,16,165,16"/>
+</map>

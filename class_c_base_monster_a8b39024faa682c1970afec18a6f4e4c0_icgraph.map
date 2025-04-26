@@ -1,5 +1,0 @@
-<map id="CBaseMonster::CheckRangeAttack1" name="CBaseMonster::CheckRangeAttack1">
-<area shape="rect" id="Node000001" title=" " alt="" coords="245,5,434,48"/>
-<area shape="rect" id="Node000002" href="$class_c_i_slave.html#aac26ebd5f45d85a843c09bcc80332dbd" title="Checks if the CISlave can perform a range attack." alt="" coords="5,13,197,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,29,197,29,197,24,229,24"/>
-</map>

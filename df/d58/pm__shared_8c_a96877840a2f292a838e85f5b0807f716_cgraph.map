@@ -1,0 +1,9 @@
+<map id="PM_DropPunchAngle" name="PM_DropPunchAngle">
+<area shape="rect" id="Node000001" title="Gradually reduces the punch angle of the player to zero." alt="" coords="5,31,151,57"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="199,5,316,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,31,183,26,183,32,152,36"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="211,56,304,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,52,196,58,195,63,151,57"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="364,5,407,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,16,349,16,349,21,316,21"/>
+</map>

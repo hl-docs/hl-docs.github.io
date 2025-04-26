@@ -1,0 +1,5 @@
+<map id="PM_FixupGravityVelocity" name="PM_FixupGravityVelocity">
+<area shape="rect" id="Node000001" title="Fixes gravity&#45;related velocity issues." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="Node000002" href="$df/d58/pm__shared_8c.html#a1931c0696cebc5f958a352c6c705535d" title="Ensures player velocity stays within safe limits." alt="" coords="221,5,353,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,16,205,16,205,21,173,21"/>
+</map>

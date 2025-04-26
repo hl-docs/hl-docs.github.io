@@ -1,0 +1,25 @@
+<map id="CBaseEntity::Precache" name="CBaseEntity::Precache">
+<area shape="rect" id="Node000001" title=" " alt="" coords="817,132,974,159"/>
+<area shape="rect" id="Node000002" href="$d4/d0e/cbase_8cpp.html#a28d62ac92a1ba4cfb587a60c412d6926" title="Restores the state of an entity from saved data." alt="" coords="611,5,728,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="869,123,824,84,767,46,728,32,730,27,770,42,827,79,873,119"/>
+<area shape="rect" id="Node000003" href="$d5/d93/hl__weapons_8cpp.html#a0d6b59bbb06d5eaa4c870a80fb03222d" title="Prepares an entity for use in the game." alt="" coords="611,56,728,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="848,128,768,97,727,85,729,80,770,92,850,123"/>
+<area shape="rect" id="Node000004" href="$df/ded/class_c_monster_maker.html#ac29fa83825ba5a46d1ce46830fa37c16" title="Preloads the resources needed for the monster maker." alt="" coords="581,107,758,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="801,138,758,133,758,127,802,132"/>
+<area shape="rect" id="Node000006" href="$d0/d93/class_c_func_track_change.html#ab5952e59630598415f407a392e235f0a" title="Pre&#45;caches resources for the track change entity." alt="" coords="570,157,769,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="802,158,769,162,769,157,801,153"/>
+<area shape="rect" id="Node000008" href="$dc/d44/dlls_2util_8cpp.html#ab86625fdeef115046e288fecc38018c7" title="Pre&#45;caches an entity by its class name." alt="" coords="599,208,740,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="850,168,770,199,730,210,729,205,768,193,848,163"/>
+<area shape="rect" id="Node000009" href="$dc/dba/weapons_8cpp.html#af989ddd117a8ae9d654379841ddab2df" title="Precaches a weapon and queues its information for sending to clients." alt="" coords="575,259,764,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="873,171,827,211,770,249,741,261,739,256,767,244,824,207,869,167"/>
+<area shape="rect" id="Node000005" href="$df/ded/class_c_monster_maker.html#ae162cb9792bd9c49670b5b2a0d207e53" title="Spawns the monster maker in the game." alt="" coords="351,107,511,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="566,123,512,123,512,117,566,117"/>
+<area shape="rect" id="Node000007" href="$d0/d93/class_c_func_track_change.html#a0ec26d33c7bbf3e9659cd974808a2f01" title="Spawns the track change entity and initializes its properties." alt="" coords="340,157,522,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="555,173,523,173,523,168,555,168"/>
+<area shape="rect" id="Node000010" href="$dc/dba/weapons_8cpp.html#a0ebdfcb876a8949200a570227357b671" title="Precaches all necessary items and weapons for the game." alt="" coords="383,259,479,285"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="559,275,479,275,479,269,559,269"/>
+<area shape="rect" id="Node000011" href="$d0/da9/class_c_world.html#a3369fa629e2fa36ce93e3a37680d08aa" title="Preloads resources and initializes game settings." alt="" coords="165,259,292,285"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="367,275,292,275,292,269,367,269"/>
+<area shape="rect" id="Node000012" href="$d0/da9/class_c_world.html#a8f48bd2b218222fa98bfc43afd7f62f0" title="Spawns the world entity." alt="" coords="5,259,117,285"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="149,275,117,275,117,269,149,269"/>
+</map>

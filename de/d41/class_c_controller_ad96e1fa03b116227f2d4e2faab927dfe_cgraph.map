@@ -1,0 +1,13 @@
+<map id="CController::LookupFloat" name="CController::LookupFloat">
+<area shape="rect" id="Node000001" title="Looks up the appropriate floating sequence for the controller monster." alt="" coords="5,56,170,83"/>
+<area shape="rect" id="Node000002" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="242,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,53,226,33,227,38,146,58"/>
+<area shape="rect" id="Node000004" href="$d8/ddb/animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="234,56,356,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,67,218,67,218,72,170,72"/>
+<area shape="rect" id="Node000005" href="$dc/d44/dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="218,107,372,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="146,81,223,100,222,105,145,86"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="470,5,513,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,16,454,16,454,21,349,21"/>
+<area shape="rect" id="Node000006" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="420,107,562,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="372,117,405,117,405,123,372,123"/>
+</map>

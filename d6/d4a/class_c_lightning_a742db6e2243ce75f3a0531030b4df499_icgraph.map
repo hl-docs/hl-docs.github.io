@@ -1,0 +1,10 @@
+<map id="CLightning::StrikeThink" name="CLightning::StrikeThink">
+<area shape="rect" id="Node000001" title="Think function for the lightning strike." alt="" coords="558,5,714,32"/>
+<area shape="rect" id="Node000002" href="$d6/d4a/class_c_lightning.html#ae60d76702c9a62a7c700bbd864c0adc2" title="Spawns the lightning effect entity." alt="" coords="186,5,315,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,21,315,21,315,16,543,16"/>
+<area shape="rect" id="Node000004" href="$d6/d4a/class_c_lightning.html#a9b6e23ff1410db09ae90d3c86793506d" title="Uses the lightning effect to strike." alt="" coords="363,31,510,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="543,33,511,37,511,32,543,28"/>
+<area shape="rect" id="Node000003" href="$d7/def/class_c_trip_beam.html#a8e3d6f75ea13fae6608eefbaa3b3742f" title="Spawns the lightning effect entity." alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="348,35,315,30,316,25,348,29"/>
+</map>

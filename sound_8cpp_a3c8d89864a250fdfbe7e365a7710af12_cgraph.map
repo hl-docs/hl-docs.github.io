@@ -1,7 +1,0 @@
-<map id="SENTENCEG_Init" name="SENTENCEG_Init">
-<area shape="rect" id="Node000001" title="Initializes sentence groups from sentences.txt." alt="" coords="5,31,131,57"/>
-<area shape="rect" id="Node000002" href="$sound_8cpp.html#a16f03f7e9284f8ae249a247e0b806e92" title="Reads a line from a memory buffer." alt="" coords="219,5,298,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,33,203,23,204,29,132,38"/>
-<area shape="rect" id="Node000003" href="$sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="179,56,338,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,50,163,54,163,59,131,55"/>
-</map>

@@ -1,0 +1,9 @@
+<map id="CEgonAmmo::Spawn" name="CEgonAmmo::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the Egon ammo entity." alt="" coords="5,56,151,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="267,5,313,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,53,251,25,252,30,138,58"/>
+<area shape="rect" id="Node000003" href="$d6/de5/class_c_egon_ammo.html#a88a94422d2d613b5042957ab30e5bdde" title="Preloads the resources needed by the Egon ammo." alt="" coords="209,56,371,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,67,194,67,194,72,151,72"/>
+<area shape="rect" id="Node000004" href="$de/d71/class_c_base_player_ammo.html#a13402d91be00ef4937c8b9bf3a83024c" title="Spawns the ammo entity in the game world." alt="" coords="199,107,381,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,81,217,100,216,105,136,86"/>
+</map>

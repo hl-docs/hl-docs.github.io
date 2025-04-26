@@ -1,0 +1,79 @@
+<map id="CBaseEntity::BodyTarget" name="CBaseEntity::BodyTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1739,273,1907,300"/>
+<area shape="rect" id="Node000002" href="$d3/d1f/class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="1496,71,1663,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1807,261,1789,226,1763,185,1729,145,1690,112,1662,99,1665,94,1692,107,1733,141,1767,182,1793,223,1812,258"/>
+<area shape="rect" id="Node000017" href="$d7/db7/class_c_a_grunt.html#af4314f91038ec3fa59b8202e8de3a2ca" title="Checks if the Alien Grunt can perform a ranged attack." alt="" coords="1480,121,1679,148"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="1800,263,1754,211,1723,184,1690,162,1663,151,1665,146,1692,158,1726,180,1757,207,1804,259"/>
+<area shape="rect" id="Node000018" href="$d0/d51/class_c_barney.html#a6c4f521e6475fda2233a11982f862da3" title="Checks if the Barney entity can perform a range attack." alt="" coords="1480,172,1679,199"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="1788,267,1743,239,1690,213,1654,202,1656,197,1692,208,1745,234,1791,262"/>
+<area shape="rect" id="Node000019" href="$dd/d0a/class_c_big_momma.html#a9f26cf143e0cda155b43121b8293fc83" title="Checks if the Big Momma can perform a range attack." alt="" coords="1468,223,1691,249"/>
+<area shape="poly" id="edge26_Node000001_Node000019" title=" " alt="" coords="1740,272,1646,253,1648,247,1741,267"/>
+<area shape="rect" id="Node000020" href="$d5/da4/class_c_gargantua.html#a7267dc2632f1e44de89bb701f336bd2d" title="Applies flame damage to entities within a specified range." alt="" coords="1488,273,1671,300"/>
+<area shape="poly" id="edge27_Node000001_Node000020" title=" " alt="" coords="1723,289,1671,289,1671,284,1723,284"/>
+<area shape="rect" id="Node000021" href="$d6/d0f/combat_8cpp.html#a3a20dd1e4e2f4832037c6797d4ffef37" title="Inflicts damage to entities within a certain radius." alt="" coords="1525,324,1634,351"/>
+<area shape="poly" id="edge28_Node000001_Node000021" title=" " alt="" coords="1741,306,1635,329,1634,323,1740,301"/>
+<area shape="rect" id="Node000030" href="$d5/da4/class_c_gargantua.html#ae93076998ee13769916c9736cc1a7058" title="Runs a task for the Gargantua." alt="" coords="1505,375,1654,401"/>
+<area shape="poly" id="edge37_Node000001_Node000030" title=" " alt="" coords="1791,311,1745,339,1692,365,1655,377,1654,372,1690,360,1743,335,1788,307"/>
+<area shape="rect" id="Node000031" href="$d7/dd4/class_c_hornet.html#a275f461503bb47ba390a0b93b9834cb2" title="Tracks the target for the hornet." alt="" coords="1507,425,1652,452"/>
+<area shape="poly" id="edge38_Node000001_Node000031" title=" " alt="" coords="1804,314,1757,366,1726,393,1692,416,1653,431,1651,426,1690,411,1723,389,1754,363,1800,311"/>
+<area shape="rect" id="Node000034" href="$dd/d18/class_c_func_tank.html#a49a7bf2855a0f5b5cb8452e32429768e" title=" " alt="" coords="1470,476,1689,503"/>
+<area shape="poly" id="edge41_Node000001_Node000034" title=" " alt="" coords="1812,315,1793,350,1767,391,1733,432,1692,466,1669,478,1667,473,1690,462,1729,428,1763,388,1789,347,1807,312"/>
+<area shape="rect" id="Node000003" href="$d3/d1f/class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="1246,71,1420,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1480,96,1420,95,1420,90,1480,90"/>
+<area shape="rect" id="Node000016" href="$db/d17/class_c_turret.html#abbdf253e3a38f63841f6530a38e10ec1" title="Handles the spin&#45;up behavior of the turret." alt="" coords="1265,172,1401,199"/>
+<area shape="poly" id="edge23_Node000002_Node000016" title=" " alt="" coords="1482,105,1469,112,1455,122,1445,132,1436,144,1421,156,1382,174,1380,169,1418,151,1432,140,1441,129,1451,118,1466,107,1480,101"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="1435,72,1495,73,1495,78,1435,78"/>
+<area shape="rect" id="Node000004" href="$d3/d1f/class_c_base_turret.html#aca75241a920a6e589920143208c8562c" title="Deploys the turret." alt="" coords="1039,71,1180,97"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="1230,87,1181,87,1181,81,1230,81"/>
+<area shape="rect" id="Node000015" href="$d3/d1f/class_c_base_turret.html#a0bf51cb491da64e2246751fd0460255c" title="Handles the damage behavior of the turret." alt="" coords="1021,121,1198,148"/>
+<area shape="poly" id="edge21_Node000003_Node000015" title=" " alt="" coords="1256,104,1172,123,1171,118,1255,99"/>
+<area shape="rect" id="Node000005" href="$d3/d1f/class_c_base_turret.html#ac5d610d943c3839668ba12cf4529be10" title="Handles the auto&#45;search behavior of the turret." alt="" coords="773,107,973,133"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1024,100,966,109,965,103,1023,94"/>
+<area shape="rect" id="Node000011" href="$d3/d1f/class_c_base_turret.html#aab170b6bc93d774ec41e38e252234287" title="Handles the use behavior for the turret." alt="" coords="384,56,541,83"/>
+<area shape="poly" id="edge20_Node000004_Node000011" title=" " alt="" coords="1024,85,542,74,542,68,1024,79"/>
+<area shape="rect" id="Node000013" href="$d4/d4d/class_c_sentry.html#ad41a4a063ab7c1cef57d01e32bde0d5f" title="Handles damage taken by the sentry." alt="" coords="797,157,949,184"/>
+<area shape="poly" id="edge17_Node000004_Node000013" title=" " alt="" coords="1036,105,1022,112,999,130,974,148,944,159,942,154,972,143,995,125,1020,107,1034,101"/>
+<area shape="rect" id="Node000006" href="$d3/d1f/class_c_base_turret.html#a0c00f8f68597ffc6be41e1e7e880497b" title="Initializes the turret&#39;s state." alt="" coords="188,107,336,133"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="757,123,336,123,336,117,757,117"/>
+<area shape="rect" id="Node000010" href="$d3/d1f/class_c_base_turret.html#a732fe94be3c994ac82fbed600ebdfcc4" title="Retires the turret." alt="" coords="589,5,725,32"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="828,102,686,35,689,30,830,97"/>
+<area shape="rect" id="Node000007" href="$da/d2c/class_c_mini_turret.html#a1e952284488c7dceb845b8c843f3ffe7" title="Spawns the mini turret entity." alt="" coords="5,107,140,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="172,123,140,123,140,117,172,117"/>
+<area shape="rect" id="Node000008" href="$d4/d4d/class_c_sentry.html#aec10a8f84bda6bb7f70e9f2554ef352c" title="Spawns the sentry entity." alt="" coords="15,157,130,184"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="195,141,126,159,124,154,194,135"/>
+<area shape="rect" id="Node000009" href="$db/d17/class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="17,56,128,83"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="194,105,124,86,126,81,195,99"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="740,19,949,31,1199,56,1267,67,1266,73,1198,61,948,37,740,24"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="589,39,517,58,516,53,588,34"/>
+<area shape="rect" id="Node000012" href="$d3/d1f/class_c_base_turret.html#a6ad46595be0146d679745f122dff6c8b" title="Spawns the base turret entity." alt="" coords="192,56,332,83"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="368,72,332,72,332,67,368,67"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="195,90,126,109,124,103,194,85"/>
+<area shape="poly" id="edge15_Node000012_Node000008" title=" " alt="" coords="198,92,189,97,175,109,166,121,156,134,141,148,119,159,117,154,138,143,152,131,161,118,171,105,186,92,195,87"/>
+<area shape="poly" id="edge16_Node000012_Node000009" title=" " alt="" coords="177,72,128,72,128,67,177,67"/>
+<area shape="rect" id="Node000014" href="$d4/d4d/class_c_sentry.html#a39059cd1ff9888979c51b1a4fe4d7c28" title="Handles touch interactions for the sentry." alt="" coords="388,157,537,184"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="781,173,538,173,538,168,781,168"/>
+<area shape="poly" id="edge19_Node000014_Node000008" title=" " alt="" coords="373,173,130,173,130,168,373,168"/>
+<area shape="poly" id="edge22_Node000015_Node000002" title=" " alt="" coords="1214,126,1419,107,1498,95,1499,101,1420,112,1215,131"/>
+<area shape="rect" id="Node000022" href="$de/d32/class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="1288,340,1378,367"/>
+<area shape="poly" id="edge29_Node000021_Node000022" title=" " alt="" coords="1510,344,1379,353,1379,348,1509,339"/>
+<area shape="rect" id="Node000025" href="$db/dab/class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="1284,289,1382,316"/>
+<area shape="poly" id="edge32_Node000021_Node000025" title=" " alt="" coords="1509,330,1382,312,1383,307,1510,325"/>
+<area shape="rect" id="Node000023" href="$de/d32/class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="1057,353,1163,380"/>
+<area shape="poly" id="edge30_Node000022_Node000023" title=" " alt="" coords="1273,360,1163,366,1163,361,1272,354"/>
+<area shape="rect" id="Node000024" href="$de/d32/class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="797,367,949,393"/>
+<area shape="poly" id="edge31_Node000023_Node000024" title=" " alt="" coords="1042,373,949,378,949,373,1041,368"/>
+<area shape="rect" id="Node000026" href="$db/dab/class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21" title="Initiates the firing process for the Gauss weapon." alt="" coords="1047,277,1173,304"/>
+<area shape="poly" id="edge33_Node000025_Node000026" title=" " alt="" coords="1268,302,1173,297,1173,291,1268,297"/>
+<area shape="rect" id="Node000027" href="$db/dab/class_c_gauss.html#a885e215da3bf2207e633b39d7d648d7c" title="Handles the primary attack for the Gauss weapon." alt="" coords="793,316,953,343"/>
+<area shape="poly" id="edge34_Node000026_Node000027" title=" " alt="" coords="1032,306,953,319,953,314,1031,301"/>
+<area shape="rect" id="Node000028" href="$db/dab/class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="785,215,961,241"/>
+<area shape="poly" id="edge35_Node000026_Node000028" title=" " alt="" coords="1044,275,972,256,928,244,930,239,974,251,1045,270"/>
+<area shape="rect" id="Node000029" href="$db/dab/class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="801,265,945,292"/>
+<area shape="poly" id="edge36_Node000026_Node000029" title=" " alt="" coords="1031,289,945,285,945,280,1031,284"/>
+<area shape="rect" id="Node000032" href="$d7/dd4/class_c_hornet.html#a0845e7a20faeace07303c47c670c431b" title="Starts tracking the target for the hornet." alt="" coords="1265,425,1401,452"/>
+<area shape="poly" id="edge39_Node000031_Node000032" title=" " alt="" coords="1492,441,1402,441,1402,436,1492,436"/>
+<area shape="rect" id="Node000033" href="$d7/dd4/class_c_hornet.html#a7d03243e49c6325891e6d9884450fa29" title="Spawns the hornet entity." alt="" coords="1052,425,1167,452"/>
+<area shape="poly" id="edge40_Node000032_Node000033" title=" " alt="" coords="1249,441,1168,441,1168,436,1249,436"/>
+<area shape="rect" id="Node000035" href="$dd/d18/class_c_func_tank.html#a40ca7f35fc5b4fdbce00945b716c245b" title="Tracks and aims the tank at a target." alt="" coords="1251,476,1415,503"/>
+<area shape="poly" id="edge42_Node000034_Node000035" title=" " alt="" coords="1454,492,1415,492,1415,487,1454,487"/>
+</map>

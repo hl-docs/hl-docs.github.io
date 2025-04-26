@@ -1,0 +1,30 @@
+<map id="CFuncPlat::GoDown" name="CFuncPlat::GoDown">
+<area shape="rect" id="Node000001" title="Moves the platform down." alt="" coords="1270,132,1410,159"/>
+<area shape="rect" id="Node000002" href="$de/db3/class_c_func_plat.html#a0f8fba6049692a0001123585f9754ec2" title=" " alt="" coords="1061,81,1222,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1269,130,1196,111,1197,106,1271,125"/>
+<area shape="rect" id="Node000012" href="$dc/df8/class_c_func_plat_rot.html#a4e54da2f5c1449c7c01d2af40aaff448" title="Moves the platform down and initiates its rotation." alt="" coords="1062,183,1221,209"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1271,166,1197,185,1196,179,1269,161"/>
+<area shape="rect" id="Node000013" href="$d0/d93/class_c_func_track_change.html#a1cb0c02694236d633ecf5a14dac87ac4" title="Moves the track change entity down." alt="" coords="220,107,412,133"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1255,148,951,148,762,148,575,142,412,131,413,126,576,137,762,143,951,143,1255,143"/>
+<area shape="rect" id="Node000003" href="$de/db3/class_c_func_plat.html#ac80f16ab24fb998ee21824ae59cf7cb7" title="Handles the event when the platform hits the top." alt="" coords="886,81,1013,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1045,97,1013,97,1013,92,1045,92"/>
+<area shape="rect" id="Node000004" href="$de/db3/class_c_func_plat.html#a722437afc87453bed9798172ffdafe6e" title=" " alt="" coords="688,31,838,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="882,79,814,61,816,55,884,74"/>
+<area shape="rect" id="Node000010" href="$dc/df8/class_c_func_plat_rot.html#a07b7eab26f39263bd957466cabebbea6" title="Handles the event when the platform hits the top." alt="" coords="689,81,837,108"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="870,97,837,97,837,92,870,92"/>
+<area shape="rect" id="Node000005" href="$de/db3/class_c_func_plat.html#a111348036d65c2b1d6b650cc5d843134" title="Moves the platform up." alt="" coords="489,31,612,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="673,47,612,47,612,41,673,41"/>
+<area shape="rect" id="Node000007" href="$d0/d93/class_c_func_track_change.html#a86a802569986a457166bf7aa2de3831c" title="Moves the track change entity up." alt="" coords="228,5,404,32"/>
+<area shape="poly" id="edge9_Node000004_Node000007" title=" " alt="" coords="692,30,640,21,517,15,405,16,404,11,517,10,641,16,693,24"/>
+<area shape="rect" id="Node000006" href="$dc/df8/class_c_func_plat_rot.html#a47f39237350e0e057996484d6f1177b4" title="Moves the platform up and initiates its rotation." alt="" coords="244,56,388,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="473,55,388,64,388,59,472,50"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="473,38,404,31,405,26,473,33"/>
+<area shape="rect" id="Node000008" href="$d0/d93/class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="5,19,172,45"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="213,27,172,30,172,24,212,22"/>
+<area shape="rect" id="Node000009" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="14,81,163,108"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="244,39,221,47,123,83,122,78,219,41,243,34"/>
+<area shape="rect" id="Node000011" href="$d0/d93/class_c_func_track_change.html#af3884efbdd881f0f26835f16c80672fa" title="Handles the event when the track change entity hits the top." alt="" coords="460,81,640,108"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="674,97,641,97,641,92,674,92"/>
+<area shape="poly" id="edge14_Node000013_Node000008" title=" " alt="" coords="239,104,219,97,194,85,170,72,120,48,123,44,173,67,197,80,221,92,241,99"/>
+<area shape="poly" id="edge15_Node000013_Node000009" title=" " alt="" coords="204,110,163,106,164,100,205,105"/>
+</map>

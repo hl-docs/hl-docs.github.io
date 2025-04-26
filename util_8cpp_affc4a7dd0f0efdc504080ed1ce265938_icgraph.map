@@ -1,7 +1,0 @@
-<map id="UTIL_StripToken" name="UTIL_StripToken">
-<area shape="rect" id="Node000001" title="Strips redundant tokens from a key string." alt="" coords="253,31,369,57"/>
-<area shape="rect" id="Node000002" href="$class_c_game_player_equip.html#a151d8825bae7ae4d96ddaaf44d268edf" title="Processes key&#45;value pairs for the game player equip entity." alt="" coords="5,5,205,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,38,205,34,205,28,238,32"/>
-<area shape="rect" id="Node000003" href="$class_c_multi_manager.html#a248978fba86b0663b469b20fe626159f" title="Handles key&#45;value pairs for the multi&#45;manager." alt="" coords="19,56,191,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,56,192,61,191,56,237,50"/>
-</map>

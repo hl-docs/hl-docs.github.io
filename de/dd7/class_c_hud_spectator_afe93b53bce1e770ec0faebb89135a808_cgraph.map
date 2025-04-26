@@ -1,0 +1,5 @@
+<map id="CHudSpectator::DrawOverviewLayer" name="CHudSpectator::DrawOverviewLayer">
+<area shape="rect" id="Node000001" title="Draws the map layer on the screen in spectator overview mode." alt="" coords="5,5,202,48"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="250,13,293,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,24,234,24,234,29,202,29"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="CBubbling::FizzThink" name="CBubbling::FizzThink">
-<area shape="rect" id="Node000001" title="Think function for the bubbling effect." alt="" coords="181,31,325,57"/>
-<area shape="rect" id="Node000002" href="$class_c_bubbling.html#a7251cec5536b54452ae5d87e0f03a9d6" title="Spawns the bubbling effect entity." alt="" coords="5,5,133,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,35,133,30,133,25,166,29"/>
-<area shape="rect" id="Node000003" href="$class_c_bubbling.html#a32c5181e39fad0d4cf4e4fe32cf6e642" title="Toggles the bubbling effect on or off." alt="" coords="13,56,125,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,59,125,64,125,59,165,53"/>
-</map>

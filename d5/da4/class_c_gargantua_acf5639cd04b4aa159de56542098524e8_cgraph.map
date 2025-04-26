@@ -1,0 +1,9 @@
+<map id="CGargantua::Killed" name="CGargantua::Killed">
+<area shape="rect" id="Node000001" title="Handles the Gargantua&#39;s death." alt="" coords="5,56,136,83"/>
+<area shape="rect" id="Node000002" href="$d5/da4/class_c_gargantua.html#a12bdbd56b3dc39f0274211e028b430af" title="Turns off the Gargantua&#39;s eye glow." alt="" coords="189,5,326,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,53,190,34,192,39,123,58"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#a469904e35f6e6c8f4b271a98dc68a9e7" title="Handles the monster&#39;s death." alt="" coords="184,56,331,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,67,168,67,168,72,136,72"/>
+<area shape="rect" id="Node000004" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="207,107,308,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,81,193,100,191,105,122,86"/>
+</map>

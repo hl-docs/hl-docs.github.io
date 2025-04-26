@@ -1,0 +1,8 @@
+<map id="CMonsterMaker::MakerThink" name="CMonsterMaker::MakerThink">
+<area shape="rect" id="Node000001" title="Creates a new monster at regular intervals." alt="" coords="444,5,632,32"/>
+<area shape="rect" id="Node000002" href="$df/ded/class_c_monster_maker.html#ae162cb9792bd9c49670b5b2a0d207e53" title="Spawns the monster maker in the game." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,21,166,21,166,16,428,16"/>
+<area shape="rect" id="Node000003" href="$df/ded/class_c_monster_maker.html#a3eafef130bef1576ada5bf903ed5c6f7" title="Activates or deactivates the monster maker." alt="" coords="214,31,396,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,33,397,37,396,31,428,28"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="198,34,166,31,167,25,199,29"/>
+</map>

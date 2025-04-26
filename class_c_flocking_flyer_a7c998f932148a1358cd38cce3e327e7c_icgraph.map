@@ -1,5 +1,0 @@
-<map id="CFlockingFlyer::Precache" name="CFlockingFlyer::Precache">
-<area shape="rect" id="Node000001" title="Preloads the boid&#39;s resources." alt="" coords="209,5,380,32"/>
-<area shape="rect" id="Node000002" href="$class_c_flocking_flyer.html#a92d57c05c9a89439bb0d652c58adff29" title="Spawns the individual boid." alt="" coords="5,5,161,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,21,161,21,161,16,193,16"/>
-</map>

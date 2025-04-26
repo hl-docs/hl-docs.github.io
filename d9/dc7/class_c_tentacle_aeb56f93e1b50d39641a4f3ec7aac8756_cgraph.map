@@ -1,0 +1,7 @@
+<map id="CTentacle::HitTouch" name="CTentacle::HitTouch">
+<area shape="rect" id="Node000001" title="Handles touch events for the tentacle." alt="" coords="5,31,144,57"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html#aa8c66d085116b719beff9fb1c3d0e45d" title="Inflicts damage on the entity." alt="" coords="192,5,370,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,33,176,29,176,34,145,38"/>
+<area shape="rect" id="Node000003" href="$dc/d44/dlls_2util_8cpp.html#af4f388b735687d7372271f4563e36335" title="Retrieves the current global trace result." alt="" coords="209,56,353,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,50,194,56,193,61,144,55"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="CGib::StickyGibTouch" name="CGib::StickyGibTouch">
-<area shape="rect" id="Node000001" title="Handles the touch event for a sticky gib." alt="" coords="215,5,365,32"/>
-<area shape="rect" id="Node000002" href="$class_c_gib.html#a32f9780479278f647d083fd896e04620" title="Spawns sticky gibs at a specified location." alt="" coords="5,5,167,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,167,21,167,16,199,16"/>
-</map>

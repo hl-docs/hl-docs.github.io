@@ -1,0 +1,5 @@
+<map id="CSquidSpit::Shoot" name="CSquidSpit::Shoot">
+<area shape="rect" id="Node000001" title="Shoots the squid spit entity." alt="" coords="247,5,375,32"/>
+<area shape="rect" id="Node000002" href="$d1/daf/class_c_bullsquid.html#a6631c371599184dc93b7209f1809e110" title="Handles animation events for the bullsquid." alt="" coords="5,5,199,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,21,199,21,199,16,231,16"/>
+</map>

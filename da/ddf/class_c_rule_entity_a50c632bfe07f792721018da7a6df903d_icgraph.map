@@ -1,0 +1,25 @@
+<map id="CRuleEntity::CanFireForActivator" name="CRuleEntity::CanFireForActivator">
+<area shape="rect" id="Node000001" title="Checks if the rule entity can fire for the given activator." alt="" coords="232,259,444,285"/>
+<area shape="rect" id="Node000002" href="$db/ddf/class_c_game_player_equip.html#a1fc8762d1dbc69b35c6ebb1f97415b28" title="Handles the touch event for the game player equip entity." alt="" coords="5,5,184,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,246,303,202,272,148,232,93,208,68,182,46,162,35,164,30,185,42,212,64,236,89,277,145,308,199,328,243"/>
+<area shape="rect" id="Node000003" href="$d9/d8d/class_c_game_score.html#a1e79aec0745118f43ab55ff1ef3f3d15" title="Activates the game score entity." alt="" coords="29,56,160,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,247,264,172,226,131,182,97,159,86,161,81,185,92,230,128,268,169,323,244"/>
+<area shape="rect" id="Node000004" href="$dd/d26/class_c_game_end.html#af8d96f8244740462345f378e2d711b4e" title="Activates the game end entity." alt="" coords="35,107,154,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="311,249,255,198,220,171,182,148,154,136,156,131,185,143,223,167,259,194,315,245"/>
+<area shape="rect" id="Node000005" href="$d5/df6/class_c_game_text.html#a7f9fce5855479583cb9c8032debc3f30" title="Activates the game text entity." alt="" coords="34,157,155,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="298,253,244,226,183,198,149,187,151,182,185,194,246,221,300,249"/>
+<area shape="rect" id="Node000006" href="$d5/d48/class_c_game_team_master.html#a85aba10b728ccebb2edf9103e18162c3" title="Activates the game team master entity." alt="" coords="10,208,179,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="255,257,161,238,163,233,256,252"/>
+<area shape="rect" id="Node000007" href="$d1/d6d/class_c_game_team_set.html#a30b51b42f8dc2778a00924b67ec48d85" title="Activates the game team set entity." alt="" coords="20,259,169,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="216,275,169,275,169,269,216,269"/>
+<area shape="rect" id="Node000008" href="$d2/d3b/class_c_game_player_zone.html#a2d172f9788fa241f158a4bd2fa809f53" title="Activates the game player zone entity." alt="" coords="14,309,175,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="256,292,163,311,161,306,255,287"/>
+<area shape="rect" id="Node000009" href="$d7/d39/class_c_game_player_hurt.html#aada0bd6c34d5a7607bdf719efab662d1" title="Activates the game player hurt entity." alt="" coords="16,360,173,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="300,295,246,323,185,350,151,362,149,357,183,346,244,318,298,291"/>
+<area shape="rect" id="Node000010" href="$d3/da6/class_c_game_counter.html#a8f1923e52decd992afccf77085f4839c" title="Activates the game counter entity." alt="" coords="24,411,165,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="315,299,259,350,223,377,185,401,158,412,156,408,182,396,220,373,255,346,311,295"/>
+<area shape="rect" id="Node000011" href="$d7/d10/class_c_game_counter_set.html#a457698e9fe9b584da1dfb7cabc926a48" title="Activates the game counter set entity." alt="" coords="14,461,175,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="323,300,268,375,230,416,185,452,162,463,159,458,182,447,226,413,264,372,319,297"/>
+<area shape="rect" id="Node000012" href="$d8/dfc/class_c_game_player_team.html#a254f029366fd36320adecefc9b077972" title="Activates the game player team entity." alt="" coords="12,512,177,539"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="328,301,308,345,277,399,236,455,212,480,185,502,164,514,162,509,182,498,208,476,232,451,272,396,303,342,323,298"/>
+</map>

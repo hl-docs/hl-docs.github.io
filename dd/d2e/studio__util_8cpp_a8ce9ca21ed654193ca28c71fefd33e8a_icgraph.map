@@ -1,0 +1,28 @@
+<map id="VectorTransform" name="VectorTransform">
+<area shape="rect" id="Node000001" title="Transforms a vector by a 3x4 matrix." alt="" coords="920,64,1036,91"/>
+<area shape="rect" id="Node000002" href="$d1/d24/class_c_hud_overview.html#acb713b846e7d45cffd15b5aa9caebd5a" title="Renders the overview map and player markers." alt="" coords="703,5,844,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="919,61,871,47,830,35,831,30,872,41,921,56"/>
+<area shape="rect" id="Node000003" href="$de/dd7/class_c_hud_spectator.html#a06e164ad799ea1a1d85c60e554d2c5cb" title="Draws all overview entities (like players) on the map." alt="" coords="675,56,872,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="904,80,872,80,872,75,904,75"/>
+<area shape="rect" id="Node000007" href="$d6/d8a/class_c_studio_model_renderer.html#af2576ceef4b65ea1f0b89825cd60be0d" title="Calculates the attachment points for the current model." alt="" coords="690,135,857,177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="928,99,832,137,830,132,926,94"/>
+<area shape="rect" id="Node000004" href="$de/dd7/class_c_hud_spectator.html#a497b66b5fdecded16ce7c9d9f39088f4" title="Main function to draw the spectator overview." alt="" coords="431,51,627,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="660,74,628,72,628,67,660,68"/>
+<area shape="rect" id="Node000005" href="$d1/d0e/tri_8cpp.html#a80efb0af0ebb5b5348a07fce9d0a6a7d" title="Draws non&#45;transparent (opaque) triangles on the HUD." alt="" coords="200,51,377,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="416,67,377,67,377,61,416,61"/>
+<area shape="rect" id="Node000006" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="56,51,95,77"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="184,67,95,67,95,61,184,61"/>
+<area shape="rect" id="Node000008" href="$dc/dfc/class_c_game_studio_model_renderer.html#a8cdb66bddf12c8764c44e739a6e26ee5" title="Handles the actual drawing of the player model." alt="" coords="435,101,624,144"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="674,145,624,138,625,133,675,140"/>
+<area shape="rect" id="Node000011" href="$d6/d8a/class_c_studio_model_renderer.html#afe23a9a2eb5efe2286e7f9add748bc6d" title="Draws the studio model with transformations and effects." alt="" coords="211,193,366,236"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="675,170,366,208,366,203,675,165"/>
+<area shape="rect" id="Node000013" href="$d6/d8a/class_c_studio_model_renderer.html#ac436db615780b919854e618961ad8d28" title="Renders a player model in the studio." alt="" coords="452,219,606,261"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="696,185,594,221,593,216,694,180"/>
+<area shape="rect" id="Node000009" href="$dc/dfc/class_c_game_studio_model_renderer.html#a63196fe886f28fdfdedf4e0b24c8211c" title="Draws the player model on the screen." alt="" coords="194,101,383,144"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="419,125,383,125,383,120,419,120"/>
+<area shape="rect" id="Node000010" href="$d8/dfd/_game_studio_model_renderer_8cpp.html#ab59c170be1e5f319fdf78e61e00188c1" title="Draws a player model using the studio renderer." alt="" coords="5,109,146,136"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="179,125,146,125,146,120,179,120"/>
+<area shape="rect" id="Node000012" href="$d8/dfd/_game_studio_model_renderer_8cpp.html#a09d976038ea076a8f622859017b29b86" title="Draws a generic studio model." alt="" coords="6,201,145,228"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="195,217,145,217,145,212,195,212"/>
+<area shape="poly" id="edge13_Node000013_Node000011" title=" " alt="" coords="436,233,365,225,366,220,437,228"/>
+</map>

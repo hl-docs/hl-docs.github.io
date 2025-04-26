@@ -1,0 +1,5 @@
+<map id="CISlave::CheckRangeAttack1" name="CISlave::CheckRangeAttack1">
+<area shape="rect" id="Node000001" title="Checks if the CISlave can perform a range attack." alt="" coords="5,13,197,40"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a89ec6af32a2fe143fcb8e37e5a8de068" title="Checks if the monster can perform a range attack." alt="" coords="245,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,24,229,24,229,29,197,29"/>
+</map>

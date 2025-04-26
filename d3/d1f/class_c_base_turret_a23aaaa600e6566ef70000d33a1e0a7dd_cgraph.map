@@ -1,0 +1,35 @@
+<map id="CBaseTurret::TurretDeath" name="CBaseTurret::TurretDeath">
+<area shape="rect" id="Node000001" title="Handles the death behavior of the turret." alt="" coords="5,233,174,260"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="270,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,232,109,194,135,142,172,88,195,63,220,42,253,26,256,31,223,46,198,67,176,91,140,145,114,196,98,234"/>
+<area shape="rect" id="Node000005" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="253,56,391,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="96,231,143,165,178,125,220,92,237,84,240,88,223,97,182,129,147,168,101,234"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="299,107,345,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,231,152,188,185,164,221,143,252,131,282,123,284,128,253,136,223,148,188,168,155,192,106,235"/>
+<area shape="rect" id="Node000007" href="$d3/d1f/class_c_base_turret.html#a5dc8562f836fb099b48b028f3275dffc" title="Turns the turret&#39;s eye glow off." alt="" coords="252,157,392,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="122,230,221,193,246,186,248,191,223,199,124,235"/>
+<area shape="rect" id="Node000009" href="$d3/d1f/class_c_base_turret.html#ae04de7ce251f1980123b3240f4efb7a3" title="Turns the turret&#39;s eye glow on." alt="" coords="251,208,393,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="173,235,235,228,236,233,174,240"/>
+<area shape="rect" id="Node000010" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="522,335,656,361"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="122,258,169,277,222,295,297,311,372,324,507,340,506,345,372,329,296,317,221,300,167,282,120,263"/>
+<area shape="rect" id="Node000011" href="$d3/d1f/class_c_base_turret.html#abe14343099ae5102052ab4ec0ab5fa62" title="Moves the turret to its goal angles." alt="" coords="240,259,404,285"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="174,253,224,259,224,264,173,258"/>
+<area shape="rect" id="Node000013" href="$d3/d1f/class_c_base_turret.html#a400a671b3ad7cd0b3c8c171920718f99" title="Sets the turret&#39;s animation." alt="" coords="230,477,414,504"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="97,260,112,300,137,355,174,414,197,440,223,463,230,468,227,472,220,467,194,444,170,417,133,358,107,302,92,261"/>
+<area shape="rect" id="Node000015" href="$db/dc1/class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="222,411,422,453"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="101,259,148,325,183,363,223,397,231,401,228,406,220,401,179,367,144,328,97,262"/>
+<area shape="rect" id="Node000016" href="$dc/d44/dlls_2util_8cpp.html#a98b7dd5c6b2ea38ab577a0ea282b5a22" title="Emits sparks at a specified position." alt="" coords="274,360,370,387"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="108,258,157,298,223,339,260,354,258,359,220,344,154,302,105,262"/>
+<area shape="rect" id="Node000003" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="520,5,658,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,16,504,16,504,21,374,21"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="756,5,907,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="659,16,741,16,741,21,659,21"/>
+<area shape="rect" id="Node000008" href="$d3/d0f/class_c_sprite.html#a9b08724159d3ef5d536048a517d5ee9e" title=" " alt="" coords="512,183,666,209"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="393,175,497,185,496,190,392,180"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="393,212,496,202,497,207,393,217"/>
+<area shape="rect" id="Node000012" href="$db/dc1/class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="474,259,705,285"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="404,269,458,269,458,275,404,275"/>
+<area shape="rect" id="Node000014" href="$db/dc1/class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="470,477,708,504"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="415,488,455,488,455,493,415,493"/>
+<area shape="poly" id="edge17_Node000016_Node000010" title=" " alt="" coords="370,366,507,353,507,358,370,372"/>
+</map>

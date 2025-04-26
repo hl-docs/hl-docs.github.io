@@ -1,0 +1,5 @@
+<map id="Bench_CheckStart" name="Bench_CheckStart">
+<area shape="rect" id="Node000001" title="Checks if the benchmark should start based on the current map." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="Node000002" href="$de/dbe/hud__bench_8cpp.html#a6426b8473da368605c6626fbc3870018" title="Checks if the benchmark is currently active." alt="" coords="184,5,284,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,16,168,16,168,21,136,21"/>
+</map>

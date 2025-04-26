@@ -1,0 +1,5 @@
+<map id="UpdateRange" name="UpdateRange">
+<area shape="rect" id="Node000001" title="Updates the range of values based on the goal and best values." alt="" coords="194,5,293,32"/>
+<area shape="rect" id="Node000002" href="$d9/de7/class_c_graph.html#a3dcabc2c7b6931e4d5381ba2475918a1" title="Checks if a given point has been seen before and updates the nearest node if applicable." alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,21,146,21,146,16,178,16"/>
+</map>

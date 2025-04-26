@@ -1,0 +1,9 @@
+<map id="CRestore::BufferSkipZString" name="CRestore::BufferSkipZString">
+<area shape="rect" id="Node000001" title="Skips a null&#45;terminated string in the save data buffer." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="Node000002" href="$d2/d37/class_c_restore.html#a73f594ebe43fba44b2c0f4a9deae3ed2" title="Skips a specified number of bytes in the save data buffer." alt="" coords="237,5,413,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,16,221,16,221,21,189,21"/>
+<area shape="rect" id="Node000003" href="$d2/d37/class_c_restore.html#ad8fc064d5ba599de4f41faa5f257d37d" title="Reads a specified number of bytes from the save data buffer." alt="" coords="461,5,641,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,16,445,16,445,21,413,21"/>
+<area shape="rect" id="Node000004" href="$d2/d37/class_c_restore.html#ae755356c8043ae64d33d0973113763f6" title=" " alt="" coords="689,5,811,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="642,16,674,16,674,21,642,21"/>
+</map>

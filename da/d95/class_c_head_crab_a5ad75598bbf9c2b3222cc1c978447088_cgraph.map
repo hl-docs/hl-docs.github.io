@@ -1,0 +1,5 @@
+<map id="CHeadCrab::TakeDamage" name="CHeadCrab::TakeDamage">
+<area shape="rect" id="Node000001" title="Handles damage taken by the headcrab." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#ad73a936a05befe9d5e6a419042e69a21" title="Reduces the monster&#39;s health by a specified amount." alt="" coords="225,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,16,209,16,209,21,177,21"/>
+</map>

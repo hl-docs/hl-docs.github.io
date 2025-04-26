@@ -1,0 +1,7 @@
+<map id="CBasePlayerWeapon::CanDeploy" name="CBasePlayerWeapon::CanDeploy">
+<area shape="rect" id="Node000001" title="Checks if the weapon has enough ammo to be deployed." alt="" coords="5,23,159,65"/>
+<area shape="rect" id="Node000002" href="$dc/d11/class_c_base_player_item.html#a6abf912d6f83cafe942e9fd10e03729d" title=" " alt="" coords="207,5,403,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,33,191,29,191,34,159,38"/>
+<area shape="rect" id="Node000003" href="$dc/d11/class_c_base_player_item.html#a7b4cae9f3a51234c8e90ff2d053caa4c" title=" " alt="" coords="207,56,403,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,50,191,54,191,59,159,55"/>
+</map>

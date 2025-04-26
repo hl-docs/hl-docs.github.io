@@ -1,0 +1,7 @@
+<map id="CChangeLevel::ChangeList" name="CChangeLevel::ChangeList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="349,5,525,32"/>
+<area shape="rect" id="Node000002" href="$dc/d69/triggers_8cpp.html#aa8f51b7a816c691eda52e660bcd044a2" title="Builds the list of transitions for the current level." alt="" coords="186,5,301,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,21,302,21,302,16,334,16"/>
+<area shape="rect" id="Node000003" href="$d9/d95/client_8cpp.html#a1cd901fd2ea3509d9af66ef6343ba765" title="Changes parameters when transitioning to a new level." alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+</map>

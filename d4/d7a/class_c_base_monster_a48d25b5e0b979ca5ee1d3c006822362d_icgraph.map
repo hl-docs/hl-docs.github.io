@@ -1,0 +1,9 @@
+<map id="CBaseMonster::GetStoppedActivity" name="CBaseMonster::GetStoppedActivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,48,438,91"/>
+<area shape="rect" id="Node000002" href="$dc/d29/class_c_scientist.html#a3fd60520ee4d41fbce38ce63becfe4c5" title="Gets the stopped activity for the scientist." alt="" coords="5,5,206,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,49,172,35,173,30,239,44"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#a516e04b3500548aebd1e3700031c7daf" title=" " alt="" coords="34,56,177,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,72,177,72,177,67,238,67"/>
+<area shape="rect" id="Node000004" href="$de/d41/class_c_controller.html#a0e7115b7ab988f656b346f2dbe8fcadf" title="Stops the controller monster." alt="" coords="45,107,166,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,95,167,110,166,105,238,89"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="CGameText" name="CGameText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,581,181,608"/>
+<area shape="rect" id="Node000002" href="$da/df2/class_c_rule_point_entity.html" title=" " alt="" coords="76,491,196,517"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,533,139,581,133,581,133,533"/>
+<area shape="rect" id="Node000003" href="$da/ddf/class_c_rule_entity.html" title=" " alt="" coords="116,415,207,441"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,457,143,491,138,490,150,455"/>
+<area shape="rect" id="Node000004" href="$d5/de5/class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="177,304,271,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,345,171,416,166,413,207,343"/>
+<area shape="poly" id="edge9_Node000004_Node000004" title=" " alt="" coords="288,305,295,310,298,318,290,329,272,334,271,328,287,325,293,317,291,313,285,309"/>
+<area shape="rect" id="Node000005" href="$d2/d88/structentvars__s.html" title=" " alt="" coords="271,16,348,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="274,54,259,71,245,117,235,185,227,304,222,303,230,185,239,116,255,68,270,51"/>
+<area shape="rect" id="Node000006" href="$db/d8e/structedict__s.html" title=" " alt="" coords="402,304,465,331"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="363,48,386,68,399,107,413,176,434,304,429,304,408,177,394,108,382,71,360,52"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="413,294,388,272,367,264,347,264,327,261,309,247,294,221,286,193,283,163,283,134,292,80,302,42,308,44,297,81,289,134,288,163,291,192,299,219,313,244,329,256,347,259,368,259,391,267,417,290"/>
+<area shape="rect" id="Node000007" href="$d5/de3/structlink__s.html" title=" " alt="" coords="426,16,481,43"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="454,59,437,304,432,303,449,58"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="476,5,487,3,498,6,505,15,508,30,503,47,492,55,477,55,462,45,465,41,478,50,490,50,499,44,502,29,500,18,495,11,487,8,477,10"/>
+<area shape="rect" id="Node000008" href="$d7/db8/struct_t_y_p_e_d_e_s_c_r_i_p_t_i_o_n.html" title=" " alt="" coords="5,16,147,43"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="60,57,53,71,31,137,21,190,17,246,17,316,17,505,24,531,42,551,66,567,92,578,90,583,63,572,38,555,19,533,12,506,12,316,12,245,15,190,26,135,48,68,55,55"/>
+<area shape="poly" id="edge11_Node000003_Node000008" title=" " alt="" coords="73,58,63,117,58,195,60,238,65,281,75,324,91,364,112,392,139,412,136,416,109,396,86,367,70,326,60,282,54,238,53,195,58,116,67,57"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="92,56,97,69,111,119,117,160,125,199,147,244,175,277,206,302,203,306,171,281,142,247,120,200,111,161,106,120,92,70,87,58"/>
+<area shape="rect" id="Node000009" href="$df/d0a/structhudtextparms__s.html" title=" " alt="" coords="220,491,335,517"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="246,528,158,583,155,579,243,524"/>
+</map>

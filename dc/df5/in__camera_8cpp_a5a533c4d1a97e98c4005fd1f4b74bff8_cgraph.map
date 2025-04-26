@@ -1,0 +1,5 @@
+<map id="CAM_PitchDownUp" name="CAM_PitchDownUp">
+<area shape="rect" id="Node000001" title="Called when the user releases the key to tilt the camera down." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="Node000002" href="$d8/d8c/input_8cpp.html#a4d4954f7bc20bbdcee21bea11b60ca74" title="Handles a key up event for a specific key binding (kbutton_t)." alt="" coords="189,5,249,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,16,173,16,173,21,141,21"/>
+</map>

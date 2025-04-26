@@ -1,0 +1,5 @@
+<map id="CIchthyosaur::ChangePitch" name="CIchthyosaur::ChangePitch">
+<area shape="rect" id="Node000001" title="Changes the pitch of the ichthyosaur." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="Node000002" href="$dc/d44/dlls_2util_8cpp.html#a8573262bee7112502517211c45a68032" title="Approaches a target value at a specified speed." alt="" coords="233,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,16,217,16,217,21,185,21"/>
+</map>

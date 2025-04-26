@@ -1,0 +1,7 @@
+<map id="CSatchel::Throw" name="CSatchel::Throw">
+<area shape="rect" id="Node000001" title="Throws the satchel charge." alt="" coords="236,31,352,57"/>
+<area shape="rect" id="Node000002" href="$dc/d48/class_c_satchel.html#ac4ccb1ad1565293be1a94865467af971" title="Handles the primary attack action of the satchel charge." alt="" coords="14,5,179,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,37,179,32,180,27,220,32"/>
+<area shape="rect" id="Node000003" href="$dc/d48/class_c_satchel.html#a595c21e8d7f8eb494fa9f293240ce62f" title="Handles the secondary attack action of the satchel charge." alt="" coords="5,56,188,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,56,188,60,188,55,220,51"/>
+</map>

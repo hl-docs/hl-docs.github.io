@@ -1,0 +1,7 @@
+<map id="CFuncTrackTrain::SetTrack" name="CFuncTrackTrain::SetTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,31,434,57"/>
+<area shape="rect" id="Node000002" href="$d0/d93/class_c_func_track_change.html#ad89e56032f6380bd3b37c9c55e1c76a7" title="Handles the event when the track change entity hits the bottom." alt="" coords="5,5,207,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,36,207,32,207,27,240,30"/>
+<area shape="rect" id="Node000003" href="$d0/d93/class_c_func_track_change.html#af3884efbdd881f0f26835f16c80672fa" title="Handles the event when the track change entity hits the top." alt="" coords="16,56,196,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,58,197,62,197,57,239,53"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Bench_SetStage" name="Bench_SetStage">
+<area shape="rect" id="Node000001" title="Sets the current benchmark stage." alt="" coords="435,31,554,57"/>
+<area shape="rect" id="Node000002" href="$d8/d13/class_c_hud_benchmark.html#afd707bb791e0362f0de978e6784026e9" title="Starts the benchmarking system." alt="" coords="218,5,387,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,37,387,32,388,27,420,31"/>
+<area shape="rect" id="Node000004" href="$d8/d13/class_c_hud_benchmark.html#ae06d9a798b4da8865329470c7fc29880" title="Updates the benchmark logic." alt="" coords="223,56,382,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,57,382,61,382,56,419,51"/>
+<area shape="rect" id="Node000003" href="$de/dbe/hud__bench_8cpp.html#ac67f3c426c06d3b0968f1872acaaa48d" title="Console command to start the benchmark." alt="" coords="5,5,170,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
+</map>

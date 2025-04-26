@@ -1,5 +1,0 @@
-<map id="V_CalcIntermissionRefdef" name="V_CalcIntermissionRefdef">
-<area shape="rect" id="Node000001" title="Calculates the reference definition for intermission." alt="" coords="5,5,175,32"/>
-<area shape="rect" id="Node000002" href="$view_8cpp.html#ac4b83b967417c92b57ebc8154f727e2f" title="Adds idle swaying effect to the view angles." alt="" coords="223,5,303,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,16,207,16,207,21,175,21"/>
-</map>

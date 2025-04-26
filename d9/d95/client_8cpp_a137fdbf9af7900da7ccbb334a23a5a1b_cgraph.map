@@ -1,0 +1,5 @@
+<map id="Q_UTF8ToUChar32" name="Q_UTF8ToUChar32">
+<area shape="rect" id="Node000001" title="Decodes one character from a UTF&#45;8 encoded string." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="Node000002" href="$d9/d95/client_8cpp.html#a354e2c16bfe48d253bb38d437a65aeea" title="Checks if a uchar32 value is a valid Unicode code point." alt="" coords="187,5,314,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,16,171,16,171,21,139,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CFlockingFlyer::SquadDisband" name="CFlockingFlyer::SquadDisband">
+<area shape="rect" id="Node000001" title="Disbands the squad by unlinking all members." alt="" coords="5,5,206,32"/>
+<area shape="rect" id="Node000002" href="$da/df0/class_c_flocking_flyer.html#ae401423fca780ba30ac3af7f59f8512e" title="Unlinks the squad pointers for the boid." alt="" coords="254,5,443,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,16,238,16,238,21,206,21"/>
+</map>

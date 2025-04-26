@@ -1,0 +1,5 @@
+<map id="CHudSpectator::Reset" name="CHudSpectator::Reset">
+<area shape="rect" id="Node000001" title="Resets the spectator HUD to a clean state." alt="" coords="242,5,393,32"/>
+<area shape="rect" id="Node000002" href="$de/dd7/class_c_hud_spectator.html#ad4ca0f1796f5dc68c9e23eadd341a033" title="Initializes all HUD data structures for the spectator." alt="" coords="5,5,194,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,21,194,21,194,16,226,16"/>
+</map>

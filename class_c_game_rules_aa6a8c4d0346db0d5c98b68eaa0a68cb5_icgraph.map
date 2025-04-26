@@ -1,9 +1,0 @@
-<map id="CGameRules::WeaponShouldRespawn" name="CGameRules::WeaponShouldRespawn">
-<area shape="rect" id="Node000001" title=" " alt="" coords="704,5,899,48"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player_item.html#a31d7dbe9edfa3f42f3dcd197a6777798" title="Checks if a weapon should respawn." alt="" coords="436,13,656,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="689,29,657,29,657,24,689,24"/>
-<area shape="rect" id="Node000003" href="$class_c_base_player.html#a94b1094383a8e96f968894127e9105dd" title="Adds a player item to the player&#39;s inventory." alt="" coords="198,13,388,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,29,388,29,388,24,420,24"/>
-<area shape="rect" id="Node000004" href="$class_c_weapon_box.html#a05b62b15425330cf3357ea7bd7d13b3d" title="Handles the touch interaction for the weapon box." alt="" coords="5,13,150,40"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,29,150,29,150,24,183,24"/>
-</map>

@@ -1,0 +1,9 @@
+<map id="CGrenade::ShootTimed" name="CGrenade::ShootTimed">
+<area shape="rect" id="Node000001" title="Creates and shoots a timed grenade." alt="" coords="257,56,413,83"/>
+<area shape="rect" id="Node000002" href="$db/dec/class_c_h_assassin.html#a3f9283db83b1e86ec67dd86ba5e4fe0a" title="Handles animation events for the assassin." alt="" coords="5,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,55,170,35,171,30,257,49"/>
+<area shape="rect" id="Node000003" href="$d3/de7/class_c_h_grunt.html#ab3164e77b091c16db163e518331ce563" title="Handles animation events for the grunt." alt="" coords="16,56,198,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,72,198,72,198,67,241,67"/>
+<area shape="rect" id="Node000004" href="$dd/dca/class_c_hand_grenade.html#a461944ce47c7e9b0747e4099acc73658" title="Manages the idle state of the hand grenade." alt="" coords="14,107,200,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,89,171,109,170,103,256,84"/>
+</map>

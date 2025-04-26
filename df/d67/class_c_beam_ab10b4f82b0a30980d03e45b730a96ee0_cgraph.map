@@ -1,0 +1,30 @@
+<map id="CBeam::EntsInit" name="CBeam::EntsInit">
+<area shape="rect" id="Node000001" title="Initializes the beam with start and end entities." alt="" coords="5,233,122,260"/>
+<area shape="rect" id="Node000002" href="$df/d67/class_c_beam.html#a8f35c1f4f28639dfeea55495157863f0" title="Relinks the beam entity." alt="" coords="192,107,335,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,231,112,188,139,164,168,143,180,137,183,142,171,148,142,168,115,192,77,235"/>
+<area shape="rect" id="Node000010" href="$df/d67/class_c_beam.html#a57e94a8f627db32d00ecbece51a11850" title=" " alt="" coords="172,157,355,184"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="89,230,169,194,190,186,191,191,171,198,91,235"/>
+<area shape="rect" id="Node000011" href="$df/d67/class_c_beam.html#a7876de5e9998abf12b44bee5cb269ccb" title="Sets the end entity for the beam." alt="" coords="189,208,338,235"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="122,237,173,230,173,235,122,242"/>
+<area shape="rect" id="Node000012" href="$df/d67/class_c_beam.html#ab84757a1cb92ce7c8d90b3164d20ea42" title=" " alt="" coords="170,259,357,285"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="122,251,154,255,154,261,122,257"/>
+<area shape="rect" id="Node000013" href="$df/d67/class_c_beam.html#a342ac202ea3477215befac4a9f2e97c8" title="Sets the start entity for the beam." alt="" coords="186,309,341,336"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="91,258,171,295,191,302,190,307,169,300,89,263"/>
+<area shape="rect" id="Node000014" href="$df/d67/class_c_beam.html#a8ff0d6c0d2947a17cc1da69ad31d7b9b" title=" " alt="" coords="203,360,324,387"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="77,259,115,302,142,326,171,346,189,354,187,359,168,350,139,330,112,306,73,262"/>
+<area shape="rect" id="Node000003" href="$df/d67/class_c_beam.html#a34a675c6f2f84f896e8565b1c83af9f9" title="Gets the end position of the beam." alt="" coords="408,31,547,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,104,404,67,422,61,423,66,406,72,304,109"/>
+<area shape="rect" id="Node000006" href="$df/d67/class_c_beam.html#acae4ffb01e69219b45cd95ed915a324d" title="Gets the start position of the beam." alt="" coords="405,81,549,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="335,109,389,102,390,108,335,114"/>
+<area shape="rect" id="Node000008" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="423,132,531,159"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="335,126,408,135,407,140,335,131"/>
+<area shape="rect" id="Node000009" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="427,183,527,209"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="324,131,358,143,406,168,421,174,419,179,404,173,356,148,322,136"/>
+<area shape="rect" id="Node000004" href="$df/d67/class_c_beam.html#a9833b4276062463779d434cc7e4c4ea7" title=" " alt="" coords="600,5,750,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="547,32,584,28,585,33,548,38"/>
+<area shape="rect" id="Node000005" href="$df/d67/class_c_beam.html#a912392c66da142851a6c87b31a54f534" title=" " alt="" coords="614,56,736,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="548,50,599,57,598,62,547,56"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="549,83,598,76,599,82,550,88"/>
+<area shape="rect" id="Node000007" href="$df/d67/class_c_beam.html#ac2c5c42aa10f784e1b1da3c62082e405" title=" " alt="" coords="597,107,753,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="550,101,583,105,582,111,549,107"/>
+</map>

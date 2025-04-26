@@ -1,0 +1,5 @@
+<map id="CFuncTrackAuto::UpdateAutoTargets" name="CFuncTrackAuto::UpdateAutoTargets">
+<area shape="rect" id="Node000001" title="Updates the auto targets for the track change based on the current state." alt="" coords="203,5,397,48"/>
+<area shape="rect" id="Node000002" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="5,13,155,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,29,155,29,155,24,188,24"/>
+</map>

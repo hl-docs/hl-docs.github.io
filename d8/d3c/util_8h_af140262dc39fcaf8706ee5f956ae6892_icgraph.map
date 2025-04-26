@@ -1,0 +1,52 @@
+<map id="UTIL_TraceHull" name="UTIL_TraceHull">
+<area shape="rect" id="Node000001" title="Traces a hull between two points." alt="" coords="1160,333,1268,360"/>
+<area shape="rect" id="Node000002" href="$db/d0e/class_c_test_hull.html#ada9729155afdc4c607f39dcc387321b9" title="Builds the node graph by linking visible nodes." alt="" coords="913,13,1093,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1209,318,1203,261,1187,190,1175,153,1158,116,1137,83,1110,54,1091,42,1094,37,1114,50,1141,80,1163,114,1180,151,1192,189,1208,261,1214,317"/>
+<area shape="rect" id="Node000007" href="$de/d41/class_c_controller.html#af7c1a668db4b9b7a895b1a6e18a78364" title="Checks the local move for the controller monster." alt="" coords="907,64,1099,91"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1207,319,1198,271,1180,213,1152,154,1133,128,1110,105,1093,93,1095,89,1114,101,1137,124,1157,152,1185,211,1203,270,1212,318"/>
+<area shape="rect" id="Node000008" href="$d9/d13/class_c_flying_monster.html#aff29d110207d3db7b8cccfb935a03ade" title="Checks if the flying monster can move from one point to another." alt="" coords="894,115,1112,141"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1203,319,1192,281,1173,237,1146,193,1110,155,1091,144,1094,140,1114,151,1150,189,1177,234,1197,279,1209,317"/>
+<area shape="rect" id="Node000010" href="$db/dec/class_c_h_assassin.html#a834aa189005a8e4b3b73bea880d63b19" title="Checks if a melee attack can be performed." alt="" coords="894,165,1112,192"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1199,320,1164,262,1140,231,1111,206,1088,195,1091,190,1113,202,1144,228,1169,259,1203,318"/>
+<area shape="rect" id="Node000011" href="$db/d80/player_8cpp.html#a42d88854dc4f552adae010f8bb2a33b5" title="Fixes the player&#39;s position if they are stuck while crouching." alt="" coords="927,216,1079,243"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1190,323,1155,289,1111,257,1078,244,1080,239,1113,252,1159,284,1194,320"/>
+<area shape="rect" id="Node000012" href="$d5/da4/class_c_gargantua.html#a60cfec2515bd0d11140a7c6dafa3ced0" title="Checks for trace hull attacks specific to the Gargantua." alt="" coords="905,267,1101,309"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1148,331,1081,313,1083,307,1149,326"/>
+<area shape="rect" id="Node000014" href="$de/da2/class_c_houndeye.html#a30498cea7548a29ba46dc6659906aee4" title="Retrieves the current schedule for the Houndeye." alt="" coords="917,333,1089,360"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1144,349,1089,349,1089,344,1144,344"/>
+<area shape="rect" id="Node000015" href="$d5/da5/class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="916,384,1090,411"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1145,367,1113,375,1065,386,1063,381,1111,369,1144,361"/>
+<area shape="rect" id="Node000016" href="$d3/de7/class_c_h_grunt.html#a837211a8df9f2531256b83a54b556267" title="Performs a kick action." alt="" coords="950,435,1056,461"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1189,372,1155,400,1113,425,1057,443,1055,438,1111,420,1152,396,1186,368"/>
+<area shape="rect" id="Node000017" href="$d5/d34/class_c_nihilanth.html#a79e5766e26f17d967bb6cb9283620bd5" title="Creates a friendly entity near the specified start position." alt="" coords="925,485,1081,512"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1201,375,1166,427,1142,453,1113,476,1083,490,1080,485,1111,471,1138,449,1162,424,1196,372"/>
+<area shape="rect" id="Node000021" href="$d4/d30/class_c_ichthyosaur.html#a18b594eb6441785ceb517044738281ff" title="Runs a specific task for the ichthyosaur." alt="" coords="925,536,1081,563"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="1207,376,1194,410,1175,451,1148,492,1114,526,1083,542,1080,537,1110,522,1144,488,1170,449,1190,408,1202,374"/>
+<area shape="rect" id="Node000022" href="$d5/d05/class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="943,587,1063,613"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="1211,376,1201,421,1183,475,1154,530,1136,555,1114,577,1090,591,1064,599,1063,593,1088,586,1110,573,1132,551,1150,527,1178,473,1196,419,1206,375"/>
+<area shape="rect" id="Node000025" href="$df/d88/class_c_stomp.html#a2f37ca54538079dea72f3af6e9504a6d" title="Updates the stomp effect each frame." alt="" coords="949,637,1057,664"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="1214,376,1207,429,1190,497,1177,533,1161,567,1140,599,1114,627,1087,643,1057,651,1056,646,1085,638,1110,623,1135,596,1156,565,1173,531,1185,496,1201,428,1208,375"/>
+<area shape="rect" id="Node000003" href="$db/d0e/class_c_test_hull.html#aad56faaf4b10648994e5650c397f76e4" title=" " alt="" coords="662,5,829,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="898,29,829,29,829,24,898,24"/>
+<area shape="rect" id="Node000004" href="$db/d0e/class_c_test_hull.html#a6bd422d36cfba68700cb890f7c519f3e" title="Delays the spawning of the test hull." alt="" coords="436,13,581,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="647,29,581,29,581,24,647,24"/>
+<area shape="rect" id="Node000005" href="$db/d0e/class_c_test_hull.html#aa68319e3970124e67195cd9cd5f3754a" title="Spawns the test hull entity." alt="" coords="214,13,338,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="420,29,338,29,338,24,420,24"/>
+<area shape="rect" id="Node000006" href="$da/d35/class_c_node_ent.html#a96bd94d32822b0009dd8aacaf78b6913" title="Spawns the node entity." alt="" coords="5,13,133,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="198,29,133,29,133,24,198,24"/>
+<area shape="rect" id="Node000009" href="$d9/d13/class_c_flying_monster.html#a26d74b7b4e6820298b8919c9cea88e87" title="Executes the movement of the flying monster." alt="" coords="646,115,845,141"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="878,131,845,131,845,125,878,125"/>
+<area shape="rect" id="Node000013" href="$d5/da4/class_c_gargantua.html#a813428a67ee9bb342a2cd0fb2ab1b4f1" title="Handles animation events specific to the Gargantua." alt="" coords="645,275,846,301"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="890,291,846,291,846,285,890,285"/>
+<area shape="rect" id="Node000018" href="$d9/d71/class_c_nihilanth_h_v_r.html#a0453f9e28703d6f1827bff340250549a" title="Handles the teleport touch behavior for the Nihilanth Hover entity." alt="" coords="647,485,844,512"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="909,501,844,501,844,496,909,496"/>
+<area shape="rect" id="Node000019" href="$d9/d71/class_c_nihilanth_h_v_r.html#aed4a50ddacf698f481b8638acba76786" title="Initializes the teleport behavior for the Nihilanth Hover entity." alt="" coords="419,485,597,512"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="631,501,598,501,598,496,631,496"/>
+<area shape="rect" id="Node000020" href="$d5/d34/class_c_nihilanth.html#a4ed6459161906e00ac47759243266ca5" title="Handles animation events for the Nihilanth." alt="" coords="181,485,371,512"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="404,501,372,501,372,496,404,496"/>
+<area shape="rect" id="Node000023" href="$d5/d05/class_c_crowbar.html#a75fe911c0db1c8068051588cbfa2c6e9" title="Handles the primary attack action of the crowbar." alt="" coords="424,561,592,588"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="927,588,845,577,713,572,593,574,593,568,713,567,846,572,927,583"/>
+<area shape="rect" id="Node000024" href="$d5/d05/class_c_crowbar.html#ae3b7f4f2780a8f6c7ed0709d2bc0deb9" title="Handles the second swing of the crowbar." alt="" coords="669,587,822,613"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="927,603,823,603,823,597,927,597"/>
+<area shape="poly" id="edge24_Node000024_Node000023" title=" " alt="" coords="653,593,592,586,593,581,654,588"/>
+</map>

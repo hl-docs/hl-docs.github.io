@@ -1,0 +1,7 @@
+<map id="IN_Shutdown" name="IN_Shutdown">
+<area shape="rect" id="Node000001" title="Cleans up mouse input and threads before shutting down." alt="" coords="5,31,103,57"/>
+<area shape="rect" id="Node000002" href="$d0/d2d/hud__benchtrace_8cpp.html#aa488fcf48429890274a9975cf007c3ae" title=" " alt="" coords="184,5,257,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,34,168,24,169,29,104,39"/>
+<area shape="rect" id="Node000003" href="$d3/dfc/inputw32_8cpp.html#a9d9aefec0e1714a85d514c780555e58f" title="Deactivates mouse input, disabling it temporarily (e.g., in menus)." alt="" coords="151,56,290,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,49,136,54,135,59,103,54"/>
+</map>

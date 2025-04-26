@@ -1,0 +1,11 @@
+<map id="CGlock::WeaponIdle" name="CGlock::WeaponIdle">
+<area shape="rect" id="Node000001" title="Handles the idle state of the Glock weapon." alt="" coords="5,64,146,91"/>
+<area shape="rect" id="Node000002" href="$d5/d03/class_c_base_player.html#aa180c6589aa815dabe3bdc9f80bd57ee" title="Gets the autoaim vector for the player." alt="" coords="194,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,61,193,41,224,34,225,39,194,47,125,66"/>
+<area shape="rect" id="Node000003" href="$da/d7d/class_c_base_player_weapon.html#a2cdda2ed10aa05ff573b90c95f4176e0" title="Resets the ability to play the empty sound again." alt="" coords="223,56,377,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,75,208,75,208,80,146,80"/>
+<area shape="rect" id="Node000004" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="223,123,377,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,89,212,115,210,120,123,94"/>
+<area shape="rect" id="Node000005" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="454,131,617,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="377,141,439,141,439,147,377,147"/>
+</map>

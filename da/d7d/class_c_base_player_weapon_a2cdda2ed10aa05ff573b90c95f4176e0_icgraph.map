@@ -1,0 +1,19 @@
+<map id="CBasePlayerWeapon::ResetEmptySound" name="CBasePlayerWeapon::ResetEmptySound">
+<area shape="rect" id="Node000001" title="Resets the ability to play the empty sound again." alt="" coords="217,175,370,217"/>
+<area shape="rect" id="Node000002" href="$d4/d7c/class_c_glock.html#abfa1abfef62e10fd9b96fb270c0759be" title="Handles the idle state of the Glock weapon." alt="" coords="17,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,163,227,103,199,72,167,46,146,35,148,30,170,42,203,69,231,100,274,160"/>
+<area shape="rect" id="Node000003" href="$db/dc8/class_c_python.html#a8a082c25a08c49a24ed41a582d24f5d6" title="Handles the idle state of the Python weapon." alt="" coords="13,56,161,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,166,217,130,167,97,141,86,143,81,170,92,220,126,262,162"/>
+<area shape="rect" id="Node000004" href="$dd/d36/class_c_m_p5.html#a6c5609ed4a59eed702bf6e8cd0803b8a" title="Handles the idle state of the MP5 weapon." alt="" coords="20,107,154,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="226,171,168,148,134,136,136,131,170,143,228,166"/>
+<area shape="rect" id="Node000005" href="$d0/db0/class_c_crossbow.html#a2852f3d63427898f6fea4df5aac8e587" title="Handles the idle state of the crossbow weapon." alt="" coords="5,157,169,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="201,187,169,183,169,178,202,182"/>
+<area shape="rect" id="Node000006" href="$d5/de8/class_c_shotgun.html#a06bb237b962c62cca6f409466dea4782" title="Handles the idle state of the shotgun." alt="" coords="10,208,164,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="201,210,165,214,164,209,201,205"/>
+<area shape="rect" id="Node000007" href="$da/d7e/class_c_rpg.html#a4d1ff08f3ae0844b464b69f1ac21585c" title="Handles the idle state of the RPG weapon." alt="" coords="22,259,152,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="228,226,170,249,136,261,134,256,168,244,226,221"/>
+<area shape="rect" id="Node000008" href="$db/dab/class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="15,309,159,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="262,230,220,266,170,300,143,311,141,306,167,295,217,262,258,226"/>
+<area shape="rect" id="Node000009" href="$de/d32/class_c_egon.html#a846e9d63158bc388c93d70ab5963565e" title="Handles the idle state of the Egon weapon." alt="" coords="19,360,155,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="274,232,231,292,203,323,170,350,148,362,146,357,167,346,199,320,227,289,270,229"/>
+</map>

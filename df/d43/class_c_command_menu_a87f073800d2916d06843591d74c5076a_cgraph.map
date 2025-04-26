@@ -1,0 +1,8 @@
+<map id="CCommandMenu::RecalculateVisibles" name="CCommandMenu::RecalculateVisibles">
+<area shape="rect" id="Node000001" title="Recalculates the visibility of buttons in the menu." alt="" coords="5,35,203,77"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="57,35,55,25,63,16,79,10,104,8,130,10,146,17,144,22,129,16,104,13,81,15,66,20,60,26,62,34"/>
+<area shape="rect" id="Node000002" href="$d5/dd3/class_command_button.html#a64fd038ae02cac9fffc42344415182a9" title=" " alt="" coords="260,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,42,244,37,244,42,204,47"/>
+<area shape="rect" id="Node000003" href="$d5/dd3/class_command_button.html#a38816dbe2213fb5d0579d399d41e42c2" title=" " alt="" coords="251,72,453,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,65,236,69,235,74,203,70"/>
+</map>

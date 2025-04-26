@@ -1,7 +1,0 @@
-<map id="CBaseMonster::FTriangulate" name="CBaseMonster::FTriangulate">
-<area shape="rect" id="Node000001" title=" " alt="" coords="245,31,431,57"/>
-<area shape="rect" id="Node000002" href="$class_c_flying_monster.html#a070e1c6a1ebbe1a8efdc4413d41403df" title="Triangulates a path for the flying monster." alt="" coords="5,5,197,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,35,197,32,197,26,230,30"/>
-<area shape="rect" id="Node000003" href="$class_c_bullsquid.html#ab1f1adb99f3a0466c35e2a3d37fee7ab" title="Handles damage taken by the bullsquid." alt="" coords="17,56,185,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,58,186,63,185,58,229,53"/>
-</map>

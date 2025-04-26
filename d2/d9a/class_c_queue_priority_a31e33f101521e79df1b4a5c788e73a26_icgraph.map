@@ -1,0 +1,7 @@
+<map id="CQueuePriority::Insert" name="CQueuePriority::Insert">
+<area shape="rect" id="Node000001" title="Inserts a value into the priority queue." alt="" coords="413,5,562,32"/>
+<area shape="rect" id="Node000002" href="$d9/de7/class_c_graph.html#aaa365031686991b434983979820ff128" title="Finds the shortest path from the start node to the destination node." alt="" coords="191,5,365,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="397,21,366,21,366,16,397,16"/>
+<area shape="rect" id="Node000003" href="$db/d0e/class_c_test_hull.html#a0abba0b039176ee35ed2eeb198dca3a9" title="Finds a hardcoded path in the node graph." alt="" coords="5,5,143,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,21,143,21,143,16,175,16"/>
+</map>

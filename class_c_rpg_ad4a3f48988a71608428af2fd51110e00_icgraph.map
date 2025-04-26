@@ -1,7 +1,0 @@
-<map id="CRpg::UpdateSpot" name="CRpg::UpdateSpot">
-<area shape="rect" id="Node000001" title="Updates the position of the laser spot based on the player&#39;s aim." alt="" coords="198,31,327,57"/>
-<area shape="rect" id="Node000002" href="$class_c_rpg.html#a953326b14bfe1e7acdf5d72ba8b3fd80" title="Handles the primary attack for the RPG weapon." alt="" coords="5,5,150,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,36,150,31,151,26,183,30"/>
-<area shape="rect" id="Node000003" href="$class_c_rpg.html#a4d1ff08f3ae0844b464b69f1ac21585c" title="Handles the idle state of the RPG weapon." alt="" coords="13,56,142,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,58,143,63,142,58,182,52"/>
-</map>

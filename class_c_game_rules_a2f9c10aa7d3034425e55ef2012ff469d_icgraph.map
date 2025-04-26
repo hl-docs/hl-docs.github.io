@@ -1,7 +1,0 @@
-<map id="CGameRules::ClientCommand" name="CGameRules::ClientCommand">
-<area shape="rect" id="Node000001" title=" " alt="" coords="178,43,376,69"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a879615793743076187f5a4a652ff7664" title="Handles client commands in multiplayer mode." alt="" coords="5,5,130,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,43,130,38,130,33,162,37"/>
-<area shape="rect" id="Node000003" href="$client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="11,72,124,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,75,125,80,124,75,162,69"/>
-</map>

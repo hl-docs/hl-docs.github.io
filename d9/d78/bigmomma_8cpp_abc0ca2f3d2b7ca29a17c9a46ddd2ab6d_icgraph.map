@@ -1,0 +1,5 @@
+<map id="VecCheckSplatToss" name="VecCheckSplatToss">
+<area shape="rect" id="Node000001" title="Calculates the velocity for a splat toss." alt="" coords="277,5,416,32"/>
+<area shape="rect" id="Node000002" href="$dd/d0a/class_c_big_momma.html#a9f26cf143e0cda155b43121b8293fc83" title="Checks if the Big Momma can perform a range attack." alt="" coords="5,5,229,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,21,229,21,229,16,261,16"/>
+</map>

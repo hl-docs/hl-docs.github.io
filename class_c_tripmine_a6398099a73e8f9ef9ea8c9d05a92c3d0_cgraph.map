@@ -1,5 +1,0 @@
-<map id="CTripmine::Precache" name="CTripmine::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed by the tripmine weapon." alt="" coords="5,5,148,32"/>
-<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#ab86625fdeef115046e288fecc38018c7" title=" " alt="" coords="196,5,337,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,16,180,16,180,21,148,21"/>
-</map>

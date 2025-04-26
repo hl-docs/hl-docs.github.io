@@ -1,5 +1,0 @@
-<map id="CCrossbow::FireBolt" name="CCrossbow::FireBolt">
-<area shape="rect" id="Node000001" title="Fires a regular bolt from the crossbow." alt="" coords="232,5,372,32"/>
-<area shape="rect" id="Node000002" href="$class_c_crossbow.html#a088e3d420a0cb3943cf33cf126323a32" title="Handles the primary attack of the crossbow weapon." alt="" coords="5,5,184,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,21,184,21,184,16,216,16"/>
-</map>

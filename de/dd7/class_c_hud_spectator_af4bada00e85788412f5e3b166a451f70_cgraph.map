@@ -1,0 +1,28 @@
+<map id="CHudSpectator::GetDirectorCamera" name="CHudSpectator::GetDirectorCamera">
+<area shape="rect" id="Node000001" title="Calculates the director camera view for the spectator." alt="" coords="5,156,189,199"/>
+<area shape="rect" id="Node000002" href="$d6/dee/class_c_interpolation.html#a0b46837fc3307be19a85223a586cf516" title="Interpolates position, angle, and FOV based on time parameter t." alt="" coords="270,80,438,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,153,236,124,286,109,287,114,238,129,156,158"/>
+<area shape="rect" id="Node000006" href="$de/dd7/class_c_hud_spectator.html#a15551e823f222d69b2fcebcf74bbc7fc" title="Sets the spectator camera view to a given position and angle." alt="" coords="249,139,459,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,166,233,161,234,167,189,171"/>
+<area shape="rect" id="Node000007" href="$de/dd7/class_c_hud_spectator.html#a6779512b6dedc88e74f65c4bae652915" title="Configures the camera interpolation between waypoints for the spectator." alt="" coords="237,189,471,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="189,184,221,187,221,192,189,189"/>
+<area shape="rect" id="Node000013" href="$d2/d29/cl__dll_2util_8cpp.html#a01a447b0daa5f1359936ce1b96a472ef" title="Converts a forward direction vector into a corresponding yaw and pitch (angles)." alt="" coords="304,240,404,267"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="154,197,237,225,290,238,288,244,236,231,152,202"/>
+<area shape="rect" id="Node000003" href="$d6/dee/class_c_interpolation.html#a9e61a4e2be7c3c500e9ee3eb53ead3d2" title="Performs Bezier interpolation on the position using Bernstein polynomials." alt="" coords="519,5,724,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,77,517,50,519,55,411,82"/>
+<area shape="rect" id="Node000004" href="$d6/dee/class_c_interpolation.html#aff22757e65d294c15e0bdf2d0dd9bd99" title="Interpolates angles correctly by avoiding wrapping issues." alt="" coords="538,72,706,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="438,91,522,91,522,96,438,96"/>
+<area shape="rect" id="Node000005" href="$d3/dc7/pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="789,160,909,187"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="692,113,725,124,799,152,797,157,723,129,690,118"/>
+<area shape="rect" id="Node000008" href="$d6/dee/class_c_interpolation.html#a58682675e58e9a519c4a0a73f2b1d51a" title="Sets the starting and ending FOV values for interpolation." alt="" coords="541,139,703,165"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="428,186,532,166,533,171,429,191"/>
+<area shape="rect" id="Node000009" href="$d6/dee/class_c_interpolation.html#a39c04b7080590a473d5d92e4451f4fd8" title="Enables or disables smoothing at the start and end of the interpolation." alt="" coords="527,189,717,216"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="471,200,511,200,511,205,471,205"/>
+<area shape="rect" id="Node000010" href="$d6/dee/class_c_interpolation.html#a74ff26086a3848bb2aab46f94b4897be" title="Sets the starting and ending view angles for interpolation." alt="" coords="524,240,720,267"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="429,214,533,234,532,239,428,219"/>
+<area shape="rect" id="Node000011" href="$d6/dee/class_c_interpolation.html#a8c11f2c61c37ac5705b2a5482f661969" title="Sets control points for position interpolation with optional context." alt="" coords="527,291,717,317"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="446,214,472,226,488,238,497,252,506,264,520,276,531,282,529,287,518,281,502,268,493,255,484,242,470,230,444,219"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="685,237,723,225,806,191,808,196,725,231,686,242"/>
+<area shape="rect" id="Node000012" href="$d2/d6c/interpolation_8cpp.html#a1b1a9dfa35f67c6bae0831799a343794" title="Calculates the closest point between two lines in 3D space." alt="" coords="772,291,926,317"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="717,301,757,301,757,307,717,307"/>
+</map>

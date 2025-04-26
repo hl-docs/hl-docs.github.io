@@ -1,0 +1,35 @@
+<map id="V_CalcNormalRefdef" name="V_CalcNormalRefdef">
+<area shape="rect" id="Node000001" title="Calculates the normal reference definition for the player&#39;s view." alt="" coords="5,233,146,260"/>
+<area shape="rect" id="Node000002" href="$dc/df5/in__camera_8cpp.html#ab3dc2e02f0891fa26efe00e0b237097b" title="Returns the current camera offset (pitch, yaw, distance)." alt="" coords="199,5,323,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,232,92,195,116,144,149,90,169,64,192,42,197,38,201,42,195,46,173,68,153,93,120,146,97,197,84,234"/>
+<area shape="rect" id="Node000003" href="$dc/df5/in__camera_8cpp.html#a5a2f510060b5151800d8012d7143dd0d" title="Checks if the camera is in third&#45;person mode." alt="" coords="199,56,323,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,231,125,170,156,133,192,99,209,88,212,93,195,103,160,137,129,173,87,234"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="405,132,465,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="85,231,128,185,158,161,193,143,244,130,297,126,348,128,390,134,389,139,347,134,298,131,245,135,195,148,161,165,131,189,89,235"/>
+<area shape="rect" id="Node000006" href="$dd/dc2/view_8cpp.html#ac4b83b967417c92b57ebc8154f727e2f" title="Adds idle swaying effect to the view angles." alt="" coords="221,157,301,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="109,230,211,188,213,193,111,235"/>
+<area shape="rect" id="Node000007" href="$dd/dc2/view_8cpp.html#ae90fbe79004be1610f576fd04f299045" title="Calculates the bobbing effect for the player&#39;s view." alt="" coords="392,208,478,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="146,239,376,223,377,228,146,244"/>
+<area shape="rect" id="Node000008" href="$dd/dc2/view_8cpp.html#aa98cd413efa872b118b8b562a1ae4039" title="Calculates the gun angle based on the player&#39;s view angles and other parameters." alt="" coords="201,259,321,285"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="146,254,186,259,185,264,146,259"/>
+<area shape="rect" id="Node000009" href="$dd/dc2/view_8cpp.html#a67572c77a753db2324e8e334ee9d8e19" title="Calculates the roll of the view based on movement and damage." alt="" coords="204,309,318,336"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="109,258,195,295,209,301,207,306,193,300,107,263"/>
+<area shape="rect" id="Node000011" href="$dd/dc2/view_8cpp.html#ac96da80618c259fcf4172134d119ab28" title="Drifts the pitch of the player&#39;s view towards the ideal pitch." alt="" coords="216,360,306,387"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="91,259,135,301,195,346,204,351,201,355,192,350,132,305,88,262"/>
+<area shape="rect" id="Node000013" href="$dd/dc2/view_8cpp.html#ac740710a84a61c572a60719256bb7378" title="Reduces the player&#39;s punch angle over time." alt="" coords="194,411,328,437"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="86,259,127,324,158,363,195,397,202,401,199,405,192,401,155,366,123,327,82,262"/>
+<area shape="rect" id="Node000016" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="221,461,301,488"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="84,260,97,297,120,347,153,400,173,425,195,447,208,456,205,461,192,451,169,429,149,404,116,349,92,299,79,262"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="542,208,586,235"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="461,157,530,199,528,203,458,162"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="479,219,527,219,527,224,479,224"/>
+<area shape="rect" id="Node000010" href="$dd/dc2/view_8cpp.html#a60a11f9edb6b977d3f68f6589cb539e8" title="Calculates the player&#39;s view roll due to velocity." alt="" coords="393,309,478,336"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="318,320,377,320,377,325,318,325"/>
+<area shape="rect" id="Node000012" href="$dd/dc2/view_8cpp.html#a3b47064c7823c244a7e152184ccccd64" title="Starts the pitch drift effect." alt="" coords="376,360,494,387"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="306,371,360,371,360,376,306,376"/>
+<area shape="rect" id="Node000014" href="$d2/d29/cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="377,411,494,437"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="329,421,361,421,361,427,329,427"/>
+<area shape="rect" id="Node000015" href="$d2/d29/cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="389,461,481,488"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="310,435,375,455,373,460,309,441"/>
+<area shape="poly" id="edge15_Node000014_Node000005" title=" " alt="" coords="477,408,492,397,518,362,536,322,549,283,556,250,561,251,554,284,541,324,523,365,496,401,480,412"/>
+</map>

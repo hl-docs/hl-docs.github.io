@@ -1,9 +1,0 @@
-<map id="CScientist::PainSound" name="CScientist::PainSound">
-<area shape="rect" id="Node000001" title="Plays a pain sound for the scientist." alt="" coords="5,56,158,83"/>
-<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="233,5,372,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,53,226,33,227,39,144,58"/>
-<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="279,56,326,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,67,263,67,263,72,158,72"/>
-<area shape="rect" id="Node000004" href="$class_c_talk_monster.html#aefca5ea7b342b1ca3745caef970ecf13" title="Retrieves the voice pitch for the talk monster." alt="" coords="206,107,399,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,81,227,100,226,105,142,86"/>
-</map>

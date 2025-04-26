@@ -1,9 +1,0 @@
-<map id="CHudBenchmark::Bench_ScoreForValue" name="CHudBenchmark::Bench_ScoreForValue">
-<area shape="rect" id="Node000001" title="Calculates the score for a specific stage based on a raw performance value." alt="" coords="469,27,633,69"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_benchmark.html#a8a451e267ced8b843a17c8a80e34dee4" title="Renders the benchmark results on the HUD." alt="" coords="238,5,395,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,39,395,31,395,26,454,33"/>
-<area shape="rect" id="Node000003" href="$class_c_hud_benchmark.html#a398d04fbc3d2a55d1f32979595b72615" title="Computes the overall composite benchmark score based on weighted stage scores." alt="" coords="212,56,421,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="454,63,422,67,421,62,453,58"/>
-<area shape="rect" id="Node000004" href="$class_c_hud_benchmark.html#ae06d9a798b4da8865329470c7fc29880" title="Updates the benchmark logic." alt="" coords="5,64,164,91"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="196,80,164,80,164,75,196,75"/>
-</map>

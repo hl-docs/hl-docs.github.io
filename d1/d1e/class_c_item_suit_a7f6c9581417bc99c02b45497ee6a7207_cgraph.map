@@ -1,0 +1,13 @@
+<map id="CItemSuit::MyTouch" name="CItemSuit::MyTouch">
+<area shape="rect" id="Node000001" title="Handles the interaction when a player touches the suit item." alt="" coords="5,31,145,57"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="197,5,328,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,32,182,27,183,32,145,37"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#a4cd1be6a60567513147bc004f8621798" title="Plays a specific sentence over the HEV suit speaker." alt="" coords="193,56,332,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,51,178,55,177,60,145,56"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="426,5,472,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,16,411,16,411,21,328,21"/>
+<area shape="rect" id="Node000005" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="380,56,518,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="332,67,365,67,365,72,332,72"/>
+<area shape="rect" id="Node000006" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="566,56,717,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="519,67,551,67,551,72,519,72"/>
+</map>

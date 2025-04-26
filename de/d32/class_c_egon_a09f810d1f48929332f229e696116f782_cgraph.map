@@ -1,0 +1,7 @@
+<map id="CEgon::DestroyEffect" name="CEgon::DestroyEffect">
+<area shape="rect" id="Node000001" title="Destroys the visual effects for the Egon weapon." alt="" coords="5,31,152,57"/>
+<area shape="rect" id="Node000002" href="$d3/d0f/class_c_sprite.html#ac3deb1ce65fc86f888ad074ad676c3a1" title="Expands the sprite over time." alt="" coords="200,5,316,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,31,184,26,184,32,153,36"/>
+<area shape="rect" id="Node000003" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="208,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,52,193,57,192,63,152,57"/>
+</map>

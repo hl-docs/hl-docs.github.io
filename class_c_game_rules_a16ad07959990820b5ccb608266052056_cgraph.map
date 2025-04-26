@@ -1,7 +1,0 @@
-<map id="CGameRules::CanHaveAmmo" name="CGameRules::CanHaveAmmo">
-<area shape="rect" id="Node000001" title="Checks if the player can have more ammo of a specific type." alt="" coords="5,31,201,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player.html#adcbfba519d919bf60ee0d943907219ea" title="Retrieves the amount of a specific type of ammo in the player&#39;s inventory." alt="" coords="249,5,444,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,31,233,28,234,33,201,36"/>
-<area shape="rect" id="Node000003" href="$class_c_base_player.html#a672bb131a284c013918e754c2cf59dd1" title="Gets the index of a specific ammo type." alt="" coords="249,56,444,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,52,234,55,233,60,201,57"/>
-</map>

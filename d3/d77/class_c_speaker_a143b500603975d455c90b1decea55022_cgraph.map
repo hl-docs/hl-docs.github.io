@@ -1,0 +1,7 @@
+<map id="CSpeaker::KeyValue" name="CSpeaker::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value data for the speaker entity." alt="" coords="5,31,148,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="244,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,32,228,22,228,27,148,38"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="196,56,354,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,50,180,55,180,60,148,56"/>
+</map>

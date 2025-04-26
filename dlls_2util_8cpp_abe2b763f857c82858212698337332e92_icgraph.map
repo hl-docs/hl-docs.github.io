@@ -1,9 +1,0 @@
-<map id="UTIL_ShowMessageAll" name="UTIL_ShowMessageAll">
-<area shape="rect" id="Node000001" title="Shows a message to all players." alt="" coords="427,31,581,57"/>
-<area shape="rect" id="Node000002" href="$class_c_revert_saved.html#a1450bbf6de2eb5000579c06a8fbbcd02" title="Handles the message display logic." alt="" coords="186,5,379,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="411,36,379,32,380,27,412,31"/>
-<area shape="rect" id="Node000004" href="$class_c_message.html#a474acfbc942a011f5d4cb427ed35d72d" title="Uses the message effect." alt="" coords="225,56,340,83"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="412,57,340,65,340,60,412,52"/>
-<area shape="rect" id="Node000003" href="$class_c_revert_saved.html#a5ca27e9679a041de5dd4d53d1eb65e84" title="Activates the revert saved entity." alt="" coords="5,5,138,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CBaseMonster::CheckEnemy" name="CBaseMonster::CheckEnemy">
+<area shape="rect" id="Node000001" title="Checks the enemy and updates the monster&#39;s knowledge of its position." alt="" coords="254,5,447,32"/>
+<area shape="rect" id="Node000002" href="$db/dc8/class_c_squad_monster.html#a60382d8ab644a49ab5f354ab70d18985" title="Checks if the specified enemy is valid." alt="" coords="5,5,206,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,21,206,21,206,16,238,16"/>
+</map>

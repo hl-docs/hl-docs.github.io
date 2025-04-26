@@ -1,0 +1,9 @@
+<map id="CNihilanth::Flight" name="CNihilanth::Flight">
+<area shape="rect" id="Node000001" title="Manages the flight behavior of the Nihilanth." alt="" coords="5,31,126,57"/>
+<area shape="rect" id="Node000002" href="$dc/d44/dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="174,5,328,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,33,158,29,159,34,127,38"/>
+<area shape="rect" id="Node000004" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="197,56,305,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,50,182,57,181,63,126,55"/>
+<area shape="rect" id="Node000003" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="376,5,518,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,16,361,16,361,21,328,21"/>
+</map>

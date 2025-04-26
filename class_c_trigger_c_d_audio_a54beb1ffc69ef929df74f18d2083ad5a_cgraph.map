@@ -1,9 +1,0 @@
-<map id="CTriggerCDAudio::Spawn" name="CTriggerCDAudio::Spawn">
-<area shape="rect" id="Node000001" title="Initializes the CD audio trigger entity." alt="" coords="5,31,173,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_trigger.html#a7420df02187dd4373d68c6351d9a9f25" title="Initializes the trigger entity." alt="" coords="221,31,384,57"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,41,205,41,205,47,173,47"/>
-<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="452,5,498,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,29,435,22,436,27,385,35"/>
-<area shape="rect" id="Node000004" href="$subs_8cpp.html#a63f7e85057f56715c4afed473f2e8ea1" title="Sets the movement direction based on angles." alt="" coords="432,56,517,83"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="385,53,417,58,416,63,384,59"/>
-</map>

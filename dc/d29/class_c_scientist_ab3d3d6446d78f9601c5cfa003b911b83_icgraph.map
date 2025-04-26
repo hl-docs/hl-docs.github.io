@@ -1,0 +1,5 @@
+<map id="CScientist::Precache" name="CScientist::Precache">
+<area shape="rect" id="Node000001" title="Precaches all resources needed by the scientist." alt="" coords="182,5,326,32"/>
+<area shape="rect" id="Node000002" href="$dc/d29/class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="5,5,134,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,21,134,21,134,16,166,16"/>
+</map>

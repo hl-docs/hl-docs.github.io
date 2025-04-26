@@ -1,0 +1,9 @@
+<map id="CScientist::Precache" name="CScientist::Precache">
+<area shape="rect" id="Node000001" title="Precaches all resources needed by the scientist." alt="" coords="5,31,150,57"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#a89db03753b3cd44fef2c0f06067bafd2" title="Precaches resources for the talk monster." alt="" coords="198,5,362,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,182,28,183,34,150,38"/>
+<area shape="rect" id="Node000003" href="$dc/d29/class_c_scientist.html#a821249da4b16938a94edc8749725fa6b" title="Initializes talk data for the scientist." alt="" coords="215,56,345,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,50,200,57,199,62,149,56"/>
+<area shape="rect" id="Node000004" href="$da/d04/class_c_talk_monster.html#a3f97f054f7ed3aba0606dc8003fde68c" title="Initializes the talk monster&#39;s talking capabilities." alt="" coords="410,56,560,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="345,67,394,67,394,72,345,72"/>
+</map>

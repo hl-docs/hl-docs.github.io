@@ -1,0 +1,9 @@
+<map id="anonymous_namespace{vgui_ServerBrowser::cpp}::StopHandler::actionPerformed" name="anonymous_namespace{vgui_ServerBrowser::cpp}::StopHandler::actionPerformed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,168,80"/>
+<area shape="rect" id="Node000002" href="$d4/d64/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a5939f1fcd09ba93c5eaabc9b5f0eac70" title=" " alt="" coords="216,5,425,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,40,200,40,200,45,168,45"/>
+<area shape="rect" id="Node000003" href="$d6/d3f/hud__servers_8cpp.html#a8c0babcc8d63128e7e0e50961f1fc2d9" title="Cancels any ongoing requests in the global server browser." alt="" coords="473,29,577,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,40,457,40,457,45,425,45"/>
+<area shape="rect" id="Node000004" href="$d1/d59/class_c_hud_servers.html#ae559a8408e1bda121e2c54560d895b45" title="Cancels all server requests and stops the querying process." alt="" coords="625,29,818,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="578,40,610,40,610,45,578,45"/>
+</map>

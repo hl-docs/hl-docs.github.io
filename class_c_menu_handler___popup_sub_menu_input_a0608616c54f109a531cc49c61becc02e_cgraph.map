@@ -1,8 +1,0 @@
-<map id="CMenuHandler_PopupSubMenuInput::cursorEntered" name="CMenuHandler_PopupSubMenuInput::cursorEntered">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,211,64"/>
-<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a2ec7d2d99d1041391910b9cb74799a27" title="Sets the current command menu to the provided menu." alt="" coords="259,21,441,64"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,40,243,40,243,45,211,45"/>
-<area shape="rect" id="Node000003" href="$class_c_command_menu.html#ad3cdbbf95342ade61e7d8bbfbadd911d" title="Makes this menu and all parent menus in the chain visible." alt="" coords="489,29,689,56"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,40,474,40,474,45,442,45"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="549,31,542,21,547,11,563,5,589,3,618,5,633,12,631,17,617,10,589,8,564,10,550,15,547,20,553,27"/>
-</map>

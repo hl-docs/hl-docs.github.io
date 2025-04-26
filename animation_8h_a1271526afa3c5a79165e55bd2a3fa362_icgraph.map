@@ -1,5 +1,0 @@
-<map id="GetSequenceInfo" name="GetSequenceInfo">
-<area shape="rect" id="Node000001" title="Retrieves the frame rate and ground speed for a specific sequence." alt="" coords="239,13,359,40"/>
-<area shape="rect" id="Node000002" href="$class_c_weapon_cycler.html#ad492f835e22435267a979f4f8daf0645" title="Handles the secondary attack action." alt="" coords="5,5,191,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,29,191,29,191,24,223,24"/>
-</map>

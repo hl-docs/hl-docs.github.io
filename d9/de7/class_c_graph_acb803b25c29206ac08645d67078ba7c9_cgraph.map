@@ -1,0 +1,12 @@
+<map id="CGraph::RejectInlineLinks" name="CGraph::RejectInlineLinks">
+<area shape="rect" id="Node000001" title="Rejects inline links from a link pool based on visibility." alt="" coords="5,31,177,57"/>
+<area shape="rect" id="Node000002" href="$d9/d40/class_vector2_d.html#a725900b4f3acf28468be68f0e5924de6" title=" " alt="" coords="422,5,544,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,36,406,21,406,26,177,41"/>
+<area shape="rect" id="Node000004" href="$d9/d40/class_vector2_d.html#a60bb6900f4c98e49928099948b8b94b3" title=" " alt="" coords="225,56,366,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,52,210,56,209,61,177,57"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="599,5,643,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="544,16,584,16,584,21,544,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="347,53,415,34,417,39,348,58"/>
+<area shape="rect" id="Node000005" href="$d9/d40/class_vector2_d.html#a0cbd5dc90e04f8ffb665717ae503e781" title=" " alt="" coords="414,56,551,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="366,67,399,67,399,72,366,72"/>
+</map>

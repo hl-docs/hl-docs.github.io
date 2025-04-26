@@ -1,0 +1,5 @@
+<map id="CMonsterMaker::CyclicUse" name="CMonsterMaker::CyclicUse">
+<area shape="rect" id="Node000001" title="Drops one monster from the monster maker each time called." alt="" coords="214,5,394,32"/>
+<area shape="rect" id="Node000002" href="$df/ded/class_c_monster_maker.html#ae162cb9792bd9c49670b5b2a0d207e53" title="Spawns the monster maker in the game." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,166,21,166,16,198,16"/>
+</map>

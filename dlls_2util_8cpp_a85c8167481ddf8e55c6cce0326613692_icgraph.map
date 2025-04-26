@@ -1,7 +1,0 @@
-<map id="UTIL_Bubbles" name="UTIL_Bubbles">
-<area shape="rect" id="Node000001" title="Emits bubble effects in a specified area." alt="" coords="229,43,330,69"/>
-<area shape="rect" id="Node000002" href="$class_c_ichthyosaur.html#a39bd2b60f055a6de092f0e0279a1cea4" title="Handles animation events for the ichthyosaur." alt="" coords="5,5,181,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,48,181,43,182,38,214,43"/>
-<area shape="rect" id="Node000003" href="$class_c_grenade.html#acd8479d0e99d455e9fbce85f4ef4366a" title="Creates smoke effects after the grenade explodes." alt="" coords="29,72,157,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,69,158,78,157,73,213,64"/>
-</map>

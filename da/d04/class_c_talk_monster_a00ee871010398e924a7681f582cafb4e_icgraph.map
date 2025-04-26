@@ -1,0 +1,9 @@
+<map id="CTalkMonster::AlertFriends" name="CTalkMonster::AlertFriends">
+<area shape="rect" id="Node000001" title="Alerts nearby friends of the talk monster." alt="" coords="364,31,543,57"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#a09f20f4407d2c7294a4ab9feb3e0a09b" title="Handles the death of the talk monster." alt="" coords="175,31,316,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,47,316,47,316,41,349,41"/>
+<area shape="rect" id="Node000003" href="$d0/d51/class_c_barney.html#a485e807682e97b90132aaca8a62b2af2" title="Handles the death of the Barney entity." alt="" coords="10,5,122,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,35,122,29,122,24,160,29"/>
+<area shape="rect" id="Node000004" href="$dc/d29/class_c_scientist.html#aaedf2fab34bc89a2056bc25c39d4b080" title="Handles the death of the scientist." alt="" coords="5,56,127,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="159,59,127,63,127,58,159,54"/>
+</map>

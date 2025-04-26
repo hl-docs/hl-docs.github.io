@@ -1,0 +1,7 @@
+<map id="CBaseTrigger::InitTrigger" name="CBaseTrigger::InitTrigger">
+<area shape="rect" id="Node000001" title="Initializes the trigger entity." alt="" coords="5,31,169,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="236,5,283,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,29,220,22,221,27,170,35"/>
+<area shape="rect" id="Node000003" href="$dc/d55/subs_8cpp.html#a63f7e85057f56715c4afed473f2e8ea1" title="Sets the movement direction based on angles." alt="" coords="217,56,302,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,53,201,58,201,63,169,59"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CTalkMonster::IdleHeadTurn" name="CTalkMonster::IdleHeadTurn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,190,57"/>
+<area shape="rect" id="Node000002" href="$db/dc1/class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="238,5,469,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,32,222,29,222,34,190,38"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#ab869c9dfed2779477d9fa783cf645e05" title="Converts a directional vector into a yaw value." alt="" coords="265,56,442,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,50,250,56,249,62,190,56"/>
+</map>

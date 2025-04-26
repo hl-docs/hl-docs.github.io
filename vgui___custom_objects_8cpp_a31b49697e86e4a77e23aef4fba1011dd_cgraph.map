@@ -1,5 +1,0 @@
-<map id="LoadTGAForRes" name="LoadTGAForRes">
-<area shape="rect" id="Node000001" title="Loads a TGA image based on resource name." alt="" coords="5,5,123,32"/>
-<area shape="rect" id="Node000002" href="$vgui___custom_objects_8cpp.html#a851d575c953a865371ef0212a6d3d32e" title="Returns the TGA file name based on resolution, excluding game directory." alt="" coords="171,5,315,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,16,155,16,155,21,123,21"/>
-</map>

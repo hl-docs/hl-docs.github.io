@@ -1,5 +1,0 @@
-<map id="CIchthyosaur::Killed" name="CIchthyosaur::Killed">
-<area shape="rect" id="Node000001" title="Handles the ichthyosaur&#39;s death." alt="" coords="5,5,143,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a469904e35f6e6c8f4b271a98dc68a9e7" title="Handles the monster&#39;s death." alt="" coords="191,5,338,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,16,175,16,175,21,143,21"/>
-</map>

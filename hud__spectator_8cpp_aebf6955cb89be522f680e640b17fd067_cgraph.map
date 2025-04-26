@@ -1,5 +1,0 @@
-<map id="UTIL_FindEntityInMap" name="UTIL_FindEntityInMap">
-<area shape="rect" id="Node000001" title="Finds an entity by class name in the map and retrieves its origin and angle." alt="" coords="5,5,154,32"/>
-<area shape="rect" id="Node000002" href="$hud__spectator_8cpp.html#a00bc292c5864a19efb28cb4968946b48" title="Converts a space&#45;separated string to a 3D vector." alt="" coords="202,5,342,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,16,186,16,186,21,154,21"/>
-</map>

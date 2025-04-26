@@ -1,5 +1,0 @@
-<map id="CBasePlayer::PostThink" name="CBasePlayer::PostThink">
-<area shape="rect" id="Node000001" title=" " alt="" coords="170,5,333,32"/>
-<area shape="rect" id="Node000002" href="$client_8cpp.html#ab04e2fadfb0c84166a0fc589d6f430e1" title="Called after the physics simulation for a player." alt="" coords="5,5,122,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
-</map>

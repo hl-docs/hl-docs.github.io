@@ -1,0 +1,5 @@
+<map id="CBaseEntity::Save" name="CBaseEntity::Save">
+<area shape="rect" id="Node000001" title="Saves the state of the entity." alt="" coords="154,5,284,32"/>
+<area shape="rect" id="Node000002" href="$d4/d0e/cbase_8cpp.html#a2dedfd03e4954377e6917418bb8a5297" title="Dispatches the save event for an entity." alt="" coords="5,5,106,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,21,106,21,106,16,138,16"/>
+</map>

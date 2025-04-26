@@ -1,7 +1,0 @@
-<map id="CBaseTrigger::MultiTouch" name="CBaseTrigger::MultiTouch">
-<area shape="rect" id="Node000001" title="Handles the touch event for the multiple trigger." alt="" coords="410,5,580,32"/>
-<area shape="rect" id="Node000002" href="$class_c_trigger_multiple.html#a800b8cc7bcf2cf065cde196b5492049e" title="Initializes the multiple trigger entity." alt="" coords="201,5,362,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,21,363,21,363,16,395,16"/>
-<area shape="rect" id="Node000003" href="$class_c_trigger_once.html#ab9c65b1923c6fe9b8df51a2aa64e4437" title="Initializes the trigger that can only be activated once." alt="" coords="5,5,153,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,21,153,21,153,16,185,16"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CFuncRotating::HurtTouch" name="CFuncRotating::HurtTouch">
-<area shape="rect" id="Node000001" title="Handles touch events for the rotating entity." alt="" coords="5,31,180,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_entity.html#aa8c66d085116b719beff9fb1c3d0e45d" title="Inflicts damage on the entity." alt="" coords="228,5,406,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,31,212,28,212,33,180,37"/>
-<area shape="rect" id="Node000003" href="$bmodels_8cpp.html#ae188671969a2ab14d622833f93364a19" title="Calculates the origin of a bounding model." alt="" coords="256,56,378,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,51,240,58,240,63,180,57"/>
-</map>

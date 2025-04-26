@@ -1,9 +1,0 @@
-<map id="SpectToggleButton" name="SpectToggleButton">
-<area shape="rect" id="Node000001" title=" " alt="" coords="61,155,193,181"/>
-<area shape="rect" id="Node000002" href="$class_command_button.html" title=" " alt="" coords="5,80,124,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,117,118,153,114,156,83,120"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="35,5,94,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,48,67,80,62,80,62,48"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="147,80,233,107"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,120,140,156,136,153,167,117"/>
-</map>

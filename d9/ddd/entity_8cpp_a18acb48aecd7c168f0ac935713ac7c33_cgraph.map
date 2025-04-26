@@ -1,0 +1,11 @@
+<map id="HUD_TempEntUpdate" name="HUD_TempEntUpdate">
+<area shape="rect" id="Node000001" title="Simulates and manages temporary entities (TENTs) such as particle effects or explosions." alt="" coords="5,56,154,83"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="218,5,278,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,53,202,30,203,35,127,58"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="208,56,288,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,67,193,67,193,72,154,72"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="202,107,294,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="127,81,188,99,187,104,126,86"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="342,5,385,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,16,326,16,326,21,278,21"/>
+</map>

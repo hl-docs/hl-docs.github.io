@@ -1,0 +1,5 @@
+<map id="CWeaponBox::PackAmmo" name="CWeaponBox::PackAmmo">
+<area shape="rect" id="Node000001" title="Adds ammo to the weapon box." alt="" coords="219,5,396,32"/>
+<area shape="rect" id="Node000002" href="$db/d73/class_c_weapon_box.html#af066b3e221805b2509b0371e326d6ccf" title="Handles key&#45;value data for the weapon box." alt="" coords="5,5,171,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,21,171,21,171,16,203,16"/>
+</map>

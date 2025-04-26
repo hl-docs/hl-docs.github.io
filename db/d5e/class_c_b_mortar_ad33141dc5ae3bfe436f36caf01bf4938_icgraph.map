@@ -1,0 +1,5 @@
+<map id="CBMortar::Shoot" name="CBMortar::Shoot">
+<area shape="rect" id="Node000001" title="Shoots a CBMortar entity." alt="" coords="237,5,355,32"/>
+<area shape="rect" id="Node000002" href="$dd/d0a/class_c_big_momma.html#a4713bc0b6ed281c81a6fb6292fb88825" title="Launches a mortar from the Big Momma entity." alt="" coords="5,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,21,189,21,189,16,221,16"/>
+</map>

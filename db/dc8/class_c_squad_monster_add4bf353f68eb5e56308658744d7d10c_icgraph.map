@@ -1,0 +1,5 @@
+<map id="CSquadMonster::SquadRecruit" name="CSquadMonster::SquadRecruit">
+<area shape="rect" id="Node000001" title="Recruits squad members of the same classification." alt="" coords="251,5,451,32"/>
+<area shape="rect" id="Node000002" href="$db/dc8/class_c_squad_monster.html#a8387f3a0bc6b767e7a565034ff67b1f7" title="Starts the monster&#39;s behavior." alt="" coords="5,5,203,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,21,203,21,203,16,235,16"/>
+</map>

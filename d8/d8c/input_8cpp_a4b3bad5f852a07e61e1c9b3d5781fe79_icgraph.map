@@ -1,0 +1,110 @@
+<map id="KeyDown" name="KeyDown">
+<area shape="rect" id="Node000001" title="Handles a key down event for a specific key binding (kbutton_t)." alt="" coords="820,791,896,817"/>
+<area shape="rect" id="Node000002" href="$dc/df5/in__camera_8cpp.html#a484b26b2875ccee3a872c56d16329653" title="Zooms the camera in." alt="" coords="647,107,746,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="854,775,853,643,842,455,832,358,817,270,796,197,784,169,770,147,759,137,745,130,748,126,762,133,774,144,789,166,801,195,822,269,837,357,847,454,858,642,860,775"/>
+<area shape="rect" id="Node000007" href="$dc/df5/in__camera_8cpp.html#ae7a7cd428965c572fb8a683707e0dce5" title="Zooms the camera out." alt="" coords="641,157,752,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="854,775,851,652,839,479,829,391,814,310,795,243,783,217,770,198,751,183,754,179,774,194,788,215,800,241,819,309,834,390,845,479,856,652,859,775"/>
+<area shape="rect" id="Node000008" href="$dc/df5/in__camera_8cpp.html#a06461137b58714087583d306694595a4" title="Called when the user presses the key to tilt the camera down." alt="" coords="621,208,772,235"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="854,775,849,661,836,504,825,423,811,350,793,290,770,248,757,237,760,233,774,245,798,288,816,349,831,422,842,503,854,661,859,775"/>
+<area shape="rect" id="Node000009" href="$dc/df5/in__camera_8cpp.html#a318e86b49d60f53d074ca93965bcb013" title="Called when the user presses the key to tilt the camera up." alt="" coords="629,259,764,285"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="853,776,847,671,833,528,822,456,808,390,791,336,770,299,757,288,760,284,774,296,796,334,813,389,827,455,838,528,853,670,859,775"/>
+<area shape="rect" id="Node000010" href="$dc/df5/in__camera_8cpp.html#a2d953f974d4cb106e50f65b618fde3af" title="Called when the user presses the key to rotate the camera left." alt="" coords="629,309,764,336"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="852,775,844,681,828,557,804,436,788,389,770,356,747,339,750,335,774,353,793,387,809,435,833,556,849,681,858,775"/>
+<area shape="rect" id="Node000011" href="$dc/df5/in__camera_8cpp.html#a2300489f2100e4068aa28d474215748f" title="Called when the user presses the key to rotate the camera right." alt="" coords="624,56,769,83"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="855,776,854,634,845,431,835,326,820,230,798,151,785,120,770,96,757,85,761,81,774,93,790,117,803,149,825,229,840,325,850,431,860,634,860,776"/>
+<area shape="rect" id="Node000012" href="$d8/d8c/input_8cpp.html#a06f2f9dc2ca56eedd9e7714dfd950ada" title="Resets the internal button state based on a new bitmask." alt="" coords="627,5,766,32"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="853,775,844,613,826,382,801,164,786,87,778,61,770,46,757,35,761,31,774,42,783,59,791,86,806,164,831,381,849,613,858,775"/>
+<area shape="rect" id="Node000015" href="$d8/d8c/input_8cpp.html#a8ea24a68e9d6003619ed165578f0eda0" title=" " alt="" coords="444,411,539,437"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="855,775,852,718,841,645,830,606,815,569,795,534,770,503,745,482,717,466,655,442,593,431,540,426,540,421,594,425,656,437,719,461,748,478,774,499,800,531,820,566,835,605,846,643,857,717,860,775"/>
+<area shape="rect" id="Node000016" href="$d8/d8c/input_8cpp.html#a902e0d6408b8e23bbdc99f852c63e062" title="Called when the secondary attack key is pressed (usually right&#45;click)." alt="" coords="433,461,550,488"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="853,775,847,727,834,668,809,607,792,580,770,555,746,536,720,520,661,497,603,484,551,478,551,473,604,479,663,492,722,515,749,532,774,551,796,576,814,605,839,666,852,726,858,775"/>
+<area shape="rect" id="Node000017" href="$d8/d8c/input_8cpp.html#a08b65730e74679bb3961c3677bcd1e42" title="Called when the primary attack key is pressed (usually left&#45;click)." alt="" coords="436,512,547,539"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="850,776,841,737,826,692,803,646,770,607,745,588,718,573,658,550,599,536,547,530,548,525,600,531,660,545,720,568,748,584,774,603,807,643,831,690,846,736,855,774"/>
+<area shape="rect" id="Node000018" href="$d8/d8c/input_8cpp.html#aba1f5db135c4831097d288584d014053" title="Called when the back movement key is pressed." alt="" coords="440,563,543,589"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="846,777,818,716,797,684,770,657,744,639,715,624,654,602,594,588,543,581,543,576,595,583,655,596,717,619,747,634,774,653,801,680,823,713,851,775"/>
+<area shape="rect" id="Node000019" href="$d8/d8c/input_8cpp.html#a4dfc5d929ee36123265c1b42f0319c48" title=" " alt="" coords="438,613,545,640"/>
+<area shape="poly" id="edge28_Node000001_Node000019" title=" " alt="" coords="840,779,811,739,792,719,771,702,714,673,654,653,595,641,545,633,546,628,596,635,655,648,716,669,774,698,795,715,815,735,844,776"/>
+<area shape="rect" id="Node000020" href="$d8/d8c/input_8cpp.html#a3bf23ece38d96a0d65f03f2a0c7615d2" title=" " alt="" coords="439,664,544,691"/>
+<area shape="poly" id="edge30_Node000001_Node000020" title=" " alt="" coords="829,783,802,762,771,744,712,721,651,705,544,685,545,680,652,699,714,716,773,739,805,757,833,778"/>
+<area shape="rect" id="Node000021" href="$d8/d8c/input_8cpp.html#a31e0127c59d1622fbd626f8780d790f2" title="Called when the duck key is pressed." alt="" coords="440,715,543,741"/>
+<area shape="poly" id="edge32_Node000001_Node000021" title=" " alt="" coords="806,788,771,777,649,752,543,736,544,731,650,747,773,772,807,783"/>
+<area shape="rect" id="Node000022" href="$d8/d8c/input_8cpp.html#ae164f20ef2a922a6c1aa604597810542" title="Called when the forward movement key is pressed." alt="" coords="432,765,551,792"/>
+<area shape="poly" id="edge34_Node000001_Node000022" title=" " alt="" coords="804,803,551,785,551,780,805,798"/>
+<area shape="rect" id="Node000023" href="$d8/d8c/input_8cpp.html#abf8df9c6cf4c3bd0985c318dd6431da9" title=" " alt="" coords="438,816,545,843"/>
+<area shape="poly" id="edge36_Node000001_Node000023" title=" " alt="" coords="805,810,546,828,545,823,804,805"/>
+<area shape="rect" id="Node000024" href="$d8/d8c/input_8cpp.html#a4a96fe743a7835282220a4fb1c9bade4" title=" " alt="" coords="438,867,545,893"/>
+<area shape="poly" id="edge38_Node000001_Node000024" title=" " alt="" coords="805,821,773,829,546,874,545,869,771,824,804,816"/>
+<area shape="rect" id="Node000025" href="$d8/d8c/input_8cpp.html#aebb89b5de64cbb838999c794ba6c8311" title="Called when the jump key is pressed." alt="" coords="440,917,543,944"/>
+<area shape="poly" id="edge40_Node000001_Node000025" title=" " alt="" coords="831,829,804,848,773,865,713,888,652,905,544,927,543,921,650,900,712,883,771,860,801,844,828,825"/>
+<area shape="rect" id="Node000026" href="$d8/d8c/input_8cpp.html#a78bae63a07646d8d9131901dba8ac723" title=" " alt="" coords="437,968,546,995"/>
+<area shape="poly" id="edge42_Node000001_Node000026" title=" " alt="" coords="845,833,816,876,797,898,774,917,717,946,656,965,597,976,547,982,546,976,597,971,655,959,715,941,771,912,793,894,812,873,841,830"/>
+<area shape="rect" id="Node000027" href="$d8/d8c/input_8cpp.html#a441cf25498740c02007a207bed647cbd" title=" " alt="" coords="445,1019,538,1045"/>
+<area shape="poly" id="edge44_Node000001_Node000027" title=" " alt="" coords="854,833,844,866,828,906,805,944,774,977,746,995,716,1009,652,1027,591,1035,539,1037,538,1032,590,1030,651,1022,714,1004,743,990,770,973,801,941,823,903,839,865,848,831"/>
+<area shape="rect" id="Node000028" href="$d8/d8c/input_8cpp.html#a8b6193028361a7cf9bd84654e6502c5d" title=" " alt="" coords="631,1069,762,1096"/>
+<area shape="poly" id="edge46_Node000001_Node000028" title=" " alt="" coords="857,833,850,879,836,938,811,998,794,1027,774,1053,748,1071,745,1067,770,1049,790,1024,806,996,831,936,845,878,852,832"/>
+<area shape="rect" id="Node000029" href="$d8/d8c/input_8cpp.html#adbd890e66b0557b7fad99e16d7375d52" title=" " alt="" coords="639,1120,754,1147"/>
+<area shape="poly" id="edge48_Node000001_Node000029" title=" " alt="" coords="860,833,857,891,845,964,834,1003,819,1042,799,1078,774,1110,756,1123,753,1119,770,1106,795,1075,814,1039,829,1002,839,963,851,890,855,833"/>
+<area shape="rect" id="Node000030" href="$d8/d8c/input_8cpp.html#a30786b2ee9d2c42231551974afd8da99" title=" " alt="" coords="641,1171,752,1197"/>
+<area shape="poly" id="edge50_Node000001_Node000030" title=" " alt="" coords="856,833,846,909,829,1007,805,1099,790,1135,774,1161,754,1175,751,1170,770,1157,785,1133,800,1097,823,1005,841,908,851,832"/>
+<area shape="rect" id="Node000031" href="$d8/d8c/input_8cpp.html#a3d80972c574ced50e4f406b488797a0c" title="Called when the move left key is pressed." alt="" coords="637,1221,756,1248"/>
+<area shape="poly" id="edge52_Node000001_Node000031" title=" " alt="" coords="857,833,848,919,832,1032,808,1139,792,1181,774,1211,758,1223,755,1219,770,1208,787,1179,802,1138,827,1031,843,919,852,833"/>
+<area shape="rect" id="Node000032" href="$d8/d8c/input_8cpp.html#ac4c04882e638fbf87846a60698caa63c" title="Called when the move right key is pressed." alt="" coords="633,1272,760,1299"/>
+<area shape="poly" id="edge54_Node000001_Node000032" title=" " alt="" coords="858,833,850,928,835,1056,824,1120,811,1179,794,1228,774,1262,759,1274,756,1269,770,1258,789,1226,805,1178,819,1119,830,1055,845,928,853,832"/>
+<area shape="rect" id="Node000033" href="$d8/d8c/input_8cpp.html#a24770098ef6a2a8304f6ec7406b930cc" title=" " alt="" coords="640,1323,753,1349"/>
+<area shape="poly" id="edge56_Node000001_Node000033" title=" " alt="" coords="859,833,853,938,838,1080,827,1153,813,1219,796,1274,774,1312,755,1327,752,1323,770,1309,791,1272,808,1218,822,1152,833,1080,847,937,853,832"/>
+<area shape="rect" id="Node000034" href="$d8/d8c/input_8cpp.html#a23f0de085d42d497212f9e9d9c7fd945" title=" " alt="" coords="645,1373,748,1400"/>
+<area shape="poly" id="edge58_Node000001_Node000034" title=" " alt="" coords="859,833,854,947,842,1105,831,1186,816,1259,798,1320,774,1363,749,1380,746,1376,770,1360,793,1318,811,1258,825,1185,836,1104,849,947,854,833"/>
+<area shape="rect" id="Node000035" href="$d8/d8c/input_8cpp.html#aa63ffd5777bf8eaab02cbee0999b32b1" title="Called when the scoreboard key is pressed." alt="" coords="643,1424,750,1451"/>
+<area shape="poly" id="edge60_Node000001_Node000035" title=" " alt="" coords="859,833,856,956,845,1129,834,1218,819,1299,800,1367,788,1393,774,1414,751,1430,748,1426,770,1410,783,1391,795,1365,814,1298,829,1217,839,1129,851,956,854,833"/>
+<area shape="rect" id="Node000036" href="$d8/d8c/input_8cpp.html#ac4438aae9c7aae190270c23361af797c" title=" " alt="" coords="642,1475,751,1501"/>
+<area shape="poly" id="edge62_Node000001_Node000036" title=" " alt="" coords="860,833,858,966,847,1154,837,1251,822,1339,801,1413,789,1442,774,1464,753,1480,750,1476,770,1461,784,1439,796,1411,817,1338,832,1250,842,1153,853,965,854,833"/>
+<area shape="rect" id="Node000037" href="$d8/d8c/input_8cpp.html#a0e129f30a619ebde4f2b0aaed393a1ae" title=" " alt="" coords="643,1525,750,1552"/>
+<area shape="poly" id="edge64_Node000001_Node000037" title=" " alt="" coords="860,832,860,974,850,1177,840,1283,825,1379,803,1459,790,1491,774,1515,752,1531,748,1527,770,1512,785,1488,798,1457,820,1378,835,1282,845,1177,854,974,855,832"/>
+<area shape="rect" id="Node000038" href="$d8/d8c/input_8cpp.html#a4ced8094773663ff4cfd0b57d474ac21" title=" " alt="" coords="447,1576,536,1603"/>
+<area shape="poly" id="edge66_Node000001_Node000038" title=" " alt="" coords="858,833,851,995,835,1228,823,1345,810,1447,793,1524,784,1550,774,1566,748,1586,718,1600,687,1608,654,1612,590,1611,536,1603,536,1598,590,1606,654,1607,686,1603,717,1595,745,1581,770,1562,779,1547,788,1522,804,1446,818,1344,829,1228,845,995,853,832"/>
+<area shape="rect" id="Node000039" href="$d8/d8c/input_8cpp.html#ac9e6f6dd13407a8d997e82e12f582b38" title="Called when the &quot;use&quot; key is pressed." alt="" coords="444,360,539,387"/>
+<area shape="poly" id="edge68_Node000001_Node000039" title=" " alt="" coords="851,776,841,700,824,602,800,510,786,475,770,451,745,430,717,413,655,390,593,379,539,375,540,370,594,373,657,385,720,408,749,426,774,448,791,473,805,509,829,601,846,699,856,775"/>
+<area shape="rect" id="Node000003" href="$dc/df5/in__camera_8cpp.html#a010ef08e17dde10bd79877c4d0cdd3fd" title="Initializes camera system and binds key commands to actions." alt="" coords="454,208,529,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="636,142,622,148,562,180,514,210,512,205,560,175,620,143,634,137"/>
+<area shape="rect" id="Node000004" href="$d8/d8c/input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="296,917,362,944"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="471,249,440,294,413,349,387,433,367,519,353,606,343,689,334,831,333,917,328,917,329,831,338,689,348,606,362,518,382,431,408,347,436,291,467,246"/>
+<area shape="rect" id="Node000005" href="$d9/dbd/cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="134,563,206,589"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,904,175,591,180,589,318,902"/>
+<area shape="rect" id="Node000006" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,537,44,564"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="118,570,44,557,45,551,119,564"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="627,190,530,215,529,210,626,185"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="605,224,529,224,529,219,605,219"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="624,257,529,233,530,228,625,252"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="634,306,620,300,560,268,512,237,514,233,562,263,622,295,636,301"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="632,92,622,97,585,124,552,155,505,209,501,206,548,151,582,120,619,92,629,87"/>
+<area shape="rect" id="Node000013" href="$db/d4f/class_c_hud.html#a92fc697efb0f61dde02f9f1f854efecb" title="Updates the client&#39;s HUD&#45;related data each frame." alt="" coords="410,81,573,108"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="640,40,622,46,527,83,525,78,620,42,638,35"/>
+<area shape="rect" id="Node000014" href="$d9/dbd/cdll__int_8cpp.html#a4d6e3054b2b4a671963b61ed08e18b71" title="Updates client data when the shared data changes." alt="" coords="92,335,248,361"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="463,120,190,336,187,332,459,116"/>
+<area shape="poly" id="edge19_Node000014_Node000006" title=" " alt="" coords="152,376,38,539,33,536,148,372"/>
+<area shape="poly" id="edge21_Node000015_Node000004" title=" " alt="" coords="431,437,412,451,391,488,374,544,361,611,351,684,338,824,334,917,328,917,333,824,345,683,356,610,369,542,387,486,408,448,428,433"/>
+<area shape="poly" id="edge23_Node000016_Node000004" title=" " alt="" coords="421,494,412,502,393,535,377,584,364,643,353,708,340,833,334,917,329,917,334,833,348,707,359,642,372,582,388,533,408,498,417,490"/>
+<area shape="poly" id="edge25_Node000017_Node000004" title=" " alt="" coords="424,543,412,552,395,581,380,624,357,732,342,842,334,917,329,917,336,841,351,731,375,622,390,579,408,549,421,539"/>
+<area shape="poly" id="edge27_Node000018_Node000004" title=" " alt="" coords="427,592,412,603,397,627,383,664,360,756,343,851,335,917,329,917,338,850,354,755,378,662,392,625,408,600,424,588"/>
+<area shape="poly" id="edge29_Node000019_Node000004" title=" " alt="" coords="426,644,412,654,388,685,369,721,355,759,345,797,335,868,333,917,328,917,329,867,339,796,349,757,364,719,383,682,409,650,422,639"/>
+<area shape="poly" id="edge31_Node000020_Node000004" title=" " alt="" coords="427,694,412,705,391,729,374,758,351,819,339,876,334,917,329,917,333,875,346,818,369,755,387,726,409,701,424,690"/>
+<area shape="poly" id="edge33_Node000021_Node000004" title=" " alt="" coords="428,745,412,755,395,774,380,795,357,841,343,884,335,917,330,916,338,883,352,839,375,792,391,770,409,751,425,741"/>
+<area shape="poly" id="edge35_Node000022_Node000004" title=" " alt="" coords="420,801,412,806,385,833,364,864,338,918,333,916,359,861,381,829,409,802,417,796"/>
+<area shape="poly" id="edge37_Node000023_Node000004" title=" " alt="" coords="424,851,412,857,372,888,344,919,340,915,369,884,409,852,422,846"/>
+<area shape="poly" id="edge39_Node000024_Node000004" title=" " alt="" coords="433,901,364,923,362,918,431,896"/>
+<area shape="poly" id="edge41_Node000025_Node000004" title=" " alt="" coords="424,933,363,933,363,928,424,928"/>
+<area shape="poly" id="edge43_Node000026_Node000004" title=" " alt="" coords="431,965,362,943,364,938,433,960"/>
+<area shape="poly" id="edge45_Node000027_Node000004" title=" " alt="" coords="429,1019,409,1009,369,978,340,946,344,943,372,974,412,1004,431,1014"/>
+<area shape="poly" id="edge47_Node000028_Node000004" title=" " alt="" coords="615,1096,566,1098,513,1094,459,1082,409,1060,380,1034,357,1002,342,971,332,945,337,943,347,969,362,1000,384,1031,412,1055,461,1077,514,1089,567,1092,615,1091"/>
+<area shape="poly" id="edge49_Node000029_Node000004" title=" " alt="" coords="624,1146,573,1148,517,1144,460,1130,434,1118,409,1103,390,1087,374,1067,351,1022,337,978,330,945,335,944,342,977,356,1020,378,1064,394,1083,412,1099,436,1114,462,1125,517,1138,573,1143,624,1141"/>
+<area shape="poly" id="edge51_Node000030_Node000004" title=" " alt="" coords="626,1198,574,1200,517,1196,460,1181,433,1169,409,1153,386,1130,368,1103,354,1073,344,1043,332,986,328,945,334,944,337,985,349,1042,359,1071,372,1100,390,1127,412,1149,436,1164,462,1176,518,1190,574,1194,625,1192"/>
+<area shape="poly" id="edge53_Node000031_Node000004" title=" " alt="" coords="622,1250,570,1252,514,1248,458,1234,432,1221,409,1205,381,1175,361,1141,346,1104,336,1065,328,994,327,944,332,944,333,994,342,1064,351,1102,366,1139,386,1172,412,1201,435,1217,460,1229,514,1243,570,1247,621,1244"/>
+<area shape="poly" id="edge55_Node000032_Node000004" title=" " alt="" coords="617,1302,566,1305,510,1301,456,1287,431,1274,409,1258,391,1234,376,1198,352,1106,337,1011,329,945,335,944,342,1011,358,1105,381,1197,396,1231,412,1254,434,1270,458,1282,511,1296,566,1300,617,1297"/>
+<area shape="poly" id="edge57_Node000033_Node000004" title=" " alt="" coords="625,1353,572,1357,515,1354,458,1340,432,1327,408,1310,389,1282,372,1240,359,1188,349,1131,335,1021,329,945,334,944,340,1020,354,1130,364,1187,378,1238,393,1279,412,1306,435,1323,460,1335,516,1349,572,1352,624,1348"/>
+<area shape="poly" id="edge59_Node000034_Node000004" title=" " alt="" coords="630,1403,577,1409,518,1407,460,1393,433,1380,408,1362,387,1330,369,1281,355,1221,345,1156,333,1030,328,945,334,944,338,1030,351,1156,361,1220,374,1279,391,1327,412,1358,435,1375,461,1388,518,1402,577,1403,630,1398"/>
+<area shape="poly" id="edge61_Node000035_Node000004" title=" " alt="" coords="628,1455,575,1460,516,1459,459,1445,432,1432,409,1414,396,1398,384,1377,366,1322,352,1254,342,1181,331,1038,328,944,333,944,336,1038,347,1180,357,1254,371,1321,389,1375,400,1395,412,1410,435,1427,461,1440,517,1453,575,1455,628,1450"/>
+<area shape="poly" id="edge63_Node000036_Node000004" title=" " alt="" coords="627,1506,573,1512,515,1510,458,1497,432,1484,409,1466,394,1448,382,1425,362,1363,348,1288,338,1205,329,1047,328,944,333,944,334,1047,344,1205,353,1287,367,1362,387,1423,399,1445,412,1462,435,1479,460,1492,516,1505,573,1507,626,1501"/>
+<area shape="poly" id="edge65_Node000037_Node000004" title=" " alt="" coords="628,1557,575,1563,516,1562,487,1556,458,1548,432,1535,409,1517,393,1497,380,1471,359,1403,344,1320,335,1230,327,1056,328,944,333,944,333,1056,340,1229,350,1319,364,1402,385,1469,398,1494,412,1513,435,1530,460,1543,488,1551,517,1556,575,1558,627,1552"/>
+<area shape="poly" id="edge67_Node000038_Node000004" title=" " alt="" coords="431,1577,408,1559,394,1536,382,1506,363,1432,348,1342,339,1245,329,1061,328,945,333,945,335,1061,344,1244,354,1341,368,1430,387,1505,399,1534,412,1556,435,1573"/>
+<area shape="poly" id="edge69_Node000039_Node000004" title=" " alt="" coords="431,387,412,401,400,418,390,442,371,504,358,579,348,660,337,816,333,917,328,917,331,815,342,660,352,578,366,503,385,440,396,416,408,397,428,382"/>
+</map>

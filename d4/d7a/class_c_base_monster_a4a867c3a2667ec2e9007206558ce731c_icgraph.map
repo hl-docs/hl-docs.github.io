@@ -1,0 +1,5 @@
+<map id="CBaseMonster::FShouldEat" name="CBaseMonster::FShouldEat">
+<area shape="rect" id="Node000001" title="Checks if the monster is hungry." alt="" coords="207,5,390,32"/>
+<area shape="rect" id="Node000002" href="$d5/ddb/class_c_roach.html#a87e55ea407a4508497c63e1783079c4e" title="Custom think function for the roach." alt="" coords="5,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,21,159,21,159,16,191,16"/>
+</map>

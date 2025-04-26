@@ -1,0 +1,5 @@
+<map id="CGameRules::EndMultiplayerGame" name="CGameRules::EndMultiplayerGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="173,5,400,32"/>
+<area shape="rect" id="Node000002" href="$dd/d26/class_c_game_end.html#af8d96f8244740462345f378e2d711b4e" title="Activates the game end entity." alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,21,125,21,125,16,157,16"/>
+</map>

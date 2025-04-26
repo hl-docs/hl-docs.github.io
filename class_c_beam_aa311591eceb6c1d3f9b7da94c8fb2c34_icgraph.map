@@ -1,9 +1,0 @@
-<map id="CBeam::SetFrame" name="CBeam::SetFrame">
-<area shape="rect" id="Node000001" title=" " alt="" coords="430,31,559,57"/>
-<area shape="rect" id="Node000002" href="$class_c_beam.html#afb9ead1728a19fcd3e6e2c689cc6f53e" title="Initializes the beam entity." alt="" coords="224,5,348,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,37,348,29,348,23,415,32"/>
-<area shape="rect" id="Node000003" href="$class_c_lightning.html#ab55f81ab9ad5a6c6a74943ed85562539" title="Updates the beam variables for the lightning effect." alt="" coords="190,56,382,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="415,56,383,60,382,55,414,51"/>
-<area shape="rect" id="Node000004" href="$class_c_lightning.html#ad1e95029a213e0d7faccb62f7cf38d3a" title="Activates the lightning effect." alt="" coords="5,56,142,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="174,72,142,72,142,67,174,67"/>
-</map>

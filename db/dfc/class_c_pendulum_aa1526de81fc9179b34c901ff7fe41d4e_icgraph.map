@@ -1,0 +1,5 @@
+<map id="CPendulum::PendulumUse" name="CPendulum::PendulumUse">
+<area shape="rect" id="Node000001" title="Handles the use action for the pendulum." alt="" coords="189,5,366,32"/>
+<area shape="rect" id="Node000002" href="$db/dfc/class_c_pendulum.html#a538f8c330e1366965f343a36e2593a2b" title="Spawns the func_pendulum entity." alt="" coords="5,5,141,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
+</map>

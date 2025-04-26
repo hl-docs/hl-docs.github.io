@@ -1,0 +1,21 @@
+<map id="PM_ShowClipBox" name="PM_ShowClipBox">
+<area shape="rect" id="Node000001" title="Shows the player&#39;s collision box and other debug information." alt="" coords="5,56,131,83"/>
+<area shape="rect" id="Node000002" href="$d5/d44/pm__debug_8c.html#ad93c9eb3dfcd2a86afcb18a0491432b9" title="Draws a bounding box at a specific location." alt="" coords="362,5,471,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,53,178,41,266,29,346,21,347,26,266,35,179,47,124,58"/>
+<area shape="rect" id="Node000004" href="$d5/d44/pm__debug_8c.html#a39075b178771fb0fc6801066c39eed5a" title="Draws a particle line between two points in 3D space." alt="" coords="752,56,868,83"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="119,81,179,92,326,107,441,112,556,107,703,92,746,84,747,89,704,97,557,113,441,118,326,112,178,97,118,86"/>
+<area shape="rect" id="Node000007" href="$d5/d44/pm__debug_8c.html#a63602df970dfa96031cef35be77be5d9" title="Shows the entity currently in the player&#39;s view." alt="" coords="179,56,289,83"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="131,67,163,67,163,72,131,72"/>
+<area shape="rect" id="Node000003" href="$d5/d44/pm__debug_8c.html#a9e5cae88b924534137c2dd1185f396d9" title="Draws a rectangle in 3D space using particle lines." alt="" coords="556,5,692,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,16,541,16,541,21,472,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="677,30,745,49,743,54,675,35"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="916,56,1033,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="868,67,901,67,901,72,868,72"/>
+<area shape="rect" id="Node000006" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="1081,56,1125,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1034,67,1066,67,1066,72,1034,72"/>
+<area shape="rect" id="Node000008" href="$d5/d44/pm__debug_8c.html#a32bf0cdaa5554ee5719a6c480d299b36" title="Draws a bounding box around a physical entity." alt="" coords="337,56,496,83"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="289,67,321,67,321,72,289,72"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="474,53,551,34,552,39,475,58"/>
+<area shape="rect" id="Node000009" href="$d3/dc7/pm__math_8c.html#aef9e9ab67f5a2257bc44234b741a0280" title="Converts angles into a transposed matrix of direction vectors." alt="" coords="544,56,704,83"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="497,67,529,67,529,72,497,72"/>
+</map>

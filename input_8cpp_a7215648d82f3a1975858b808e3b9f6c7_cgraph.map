@@ -1,7 +1,0 @@
-<map id="IN_BackUp" name="IN_BackUp">
-<area shape="rect" id="Node000001" title="Called when the back movement key is released." alt="" coords="5,31,92,57"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a9df8cb1377a4c2b9d715fcfbd8727072" title="Handles the release of spectator input buttons." alt="" coords="140,5,358,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,36,124,32,125,37,93,41"/>
-<area shape="rect" id="Node000003" href="$input_8cpp.html#a4d4954f7bc20bbdcee21bea11b60ca74" title="Handles a key up event for a specific key binding (kbutton_t)." alt="" coords="219,56,279,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,47,204,61,203,66,92,52"/>
-</map>

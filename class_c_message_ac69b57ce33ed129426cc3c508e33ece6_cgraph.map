@@ -1,5 +1,0 @@
-<map id="CMessage::Spawn" name="CMessage::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the message effect entity." alt="" coords="5,5,136,32"/>
-<area shape="rect" id="Node000002" href="$class_c_message.html#ad0e4e0611eef7bd6070963ed1ef28a1b" title="Precaches the message effect resources." alt="" coords="184,5,330,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,16,168,16,168,21,136,21"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CTalkMonster::FollowerUse" name="CTalkMonster::FollowerUse">
-<area shape="rect" id="Node000001" title=" " alt="" coords="182,31,362,57"/>
-<area shape="rect" id="Node000002" href="$class_c_barney.html#abf46f736a42ef4e60fd853d9e86526d2" title="Spawns the Barney entity." alt="" coords="10,5,129,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,33,129,29,129,23,167,28"/>
-<area shape="rect" id="Node000003" href="$class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="5,56,134,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,60,134,64,133,59,166,55"/>
-</map>

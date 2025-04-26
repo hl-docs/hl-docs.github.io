@@ -1,5 +1,0 @@
-<map id="TeamFortressViewport::DeathMsg" name="TeamFortressViewport::DeathMsg">
-<area shape="rect" id="Node000001" title="Handles death messages." alt="" coords="240,5,391,48"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_death_notice.html#ae7ac994f9ff2a5261c28167ec5e56522" title="Handles the &quot;DeathMsg&quot; message received from the server." alt="" coords="5,5,192,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,29,192,29,192,24,224,24"/>
-</map>

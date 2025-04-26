@@ -1,0 +1,9 @@
+<map id="CHudStatusBar::Init" name="CHudStatusBar::Init">
+<area shape="rect" id="Node000001" title="Initializes the HUD status bar element." alt="" coords="5,56,142,83"/>
+<area shape="rect" id="Node000002" href="$db/d4f/class_c_hud.html#aee3f9153b3045531340a6b60652db401" title="Adds a new HUD element to the list of HUD components." alt="" coords="198,5,335,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,53,197,34,199,39,128,58"/>
+<area shape="rect" id="Node000003" href="$de/d3f/cl__util_8h.html#a57f4a7bc4607d85cdedbbb60c2db2b58" title=" " alt="" coords="208,56,325,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,67,193,67,193,72,142,72"/>
+<area shape="rect" id="Node000004" href="$dc/d6f/class_c_hud_status_bar.html#ae333653b07ee069eb6594caf7895c9a5" title="Resets the status bar state." alt="" coords="190,107,343,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,81,199,100,197,105,127,86"/>
+</map>

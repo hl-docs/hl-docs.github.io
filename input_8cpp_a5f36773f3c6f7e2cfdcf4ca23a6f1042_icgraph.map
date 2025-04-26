@@ -1,9 +1,0 @@
-<map id="KB_Shutdown" name="KB_Shutdown">
-<area shape="rect" id="Node000001" title="Cleans up the key binding list." alt="" coords="406,5,510,32"/>
-<area shape="rect" id="Node000002" href="$input_8cpp.html#a008e70499ad7bf8a7daba5914d0806fc" title="Shuts down the input system cleanly." alt="" coords="252,5,358,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,21,359,21,359,16,391,16"/>
-<area shape="rect" id="Node000003" href="$input_8cpp.html#a2b966138947a3f9a63a35774f5cc126c" title="Called by the engine when the client is shutting down." alt="" coords="92,5,204,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,21,205,21,205,16,236,16"/>
-<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,21,44,21,44,16,76,16"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="CSqueakGrenade::Classify" name="CSqueakGrenade::Classify">
-<area shape="rect" id="Node000001" title="Classifies the squeak grenade&#39;s behavior based on its enemy." alt="" coords="5,5,183,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_entity.html#ad97c51b0c772019b11000e971f9fa965" title=" " alt="" coords="231,5,379,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,16,215,16,215,21,183,21"/>
-</map>

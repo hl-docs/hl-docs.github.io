@@ -1,0 +1,15 @@
+<map id="CHandGrenade::Deploy" name="CHandGrenade::Deploy">
+<area shape="rect" id="Node000001" title="Deploys the hand grenade for use." alt="" coords="5,81,163,108"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#a7bc312ba99eaf734af1135761e523ecb" title="Default method for deploying a weapon with animations and model." alt="" coords="211,73,364,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,92,195,92,195,97,163,97"/>
+<area shape="rect" id="Node000003" href="$da/d7d/class_c_base_player_weapon.html#a3546463a83121fedc1f2e249c176ebd0" title="Checks if the weapon has enough ammo to be deployed." alt="" coords="412,40,565,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,79,397,74,398,79,365,85"/>
+<area shape="rect" id="Node000006" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="412,107,565,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="365,105,398,110,397,115,364,110"/>
+<area shape="rect" id="Node000004" href="$dc/d11/class_c_base_player_item.html#a6abf912d6f83cafe942e9fd10e03729d" title=" " alt="" coords="613,5,810,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="565,44,623,33,624,38,566,49"/>
+<area shape="rect" id="Node000005" href="$dc/d11/class_c_base_player_item.html#a7b4cae9f3a51234c8e90ff2d053caa4c" title=" " alt="" coords="613,56,810,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="566,61,598,63,598,68,566,67"/>
+<area shape="rect" id="Node000007" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="630,115,793,141"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="566,125,614,125,614,131,566,131"/>
+</map>

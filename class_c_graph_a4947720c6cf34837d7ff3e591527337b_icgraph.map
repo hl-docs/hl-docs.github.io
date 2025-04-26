@@ -1,5 +1,0 @@
-<map id="CGraph::CapIndex" name="CGraph::CapIndex">
-<area shape="rect" id="Node000001" title=" " alt="" coords="193,5,320,32"/>
-<area shape="rect" id="Node000002" href="$class_c_graph.html#a89943cd3a127cfa0134f37cf7d90815b" title="Calculates the total path length from the start node to the destination node." alt="" coords="5,5,145,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,21,145,21,145,16,177,16"/>
-</map>

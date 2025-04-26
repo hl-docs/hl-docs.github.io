@@ -1,9 +1,0 @@
-<map id="UTIL_FindEntityInMap" name="UTIL_FindEntityInMap">
-<area shape="rect" id="Node000001" title="Finds an entity by class name in the map and retrieves its origin and angle." alt="" coords="682,13,831,40"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a88fad793293fa01139cdf9d4a0c551b4" title="Sets the initial position for the spectator camera." alt="" coords="441,5,634,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="667,29,635,29,635,24,667,24"/>
-<area shape="rect" id="Node000003" href="$class_c_hud_spectator.html#a22649f2acf16f40c4a108dde1b5bc760" title="Resets the spectator HUD to a clean state." alt="" coords="242,13,393,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,29,393,29,393,24,426,24"/>
-<area shape="rect" id="Node000004" href="$class_c_hud_spectator.html#ad4ca0f1796f5dc68c9e23eadd341a033" title="Initializes all HUD data structures for the spectator." alt="" coords="5,13,194,40"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,29,194,29,194,24,226,24"/>
-</map>

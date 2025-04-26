@@ -1,0 +1,13 @@
+<map id="CBaseEntity::ReflectGauss" name="CBaseEntity::ReflectGauss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="550,56,731,83"/>
+<area shape="rect" id="Node000002" href="$db/dab/class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="404,56,502,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,72,503,72,503,67,535,67"/>
+<area shape="rect" id="Node000003" href="$db/dab/class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21" title="Initiates the firing process for the Gauss weapon." alt="" coords="230,56,356,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,72,357,72,357,67,389,67"/>
+<area shape="rect" id="Node000004" href="$db/dab/class_c_gauss.html#a885e215da3bf2207e633b39d7d648d7c" title="Handles the primary attack for the Gauss weapon." alt="" coords="14,5,173,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,54,148,35,150,30,223,49"/>
+<area shape="rect" id="Node000005" href="$db/dab/class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="5,56,182,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="214,72,182,72,182,67,214,67"/>
+<area shape="rect" id="Node000006" href="$db/dab/class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="21,107,166,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="223,90,150,109,148,103,222,85"/>
+</map>

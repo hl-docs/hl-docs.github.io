@@ -1,7 +1,0 @@
-<map id="CGraph::NodeLink" name="CGraph::NodeLink">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,133,57"/>
-<area shape="rect" id="Node000002" href="$class_c_graph.html#a66465b1201ae978a9353d49e4a796c0c" title=" " alt="" coords="184,5,281,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,31,168,26,169,31,133,37"/>
-<area shape="rect" id="Node000003" href="$class_c_graph.html#a73559756ea74d3f5daef7c05603ca551" title=" " alt="" coords="181,56,284,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,51,166,56,165,62,132,57"/>
-</map>

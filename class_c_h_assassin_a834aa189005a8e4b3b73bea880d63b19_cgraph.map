@@ -1,9 +1,0 @@
-<map id="CHAssassin::CheckMeleeAttack1" name="CHAssassin::CheckMeleeAttack1">
-<area shape="rect" id="Node000001" title="Checks if a melee attack can be performed." alt="" coords="5,56,224,83"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="303,5,349,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,53,287,25,288,30,174,58"/>
-<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="304,56,348,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,67,288,67,288,72,224,72"/>
-<area shape="rect" id="Node000004" href="$dlls_2util_8cpp.html#af140262dc39fcaf8706ee5f956ae6892" title="Traces a hull between two points." alt="" coords="272,107,380,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,81,257,101,256,106,173,86"/>
-</map>

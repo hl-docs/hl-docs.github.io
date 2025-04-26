@@ -1,0 +1,20 @@
+<map id="CBaseMonster::DeadTakeDamage" name="CBaseMonster::DeadTakeDamage">
+<area shape="rect" id="Node000001" title="Handles the death of a monster&#39;s corpse." alt="" coords="5,80,227,107"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html#ac63a5e1c0bec68ff48cbd01a27f941ae" title=" " alt="" coords="275,5,415,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,77,286,35,288,40,160,82"/>
+<area shape="rect" id="Node000003" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="309,80,381,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,91,294,91,294,96,227,96"/>
+<area shape="rect" id="Node000006" href="$d5/db2/class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="282,131,408,157"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="180,105,267,124,266,129,179,110"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="313,81,308,71,312,62,324,55,345,53,367,56,379,62,376,67,365,61,345,59,326,61,316,65,313,71,318,78"/>
+<area shape="rect" id="Node000004" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="463,80,593,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="381,91,447,91,447,96,381,96"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="641,80,688,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="594,91,625,91,625,96,594,96"/>
+<area shape="rect" id="Node000007" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="475,131,581,157"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="408,141,459,141,459,147,408,147"/>
+<area shape="rect" id="Node000009" href="$d5/db2/class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="476,181,581,208"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="397,155,463,174,462,179,395,161"/>
+<area shape="rect" id="Node000008" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="643,131,686,157"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="582,141,627,141,627,147,582,147"/>
+</map>

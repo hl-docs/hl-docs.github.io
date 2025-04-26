@@ -1,0 +1,9 @@
+<map id="CBarney::TraceAttack" name="CBarney::TraceAttack">
+<area shape="rect" id="Node000001" title="Handles the trace attack for the Barney entity." alt="" coords="5,31,155,57"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a37eb12ce5728617367790c76eb33bd95" title="Handles a trace attack on an entity." alt="" coords="203,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,33,187,29,188,34,155,38"/>
+<area shape="rect" id="Node000003" href="$dc/d44/dlls_2util_8cpp.html#a550a9917cf17ef5811cc0bf16fbd674b" title="Emits a ricochet effect at a specified position." alt="" coords="243,56,348,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,50,228,59,227,64,155,55"/>
+<area shape="rect" id="Node000004" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="436,56,570,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,67,420,67,420,72,348,72"/>
+</map>

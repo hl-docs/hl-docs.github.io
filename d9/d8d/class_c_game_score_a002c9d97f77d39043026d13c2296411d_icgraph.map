@@ -1,0 +1,5 @@
+<map id="CGameScore::AwardToTeam" name="CGameScore::AwardToTeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,373,32"/>
+<area shape="rect" id="Node000002" href="$d9/d8d/class_c_game_score.html#a1e79aec0745118f43ab55ff1ef3f3d15" title="Activates the game score entity." alt="" coords="5,5,136,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,21,136,21,136,16,168,16"/>
+</map>

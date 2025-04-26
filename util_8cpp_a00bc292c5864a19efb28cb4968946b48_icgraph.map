@@ -1,9 +1,0 @@
-<map id="UTIL_StringToVector" name="UTIL_StringToVector">
-<area shape="rect" id="Node000001" title="Converts a string to a vector." alt="" coords="401,31,541,57"/>
-<area shape="rect" id="Node000002" href="$util_8cpp.html#af72e744c172f92e7257ad3adfe84d08d" title="Handles key&#45;value pairs for entity variables." alt="" coords="209,5,326,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,36,326,29,326,23,386,31"/>
-<area shape="rect" id="Node000004" href="$class_c_func_rotating.html#aa0fe847f6d36ff0d830026e66daeaf88" title="Processes key&#45;value pairs for the func_rotating entity." alt="" coords="182,56,353,83"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="386,57,354,61,353,56,385,52"/>
-<area shape="rect" id="Node000003" href="$cbase_8cpp.html#a321c6f352ba98d0b444a860784a910fc" title="Dispatches key&#45;value pairs to an entity." alt="" coords="5,5,134,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,21,134,21,134,16,194,16"/>
-</map>

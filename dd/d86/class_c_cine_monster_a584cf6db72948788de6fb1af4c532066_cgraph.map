@@ -1,0 +1,5 @@
+<map id="CCineMonster::FixScriptMonsterSchedule" name="CCineMonster::FixScriptMonsterSchedule">
+<area shape="rect" id="Node000001" title="Fixes the monster&#39;s schedule after a scripted sequence." alt="" coords="5,5,216,48"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a616a1bf4279ee18b90f1dbb3a063435a" title="Clears the monster&#39;s current schedule." alt="" coords="264,13,463,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,24,248,24,248,29,216,29"/>
+</map>

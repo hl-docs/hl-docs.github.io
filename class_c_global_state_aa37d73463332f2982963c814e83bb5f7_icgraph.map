@@ -1,5 +1,0 @@
-<map id="CGlobalState::Restore" name="CGlobalState::Restore">
-<area shape="rect" id="Node000001" title="Restores the global state from a save file." alt="" coords="188,5,339,32"/>
-<area shape="rect" id="Node000002" href="$world_8cpp.html#a00fbf02202736175c440598f46abdb6b" title="Restores the global state using the provided save data." alt="" coords="5,5,140,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
-</map>

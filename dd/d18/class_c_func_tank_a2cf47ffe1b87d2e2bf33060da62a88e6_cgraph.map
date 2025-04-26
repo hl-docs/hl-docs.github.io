@@ -1,0 +1,5 @@
+<map id="CFuncTank::BarrelPosition" name="CFuncTank::BarrelPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,182,32"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a41175864d670002ef1e6b124977bcb42" title=" " alt="" coords="230,5,400,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,16,214,16,214,21,182,21"/>
+</map>

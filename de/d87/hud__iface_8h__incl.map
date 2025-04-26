@@ -1,0 +1,55 @@
+<map id="cl_dll/hud_iface.h" name="cl_dll/hud_iface.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="342,5,463,32"/>
+<area shape="rect" id="Node000002" href="$dd/df8/wrect_8h.html" title=" " alt="" coords="311,80,374,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,34,364,70,360,66,390,31"/>
+<area shape="rect" id="Node000003" href="$df/d40/cdll__int_8h.html" title="Defines the client DLL interface for Half&#45;Life." alt="" coords="399,80,526,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="415,31,444,66,440,70,411,34"/>
+<area shape="rect" id="Node000004" href="$da/d5a/const_8h.html" title=" " alt="" coords="203,155,268,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,110,283,154,282,149,422,105"/>
+<area shape="rect" id="Node000005" href="$d0/d95/in__buttons_8h.html" title=" " alt="" coords="5,229,98,256"/>
+<area shape="poly" id="edge23_Node000003_Node000005" title=" " alt="" coords="399,109,284,132,192,157,132,188,81,222,78,218,129,184,191,152,283,127,398,104"/>
+<area shape="rect" id="Node000006" href="$da/de5/steamtypes_8h.html" title=" " alt="" coords="559,304,699,331"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="478,105,524,153,543,180,555,203,584,255,611,290,607,293,580,257,551,206,539,183,520,156,475,109"/>
+<area shape="rect" id="Node000007" href="$dc/d0c/ref__params_8h.html" title=" " alt="" coords="414,155,510,181"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="465,107,465,139,460,139,460,107"/>
+<area shape="rect" id="Node000008" href="$d7/de7/r__efx_8h.html" title=" " alt="" coords="329,155,390,181"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="446,109,392,147,389,143,443,105"/>
+<area shape="rect" id="Node000021" href="$dd/d30/studio__event_8h.html" title=" " alt="" coords="585,155,689,181"/>
+<area shape="poly" id="edge22_Node000003_Node000021" title=" " alt="" coords="494,105,593,146,591,151,492,110"/>
+<area shape="rect" id="Node000022" href="$d2/d13/_a_p_i_proxy_8h.html" title="Defines the interface between the Half&#45;Life engine and client DLL." alt="" coords="713,155,801,181"/>
+<area shape="poly" id="edge24_Node000003_Node000022" title=" " alt="" coords="514,105,699,150,697,155,513,110"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,184,99,226,97,221,202,179"/>
+<area shape="rect" id="Node000009" href="$dd/db8/particledef_8h.html" title=" " alt="" coords="314,229,405,256"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="362,182,362,214,357,214,357,182"/>
+<area shape="rect" id="Node000010" href="$db/d11/beamdef_8h.html" title=" " alt="" coords="122,229,203,256"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="330,183,212,226,210,221,328,178"/>
+<area shape="rect" id="Node000011" href="$d5/d9f/dlight_8h.html" title=" " alt="" coords="227,229,290,256"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="343,184,290,222,287,218,340,180"/>
+<area shape="rect" id="Node000012" href="$da/de1/cl__entity_8h.html" title=" " alt="" coords="430,229,511,256"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="380,180,440,218,437,223,377,184"/>
+<area shape="rect" id="Node000013" href="$d8/d0e/entity__state_8h.html" title=" " alt="" coords="464,379,564,405"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="476,256,509,363,503,364,471,257"/>
+<area shape="rect" id="Node000016" href="$da/d38/progs_8h.html" title="Defines program state and entity management functions for the Half&#45;Life engine." alt="" coords="351,304,416,331"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="457,259,412,296,408,292,453,254"/>
+<area shape="rect" id="Node000014" href="$db/dfb/pm__info_8h.html" title=" " alt="" coords="530,453,608,480"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="526,404,552,439,548,442,522,407"/>
+<area shape="rect" id="Node000015" href="$da/d5c/weaponinfo_8h.html" title=" " alt="" coords="410,453,506,480"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="507,408,479,443,475,439,502,404"/>
+<area shape="poly" id="edge19_Node000016_Node000013" title=" " alt="" coords="408,329,479,368,477,373,405,334"/>
+<area shape="rect" id="Node000017" href="$d0/dd1/progdefs_8h.html" title="Defines core data structures for entity variables and global game state." alt="" coords="219,453,300,480"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="394,330,408,366,410,387,403,407,386,426,364,441,316,459,314,454,361,437,382,422,399,404,405,386,403,367,389,332"/>
+<area shape="rect" id="Node000018" href="$d4/d28/event__flags_8h.html" title=" " alt="" coords="174,379,270,405"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="356,334,265,374,263,369,354,329"/>
+<area shape="rect" id="Node000019" href="$d4/dd8/event__args_8h.html" title=" " alt="" coords="295,379,389,405"/>
+<area shape="poly" id="edge18_Node000016_Node000019" title=" " alt="" coords="379,333,359,367,354,364,374,330"/>
+<area shape="rect" id="Node000020" href="$d5/d48/edict_8h.html" title="Defines the core entity structure for the Half&#45;Life engine." alt="" coords="89,379,150,405"/>
+<area shape="poly" id="edge20_Node000016_Node000020" title=" " alt="" coords="352,330,166,380,164,375,350,325"/>
+<area shape="poly" id="edge21_Node000020_Node000017" title=" " alt="" coords="145,404,223,443,220,448,143,408"/>
+<area shape="rect" id="Node000023" href="$d2/de3/archtypes_8h.html" title=" " alt="" coords="594,229,683,256"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="738,184,673,223,670,219,735,180"/>
+<area shape="rect" id="Node000024" href="$d7/df2/netadr_8h.html" title=" " alt="" coords="717,229,786,256"/>
+<area shape="poly" id="edge27_Node000022_Node000024" title=" " alt="" coords="759,182,756,214,751,213,753,182"/>
+<area shape="rect" id="Node000025" href="$de/de5/_sequence_8h.html" title=" " alt="" coords="810,229,901,256"/>
+<area shape="poly" id="edge28_Node000022_Node000025" title=" " alt="" coords="776,180,828,218,825,222,772,184"/>
+<area shape="poly" id="edge26_Node000023_Node000006" title=" " alt="" coords="639,257,635,289,630,288,634,256"/>
+</map>

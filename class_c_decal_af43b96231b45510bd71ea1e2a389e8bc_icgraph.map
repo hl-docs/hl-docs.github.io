@@ -1,5 +1,0 @@
-<map id="CDecal::StaticDecal" name="CDecal::StaticDecal">
-<area shape="rect" id="Node000001" title="Applies the decal statically." alt="" coords="164,5,302,32"/>
-<area shape="rect" id="Node000002" href="$class_c_decal.html#a7d37765927e4fe272fcae4707e6d54ea" title="Spawns the decal entity." alt="" coords="5,5,116,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,21,116,21,116,16,148,16"/>
-</map>

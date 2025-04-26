@@ -1,5 +1,0 @@
-<map id="CApache::StartupUse" name="CApache::StartupUse">
-<area shape="rect" id="Node000001" title="Handles the startup use behavior for the Apache." alt="" coords="175,5,322,32"/>
-<area shape="rect" id="Node000002" href="$class_c_apache.html#a2f084431649929e10419c257e2099c09" title="Spawns the Apache entity." alt="" coords="5,5,127,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,21,127,21,127,16,159,16"/>
-</map>

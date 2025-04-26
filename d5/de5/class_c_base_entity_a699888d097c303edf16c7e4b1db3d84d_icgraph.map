@@ -1,0 +1,23 @@
+<map id="CBaseEntity::GiveAmmo" name="CBaseEntity::GiveAmmo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,233,432,260"/>
+<area shape="rect" id="Node000002" href="$d6/dd0/class_c_crossbow_ammo.html#a7637a8aefbb6eb74294e3bc6d294e6d2" title="Adds ammo to the specified entity." alt="" coords="15,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,219,319,180,293,133,259,86,217,46,196,35,199,30,220,42,263,82,298,130,323,178,340,217"/>
+<area shape="rect" id="Node000003" href="$d6/de5/class_c_egon_ammo.html#aa80a88b046e324406ba45ddf752f9408" title="Adds ammo to the specified entity." alt="" coords="28,56,196,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,221,285,158,253,125,217,97,193,86,195,81,220,92,257,121,289,154,335,218"/>
+<area shape="rect" id="Node000004" href="$d0/d3e/class_c_gauss_ammo.html#a80e9b76fc0752176d9c48f49ae39f137" title="Adds ammo to the specified entity." alt="" coords="24,107,200,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,224,276,185,217,148,187,136,189,131,220,143,279,180,325,220"/>
+<area shape="rect" id="Node000005" href="$dd/d68/class_c_glock_ammo.html#abdb56f794353b9dbaf5e36a6e5298a89" title="Adds ammo to the specified entity." alt="" coords="26,157,198,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="301,229,218,199,177,187,178,182,219,193,303,224"/>
+<area shape="rect" id="Node000006" href="$d2/d4e/class_c_m_p5_ammo_clip.html#a251fcd999d1604d96c403323e9e22c3f" title="Adds ammo to the specified entity." alt="" coords="19,208,205,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="251,239,205,234,206,229,252,234"/>
+<area shape="rect" id="Node000007" href="$d3/df8/class_c_m_p5_chainammo.html#ab8ef24e61dc97f9bcdf376887787204b" title="Adds ammo to the specified entity." alt="" coords="14,259,210,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="252,260,210,264,210,259,251,254"/>
+<area shape="rect" id="Node000008" href="$d3/d0a/class_c_m_p5_ammo_grenade.html#a53f4a386704e0eb1ad00bea071864caf" title="Adds ammo to the specified entity." alt="" coords="5,309,219,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="303,269,219,300,178,311,177,306,218,295,301,264"/>
+<area shape="rect" id="Node000009" href="$d4/dc5/class_c_python_ammo.html#af9c993b58670b91b9dd11276a12b21d6" title="Adds ammo to the specified entity." alt="" coords="23,360,201,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="325,273,279,313,220,350,189,362,187,357,217,346,276,309,322,269"/>
+<area shape="rect" id="Node000010" href="$df/d4d/class_c_rpg_ammo.html#a5ae6c06d0f331e76803d97c1e46170f2" title="Adds ammo to the specified entity." alt="" coords="32,411,192,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="335,275,289,339,257,373,220,401,194,413,191,408,217,396,253,369,285,336,330,272"/>
+<area shape="rect" id="Node000011" href="$d6/d7d/class_c_shotgun_ammo.html#acde07e08ecc5e4c96c5f004c7c5387bf" title="Adds ammo to the specified entity." alt="" coords="19,461,205,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="340,276,323,316,298,363,263,411,220,451,199,463,196,458,217,447,259,408,293,361,319,313,336,274"/>
+</map>

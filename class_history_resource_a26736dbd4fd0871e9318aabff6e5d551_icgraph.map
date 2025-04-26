@@ -1,5 +1,0 @@
-<map id="HistoryResource::DrawAmmoHistory" name="HistoryResource::DrawAmmoHistory">
-<area shape="rect" id="Node000001" title="Draws the ammo pickup history on the HUD." alt="" coords="182,5,374,48"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_ammo.html#a2f1554ef4586294b2a82171ee7df6449" title="Draws the ammo status, including weapon selection, ammo counts, and ammo history." alt="" coords="5,13,134,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,29,134,29,134,24,166,24"/>
-</map>

@@ -1,0 +1,11 @@
+<map id="CBasePlayer::Killed" name="CBasePlayer::Killed">
+<area shape="rect" id="Node000001" title="Called when the player is killed." alt="" coords="488,31,626,57"/>
+<area shape="rect" id="Node000002" href="$d9/d95/client_8cpp.html#a01bb3d0e374fc1885d67a3e4269a235a" title="Handles the player&#39;s suicide command." alt="" coords="320,5,392,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,36,392,26,393,21,473,31"/>
+<area shape="rect" id="Node000003" href="$d5/d93/hl__weapons_8cpp.html#a7f536b4e474cf3eafb01428429fc7bbe" title="Runs the weapon logic on the client&#45;side during prediction." alt="" coords="272,56,440,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="473,57,441,61,441,56,473,52"/>
+<area shape="rect" id="Node000004" href="$d5/d93/hl__weapons_8cpp.html#a1b6fe5f64f2a0a1dc0e3ee9749c4eddb" title="Called after player movement prediction is done on the client." alt="" coords="92,56,224,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,72,225,72,225,67,257,67"/>
+<area shape="rect" id="Node000005" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,56,44,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,72,44,72,44,67,76,67"/>
+</map>

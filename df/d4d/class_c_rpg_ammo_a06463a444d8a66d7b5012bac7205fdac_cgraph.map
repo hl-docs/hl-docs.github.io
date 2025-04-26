@@ -1,0 +1,9 @@
+<map id="CRpgAmmo::Spawn" name="CRpgAmmo::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the RPG ammo entity." alt="" coords="5,56,144,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="260,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,53,244,25,245,30,133,58"/>
+<area shape="rect" id="Node000003" href="$df/d4d/class_c_rpg_ammo.html#af0fe8c00bdaa46a67dc96d851d603d66" title="Pre&#45;caches the resources needed for the RPG ammo." alt="" coords="206,56,360,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,67,190,67,190,72,144,72"/>
+<area shape="rect" id="Node000004" href="$de/d71/class_c_base_player_ammo.html#a13402d91be00ef4937c8b9bf3a83024c" title="Spawns the ammo entity in the game world." alt="" coords="192,107,374,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,81,211,100,210,105,132,86"/>
+</map>

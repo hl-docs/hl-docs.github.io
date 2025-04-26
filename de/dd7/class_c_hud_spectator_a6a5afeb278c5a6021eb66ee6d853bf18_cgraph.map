@@ -1,0 +1,9 @@
+<map id="CHudSpectator::FindPlayer" name="CHudSpectator::FindPlayer">
+<area shape="rect" id="Node000001" title="Attempts to find and spectate a specific player by name." alt="" coords="5,72,185,99"/>
+<area shape="rect" id="Node000002" href="$db/d40/class_team_fortress_viewport.html#a581a2504cd06f12a1dded0202d998e4c" title="Retrieves information about all players from the engine." alt="" coords="257,5,408,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,69,241,46,242,52,153,74"/>
+<area shape="rect" id="Node000003" href="$de/dd7/class_c_hud_spectator.html#a0b5731784e3b1196d0c52c5d4dea8a5c" title="Determines if a given entity is an active player that can be spectated." alt="" coords="233,72,432,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,83,217,83,217,88,185,88"/>
+<area shape="rect" id="Node000004" href="$db/d40/class_team_fortress_viewport.html#a385a039565e8364d11f5d95ef7419d98" title="Resets the screen fade effect." alt="" coords="256,123,409,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,97,241,119,240,124,151,102"/>
+</map>

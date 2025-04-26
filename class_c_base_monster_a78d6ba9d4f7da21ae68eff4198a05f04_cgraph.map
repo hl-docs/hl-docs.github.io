@@ -1,7 +1,0 @@
-<map id="CBaseMonster::MonsterThink" name="CBaseMonster::MonsterThink">
-<area shape="rect" id="Node000001" title="Handles the monster&#39;s thinking process." alt="" coords="5,31,199,57"/>
-<area shape="rect" id="Node000002" href="$animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="271,5,377,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,30,255,24,256,29,199,36"/>
-<area shape="rect" id="Node000003" href="$animation_8cpp.html#a30338044567f486adce29eb465afad92" title="Looks up the heaviest activity sequence for a model." alt="" coords="247,56,401,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,52,231,56,231,61,199,58"/>
-</map>

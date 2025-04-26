@@ -1,0 +1,9 @@
+<map id="CBaseTrigger::ToggleUse" name="CBaseTrigger::ToggleUse">
+<area shape="rect" id="Node000001" title="Toggles the state of the trigger." alt="" coords="201,64,369,91"/>
+<area shape="rect" id="Node000002" href="$db/d21/class_c_trigger_hurt.html#ad0681a187bf8f4d377b366ee85a9a32b" title="Initializes the hurt trigger entity." alt="" coords="9,5,149,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,62,128,35,129,30,222,57"/>
+<area shape="rect" id="Node000003" href="$dd/de8/class_c_trigger_monster_jump.html#a48045144be968821919f595fd15105af" title="Initializes the monster jump trigger entity." alt="" coords="5,56,153,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,80,153,80,153,75,185,75"/>
+<area shape="rect" id="Node000004" href="$d7/dbc/class_c_trigger_push.html#ad8a985d7fffaaba6a373d2f241c12ba4" title="Initializes the push trigger entity." alt="" coords="6,123,152,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,98,129,125,128,120,220,93"/>
+</map>

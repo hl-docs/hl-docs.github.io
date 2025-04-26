@@ -1,5 +1,0 @@
-<map id="CEnvFunnel::Spawn" name="CEnvFunnel::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the funnel effect entity." alt="" coords="5,5,143,32"/>
-<area shape="rect" id="Node000002" href="$class_c_env_funnel.html#a9401232fbfb289a4b0f87db691844c17" title="Precaches the funnel effect resources." alt="" coords="191,5,344,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,16,175,16,175,21,143,21"/>
-</map>

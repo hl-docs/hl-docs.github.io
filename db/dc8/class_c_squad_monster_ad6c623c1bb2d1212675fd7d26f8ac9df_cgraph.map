@@ -1,0 +1,13 @@
+<map id="CSquadMonster::OccupySlot" name="CSquadMonster::OccupySlot">
+<area shape="rect" id="Node000001" title="Occupies a slot for the squad monster." alt="" coords="5,60,196,87"/>
+<area shape="rect" id="Node000002" href="$db/dc8/class_c_squad_monster.html#abb12bdacefd969667874163644fa1515" title=" " alt="" coords="520,5,689,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,57,243,37,379,23,504,17,504,23,380,29,244,43,152,62"/>
+<area shape="rect" id="Node000003" href="$db/dc8/class_c_squad_monster.html#a8eecfa90882640b12b51daca63663e50" title=" " alt="" coords="496,115,712,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,85,244,104,366,117,481,123,480,129,365,122,243,109,151,90"/>
+<area shape="rect" id="Node000004" href="$db/dc8/class_c_squad_monster.html#a55854375a3cbddbb3b2dc00577392dd6" title="Checks if all squad members are fighting the same enemy." alt="" coords="244,52,444,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,71,228,71,228,76,196,76"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="444,50,522,33,523,38,445,55"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="445,92,523,108,522,113,444,97"/>
+<area shape="rect" id="Node000005" href="$db/dc8/class_c_squad_monster.html#a2b887c5d4e97c9b6bb0f7c59c8535cc3" title=" " alt="" coords="492,60,716,87"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="444,71,476,71,476,76,444,76"/>
+</map>

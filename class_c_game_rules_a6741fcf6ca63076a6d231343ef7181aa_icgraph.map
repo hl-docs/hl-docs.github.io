@@ -1,5 +1,0 @@
-<map id="CGameRules::Think" name="CGameRules::Think">
-<area shape="rect" id="Node000001" title=" " alt="" coords="140,5,277,32"/>
-<area shape="rect" id="Node000002" href="$client_8cpp.html#ac26dac0dcf7143c4be62ac4c22bd6980" title="Updates game rules and frame count at the start of each frame." alt="" coords="5,5,92,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,21,92,21,92,16,124,16"/>
-</map>

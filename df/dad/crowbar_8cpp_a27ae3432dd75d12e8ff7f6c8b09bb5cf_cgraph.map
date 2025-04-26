@@ -1,0 +1,9 @@
+<map id="FindHullIntersection" name="FindHullIntersection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,141,57"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="214,5,274,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,31,198,23,198,28,142,37"/>
+<area shape="rect" id="Node000004" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="189,56,299,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,51,173,56,173,62,141,57"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="347,5,390,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,16,332,16,332,21,274,21"/>
+</map>

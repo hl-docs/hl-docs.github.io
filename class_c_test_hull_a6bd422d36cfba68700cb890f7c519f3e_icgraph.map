@@ -1,7 +1,0 @@
-<map id="CTestHull::DropDelay" name="CTestHull::DropDelay">
-<area shape="rect" id="Node000001" title="Delays the spawning of the test hull." alt="" coords="353,5,498,32"/>
-<area shape="rect" id="Node000002" href="$class_c_test_hull.html#aa68319e3970124e67195cd9cd5f3754a" title="Spawns the test hull entity." alt="" coords="181,5,305,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="337,21,305,21,305,16,337,16"/>
-<area shape="rect" id="Node000003" href="$class_c_node_ent.html#a96bd94d32822b0009dd8aacaf78b6913" title="Spawns the node entity." alt="" coords="5,5,133,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,21,133,21,133,16,165,16"/>
-</map>

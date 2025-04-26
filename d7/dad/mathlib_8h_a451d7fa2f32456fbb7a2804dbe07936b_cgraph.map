@@ -1,0 +1,7 @@
+<map id="AngleBetweenVectors" name="AngleBetweenVectors">
+<area shape="rect" id="Node000001" title="Calculates the angle between two vectors in degrees." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="Node000002" href="$d3/dc7/pm__math_8c.html#a9c4d0048c3779f963f8f7b40473102c8" title="Calculates the length (magnitude) of a vector." alt="" coords="203,5,263,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,16,187,16,187,21,155,21"/>
+<area shape="rect" id="Node000003" href="$d3/dc7/pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="311,5,354,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,16,295,16,295,21,263,21"/>
+</map>

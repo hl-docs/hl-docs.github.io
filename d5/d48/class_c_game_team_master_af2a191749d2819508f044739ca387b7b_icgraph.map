@@ -1,0 +1,5 @@
+<map id="CGameTeamMaster::RemoveOnFire" name="CGameTeamMaster::RemoveOnFire">
+<area shape="rect" id="Node000001" title=" " alt="" coords="222,5,452,32"/>
+<area shape="rect" id="Node000002" href="$d5/d48/class_c_game_team_master.html#a85aba10b728ccebb2edf9103e18162c3" title="Activates the game team master entity." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,21,174,21,174,16,206,16"/>
+</map>

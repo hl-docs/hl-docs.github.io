@@ -1,0 +1,21 @@
+<map id="DbgInitialise" name="DbgInitialise">
+<area shape="rect" id="Node000001" title="Initializes the debugging library." alt="" coords="5,56,97,83"/>
+<area shape="rect" id="Node000002" href="$dd/d12/_wxdebug_8cpp.html#a1130c6b8cecd37d5ad186699fdc113ec" title="Initializes global debug settings from the registry." alt="" coords="147,5,294,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,53,158,34,159,40,98,58"/>
+<area shape="rect" id="Node000006" href="$dd/d12/_wxdebug_8cpp.html#a1d6161c4ee028210fb603b8b694ca668" title="Initializes the module file name." alt="" coords="152,56,289,83"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="97,67,136,67,136,72,97,72"/>
+<area shape="rect" id="Node000007" href="$dd/d12/_wxdebug_8cpp.html#a39a1827bc7e50a084b82d114aaabb05b" title="Retrieves the module&#45;specific settings from the registry." alt="" coords="145,107,296,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="98,80,159,99,158,104,96,85"/>
+<area shape="rect" id="Node000003" href="$dd/d12/_wxdebug_8cpp.html#a8aca74e896ad5444f23354382b73f781" title="Initializes key levels for debug settings." alt="" coords="344,56,464,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,30,339,49,338,54,271,35"/>
+<area shape="rect" id="Node000004" href="$dd/d12/_wxdebug_8cpp.html#ae096d7215a41338f0c0e5470696dd17a" title="Logs formatted information to the debugger." alt="" coords="518,69,603,96"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="294,18,377,26,465,41,518,60,516,65,464,47,376,31,293,24"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="465,72,503,75,502,80,465,77"/>
+<area shape="rect" id="Node000005" href="$dd/d12/_wxdebug_8cpp.html#ad307067921786b831b158270469acf42" title="Outputs a string to the debug output." alt="" coords="657,108,756,135"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="604,91,642,102,641,107,603,97"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="271,103,338,85,339,90,272,109"/>
+<area shape="poly" id="edge11_Node000007_Node000004" title=" " alt="" coords="296,110,464,92,502,87,503,93,465,97,297,115"/>
+<area shape="rect" id="Node000008" href="$dd/d12/_wxdebug_8cpp.html#aadb8c88a91dffd6d639fdda8f1b23745" title="Sets up alternate logging destinations." alt="" coords="512,145,609,172"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="297,126,497,149,497,154,296,131"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="608,144,641,135,642,140,610,149"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="CFuncTrackTrain::NextThink" name="CFuncTrackTrain::NextThink">
+<area shape="rect" id="Node000001" title="Sets the next think time for the track train." alt="" coords="912,132,1097,159"/>
+<area shape="rect" id="Node000002" href="$d5/d0d/class_c_func_track_train.html#add34b3b37ed17e3c50ef3344ee26197b" title="Finds the nearest path track for the track train." alt="" coords="486,5,638,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="973,124,924,90,863,60,805,43,746,32,638,22,638,17,747,27,807,38,865,55,926,85,976,120"/>
+<area shape="rect" id="Node000003" href="$d5/d0d/class_c_func_track_train.html#a84d3f5bb098a6ceb8fed7f43cbe3b51d" title="Moves the track train to the next position along its path." alt="" coords="709,93,864,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="910,131,864,123,865,118,911,126"/>
+<area shape="rect" id="Node000005" href="$d5/d0d/class_c_func_track_train.html#a1ccfc5232aaf4050af606ea3ce819c2a" title="Resets the track train&#39;s state and prepares it for the next path." alt="" coords="230,115,404,157"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="896,150,694,151,462,148,404,145,405,140,462,143,694,146,896,145"/>
+<area shape="rect" id="Node000009" href="$d0/d93/class_c_func_track_change.html#a7141fa7845dca6a3c4456c5e660e7ece" title="Updates the train&#39;s position and velocity based on the track change." alt="" coords="470,208,654,251"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="951,167,864,192,756,211,654,224,654,219,755,206,863,187,950,162"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="747,88,706,66,660,46,625,35,626,30,662,42,708,62,750,83"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="824,80,811,74,786,72,764,74,751,79,748,84,754,91,750,94,743,85,748,75,762,69,787,67,812,69,826,76"/>
+<area shape="rect" id="Node000004" href="$d5/d0d/class_c_func_track_train.html#a6cc16b737db9d8a699f6205f63afd0ef" title="Finds the nearest path track for the track train." alt="" coords="462,107,661,133"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="694,115,662,117,662,111,693,109"/>
+<area shape="rect" id="Node000006" href="$d5/d0d/class_c_func_track_train.html#a6234b20c6bdc769de9248fab5ad29f29" title="Activates the track train based on the use type." alt="" coords="487,56,637,83"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="693,94,637,84,638,79,694,89"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="447,130,405,133,404,128,446,125"/>
+<area shape="rect" id="Node000007" href="$de/d87/class_c_func_track_auto.html#adcf4ffbcbf8076b2fbeb0dd46c9749d8" title="Updates the auto targets for the track change based on the current state." alt="" coords="220,48,414,91"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="471,72,414,72,414,67,471,67"/>
+<area shape="rect" id="Node000008" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="14,181,163,208"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="232,100,221,105,157,145,108,183,104,179,154,141,218,100,230,95"/>
+<area shape="rect" id="Node000010" href="$d0/d93/class_c_func_track_change.html#a1cb0c02694236d633ecf5a14dac87ac4" title="Moves the track change entity down." alt="" coords="221,181,413,208"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="454,217,413,211,414,206,454,211"/>
+<area shape="rect" id="Node000012" href="$d0/d93/class_c_func_track_change.html#a86a802569986a457166bf7aa2de3831c" title="Moves the track change entity up." alt="" coords="229,232,405,259"/>
+<area shape="poly" id="edge15_Node000009_Node000012" title=" " alt="" coords="454,239,405,242,405,237,454,234"/>
+<area shape="poly" id="edge14_Node000010_Node000008" title=" " alt="" coords="205,197,164,197,164,192,205,192"/>
+<area shape="rect" id="Node000011" href="$d0/d93/class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="5,232,172,259"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="239,215,152,234,151,229,238,209"/>
+<area shape="poly" id="edge17_Node000012_Node000008" title=" " alt="" coords="238,231,151,211,152,206,239,225"/>
+<area shape="poly" id="edge16_Node000012_Node000011" title=" " alt="" coords="213,248,172,248,172,243,213,243"/>
+</map>

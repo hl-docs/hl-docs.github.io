@@ -1,0 +1,7 @@
+<map id="CMomentaryDoor::KeyValue" name="CMomentaryDoor::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value pairs for the momentary door." alt="" coords="5,31,192,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="290,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,31,274,21,274,27,192,36"/>
+<area shape="rect" id="Node000003" href="$d6/d0d/class_c_base_toggle.html#a99ba6e5114504377f537ca98b3afec40" title="Handles key&#45;value pairs for the toggle entity." alt="" coords="240,56,402,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,52,224,56,224,61,191,57"/>
+</map>

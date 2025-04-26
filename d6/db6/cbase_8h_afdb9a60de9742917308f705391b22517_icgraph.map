@@ -1,0 +1,106 @@
+<map id="GetClassPtr" name="GetClassPtr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="772,908,865,935"/>
+<area shape="rect" id="Node000002" href="$de/d3b/class_c_base_door.html#a328f374a6339be384dcbfd4e1d44d9ef" title="Handles the blocked behavior for the door." alt="" coords="550,5,692,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="813,892,805,708,787,439,774,303,759,184,742,94,732,64,722,46,709,34,692,27,694,22,711,30,726,42,737,62,747,93,765,183,780,303,792,438,810,708,819,892"/>
+<area shape="rect" id="Node000003" href="$d3/d0b/class_c_crossbow_bolt.html#a9ca035606c3bacbf18eeb64b5fadf3cf" title="Creates a new crossbow bolt entity." alt="" coords="532,56,711,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="813,893,804,718,785,465,773,338,758,226,741,142,732,113,722,96,709,85,712,81,726,93,737,111,746,140,763,225,778,337,790,464,809,718,819,892"/>
+<area shape="rect" id="Node000006" href="$d7/da9/class_c_change_level.html#afd9334e5464c6d1c6064606cb3d7bd48" title="Changes the level immediately." alt="" coords="261,933,470,960"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="787,946,758,962,725,975,684,983,642,987,558,985,481,976,419,963,420,958,482,971,559,980,642,981,683,977,724,969,756,957,784,941"/>
+<area shape="rect" id="Node000010" href="$d9/d95/client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="309,461,422,488"/>
+<area shape="poly" id="edge7_Node000001_Node000010" title=" " alt="" coords="813,893,807,792,792,658,780,591,765,530,746,482,723,451,684,428,641,416,595,413,549,417,504,426,462,438,396,463,394,458,460,433,502,421,548,411,595,407,642,411,686,423,726,447,750,480,770,529,785,590,797,657,812,792,819,893"/>
+<area shape="rect" id="Node000011" href="$d9/d95/client_8cpp.html#af33d5a5c62848a1bc073582e1906210a" title="Called each time a player is spawned." alt="" coords="561,208,681,235"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="815,892,812,756,801,562,789,463,773,373,751,298,737,270,722,249,704,235,681,227,682,222,706,230,726,245,742,267,756,297,778,372,795,462,806,562,818,756,820,892"/>
+<area shape="rect" id="Node000012" href="$d9/d95/client_8cpp.html#aad05fa4f76693ce17508a15ec69427bb" title="Processes changes to a player&#39;s user information." alt="" coords="545,259,697,285"/>
+<area shape="poly" id="edge9_Node000001_Node000012" title=" " alt="" coords="814,893,811,766,798,587,786,496,770,413,749,345,736,319,722,299,696,282,699,278,726,295,741,316,754,343,775,412,791,495,803,587,816,766,820,893"/>
+<area shape="rect" id="Node000013" href="$d4/d6e/class_c_multi_manager.html#a2d07b45f818cebf5221eebf550bd7410" title="Clones the multi&#45;manager entity." alt="" coords="547,107,696,133"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="813,893,803,728,784,491,771,372,756,268,740,189,731,163,722,147,710,137,695,129,698,125,713,132,726,144,736,161,745,188,762,267,776,371,789,490,808,728,818,893"/>
+<area shape="rect" id="Node000017" href="$d4/de9/class_c_spiral.html#ae3069393574e9327e15a3baa84afd585" title="Creates a spiral effect entity." alt="" coords="567,157,676,184"/>
+<area shape="poly" id="edge13_Node000001_Node000017" title=" " alt="" coords="815,892,814,747,804,538,793,431,776,333,753,252,739,221,722,198,701,183,676,175,677,170,704,178,726,194,743,219,758,250,781,332,798,430,809,538,820,747,820,892"/>
+<area shape="rect" id="Node000020" href="$d3/d21/class_c_gib_shooter.html#af79eec93ab5e4496cb0c8fbf30ff49da" title="Creates a gib entity." alt="" coords="541,309,702,336"/>
+<area shape="poly" id="edge15_Node000001_Node000020" title=" " alt="" coords="814,892,809,775,795,611,783,529,767,453,747,391,735,368,722,350,701,335,704,330,726,346,740,365,752,389,772,452,788,528,800,611,814,774,819,892"/>
+<area shape="rect" id="Node000023" href="$d2/d6b/class_c_env_shooter.html#a649837186dd8531aefbaacb0096902c3" title="Creates a gib entity for the environment shooter." alt="" coords="540,461,702,488"/>
+<area shape="poly" id="edge17_Node000001_Node000023" title=" " alt="" coords="812,893,802,804,785,686,758,574,741,531,722,502,701,487,704,483,726,498,746,528,763,572,790,685,808,803,817,892"/>
+<area shape="rect" id="Node000024" href="$d5/d86/class_c_xen_hull.html#a1192e94e7ae8c22ceccacd12cf5df6fd" title="Creates a new Xen hull entity." alt="" coords="551,360,692,387"/>
+<area shape="poly" id="edge18_Node000001_Node000024" title=" " alt="" coords="813,892,806,786,790,640,778,566,763,499,744,444,722,407,708,395,691,386,693,382,711,391,726,404,749,442,768,498,783,565,795,639,811,785,818,892"/>
+<area shape="rect" id="Node000026" href="$d3/d4e/class_c_rpg_rocket.html#a4d9f000f14ddbdc04895e000bfa4b272" title="Creates a new RPG rocket entity." alt="" coords="263,563,468,589"/>
+<area shape="poly" id="edge20_Node000001_Node000026" title=" " alt="" coords="810,893,799,823,779,735,754,654,739,623,723,603,705,594,680,586,616,576,541,573,468,573,468,568,541,567,616,571,682,581,707,589,726,599,743,620,759,652,785,734,804,822,816,892"/>
+<area shape="rect" id="Node000028" href="$d9/d3a/class_c_laser_spot.html#a8c152b8621c0d41d7b9e888d3efcc40c" title="Creates a laser spot entity." alt="" coords="540,613,702,640"/>
+<area shape="poly" id="edge22_Node000001_Node000028" title=" " alt="" coords="813,893,807,841,793,777,781,743,766,710,746,680,723,654,701,640,704,636,726,650,750,677,770,708,786,741,798,775,812,840,819,892"/>
+<area shape="rect" id="Node000031" href="$dd/d86/class_c_cine_monster.html#a6ae9e85f3cf9ddb719b119cd458334ae" title=" " alt="" coords="535,664,707,691"/>
+<area shape="poly" id="edge25_Node000001_Node000031" title=" " alt="" coords="810,894,800,853,783,804,758,754,742,731,723,711,693,693,695,689,726,707,746,728,763,751,788,802,805,852,815,892"/>
+<area shape="rect" id="Node000032" href="$d6/df1/sound_8cpp.html#adfcfc8766d953793de4b0dfebced3e02" title="Checks if a sound entity is in range and can see a player." alt="" coords="554,765,688,792"/>
+<area shape="poly" id="edge26_Node000001_Node000032" title=" " alt="" coords="801,896,769,849,747,826,723,806,688,791,690,786,726,802,751,822,773,846,805,893"/>
+<area shape="rect" id="Node000033" href="$d7/d4f/class_c_env_sound.html#a0b9e404846af788b72bbeb60e5f9ed90" title="Think function for the environmental sound entity." alt="" coords="302,740,429,767"/>
+<area shape="poly" id="edge53_Node000001_Node000033" title=" " alt="" coords="808,894,798,860,781,821,756,784,723,756,685,738,644,727,601,721,559,720,479,728,413,742,412,737,478,723,559,715,602,716,645,721,687,733,726,751,760,781,785,818,803,858,813,892"/>
+<area shape="rect" id="Node000034" href="$d2/d9e/class_c_sitting_scientist.html#a18ee2d8fd7389fdd2336a6fa464c2597" title="Handles idle speaking behavior for the sitting scientist." alt="" coords="558,816,684,859"/>
+<area shape="poly" id="edge28_Node000001_Node000034" title=" " alt="" coords="780,902,723,873,684,858,686,853,725,868,782,897"/>
+<area shape="rect" id="Node000035" href="$d9/d95/client_8cpp.html#a2bdc7b8c8b206cea10e51dbb42e9a848" title="Processes a player&#39;s chat message." alt="" coords="582,512,660,539"/>
+<area shape="poly" id="edge29_Node000001_Node000035" title=" " alt="" coords="811,893,799,815,780,715,754,620,739,584,722,559,709,548,693,540,660,531,661,526,695,535,712,544,726,556,743,581,759,619,785,714,804,814,816,892"/>
+<area shape="rect" id="Node000036" href="$dc/d69/triggers_8cpp.html#a9c38bd8c0795bb7c75beec239f139105" title="Handles the transition to the next level for deathmatch." alt="" coords="583,933,660,960"/>
+<area shape="poly" id="edge31_Node000001_Node000036" title=" " alt="" coords="757,932,661,944,660,939,757,927"/>
+<area shape="rect" id="Node000037" href="$dd/da2/plats_8cpp.html#a801e3f25844db6d6820db10c23be6019" title="Creates a trigger entity for the platform." alt="" coords="543,1035,699,1061"/>
+<area shape="poly" id="edge32_Node000001_Node000037" title=" " alt="" coords="800,949,768,985,726,1018,685,1036,683,1032,723,1014,764,981,796,945"/>
+<area shape="rect" id="Node000039" href="$d0/da9/class_c_world.html#a3369fa629e2fa36ce93e3a37680d08aa" title="Preloads resources and initializes game settings." alt="" coords="558,1085,685,1112"/>
+<area shape="poly" id="edge34_Node000001_Node000039" title=" " alt="" coords="810,950,780,1014,756,1047,726,1075,707,1086,686,1094,684,1089,705,1082,723,1071,752,1044,775,1011,805,948"/>
+<area shape="rect" id="Node000041" href="$db/d21/class_c_trigger_hurt.html#a5efd587360775bc12244494ef921cffd" title="Handles the radiation damage logic for the hurt trigger." alt="" coords="528,1237,714,1264"/>
+<area shape="poly" id="edge36_Node000001_Node000041" title=" " alt="" coords="820,951,816,1009,802,1083,790,1122,774,1161,753,1196,726,1227,710,1239,707,1235,723,1223,749,1193,770,1158,785,1120,797,1082,810,1008,815,950"/>
+<area shape="rect" id="Node000043" href="$d9/d95/client_8cpp.html#a4df8a7c050e510f31048ab1cc2c19d1e" title="Respawns a player or restarts the server." alt="" coords="587,1136,656,1163"/>
+<area shape="poly" id="edge38_Node000001_Node000043" title=" " alt="" coords="815,951,805,990,788,1038,762,1085,745,1107,726,1126,692,1144,657,1151,656,1146,690,1139,723,1122,741,1104,758,1082,783,1035,800,989,810,949"/>
+<area shape="rect" id="Node000044" href="$d5/da4/class_c_gargantua.html#ae93076998ee13769916c9736cc1a7058" title="Runs a task for the Gargantua." alt="" coords="547,1187,696,1213"/>
+<area shape="poly" id="edge39_Node000001_Node000044" title=" " alt="" coords="818,951,811,1000,795,1061,768,1123,749,1152,726,1177,698,1193,695,1189,723,1173,745,1148,763,1121,790,1059,805,999,812,950"/>
+<area shape="rect" id="Node000045" href="$dc/d13/scripted_8cpp.html#a7c8c29c4a23a9e776fb3dd45838d4507" title=" " alt="" coords="557,1760,686,1787"/>
+<area shape="poly" id="edge40_Node000001_Node000045" title=" " alt="" coords="819,950,809,1125,790,1378,778,1505,763,1617,746,1702,737,1732,726,1750,708,1764,687,1772,685,1767,706,1759,722,1746,732,1729,741,1701,758,1617,773,1505,785,1378,804,1125,813,950"/>
+<area shape="rect" id="Node000051" href="$db/d5e/class_c_b_mortar.html#ad33141dc5ae3bfe436f36caf01bf4938" title="Shoots a CBMortar entity." alt="" coords="562,1288,680,1315"/>
+<area shape="poly" id="edge42_Node000001_Node000051" title=" " alt="" coords="816,950,804,1027,785,1125,759,1217,744,1253,726,1278,705,1292,682,1300,680,1295,703,1287,722,1274,739,1250,754,1215,780,1123,799,1026,811,949"/>
+<area shape="rect" id="Node000053" href="$de/dcc/class_c_squid_spit.html#a895e2a596ba9891321b19b21568b0312" title="Shoots the squid spit entity." alt="" coords="557,1339,685,1365"/>
+<area shape="poly" id="edge43_Node000001_Node000053" title=" " alt="" coords="817,950,807,1037,789,1150,762,1257,746,1300,726,1329,708,1342,687,1350,685,1345,705,1337,722,1325,741,1297,757,1256,784,1149,802,1036,812,950"/>
+<area shape="rect" id="Node000055" href="$d9/df2/class_c_grenade.html#ae0ef7b8fe706328b74f8eb134495d042" title="Creates and shoots a satchel charge." alt="" coords="518,1389,724,1416"/>
+<area shape="poly" id="edge44_Node000001_Node000055" title=" " alt="" coords="818,950,809,1046,792,1175,780,1239,765,1298,747,1346,726,1379,711,1391,708,1387,722,1376,743,1344,760,1296,775,1238,787,1174,804,1046,813,950"/>
+<area shape="rect" id="Node000056" href="$da/d35/class_c_node_ent.html#a96bd94d32822b0009dd8aacaf78b6913" title="Spawns the node entity." alt="" coords="558,1440,685,1467"/>
+<area shape="poly" id="edge45_Node000001_Node000056" title=" " alt="" coords="819,950,811,1056,796,1199,784,1272,768,1338,749,1392,726,1430,708,1444,686,1452,684,1447,705,1439,722,1426,745,1390,763,1337,778,1271,790,1199,806,1055,813,950"/>
+<area shape="rect" id="Node000057" href="$d0/d78/class_c_flocking_flyer_flock.html#a18af3413e29b762b9727e0c0db25f7ab" title="Spawns the individual boids in the flock." alt="" coords="551,1491,691,1533"/>
+<area shape="poly" id="edge46_Node000001_Node000057" title=" " alt="" coords="819,950,813,1065,797,1223,786,1303,770,1377,751,1438,726,1480,711,1494,693,1503,690,1498,708,1489,722,1477,746,1436,765,1376,780,1302,792,1222,807,1064,814,950"/>
+<area shape="rect" id="Node000059" href="$d5/d98/class_c_gib.html#a8ed5e62b5b7bdf3886c50fad5c356336" title="Spawns a head gib." alt="" coords="548,1557,695,1584"/>
+<area shape="poly" id="edge47_Node000001_Node000059" title=" " alt="" coords="820,950,816,1077,803,1256,791,1347,775,1431,754,1500,741,1527,726,1547,712,1559,696,1566,694,1561,710,1554,722,1544,736,1524,749,1498,770,1430,786,1346,798,1255,811,1077,814,950"/>
+<area shape="rect" id="Node000060" href="$d5/d98/class_c_gib.html#af622b29a446456fd6a46e217bc572f73" title="Spawns random gibs from a victim." alt="" coords="535,1608,707,1635"/>
+<area shape="poly" id="edge48_Node000001_Node000060" title=" " alt="" coords="820,950,818,1087,806,1281,795,1380,778,1471,756,1546,742,1575,726,1598,709,1611,706,1607,722,1594,737,1573,751,1544,773,1470,789,1379,801,1280,812,1087,815,950"/>
+<area shape="rect" id="Node000064" href="$d5/d98/class_c_gib.html#a32f9780479278f647d083fd896e04620" title="Spawns sticky gibs at a specified location." alt="" coords="541,1659,702,1685"/>
+<area shape="poly" id="edge49_Node000001_Node000064" title=" " alt="" coords="820,950,820,1096,809,1305,798,1412,781,1511,758,1592,743,1624,726,1649,704,1665,701,1660,722,1645,739,1621,753,1591,776,1510,793,1412,804,1304,814,1096,815,950"/>
+<area shape="rect" id="Node000065" href="$df/d88/class_c_stomp.html#a67e11d1187e65f16e08bc5a9d5664b15" title="Creates a stomp effect for the Gargantua." alt="" coords="545,1709,697,1736"/>
+<area shape="poly" id="edge50_Node000001_Node000065" title=" " alt="" coords="818,950,808,1115,789,1352,776,1471,762,1576,745,1655,736,1682,726,1699,714,1710,699,1717,697,1713,711,1706,722,1696,731,1680,740,1654,756,1575,771,1471,784,1352,803,1115,813,950"/>
+<area shape="rect" id="Node000068" href="$d9/dbc/class_c_base_delay.html#ab38df8e96cc9fe65f6964774452bbcc5" title="Executes the targets associated with the delay entity." alt="" coords="521,883,722,909"/>
+<area shape="poly" id="edge51_Node000001_Node000068" title=" " alt="" coords="757,916,722,912,723,906,757,911"/>
+<area shape="rect" id="Node000128" href="$db/dc5/class_c_xen_tree_trigger.html#a22c38b00d52819edfdcfce4da3b4a0c8" title="Creates a new Xen tree trigger entity." alt="" coords="540,1811,702,1853"/>
+<area shape="poly" id="edge54_Node000001_Node000128" title=" " alt="" coords="819,951,809,1134,791,1404,778,1539,763,1658,746,1749,737,1781,726,1800,705,1818,701,1814,722,1797,732,1779,741,1748,758,1658,773,1538,786,1403,804,1134,813,950"/>
+<area shape="rect" id="Node000004" href="$d0/db0/class_c_crossbow.html#ad6a24e0cb3497003ba02cf2711ad48b9" title="Fires a regular bolt from the crossbow." alt="" coords="295,32,436,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="515,62,436,55,436,49,516,57"/>
+<area shape="rect" id="Node000007" href="$d7/da9/class_c_change_level.html#ab5157ddf7f8ce4ef570f8c7615858317" title="Handles the touch event for the change level trigger." alt="" coords="14,896,204,939"/>
+<area shape="poly" id="edge5_Node000006_Node000007" title=" " alt="" coords="245,936,204,931,205,926,245,930"/>
+<area shape="rect" id="Node000009" href="$d7/da9/class_c_change_level.html#a5f6126570a63a374908d9ab3d5504d7e" title="Activates the change level when triggered." alt="" coords="5,963,213,989"/>
+<area shape="poly" id="edge6_Node000006_Node000009" title=" " alt="" coords="245,963,214,967,213,961,245,958"/>
+<area shape="rect" id="Node000014" href="$d4/d6e/class_c_multi_manager.html#a9f0e2fa1ca8842e542ce61dc78041091" title="Activates the multi&#45;manager." alt="" coords="271,107,460,133"/>
+<area shape="poly" id="edge11_Node000013_Node000014" title=" " alt="" coords="531,123,461,123,461,117,531,117"/>
+<area shape="poly" id="edge12_Node000014_Node000014" title=" " alt="" coords="410,94,395,88,365,85,338,87,324,92,320,97,327,104,323,108,315,98,320,88,337,82,365,80,396,83,412,89"/>
+<area shape="rect" id="Node000018" href="$d5/da4/class_c_gargantua.html#aa0f3304e4713c9430662a178ca4f32bb" title="Creates the Gargantua&#39;s death effect." alt="" coords="283,157,448,184"/>
+<area shape="poly" id="edge14_Node000017_Node000018" title=" " alt="" coords="551,173,448,173,448,168,551,168"/>
+<area shape="rect" id="Node000021" href="$d3/d21/class_c_gib_shooter.html#ac87720877a82210693cd78906b65f738" title="Think function for shooting gibs." alt="" coords="281,309,450,336"/>
+<area shape="poly" id="edge16_Node000020_Node000021" title=" " alt="" coords="525,325,450,325,450,320,525,320"/>
+<area shape="rect" id="Node000025" href="$d1/dbe/class_c_xen_spore_large.html#a5c9ef3663cc7a76ef324f5d5d02330bc" title="Spawns a large Xen spore entity." alt="" coords="283,360,448,387"/>
+<area shape="poly" id="edge19_Node000024_Node000025" title=" " alt="" coords="535,376,448,376,448,371,535,371"/>
+<area shape="rect" id="Node000027" href="$da/d7e/class_c_rpg.html#a953326b14bfe1e7acdf5d72ba8b3fd80" title="Handles the primary attack for the RPG weapon." alt="" coords="37,588,181,615"/>
+<area shape="poly" id="edge21_Node000026_Node000027" title=" " alt="" coords="248,590,182,597,181,592,248,585"/>
+<area shape="rect" id="Node000029" href="$da/d7e/class_c_rpg.html#ad4a3f48988a71608428af2fd51110e00" title="Updates the position of the laser spot based on the player&#39;s aim." alt="" coords="301,613,430,640"/>
+<area shape="poly" id="edge23_Node000028_Node000029" title=" " alt="" coords="524,629,430,629,430,624,524,624"/>
+<area shape="poly" id="edge24_Node000029_Node000027" title=" " alt="" coords="286,622,182,611,182,606,286,616"/>
+<area shape="poly" id="edge27_Node000032_Node000033" title=" " alt="" coords="539,773,429,762,430,757,539,768"/>
+<area shape="poly" id="edge30_Node000035_Node000010" title=" " alt="" coords="566,517,422,488,423,483,567,512"/>
+<area shape="rect" id="Node000038" href="$de/db3/class_c_func_plat.html#ab7056f829f095aba7609b44202965623" title="Pre&#45;caches sounds for the platform." alt="" coords="293,1035,438,1061"/>
+<area shape="poly" id="edge33_Node000037_Node000038" title=" " alt="" coords="527,1051,438,1051,438,1045,527,1045"/>
+<area shape="rect" id="Node000040" href="$d0/da9/class_c_world.html#a8f48bd2b218222fa98bfc43afd7f62f0" title="Spawns the world entity." alt="" coords="310,1085,421,1112"/>
+<area shape="poly" id="edge35_Node000039_Node000040" title=" " alt="" coords="542,1101,422,1101,422,1096,542,1096"/>
+<area shape="rect" id="Node000042" href="$db/d21/class_c_trigger_hurt.html#ad0681a187bf8f4d377b366ee85a9a32b" title="Initializes the hurt trigger entity." alt="" coords="295,1237,436,1264"/>
+<area shape="poly" id="edge37_Node000041_Node000042" title=" " alt="" coords="512,1253,436,1253,436,1248,512,1248"/>
+<area shape="rect" id="Node000046" href="$dd/d86/class_c_cine_monster.html#a699adb616367765de952a3fed679bb9c" title="Cancels the cinematic sequence for all entities with the same target name." alt="" coords="273,1760,458,1787"/>
+<area shape="poly" id="edge41_Node000045_Node000046" title=" " alt="" coords="541,1776,458,1776,458,1771,541,1771"/>
+<area shape="poly" id="edge52_Node000068_Node000006" title=" " alt="" coords="536,916,437,935,436,930,535,910"/>
+</map>

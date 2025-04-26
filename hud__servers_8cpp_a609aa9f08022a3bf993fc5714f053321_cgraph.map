@@ -1,5 +1,0 @@
-<map id="ServersGetCount" name="ServersGetCount">
-<area shape="rect" id="Node000001" title="Returns the number of servers in the global server browser instance." alt="" coords="5,5,125,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#ad13fff1e0ed8ebf5dbb8059f0f7b5b5d" title="Returns the number of servers currently listed in the server browser." alt="" coords="173,5,368,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,16,157,16,157,21,125,21"/>
-</map>

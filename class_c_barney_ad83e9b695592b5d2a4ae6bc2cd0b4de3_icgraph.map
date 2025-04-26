@@ -1,5 +1,0 @@
-<map id="CBarney::GetScheduleOfType" name="CBarney::GetScheduleOfType">
-<area shape="rect" id="Node000001" title="Retrieves the schedule of type for the Barney entity." alt="" coords="208,5,403,32"/>
-<area shape="rect" id="Node000002" href="$class_c_barney.html#a3341e9848d3c6ddacd909c07db355320" title="Determines the appropriate schedule for the Barney entity." alt="" coords="5,5,160,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,21,160,21,160,16,192,16"/>
-</map>

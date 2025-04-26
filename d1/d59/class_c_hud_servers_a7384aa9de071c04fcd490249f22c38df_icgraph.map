@@ -1,0 +1,13 @@
+<map id="CHudServers::PlayersResponse" name="CHudServers::PlayersResponse">
+<area shape="rect" id="Node000001" title="Handles player list response from a specific server." alt="" coords="855,31,1061,57"/>
+<area shape="rect" id="Node000002" href="$d6/d3f/hud__servers_8cpp.html#a82b595780807634c672d315cdb50ca84" title="Callback handler for player list response from a server." alt="" coords="653,5,776,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="839,34,776,28,777,22,839,29"/>
+<area shape="rect" id="Node000003" href="$d1/d59/class_c_hud_servers.html#a803f7fd15ed3e85f7aebabc0e05e6de9" title="Sends a player list request to a specific server to retrieve current players." alt="" coords="622,56,807,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="839,59,807,62,807,57,839,54"/>
+<area shape="rect" id="Node000004" href="$d6/d3f/hud__servers_8cpp.html#af93218ff6a3f71cf7172c8f71c9ac79b" title="Requests the player list from a specified server using the global browser." alt="" coords="473,56,574,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="607,72,575,72,575,67,607,67"/>
+<area shape="rect" id="Node000005" href="$d4/d64/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a945ad02bb3f393641297070fc10bc977" title=" " alt="" coords="216,32,425,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="458,72,426,72,426,67,458,67"/>
+<area shape="rect" id="Node000006" href="$de/df3/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_ping_handler.html#aa9ceec816930776d5bf73d714d171b30" title=" " alt="" coords="5,32,168,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="200,72,168,72,168,67,200,67"/>
+</map>

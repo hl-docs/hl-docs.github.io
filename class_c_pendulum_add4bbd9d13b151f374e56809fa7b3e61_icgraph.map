@@ -1,7 +1,0 @@
-<map id="CPendulum::Stop" name="CPendulum::Stop">
-<area shape="rect" id="Node000001" title="Stops the pendulum and resets its position." alt="" coords="414,5,537,32"/>
-<area shape="rect" id="Node000002" href="$class_c_pendulum.html#aa1526de81fc9179b34c901ff7fe41d4e" title="Handles the use action for the pendulum." alt="" coords="189,5,366,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,21,366,21,366,16,398,16"/>
-<area shape="rect" id="Node000003" href="$class_c_pendulum.html#a538f8c330e1366965f343a36e2593a2b" title="Spawns the func_pendulum entity." alt="" coords="5,5,141,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
-</map>

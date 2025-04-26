@@ -1,7 +1,0 @@
-<map id="CFlyingMonster::ChangeYaw" name="CFlyingMonster::ChangeYaw">
-<area shape="rect" id="Node000001" title="Changes the yaw of the flying monster." alt="" coords="5,31,195,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a41adf7408ee22d23673d78cea57b7988" title="Changes the monster&#39;s yaw towards its ideal yaw." alt="" coords="243,5,427,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,31,227,28,227,33,195,36"/>
-<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#a8573262bee7112502517211c45a68032" title="Approaches a target value at a specified speed." alt="" coords="280,56,390,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,52,266,59,265,65,195,57"/>
-</map>

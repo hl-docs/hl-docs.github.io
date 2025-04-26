@@ -1,5 +1,0 @@
-<map id="CTestHull::Spawn" name="CTestHull::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the test hull entity." alt="" coords="181,5,305,32"/>
-<area shape="rect" id="Node000002" href="$class_c_node_ent.html#a96bd94d32822b0009dd8aacaf78b6913" title="Spawns the node entity." alt="" coords="5,5,133,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,21,133,21,133,16,165,16"/>
-</map>

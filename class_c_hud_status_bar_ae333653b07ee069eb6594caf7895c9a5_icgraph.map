@@ -1,5 +1,0 @@
-<map id="CHudStatusBar::Reset" name="CHudStatusBar::Reset">
-<area shape="rect" id="Node000001" title="Resets the status bar state." alt="" coords="190,5,343,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_status_bar.html#a48e5b1a5d5d4aefe610897e69e2f0b9b" title="Initializes the HUD status bar element." alt="" coords="5,5,142,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,21,142,21,142,16,174,16"/>
-</map>

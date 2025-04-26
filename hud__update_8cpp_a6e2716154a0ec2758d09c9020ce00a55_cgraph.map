@@ -1,5 +1,0 @@
-<map id="CL_ButtonBits" name="CL_ButtonBits">
-<area shape="rect" id="Node000001" title="Returns the current active input button bits." alt="" coords="5,5,111,32"/>
-<area shape="rect" id="Node000002" href="$input_8cpp.html#ae932b23fcf06d3131fcb639e5753b1ee" title="Checks if the player is currently dead." alt="" coords="159,5,243,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,16,143,16,143,21,111,21"/>
-</map>

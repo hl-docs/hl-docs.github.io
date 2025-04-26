@@ -1,7 +1,0 @@
-<map id="CMenuHandler_StringCommand::actionPerformed" name="CMenuHandler_StringCommand::actionPerformed">
-<area shape="rect" id="Node000001" title=" " alt="" coords="260,39,466,81"/>
-<area shape="rect" id="Node000002" href="$class_c_menu_handler___string_command_watch.html#a771d45c6ec62deed4abd3b066e5efa05" title=" " alt="" coords="5,5,212,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,47,212,43,212,38,244,42"/>
-<area shape="rect" id="Node000003" href="$class_c_menu_handler___string_command_class_select.html#abf8138cd52950b27e57170e9525a7262" title="Executes string command and class&#45;related logic." alt="" coords="5,72,212,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,78,212,82,212,77,244,73"/>
-</map>

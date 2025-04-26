@@ -1,0 +1,5 @@
+<map id="CTriggerPush::Touch" name="CTriggerPush::Touch">
+<area shape="rect" id="Node000001" title="Handles the touch event for the push trigger." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="196,5,296,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,16,180,16,180,21,148,21"/>
+</map>

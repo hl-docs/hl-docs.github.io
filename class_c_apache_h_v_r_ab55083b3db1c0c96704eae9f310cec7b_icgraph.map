@@ -1,5 +1,0 @@
-<map id="CApacheHVR::Precache" name="CApacheHVR::Precache">
-<area shape="rect" id="Node000001" title="Preloads all resources needed by the Apache HVR." alt="" coords="202,5,366,32"/>
-<area shape="rect" id="Node000002" href="$class_c_apache_h_v_r.html#a14dbb34315ebec9b5598b6a765a37434" title="Spawns the Apache HVR (Helicopter&#45;launched Rocket)." alt="" coords="5,5,154,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,21,154,21,154,16,186,16"/>
-</map>

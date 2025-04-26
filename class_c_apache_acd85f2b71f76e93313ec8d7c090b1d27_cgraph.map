@@ -1,9 +1,0 @@
-<map id="CApache::TraceAttack" name="CApache::TraceAttack">
-<area shape="rect" id="Node000001" title="Handles trace attacks on the Apache." alt="" coords="5,31,158,57"/>
-<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a0a4b57092b62d45ab3add37da4958c08" title=" " alt="" coords="206,5,326,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,31,190,26,190,32,159,36"/>
-<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#a550a9917cf17ef5811cc0bf16fbd674b" title="Emits a ricochet effect at a specified position." alt="" coords="213,56,319,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,52,198,57,197,63,158,57"/>
-<area shape="rect" id="Node000004" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="374,56,508,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="319,67,359,67,359,72,319,72"/>
-</map>

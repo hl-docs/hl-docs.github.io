@@ -1,0 +1,15 @@
+<map id="CZombie::HandleAnimEvent" name="CZombie::HandleAnimEvent">
+<area shape="rect" id="Node000001" title="Handles animation events specific to the zombie." alt="" coords="5,84,188,110"/>
+<area shape="rect" id="Node000002" href="$d2/dcf/class_c_zombie.html#ab60191688fa9164221b4de331f1aa703" title="Plays an attack sound for the zombie." alt="" coords="251,33,406,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,80,249,61,250,66,162,86"/>
+<area shape="rect" id="Node000003" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="469,8,607,34"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="114,81,166,47,200,31,235,18,291,8,349,4,454,7,454,13,349,9,292,13,236,24,202,36,169,52,117,85"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="515,58,561,85"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="188,89,499,71,499,76,188,94"/>
+<area shape="rect" id="Node000005" href="$d4/d7a/class_c_base_monster.html#ae9228d73ff56fbfbd5ed01ac2dd0e349" title="Checks for a trace hull attack." alt="" coords="236,134,421,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,108,227,127,226,133,151,113"/>
+<area shape="rect" id="Node000006" href="$d4/d7a/class_c_base_monster.html#a39aef199e5a7d7558f2fdac85ee6c30a" title="Handles animation events for the monster." alt="" coords="236,201,421,244"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="117,109,170,146,237,187,249,192,246,197,234,191,167,151,114,113"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,34,453,28,454,34,407,40"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="407,53,500,64,499,70,406,58"/>
+</map>

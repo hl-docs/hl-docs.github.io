@@ -1,0 +1,5 @@
+<map id="CAM_Think" name="CAM_Think">
+<area shape="rect" id="Node000001" title="Main function that updates third&#45;person camera position and angles each frame." alt="" coords="92,5,180,32"/>
+<area shape="rect" id="Node000002" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,21,44,21,44,16,77,16"/>
+</map>

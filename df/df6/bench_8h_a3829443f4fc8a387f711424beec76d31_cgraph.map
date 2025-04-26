@@ -1,0 +1,15 @@
+<map id="Bench_CheckEntity" name="Bench_CheckEntity">
+<area shape="rect" id="Node000001" title="Performs special checks and setup for benchmarking entities." alt="" coords="5,107,142,133"/>
+<area shape="rect" id="Node000002" href="$de/dbe/hud__bench_8cpp.html#a6426b8473da368605c6626fbc3870018" title="Checks if the benchmark is currently active." alt="" coords="214,5,314,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,104,134,73,188,42,201,36,204,41,191,46,137,78,94,108"/>
+<area shape="rect" id="Node000003" href="$de/dbe/hud__bench_8cpp.html#a23ae11d0d6681b54fae5415c1a90e4d1" title="Checks if PowerPlay mode is currently active." alt="" coords="190,56,338,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,103,196,85,197,90,127,109"/>
+<area shape="rect" id="Node000004" href="$de/dbe/hud__bench_8cpp.html#a37ca253a64aa8ad227c52a694b634a40" title="Checks if the benchmark is currently in the specified stage." alt="" coords="209,107,319,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,117,194,117,194,123,142,123"/>
+<area shape="rect" id="Node000006" href="$de/dbe/hud__bench_8cpp.html#ad9f2c5eedd761267109fe5eafab4cdb0" title="Sets a flag indicating whether a benchmark tracking dot has been added." alt="" coords="193,157,335,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="127,131,197,150,196,155,126,137"/>
+<area shape="rect" id="Node000007" href="$d2/d29/cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="218,208,310,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="94,132,137,162,191,194,204,200,202,205,188,198,134,167,91,136"/>
+<area shape="rect" id="Node000005" href="$de/dbe/hud__bench_8cpp.html#a2acca70ba9541b59d8154ab2ca54d037" title="Retrieves the current benchmark stage." alt="" coords="386,107,506,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,117,371,117,371,123,319,123"/>
+</map>

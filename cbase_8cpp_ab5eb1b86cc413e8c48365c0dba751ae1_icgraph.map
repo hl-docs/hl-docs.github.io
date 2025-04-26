@@ -1,5 +1,0 @@
-<map id="SetObjectCollisionBox" name="SetObjectCollisionBox">
-<area shape="rect" id="Node000001" title="Initializes absmin &amp; absmax to the appropriate box." alt="" coords="233,5,384,32"/>
-<area shape="rect" id="Node000002" href="$cbase_8cpp.html#ad08ccea7a138ecc35eec8e42f616323e" title="Dispatches the object collision box for an entity." alt="" coords="5,5,185,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,21,185,21,185,16,217,16"/>
-</map>

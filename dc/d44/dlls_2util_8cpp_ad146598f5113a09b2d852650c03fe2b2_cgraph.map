@@ -1,0 +1,7 @@
+<map id="UTIL_EmitAmbientSound" name="UTIL_EmitAmbientSound">
+<area shape="rect" id="Node000001" title="Emits an ambient sound at a specified origin." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="Node000002" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="224,5,366,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,31,208,27,209,32,172,36"/>
+<area shape="rect" id="Node000003" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="220,56,370,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,52,205,56,204,61,172,57"/>
+</map>

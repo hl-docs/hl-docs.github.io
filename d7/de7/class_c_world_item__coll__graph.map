@@ -1,0 +1,16 @@
+<map id="CWorldItem" name="CWorldItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,415,330,441"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="238,304,332,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,346,288,414,282,414,282,346"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="349,305,356,310,359,318,351,329,333,334,332,328,348,325,354,317,352,313,346,309"/>
+<area shape="rect" id="Node000003" href="$d2/d88/structentvars__s.html" title=" " alt="" coords="148,16,225,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,56,209,69,249,186,284,303,279,305,244,188,204,70,198,58"/>
+<area shape="rect" id="Node000004" href="$db/d8e/structedict__s.html" title=" " alt="" coords="61,304,125,331"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="193,58,195,97,194,145,187,197,170,247,159,265,144,281,114,306,111,302,140,277,154,262,165,244,182,196,189,145,190,97,187,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="82,290,71,244,65,187,69,125,78,95,93,68,114,53,147,40,149,45,117,58,97,71,83,97,75,126,70,187,76,244,87,289"/>
+<area shape="rect" id="Node000005" href="$d5/de3/structlink__s.html" title=" " alt="" coords="5,16,61,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="30,59,25,97,22,144,25,195,37,245,56,277,80,302,76,306,52,280,32,246,20,196,17,144,20,96,25,58"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="55,5,67,3,77,6,85,15,87,30,83,47,71,55,56,55,42,45,45,41,58,50,70,50,78,44,82,29,80,18,74,11,66,8,56,10"/>
+<area shape="rect" id="Node000006" href="$d7/db8/struct_t_y_p_e_d_e_s_c_r_i_p_t_i_o_n.html" title=" " alt="" coords="249,16,390,43"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="319,59,289,304,284,303,314,58"/>
+</map>

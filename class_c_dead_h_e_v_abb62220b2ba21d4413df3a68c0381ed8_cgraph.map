@@ -1,7 +1,0 @@
-<map id="CDeadHEV::Spawn" name="CDeadHEV::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the dead HEV suit entity." alt="" coords="5,31,140,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="225,5,272,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,32,210,21,210,27,141,37"/>
-<area shape="rect" id="Node000003" href="$animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="188,56,309,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,51,173,56,172,61,140,56"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="COsprey::ShowDamage" name="COsprey::ShowDamage">
-<area shape="rect" id="Node000001" title="Shows damage effects for the Osprey." alt="" coords="5,5,166,32"/>
-<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="214,5,348,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,16,198,16,198,21,166,21"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SaveGlobalState" name="SaveGlobalState">
-<area shape="rect" id="Node000001" title="Saves the global state using the provided save data." alt="" coords="5,5,123,32"/>
-<area shape="rect" id="Node000002" href="$class_c_global_state.html#af8c80e20469f4a2888665579ce37441d" title="Saves the global state to a save file." alt="" coords="171,5,305,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,16,155,16,155,21,123,21"/>
-<area shape="rect" id="Node000003" href="$class_c_save.html#ae5a95e92ef12b3c7d14f134f2e8fdc2e" title="Writes fields to the save buffer." alt="" coords="353,5,485,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,16,338,16,338,21,305,21"/>
-</map>

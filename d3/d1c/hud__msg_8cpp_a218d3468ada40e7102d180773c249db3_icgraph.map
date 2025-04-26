@@ -1,0 +1,16 @@
+<map id="CAM_ToFirstPerson" name="CAM_ToFirstPerson">
+<area shape="rect" id="Node000001" title="Switches the camera back to first&#45;person mode." alt="" coords="579,56,717,83"/>
+<area shape="rect" id="Node000002" href="$dc/df5/in__camera_8cpp.html#a010ef08e17dde10bd79877c4d0cdd3fd" title="Initializes camera system and binds key commands to actions." alt="" coords="402,5,477,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,54,477,30,478,25,576,49"/>
+<area shape="rect" id="Node000006" href="$dc/df5/in__camera_8cpp.html#af43e0af8eb6804de13d670591b167b7b" title="Main function that updates third&#45;person camera position and angles each frame." alt="" coords="212,56,300,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="563,72,301,72,301,67,563,67"/>
+<area shape="rect" id="Node000007" href="$db/d4f/class_c_hud.html#af3496504d3cbe739befd9c32a2c55e4f" title="Switches the camera to first&#45;person view mode." alt="" coords="348,107,531,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="576,89,498,109,497,103,575,84"/>
+<area shape="rect" id="Node000003" href="$d8/d8c/input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="223,5,289,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,21,290,21,290,16,387,16"/>
+<area shape="rect" id="Node000004" href="$d9/dbd/cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="92,5,164,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,21,165,21,165,16,207,16"/>
+<area shape="rect" id="Node000005" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,31,44,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="77,34,45,42,44,37,76,29"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="197,66,44,49,44,43,197,60"/>
+</map>

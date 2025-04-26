@@ -1,7 +1,0 @@
-<map id="CGargantua::FlameControls" name="CGargantua::FlameControls">
-<area shape="rect" id="Node000001" title="Controls the Gargantua&#39;s flame attack direction." alt="" coords="5,5,188,32"/>
-<area shape="rect" id="Node000002" href="$dlls_2util_8cpp.html#adb352429eace4763f129f69fa6e3142f" title="Approaches an angle value at a specified speed." alt="" coords="236,5,378,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,21,188,21"/>
-<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#a9c3ac10a492f4e794c77e49a05af0d03" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="426,5,538,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,16,410,16,410,21,378,21"/>
-</map>

@@ -1,0 +1,19 @@
+<map id="CGrenade::TumbleThink" name="CGrenade::TumbleThink">
+<area shape="rect" id="Node000001" title="Handles the tumbling logic for the grenade." alt="" coords="5,157,166,184"/>
+<area shape="rect" id="Node000002" href="$d9/df2/class_c_grenade.html#ad0a651fcf68c365e866840e5d2bd271e" title="Handles the detonation of the grenade." alt="" coords="244,56,384,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,154,152,123,213,92,232,85,234,90,215,97,155,128,108,159"/>
+<area shape="rect" id="Node000006" href="$d7/d97/class_c_sound_ent.html#af146a07b8a0c4e99cd3548ccf68b4908" title="Inserts a sound into the sound list." alt="" coords="232,107,396,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,154,235,135,236,140,150,159"/>
+<area shape="rect" id="Node000007" href="$d5/de5/class_c_base_entity.html#ac6414ee2c93646d0700a82301145907f" title="Checks if the entity is in the world." alt="" coords="236,157,392,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="166,168,220,168,220,173,166,173"/>
+<area shape="rect" id="Node000008" href="$db/dc1/class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="214,208,414,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="141,182,214,201,213,206,140,187"/>
+<area shape="rect" id="Node000009" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="264,275,364,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="103,182,151,221,182,242,215,260,250,273,248,278,213,265,179,247,148,225,100,186"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="506,5,552,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,53,490,25,492,30,374,58"/>
+<area shape="rect" id="Node000004" href="$d9/df2/class_c_grenade.html#a26b11375db7cf44d49526d15f1a23ed9" title="Handles the explosion of the grenade." alt="" coords="462,56,596,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="384,67,447,67,447,72,384,72"/>
+<area shape="rect" id="Node000005" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="474,107,584,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="374,81,459,101,458,106,373,86"/>
+</map>

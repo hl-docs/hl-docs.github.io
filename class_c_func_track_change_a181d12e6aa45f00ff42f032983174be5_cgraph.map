@@ -1,7 +1,0 @@
-<map id="CFuncTrackChange::EvaluateTrain" name="CFuncTrackChange::EvaluateTrain">
-<area shape="rect" id="Node000001" title="Evaluates the current state of the train in relation to the track." alt="" coords="5,5,198,48"/>
-<area shape="rect" id="Node000002" href="$class_vector.html#a741b9e62daf6f602126309dcd1ccc68e" title=" " alt="" coords="246,13,368,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,24,230,24,230,29,198,29"/>
-<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="416,13,459,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,24,400,24,400,29,368,29"/>
-</map>

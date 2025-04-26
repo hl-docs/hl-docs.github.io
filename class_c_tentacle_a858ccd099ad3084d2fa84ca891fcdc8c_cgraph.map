@@ -1,5 +1,0 @@
-<map id="CTentacle::Test" name="CTentacle::Test">
-<area shape="rect" id="Node000001" title="Tests the tentacle&#39;s strike animation." alt="" coords="5,13,118,40"/>
-<area shape="rect" id="Node000002" href="$class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="166,5,366,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,24,150,24,150,29,118,29"/>
-</map>

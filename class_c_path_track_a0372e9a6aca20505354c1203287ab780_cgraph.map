@@ -1,7 +1,0 @@
-<map id="CPathTrack::KeyValue" name="CPathTrack::KeyValue">
-<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the path track." alt="" coords="5,31,159,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="255,5,317,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,32,239,22,240,27,159,37"/>
-<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="207,56,365,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,51,191,55,191,60,158,56"/>
-</map>

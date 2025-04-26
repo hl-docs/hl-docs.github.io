@@ -1,5 +1,0 @@
-<map id="KB_ConvertString" name="KB_ConvertString">
-<area shape="rect" id="Node000001" title="Replaces any &quot;+command&quot; strings in the input with their corresponding key bindings." alt="" coords="272,5,395,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_menu.html#a761210065f228d9138980844463a4cfb" title="Message handler for the ShowMenu message from the server." alt="" coords="5,5,224,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,21,224,21,224,16,256,16"/>
-</map>

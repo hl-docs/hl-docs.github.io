@@ -1,7 +1,0 @@
-<map id="dlls/flyingmonster.h" name="dlls/flyingmonster.h">
-<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,228,32"/>
-<area shape="rect" id="Node000002" href="$flyingmonster_8cpp.html" title=" " alt="" coords="5,80,153,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,45,95,82,91,78,134,40"/>
-<area shape="rect" id="Node000003" href="$ichthyosaur_8cpp.html" title=" " alt="" coords="177,80,314,107"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,40,233,78,229,82,186,45"/>
-</map>

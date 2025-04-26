@@ -1,0 +1,7 @@
+<map id="EV_FireMP52" name="EV_FireMP52">
+<area shape="rect" id="Node000001" title="Handles MP5 grenade launcher (secondary fire) event." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="Node000002" href="$d0/d2b/ev__common_8cpp.html#a8f60c02cea0ae9a964b3c3a4d04c3607" title="Checks if the entity index is the local player." alt="" coords="162,5,250,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,33,146,26,147,31,109,38"/>
+<area shape="rect" id="Node000003" href="$dd/dc2/view_8cpp.html#a2f5369314d059220daef1326f159bd87" title="Applies a punch effect to a specific axis of the player&#39;s view." alt="" coords="156,56,256,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,50,141,56,140,61,108,55"/>
+</map>

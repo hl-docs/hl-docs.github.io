@@ -1,0 +1,5 @@
+<map id="SpectatorPanel::ActionSignal" name="SpectatorPanel::ActionSignal">
+<area shape="rect" id="Node000001" title="Handles commands triggered by UI buttons in the spectator panel." alt="" coords="250,13,441,40"/>
+<area shape="rect" id="Node000002" href="$db/d85/class_c_spectator_handler___command.html#a509a22bc71233c7f1b98bc4c9a30c76b" title=" " alt="" coords="5,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,29,202,29,202,24,234,24"/>
+</map>

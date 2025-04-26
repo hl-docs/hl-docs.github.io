@@ -1,0 +1,56 @@
+<map id="TeamFortressViewport::CreateCommandMenu" name="TeamFortressViewport::CreateCommandMenu">
+<area shape="rect" id="Node000001" title="Reads the Command Menu structure from a file and creates the menu." alt="" coords="5,417,164,460"/>
+<area shape="rect" id="Node000002" href="$df/d43/class_c_command_menu.html#a9f014bfae3ef2626bfe56f8b7c686561" title="Adds a button to the command menu." alt="" coords="750,76,941,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,416,105,376,130,324,165,272,186,248,210,227,272,188,339,157,409,132,480,114,550,101,617,92,734,85,735,90,618,97,551,106,481,119,410,137,341,162,274,193,213,232,190,252,169,275,135,327,110,378,95,418"/>
+<area shape="rect" id="Node000003" href="$d5/dd3/class_command_button.html#a8282a0e10256715473d1cd87ce1a4d55" title="Assigns a key that triggers this button." alt="" coords="989,29,1193,56"/>
+<area shape="poly" id="edge26_Node000001_Node000003" title=" " alt="" coords="87,417,99,364,121,295,137,258,157,222,181,189,210,159,255,125,302,96,353,71,406,51,516,23,627,8,736,3,838,6,929,14,1003,24,1002,29,928,19,838,11,736,8,628,13,517,28,408,56,355,76,305,101,258,130,213,163,186,192,162,225,142,261,126,297,104,366,92,418"/>
+<area shape="rect" id="Node000005" href="$db/d40/class_team_fortress_viewport.html#a73c0e4f9b5394fc664eeaa3e0a306243" title="Creates a custom button based on the given parameters and attaches an action." alt="" coords="246,312,398,355"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="133,415,257,359,259,364,136,419"/>
+<area shape="rect" id="Node000007" href="$df/de1/class_c_hud_text_message.html#a847c99e126f98c009a2129b99307f88c" title="Localizes a text message by replacing any placeholder messages with actual text." alt="" coords="997,341,1185,384"/>
+<area shape="poly" id="edge25_Node000001_Node000007" title=" " alt="" coords="165,455,271,474,406,491,554,498,629,495,702,487,791,468,879,442,1025,388,1027,393,881,447,793,473,703,492,629,501,554,504,405,497,270,480,164,460"/>
+<area shape="rect" id="Node000010" href="$db/d40/class_team_fortress_viewport.html#a6f925e5e8e6de3c8135f37534d45adb4" title="Creates a new submenu and attaches it to a button." alt="" coords="770,173,921,216"/>
+<area shape="poly" id="edge22_Node000001_Node000010" title=" " alt="" coords="99,415,145,358,176,326,210,298,279,252,337,222,399,201,480,183,551,173,624,170,693,173,755,179,754,184,693,178,624,176,552,178,480,188,400,206,339,227,282,256,213,302,179,330,149,362,103,419"/>
+<area shape="rect" id="Node000016" href="$df/d43/class_c_command_menu.html#acd640eeda24dfb8914b187e614bd23b8" title=" " alt="" coords="480,400,702,427"/>
+<area shape="poly" id="edge23_Node000001_Node000016" title=" " alt="" coords="164,432,465,417,465,422,164,438"/>
+<area shape="rect" id="Node000017" href="$d5/dd3/class_command_button.html#a99958528a2f7097f260769a981808ae1" title="Sets the parent menu reference." alt="" coords="484,451,698,477"/>
+<area shape="poly" id="edge32_Node000001_Node000017" title=" " alt="" coords="164,440,469,455,469,461,164,445"/>
+<area shape="rect" id="Node000018" href="$df/d43/class_c_command_menu.html#a1b0a55721da0fb202a847687a348c825" title=" " alt="" coords="212,552,432,579"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="111,458,156,495,213,531,246,545,244,550,210,536,153,500,107,463"/>
+<area shape="rect" id="Node000019" href="$db/d40/class_team_fortress_viewport.html#a2ec7d2d99d1041391910b9cb74799a27" title="Sets the current command menu to the provided menu." alt="" coords="231,603,413,645"/>
+<area shape="poly" id="edge27_Node000001_Node000019" title=" " alt="" coords="100,459,145,523,177,558,213,589,221,593,218,598,210,593,173,562,141,527,96,462"/>
+<area shape="rect" id="Node000021" href="$db/d40/class_team_fortress_viewport.html#ab85b483933e62b6d7cd879f325724a27" title="Sets the current VGUI menu to the provided menu." alt="" coords="246,669,398,712"/>
+<area shape="poly" id="edge30_Node000001_Node000021" title=" " alt="" coords="95,460,110,502,135,554,169,609,190,634,213,655,234,668,231,673,210,660,186,637,165,612,130,557,105,504,90,462"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="918,73,1001,57,1002,62,919,78"/>
+<area shape="rect" id="Node000004" href="$d5/dd3/class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="1241,29,1460,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1193,40,1225,40,1225,45,1193,45"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="338,310,396,247,435,212,479,183,542,153,608,130,674,113,735,101,736,106,675,118,610,136,544,158,481,188,438,217,399,251,342,314"/>
+<area shape="rect" id="Node000006" href="$df/de1/class_c_hud_text_message.html#ad31afd57614ff64021461d4dddd58cbb" title="Localizes a text message with a local static buffer." alt="" coords="752,283,939,325"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="398,327,737,308,737,313,398,332"/>
+<area shape="poly" id="edge20_Node000005_Node000007" title=" " alt="" coords="398,334,981,356,981,361,398,339"/>
+<area shape="rect" id="Node000009" href="$db/d40/class_team_fortress_viewport.html#ade22481eb56dea11cf1686ff32593aa3" title="Creates a submenu for disguising as other classes and maps the disguise commands." alt="" coords="505,232,677,275"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="396,309,502,277,503,282,397,314"/>
+<area shape="poly" id="edge18_Node000005_Node000010" title=" " alt="" coords="343,310,401,261,438,237,479,218,549,198,622,188,692,184,754,185,754,190,692,190,623,193,550,204,481,223,441,241,404,265,346,314"/>
+<area shape="poly" id="edge19_Node000005_Node000016" title=" " alt="" coords="395,353,481,379,528,393,526,398,479,384,393,358"/>
+<area shape="poly" id="edge21_Node000005_Node000017" title=" " alt="" coords="351,353,409,396,444,418,481,436,500,443,498,448,479,441,441,422,406,400,348,357"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="938,323,984,335,983,340,937,329"/>
+<area shape="rect" id="Node000008" href="$de/d3f/cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="1291,349,1411,376"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1185,360,1275,360,1275,365,1185,365"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="624,229,809,109,812,114,627,234"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="678,268,737,280,736,285,677,273"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="677,231,754,213,755,218,678,236"/>
+<area shape="rect" id="Node000011" href="$d5/dd3/class_command_button.html#a8f46d529939d3bbe1f1cec08e040f278" title="Adds a submenu to this button." alt="" coords="989,131,1193,157"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="921,177,1008,159,1009,164,922,182"/>
+<area shape="rect" id="Node000012" href="$df/d43/class_c_command_menu.html#a9af688b0ebbc25402255a6e841f3075a" title=" " alt="" coords="990,181,1192,208"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="922,192,974,192,974,197,922,197"/>
+<area shape="rect" id="Node000013" href="$d2/d0f/class_c_image_label.html#a32cc84cc30ed53be026ecf11ef7686e0" title="Returns the width of the loaded image." alt="" coords="997,232,1185,259"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="922,208,1009,226,1008,231,921,213"/>
+<area shape="rect" id="Node000014" href="$df/d43/class_c_command_menu.html#a24fee2246c2df4cbc04559b51afdbe80" title=" " alt="" coords="995,283,1187,309"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="883,214,933,242,990,268,1010,275,1009,281,988,273,930,247,881,219"/>
+<area shape="rect" id="Node000015" href="$df/d43/class_c_command_menu.html#ac01676ede804dd51d84b7d3ec4498eef" title=" " alt="" coords="994,80,1188,107"/>
+<area shape="poly" id="edge17_Node000010_Node000015" title=" " alt="" coords="881,171,930,143,988,116,1009,109,1010,114,990,121,933,147,883,175"/>
+<area shape="rect" id="Node000020" href="$df/d43/class_c_command_menu.html#ad3cdbbf95342ade61e7d8bbfbadd911d" title="Makes this menu and all parent menus in the chain visible." alt="" coords="491,611,691,637"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="413,621,476,621,476,627,413,627"/>
+<area shape="poly" id="edge29_Node000020_Node000020" title=" " alt="" coords="549,612,541,602,546,592,563,586,591,584,622,587,638,594,636,598,621,592,591,589,564,591,550,596,546,602,553,609"/>
+<area shape="rect" id="Node000022" href="$d2/dce/class_c_menu_panel.html#a589b0b1b05bbecf609caede27b8137b5" title=" " alt="" coords="524,677,658,704"/>
+<area shape="poly" id="edge31_Node000021_Node000022" title=" " alt="" coords="398,688,508,688,508,693,398,693"/>
+</map>

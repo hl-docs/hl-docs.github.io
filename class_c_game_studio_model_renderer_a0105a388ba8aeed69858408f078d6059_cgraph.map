@@ -1,7 +1,0 @@
-<map id="CGameStudioModelRenderer::StudioEstimateGait" name="CGameStudioModelRenderer::StudioEstimateGait">
-<area shape="rect" id="Node000001" title="Estimates the player&#39;s gait movement and yaw based on velocity and position changes." alt="" coords="5,5,195,48"/>
-<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="243,13,303,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,24,227,24,227,29,195,29"/>
-<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="351,13,394,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,24,335,24,335,29,303,29"/>
-</map>

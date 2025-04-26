@@ -1,0 +1,5 @@
+<map id="CIchthyosaur::CombatUse" name="CIchthyosaur::CombatUse">
+<area shape="rect" id="Node000001" title="Handles combat use actions." alt="" coords="5,5,179,32"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html#a207d6bda0f1e022be3a575efa69fbfe8" title="Checks if the entity should toggle." alt="" coords="227,5,407,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,16,211,16,211,21,179,21"/>
+</map>

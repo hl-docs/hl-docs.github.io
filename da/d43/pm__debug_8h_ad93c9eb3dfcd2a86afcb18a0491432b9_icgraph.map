@@ -1,0 +1,5 @@
+<map id="PM_DrawBBox" name="PM_DrawBBox">
+<area shape="rect" id="Node000001" title="Draws a bounding box at a specific location." alt="" coords="179,5,288,32"/>
+<area shape="rect" id="Node000002" href="$d5/d44/pm__debug_8c.html#a3bfddbb35fcc984621c5f5d2c19a0413" title="Shows the player&#39;s collision box and other debug information." alt="" coords="5,5,131,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,21,131,21,131,16,163,16"/>
+</map>

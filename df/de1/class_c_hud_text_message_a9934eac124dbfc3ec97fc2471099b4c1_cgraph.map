@@ -1,0 +1,7 @@
+<map id="CHudTextMessage::Init" name="CHudTextMessage::Init">
+<area shape="rect" id="Node000001" title="Initializes the text message system and hooks the message." alt="" coords="5,31,162,57"/>
+<area shape="rect" id="Node000002" href="$db/d4f/class_c_hud.html#aee3f9153b3045531340a6b60652db401" title="Adds a new HUD element to the list of HUD components." alt="" coords="210,5,347,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,31,194,27,195,32,162,36"/>
+<area shape="rect" id="Node000003" href="$d5/dd0/class_c_hud_base.html#a868fe4aecafe4eb0f8bca85d7b206d66" title=" " alt="" coords="216,56,341,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,52,201,57,200,62,162,57"/>
+</map>

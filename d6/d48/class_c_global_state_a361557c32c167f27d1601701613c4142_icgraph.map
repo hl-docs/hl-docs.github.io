@@ -1,0 +1,13 @@
+<map id="CGlobalState::Reset" name="CGlobalState::Reset">
+<area shape="rect" id="Node000001" title="Resets the global state." alt="" coords="618,31,759,57"/>
+<area shape="rect" id="Node000002" href="$d6/d48/class_c_global_state.html#ae23fe57530a2f47537375d891f6a54f9" title="Constructor for the global state class." alt="" coords="387,5,570,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,36,570,32,571,27,604,31"/>
+<area shape="rect" id="Node000003" href="$d6/d48/class_c_global_state.html#a43ed737377589a289f764c33ac5aab15" title="Clears all global states and frees memory." alt="" coords="392,56,566,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="603,57,567,61,566,56,603,52"/>
+<area shape="rect" id="Node000004" href="$d8/d6c/world_8cpp.html#a6810bdf14d245e9f34df1ff69bb6994c" title="Resets the global state." alt="" coords="202,31,325,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="375,60,325,54,325,49,376,55"/>
+<area shape="rect" id="Node000005" href="$d6/d48/class_c_global_state.html#aa37d73463332f2982963c814e83bb5f7" title="Restores the global state from a save file." alt="" coords="188,81,339,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="376,84,340,88,339,83,376,79"/>
+<area shape="rect" id="Node000006" href="$d8/d6c/world_8cpp.html#a00fbf02202736175c440598f46abdb6b" title="Restores the global state using the provided save data." alt="" coords="5,81,140,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="172,97,140,97,140,92,172,92"/>
+</map>

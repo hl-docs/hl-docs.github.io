@@ -1,7 +1,0 @@
-<map id="CHalfLifeTeamplay::TeamWithFewestPlayers" name="CHalfLifeTeamplay::TeamWithFewestPlayers">
-<area shape="rect" id="Node000001" title="Retrieves the team with the fewest players." alt="" coords="388,5,554,48"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#a1b77282244050f99186a5e47c3ad0a47" title="Sets the default team for a player." alt="" coords="190,5,340,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,29,340,29,340,24,372,24"/>
-<area shape="rect" id="Node000003" href="$class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="5,5,142,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
-</map>

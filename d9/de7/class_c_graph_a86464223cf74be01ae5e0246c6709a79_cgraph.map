@@ -1,0 +1,11 @@
+<map id="CGraph::SortNodes" name="CGraph::SortNodes">
+<area shape="rect" id="Node000001" title="Sorts nodes to group linked nodes together." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="Node000002" href="$d9/de7/class_c_graph.html#aece62709a81d84d74a04e620ee3e8035" title=" " alt="" coords="188,31,318,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,41,172,41,172,47,140,47"/>
+<area shape="rect" id="Node000003" href="$d9/de7/class_c_graph.html#ad529d3734d366d86654981bf22113769" title=" " alt="" coords="366,31,493,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,41,350,41,350,47,319,47"/>
+<area shape="rect" id="Node000004" href="$d9/de7/class_c_graph.html#a66465b1201ae978a9353d49e4a796c0c" title=" " alt="" coords="544,5,642,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,31,529,26,529,31,494,37"/>
+<area shape="rect" id="Node000005" href="$d9/de7/class_c_graph.html#a73559756ea74d3f5daef7c05603ca551" title=" " alt="" coords="541,56,645,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="494,51,526,56,526,62,493,57"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="CItem::Materialize" name="CItem::Materialize">
+<area shape="rect" id="Node000001" title="Makes the item visible and ready for interaction." alt="" coords="722,157,848,184"/>
+<area shape="rect" id="Node000002" href="$d8/d5b/class_c_item.html#a906d02e0d0060f972f546d01e791a019" title="Respawns the item at a designated location." alt="" coords="557,183,674,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="707,185,674,190,674,185,706,180"/>
+<area shape="rect" id="Node000003" href="$d8/d5b/class_c_item.html#a92d5989b83410dd24bd2ab138814fe0d" title="Handles the touch event for the item." alt="" coords="376,132,499,159"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,180,486,162,488,157,552,175"/>
+<area shape="rect" id="Node000011" href="$df/d9e/class_c_health_kit.html#acb9f2abcf36806a3ebaf96bd1b8d1742" title="Handles the interaction when a player touches the health kit." alt="" coords="365,183,509,209"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="542,199,509,199,509,193,542,193"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="515,148,721,163,721,169,514,154"/>
+<area shape="rect" id="Node000004" href="$d8/d5b/class_c_item.html#a359997ac350228e7c69926d15f464901" title="Spawns the item in the game." alt="" coords="215,132,317,159"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="360,148,317,148,317,143,360,143"/>
+<area shape="rect" id="Node000005" href="$df/d9e/class_c_health_kit.html#ae861e3da9a5b1364b519309e5df257fa" title="Spawns the health kit entity in the game." alt="" coords="21,5,151,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="243,121,209,82,165,46,142,35,144,30,168,42,213,79,247,118"/>
+<area shape="rect" id="Node000006" href="$d1/d1e/class_c_item_suit.html#abf06311e225e5dcb8bb406788d56359a" title="Spawns the suit item in the game." alt="" coords="23,56,149,83"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="226,126,166,97,135,86,137,81,168,92,228,122"/>
+<area shape="rect" id="Node000007" href="$d2/d4d/class_c_item_battery.html#a03d90de6fd4be09f0aaf30514e7a5c9e" title="Spawns the battery item in the game." alt="" coords="14,107,158,133"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="199,139,158,133,159,128,199,133"/>
+<area shape="rect" id="Node000008" href="$d2/dc0/class_c_item_antidote.html#a9bd1052a5fd1051235e6c808133b5d09" title="Spawns the antidote item in the game." alt="" coords="11,157,161,184"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="200,157,162,163,161,157,199,152"/>
+<area shape="rect" id="Node000009" href="$de/d38/class_c_item_security.html#aeec5d00364b4a4fee15640378acc526b" title="Spawns the security item in the game." alt="" coords="11,208,161,235"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="228,169,168,198,137,210,135,205,166,194,226,164"/>
+<area shape="rect" id="Node000010" href="$d7/d8c/class_c_item_long_jump.html#a8760d3081b607076c61a1dce4302367d" title="Spawns the long jump item in the game." alt="" coords="5,259,167,285"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="247,173,213,212,168,249,144,260,142,256,165,244,209,208,243,170"/>
+</map>

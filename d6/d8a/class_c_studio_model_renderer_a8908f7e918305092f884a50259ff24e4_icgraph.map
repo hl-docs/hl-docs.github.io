@@ -1,0 +1,16 @@
+<map id="CStudioModelRenderer::StudioRenderModel" name="CStudioModelRenderer::StudioRenderModel">
+<area shape="rect" id="Node000001" title="Renders the model for the current entity." alt="" coords="668,64,823,107"/>
+<area shape="rect" id="Node000002" href="$dc/dfc/class_c_game_studio_model_renderer.html#a8cdb66bddf12c8764c44e739a6e26ee5" title="Handles the actual drawing of the player model." alt="" coords="431,5,620,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="653,64,607,51,609,46,655,58"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/class_c_studio_model_renderer.html#afe23a9a2eb5efe2286e7f9add748bc6d" title="Draws the studio model with transformations and effects." alt="" coords="211,97,366,140"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="653,95,366,116,366,110,653,89"/>
+<area shape="rect" id="Node000007" href="$d6/d8a/class_c_studio_model_renderer.html#ac436db615780b919854e618961ad8d28" title="Renders a player model in the studio." alt="" coords="449,123,603,165"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="654,112,604,126,603,121,653,107"/>
+<area shape="rect" id="Node000003" href="$dc/dfc/class_c_game_studio_model_renderer.html#a63196fe886f28fdfdedf4e0b24c8211c" title="Draws the player model on the screen." alt="" coords="194,5,383,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,29,384,29,384,24,415,24"/>
+<area shape="rect" id="Node000004" href="$d8/dfd/_game_studio_model_renderer_8cpp.html#ab59c170be1e5f319fdf78e61e00188c1" title="Draws a player model using the studio renderer." alt="" coords="5,13,146,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,29,146,29,146,24,179,24"/>
+<area shape="rect" id="Node000006" href="$d8/dfd/_game_studio_model_renderer_8cpp.html#a09d976038ea076a8f622859017b29b86" title="Draws a generic studio model." alt="" coords="6,105,145,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="195,121,145,121,145,116,195,116"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="433,137,366,130,366,124,433,131"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="CBaseEntity::TakeHealth" name="CBaseEntity::TakeHealth">
-<area shape="rect" id="Node000001" title=" " alt="" coords="211,31,378,57"/>
-<area shape="rect" id="Node000002" href="$class_c_wall_health.html#ae8f4aae03978137857a906c675ef0ade" title="Activates the wall health entity for the player." alt="" coords="22,5,146,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,35,146,29,147,23,196,29"/>
-<area shape="rect" id="Node000003" href="$class_c_game_player_hurt.html#aada0bd6c34d5a7607bdf719efab662d1" title="Activates the game player hurt entity." alt="" coords="5,56,163,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,59,164,62,163,57,195,53"/>
-</map>

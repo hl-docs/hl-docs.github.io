@@ -1,9 +1,0 @@
-<map id="CLaser::TurnOn" name="CLaser::TurnOn">
-<area shape="rect" id="Node000001" title="Turns on the laser effect." alt="" coords="203,56,315,83"/>
-<area shape="rect" id="Node000002" href="$class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="5,5,155,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,54,129,35,131,30,195,49"/>
-<area shape="rect" id="Node000003" href="$class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="25,56,135,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,72,135,72,135,67,187,67"/>
-<area shape="rect" id="Node000004" href="$class_c_laser.html#a0bc98c302393fc59bdf9343573c801de" title="Uses the laser effect." alt="" coords="33,107,127,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,90,127,109,126,104,194,85"/>
-</map>

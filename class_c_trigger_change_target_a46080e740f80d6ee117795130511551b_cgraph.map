@@ -1,7 +1,0 @@
-<map id="CTriggerChangeTarget::KeyValue" name="CTriggerChangeTarget::KeyValue">
-<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the change target trigger." alt="" coords="5,23,155,65"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="250,5,313,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,32,234,22,235,27,156,37"/>
-<area shape="rect" id="Node000003" href="$class_c_base_delay.html#a1674d768d18d41f701fc57735158c990" title="Handles key&#45;value pairs for the delay entity." alt="" coords="203,56,360,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,51,188,55,187,60,155,56"/>
-</map>

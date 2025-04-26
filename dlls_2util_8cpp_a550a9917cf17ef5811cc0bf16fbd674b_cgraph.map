@@ -1,5 +1,0 @@
-<map id="UTIL_Ricochet" name="UTIL_Ricochet">
-<area shape="rect" id="Node000001" title="Emits a ricochet effect at a specified position." alt="" coords="5,5,111,32"/>
-<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="159,5,293,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,16,143,16,143,21,111,21"/>
-</map>

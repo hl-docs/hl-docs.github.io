@@ -1,5 +1,0 @@
-<map id="CHudMessage::MsgFunc_GameTitle" name="CHudMessage::MsgFunc_GameTitle">
-<area shape="rect" id="Node000001" title="Handles the &quot;GameTitle&quot; message and initiates game title display." alt="" coords="5,5,174,48"/>
-<area shape="rect" id="Node000002" href="$cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="222,13,342,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,24,206,24,206,29,174,29"/>
-</map>

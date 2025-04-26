@@ -1,0 +1,44 @@
+<map id="CFuncRotating::Spawn" name="CFuncRotating::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the func_rotating entity." alt="" coords="5,369,160,396"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="961,15,1007,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,368,102,332,128,282,163,227,206,178,263,131,314,102,370,80,441,56,557,21,650,5,746,4,867,11,946,19,945,25,866,16,746,9,651,11,558,26,443,61,372,85,317,106,266,135,210,182,167,231,133,284,107,334,91,370"/>
+<area shape="rect" id="Node000003" href="$da/d1d/class_c_func_rotating.html#aad77be7f6df9854b69b5d0c7f438f697" title="Handles touch events for the rotating entity." alt="" coords="214,395,388,421"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,389,198,393,198,399,160,394"/>
+<area shape="rect" id="Node000006" href="$da/d1d/class_c_func_rotating.html#a9d953a37d5a9cbe68eda3ebcbf0664f8" title="Pre&#45;caches sounds for the func_rotating entity." alt="" coords="216,344,386,371"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="160,371,200,366,200,372,160,376"/>
+<area shape="rect" id="Node000012" href="$da/d1d/class_c_func_rotating.html#a2be8414cdb57f1918d088d3c55e9154a" title="Handles the use action for the rotating entity." alt="" coords="208,192,394,219"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="99,367,269,227,273,231,102,371"/>
+<area shape="rect" id="Node000014" href="$d5/de5/class_c_base_entity.html#ac7e9207320e72479d7c67d360c48f0b5" title=" " alt="" coords="210,445,392,488"/>
+<area shape="poly" id="edge24_Node000001_Node000014" title=" " alt="" coords="118,394,209,431,225,437,223,442,207,436,116,399"/>
+<area shape="rect" id="Node000016" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="247,512,355,539"/>
+<area shape="poly" id="edge26_Node000001_Node000016" title=" " alt="" coords="96,395,142,445,174,474,209,498,233,508,231,513,206,502,170,478,138,449,93,398"/>
+<area shape="rect" id="Node000004" href="$d5/de5/class_c_base_entity.html#aa8c66d085116b719beff9fb1c3d0e45d" title="Inflicts damage on the entity." alt="" coords="442,395,620,421"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="388,405,426,405,426,411,388,411"/>
+<area shape="rect" id="Node000005" href="$d8/d47/bmodels_8cpp.html#ae188671969a2ab14d622833f93364a19" title="Calculates the origin of a bounding model." alt="" coords="470,445,592,472"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="366,419,455,439,454,445,364,425"/>
+<area shape="rect" id="Node000007" href="$d8/d3c/util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="489,344,574,371"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="386,355,473,355,473,360,386,360"/>
+<area shape="rect" id="Node000008" href="$da/d1d/class_c_func_rotating.html#a0435512ae7f52147020fc0aa3cb90ed8" title="Accelerates the rotating entity to its target speed." alt="" coords="453,217,610,244"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="326,341,491,250,493,254,328,346"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="610,241,670,244,736,242,803,229,835,218,865,203,903,172,934,132,956,91,971,55,976,57,961,93,938,135,907,175,868,208,837,223,804,234,736,247,670,250,610,246"/>
+<area shape="rect" id="Node000009" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="915,192,1053,219"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="606,242,663,249,728,254,798,254,866,247,904,237,940,223,942,228,906,242,867,252,798,260,728,260,662,255,605,247"/>
+<area shape="rect" id="Node000010" href="$da/d1d/class_c_func_rotating.html#a17f9dec77173e35c8af550692695d15b" title="Ramps the pitch and volume of the rotating entity&#39;s sound." alt="" coords="668,116,867,143"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="552,215,603,184,667,152,688,145,689,150,669,157,606,188,555,219"/>
+<area shape="rect" id="Node000011" href="$da/d1d/class_c_func_rotating.html#ae40420a2851d0a0dbe7424f736d7224b" title="Rotates the func_rotating entity." alt="" coords="691,167,844,193"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="596,214,686,195,688,200,598,219"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="797,113,945,43,948,47,799,118"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="830,141,868,152,942,183,940,188,866,157,828,146"/>
+<area shape="poly" id="edge16_Node000012_Node000002" title=" " alt="" coords="316,189,369,146,404,122,441,102,509,74,580,53,653,39,724,29,852,22,945,23,945,28,852,27,724,35,654,44,581,59,510,79,443,106,406,127,372,151,319,194"/>
+<area shape="poly" id="edge23_Node000012_Node000008" title=" " alt="" coords="394,213,437,218,437,223,394,218"/>
+<area shape="poly" id="edge15_Node000012_Node000009" title=" " alt="" coords="333,217,384,237,443,253,561,276,655,287,700,288,749,284,866,261,910,246,948,225,951,230,912,251,867,267,749,289,701,293,655,293,560,281,441,259,382,242,331,222"/>
+<area shape="poly" id="edge17_Node000012_Node000011" title=" " alt="" coords="394,198,675,182,675,188,395,203"/>
+<area shape="rect" id="Node000013" href="$da/d1d/class_c_func_rotating.html#a06e64c3f9362381dda67dc17cadc4025" title="Decelerates the rotating entity to a standstill." alt="" coords="445,116,618,143"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="343,189,473,146,475,151,345,194"/>
+<area shape="poly" id="edge20_Node000013_Node000002" title=" " alt="" coords="562,113,611,93,668,75,744,57,821,44,945,29,945,34,821,49,745,63,669,80,613,98,564,118"/>
+<area shape="poly" id="edge19_Node000013_Node000009" title=" " alt="" coords="573,113,632,97,707,86,788,85,829,90,868,102,897,116,924,136,965,178,961,182,920,140,894,121,866,107,827,96,788,90,707,91,633,103,574,118"/>
+<area shape="poly" id="edge21_Node000013_Node000010" title=" " alt="" coords="618,127,653,127,653,132,618,132"/>
+<area shape="poly" id="edge22_Node000013_Node000011" title=" " alt="" coords="598,141,688,160,686,165,596,146"/>
+<area shape="rect" id="Node000015" href="$d5/de5/class_c_base_entity.html#a96cff69ad8420acf0b7d0be685ff77a8" title=" " alt="" coords="469,496,594,523"/>
+<area shape="poly" id="edge25_Node000014_Node000015" title=" " alt="" coords="393,481,454,492,453,498,392,486"/>
+</map>

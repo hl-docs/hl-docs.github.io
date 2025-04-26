@@ -1,5 +1,0 @@
-<map id="IN_ReloadUp" name="IN_ReloadUp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,102,32"/>
-<area shape="rect" id="Node000002" href="$input_8cpp.html#a4d4954f7bc20bbdcee21bea11b60ca74" title="Handles a key up event for a specific key binding (kbutton_t)." alt="" coords="150,5,210,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,16,134,16,134,21,102,21"/>
-</map>

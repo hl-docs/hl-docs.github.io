@@ -1,0 +1,9 @@
+<map id="CFuncWall::Spawn" name="CFuncWall::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the func_wall entity." alt="" coords="229,56,361,83"/>
+<area shape="rect" id="Node000002" href="$d4/dde/class_c_func_wall_toggle.html#abe4e019a4c68547a7ed49f4f999c67d0" title="Spawns the func_wall_toggle entity." alt="" coords="8,5,178,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,54,148,35,150,30,224,49"/>
+<area shape="rect" id="Node000003" href="$d5/d62/class_c_func_conveyor.html#ad7b244c5e886038ebd97fb07501f3a2f" title="Spawns the func_conveyor entity." alt="" coords="13,56,173,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,72,173,72,173,67,213,67"/>
+<area shape="rect" id="Node000004" href="$d9/d43/class_c_func_monster_clip.html#ab0dbfb276dc4459de6bab45b08a84b35" title="Spawns the func_monsterclip entity." alt="" coords="5,107,181,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,90,150,109,148,103,223,85"/>
+</map>

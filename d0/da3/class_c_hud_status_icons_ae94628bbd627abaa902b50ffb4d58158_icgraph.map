@@ -1,0 +1,5 @@
+<map id="CHudStatusIcons::Reset" name="CHudStatusIcons::Reset">
+<area shape="rect" id="Node000001" title="Resets all status icons and deactivates the element." alt="" coords="201,5,365,32"/>
+<area shape="rect" id="Node000002" href="$d0/da3/class_c_hud_status_icons.html#ab34db221345d250e37cdfed54c4fba6d" title="Initializes the status icon HUD element." alt="" coords="5,5,153,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,21,153,21,153,16,185,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CPathTrack::SetPrevious" name="CPathTrack::SetPrevious">
+<area shape="rect" id="Node000001" title="Sets the previous path track for the current path track." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="220,5,282,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,16,204,16,204,21,172,21"/>
+</map>

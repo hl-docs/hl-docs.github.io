@@ -1,5 +1,0 @@
-<map id="CBaseTurret::EyeOn" name="CBaseTurret::EyeOn">
-<area shape="rect" id="Node000001" title="Turns the turret&#39;s eye glow on." alt="" coords="5,5,147,32"/>
-<area shape="rect" id="Node000002" href="$class_c_sprite.html#a9b08724159d3ef5d536048a517d5ee9e" title=" " alt="" coords="195,5,349,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,16,179,16,179,21,147,21"/>
-</map>

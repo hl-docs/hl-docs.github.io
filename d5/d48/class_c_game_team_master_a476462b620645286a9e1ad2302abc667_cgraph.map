@@ -1,0 +1,5 @@
+<map id="CGameTeamMaster::TeamID" name="CGameTeamMaster::TeamID">
+<area shape="rect" id="Node000001" title="Retrieves the team ID associated with the game team master." alt="" coords="5,5,195,32"/>
+<area shape="rect" id="Node000002" href="$d4/d4f/class_c_game_rules.html#a6ac8b5103c534e1738920c410c0ca5b5" title=" " alt="" coords="243,5,481,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,16,227,16,227,21,195,21"/>
+</map>

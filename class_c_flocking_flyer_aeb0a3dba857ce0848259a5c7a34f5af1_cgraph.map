@@ -1,7 +1,0 @@
-<map id="CFlockingFlyer::SquadAdd" name="CFlockingFlyer::SquadAdd">
-<area shape="rect" id="Node000001" title="Adds a boid to the squad." alt="" coords="5,31,182,57"/>
-<area shape="rect" id="Node000002" href="$class_c_flocking_flyer.html#a001a9ad71fa9ecf31fc12cf0efc1106f" title=" " alt="" coords="231,5,394,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,31,214,27,215,33,182,36"/>
-<area shape="rect" id="Node000003" href="$class_c_flocking_flyer.html#a7835e3d6f335af3faeceb450977452b5" title=" " alt="" coords="230,56,395,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,52,215,55,214,61,182,57"/>
-</map>

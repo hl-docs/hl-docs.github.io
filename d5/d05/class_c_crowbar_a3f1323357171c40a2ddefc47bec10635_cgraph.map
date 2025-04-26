@@ -1,0 +1,9 @@
+<map id="CCrowbar::Holster" name="CCrowbar::Holster">
+<area shape="rect" id="Node000001" title="Holsters the crowbar weapon." alt="" coords="5,43,132,69"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="183,5,337,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,44,167,38,168,43,133,49"/>
+<area shape="rect" id="Node000004" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="180,72,340,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,63,165,68,164,73,132,68"/>
+<area shape="rect" id="Node000003" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="388,13,551,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,24,372,24,372,29,337,29"/>
+</map>

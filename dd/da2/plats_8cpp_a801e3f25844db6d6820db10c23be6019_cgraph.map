@@ -1,0 +1,11 @@
+<map id="PlatSpawnInsideTrigger" name="PlatSpawnInsideTrigger">
+<area shape="rect" id="Node000001" title="Creates a trigger entity for the platform." alt="" coords="5,56,162,83"/>
+<area shape="rect" id="Node000002" href="$d6/db6/cbase_8h.html#afdb9a60de9742917308f705391b22517" title=" " alt="" coords="210,56,302,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,67,194,67,194,72,162,72"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="382,5,428,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,53,366,29,367,34,298,58"/>
+<area shape="rect" id="Node000004" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="350,56,459,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="303,67,335,67,335,72,303,72"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="376,107,433,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="298,81,362,103,360,108,297,86"/>
+</map>

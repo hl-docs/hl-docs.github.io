@@ -1,9 +1,0 @@
-<map id="CBaseTurret::Spawn" name="CBaseTurret::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the base turret entity." alt="" coords="188,56,328,83"/>
-<area shape="rect" id="Node000002" href="$class_c_mini_turret.html#a1e952284488c7dceb845b8c843f3ffe7" title="Spawns the mini turret entity." alt="" coords="5,5,140,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,54,123,35,125,30,193,49"/>
-<area shape="rect" id="Node000003" href="$class_c_sentry.html#aec10a8f84bda6bb7f70e9f2554ef352c" title="Spawns the sentry entity." alt="" coords="15,56,130,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,72,131,72,131,67,172,67"/>
-<area shape="rect" id="Node000004" href="$class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="17,107,128,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,90,125,109,123,103,191,85"/>
-</map>

@@ -1,0 +1,27 @@
+<map id="CApache::Flight" name="CApache::Flight">
+<area shape="rect" id="Node000001" title="Handles the flight behavior for the Apache." alt="" coords="5,81,120,108"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="196,5,334,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,78,167,48,204,35,206,40,169,53,96,83"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="999,112,1045,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,87,286,74,490,67,698,67,770,68,826,72,952,97,985,108,984,113,950,103,825,77,770,73,698,72,490,72,286,79,120,92"/>
+<area shape="rect" id="Node000004" href="$dc/d44/dlls_2util_8cpp.html#aeaab76538c4c0af63d171a342d50a5f2" title="Finds an entity by its classname." alt="" coords="168,107,362,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,99,152,103,152,109,120,104"/>
+<area shape="rect" id="Node000010" href="$dc/d44/dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="188,157,342,184"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="90,106,169,143,190,150,189,155,167,148,88,111"/>
+<area shape="rect" id="Node000005" href="$dc/d44/dlls_2util_8cpp.html#abc74352378cda725cd25c82ff7095778" title="Finds an entity by a specific string value." alt="" coords="410,107,573,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="363,117,394,117,394,123,363,123"/>
+<area shape="rect" id="Node000006" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="821,112,951,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="574,118,805,122,805,127,574,124"/>
+<area shape="rect" id="Node000007" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="661,181,733,208"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="540,131,574,143,650,172,648,177,572,148,539,137"/>
+<area shape="rect" id="Node000008" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="621,232,773,259"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="555,132,575,143,592,162,600,182,607,200,623,218,629,222,626,227,620,222,603,203,595,184,587,165,572,147,552,136"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="952,123,983,123,983,128,952,128"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="732,179,833,142,834,147,734,184"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="665,182,659,173,663,163,676,157,697,155,720,157,732,164,729,168,718,162,697,160,677,162,667,167,664,172,669,179"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="739,229,772,217,983,137,985,142,774,223,741,234"/>
+<area shape="rect" id="Node000009" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="831,232,941,259"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="773,243,816,243,816,248,773,248"/>
+<area shape="rect" id="Node000011" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="421,157,563,184"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="342,168,405,168,405,173,342,173"/>
+</map>

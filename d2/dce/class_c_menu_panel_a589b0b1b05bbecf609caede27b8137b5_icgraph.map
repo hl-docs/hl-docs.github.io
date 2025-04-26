@@ -1,0 +1,64 @@
+<map id="CMenuPanel::Open" name="CMenuPanel::Open">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1506,200,1640,227"/>
+<area shape="rect" id="Node000002" href="$da/db4/class_c_class_menu_panel.html#a0abedfda55538605b1fe1e657afbf6f5" title="Opens the class menu panel." alt="" coords="1290,120,1458,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1531,195,1457,161,1424,150,1426,145,1459,156,1533,190"/>
+<area shape="rect" id="Node000003" href="$db/d4e/class_c_team_menu_panel.html#af320c460259886b676937b567c75ace8" title="Opens and updates the team menu." alt="" coords="1291,171,1457,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1490,204,1457,199,1458,194,1491,199"/>
+<area shape="rect" id="Node000004" href="$db/d40/class_team_fortress_viewport.html#ab85b483933e62b6d7cd879f325724a27" title="Sets the current VGUI menu to the provided menu." alt="" coords="1298,221,1450,264"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1491,228,1451,234,1450,229,1490,223"/>
+<area shape="rect" id="Node000025" href="$db/d40/class_team_fortress_viewport.html#aeca33c3bab59bf72010004041d8c5364" title="Displays a VGUI menu based on the specified menu ID." alt="" coords="1088,355,1239,397"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="1538,237,1459,278,1345,323,1240,357,1239,352,1343,318,1457,274,1535,232"/>
+<area shape="rect" id="Node000005" href="$db/d40/class_team_fortress_viewport.html#a96af1999947a5e99bcd45d16ebe3860f" title="Reads the Command Menu structure from a file and creates the menu." alt="" coords="1084,61,1242,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1296,216,1289,212,1256,186,1226,158,1180,106,1184,103,1230,154,1259,182,1292,207,1299,212"/>
+<area shape="rect" id="Node000007" href="$db/d40/class_team_fortress_viewport.html#a4a8a293c5dfc6f0ca89848ac41ef2c5f" title="Hides the topmost VGUI menu and displays the next one in the stack." alt="" coords="1088,221,1239,264"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="1283,245,1239,245,1239,240,1283,240"/>
+<area shape="rect" id="Node000006" href="$db/d40/class_team_fortress_viewport.html#aacf8ea3f9311effbcb873b677272d989" title="Constructor for the TeamFortressViewport class." alt="" coords="352,33,511,76"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1069,60,968,37,844,18,710,8,642,10,576,16,495,35,494,30,575,11,642,4,710,3,845,12,969,32,1070,54"/>
+<area shape="rect" id="Node000008" href="$d1/d90/class_c_menu_handler___string_command.html#a3e619e44d50579b42672f0c63120c651" title=" " alt="" coords="830,92,1036,135"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1109,216,971,138,974,133,1112,211"/>
+<area shape="rect" id="Node000011" href="$de/d37/class_c_menu_handler___text_window.html#aa84e01da19f1f95b0811ab25ca5ab476" title=" " alt="" coords="841,255,1025,297"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="1073,258,1026,265,1025,260,1072,253"/>
+<area shape="rect" id="Node000012" href="$db/d40/class_team_fortress_viewport.html#afc9c5415b7278d8ed24fe573eec53188" title="Hides all currently visible VGUI menus." alt="" coords="857,188,1009,231"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="1072,232,1009,223,1009,218,1073,227"/>
+<area shape="rect" id="Node000023" href="$db/d40/class_team_fortress_viewport.html#a9459e8b460b7deb3889648dfb5cbcb29" title="Handles direct key input and dispatches it to active menus or performs default behavior." alt="" coords="857,321,1009,364"/>
+<area shape="poly" id="edge24_Node000007_Node000023" title=" " alt="" coords="1113,274,1037,312,1008,323,1006,318,1035,307,1111,269"/>
+<area shape="rect" id="Node000009" href="$d8/d96/class_c_menu_handler___string_command_watch.html#a771d45c6ec62deed4abd3b066e5efa05" title=" " alt="" coords="575,25,782,68"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="833,90,762,71,763,66,835,85"/>
+<area shape="rect" id="Node000010" href="$dc/db2/class_c_menu_handler___string_command_class_select.html#abf8138cd52950b27e57170e9525a7262" title="Executes string command and class&#45;related logic." alt="" coords="575,92,782,135"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="814,116,782,116,782,111,814,111"/>
+<area shape="rect" id="Node000013" href="$db/d40/class_team_fortress_viewport.html#a5473469282eaaea27c9a0eafe21fd277" title="Initializes the TeamFortressViewport, resets data and hides menus." alt="" coords="603,159,754,201"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="841,202,755,191,755,186,842,196"/>
+<area shape="rect" id="Node000017" href="$db/d4f/class_c_hud.html#aac1f2a93ad7bddebedaa6dcdc8bd3bf3" title="Redraws the HUD elements on the screen." alt="" coords="626,225,731,252"/>
+<area shape="poly" id="edge17_Node000012_Node000017" title=" " alt="" coords="842,222,732,235,731,230,841,217"/>
+<area shape="rect" id="Node000019" href="$db/d40/class_team_fortress_viewport.html#acbae3abb9da291154d52e90adc0543fa" title="Displays the command menu corresponding to the specified index." alt="" coords="602,276,755,319"/>
+<area shape="poly" id="edge20_Node000012_Node000019" title=" " alt="" coords="848,239,831,245,783,267,751,278,749,273,781,262,829,240,847,234"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="588,155,574,149,512,114,460,79,463,74,515,109,577,144,590,150"/>
+<area shape="rect" id="Node000014" href="$d7/d42/vgui__int_8cpp.html#a5b59510079d53a6f58522389266e4673" title="Initializes the VGUI system and sets up the root panel and viewport." alt="" coords="382,167,481,193"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="587,183,482,183,482,177,587,177"/>
+<area shape="rect" id="Node000015" href="$d9/dbd/cdll__int_8cpp.html#a9b6af20be4779961bb84fc32bcfa2f80" title="Initializes the video settings for the HUD." alt="" coords="144,167,236,193"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="366,183,236,183,236,177,366,177"/>
+<area shape="rect" id="Node000016" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,217,44,244"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="130,197,93,208,45,226,43,221,91,203,128,192"/>
+<area shape="rect" id="Node000018" href="$d9/dbd/cdll__int_8cpp.html#a5ea2cbe1b24757e7b528d2d005111a52" title="Redraws the HUD on each screen frame." alt="" coords="141,217,239,244"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="611,240,239,234,240,229,611,235"/>
+<area shape="poly" id="edge19_Node000018_Node000016" title=" " alt="" coords="125,233,44,233,44,228,125,228"/>
+<area shape="rect" id="Node000020" href="$d0/dcb/class_spectator_panel.html#a1a544898f388f8e31d9d630b0ae5f73a" title="Handles commands triggered by UI buttons in the spectator panel." alt="" coords="336,268,527,295"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="587,294,528,290,528,285,587,289"/>
+<area shape="rect" id="Node000022" href="$db/d40/class_team_fortress_viewport.html#a5b444b705fe09a117cc63afa5634965f" title="Activates the player&#39;s special ability based on their class." alt="" coords="356,319,507,361"/>
+<area shape="poly" id="edge23_Node000019_Node000022" title=" " alt="" coords="587,316,508,330,507,324,586,311"/>
+<area shape="rect" id="Node000021" href="$db/d85/class_c_spectator_handler___command.html#a509a22bc71233c7f1b98bc4c9a30c76b" title=" " alt="" coords="92,268,288,311"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="320,288,289,289,289,283,320,282"/>
+<area shape="rect" id="Node000024" href="$d8/d8c/input_8cpp.html#acae0b9c23c657f3a85229c9d78d8adea" title="Handles keyboard input events for the HUD (Heads&#45;Up Display)." alt="" coords="131,360,249,387"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="842,354,695,366,527,376,377,379,249,377,249,372,377,373,527,371,694,361,841,349"/>
+<area shape="poly" id="edge26_Node000024_Node000016" title=" " alt="" coords="137,355,90,325,54,284,31,245,35,243,58,280,93,321,140,351"/>
+<area shape="poly" id="edge28_Node000025_Node000011" title=" " alt="" coords="1111,349,1035,312,1006,300,1008,296,1037,307,1113,345"/>
+<area shape="poly" id="edge29_Node000025_Node000023" title=" " alt="" coords="1072,366,1009,356,1009,351,1073,360"/>
+<area shape="rect" id="Node000026" href="$db/d40/class_team_fortress_viewport.html#aa3e065e7b121377c4521dedcdaa5fc2c" title="Handles the message of the message of the day (MOTD)." alt="" coords="857,388,1009,431"/>
+<area shape="poly" id="edge30_Node000025_Node000026" title=" " alt="" coords="1073,392,1009,401,1009,396,1072,387"/>
+<area shape="rect" id="Node000027" href="$db/d40/class_team_fortress_viewport.html#a134495fd5dee19d9922f10c7ec499975" title="Handles the VGUI menu message." alt="" coords="856,455,1010,497"/>
+<area shape="poly" id="edge31_Node000025_Node000027" title=" " alt="" coords="1113,407,1037,445,1008,457,1006,452,1035,440,1111,403"/>
+<area shape="rect" id="Node000028" href="$d1/d71/hud__spectator_8cpp.html#a1175aa7c226725e5cce2dcc79957752d" title="Displays spectator help text or menu." alt="" coords="881,521,985,548"/>
+<area shape="poly" id="edge32_Node000025_Node000028" title=" " alt="" coords="1141,412,1097,464,1069,490,1037,512,1012,523,986,531,984,525,1010,518,1035,507,1065,485,1093,460,1137,408"/>
+<area shape="rect" id="Node000029" href="$de/dd7/class_c_hud_spectator.html#a699359672bc053ee8c212523c63d3543" title="Initializes the HUD Spectator system and registers commands/variables." alt="" coords="611,521,746,548"/>
+<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="865,537,746,537,746,532,865,532"/>
+</map>

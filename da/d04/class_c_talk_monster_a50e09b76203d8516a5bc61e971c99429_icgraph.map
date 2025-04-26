@@ -1,0 +1,33 @@
+<map id="CTalkMonster::IsFollowing" name="CTalkMonster::IsFollowing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="665,195,839,221"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#a090975a59aa2b867b6c9bdbb2aa475e4" title="Checks if the talk monster can follow a target." alt="" coords="438,56,607,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,187,672,152,616,116,556,86,558,81,619,111,675,147,723,183"/>
+<area shape="rect" id="Node000006" href="$dc/d29/class_c_scientist.html#a5f4158da2e426c5e0983d5ef6dc3aeb1" title="Determines the ideal state for the scientist." alt="" coords="205,93,373,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="672,193,353,123,354,118,673,188"/>
+<area shape="rect" id="Node000007" href="$d0/d51/class_c_barney.html#a3341e9848d3c6ddacd909c07db355320" title="Determines the appropriate schedule for the Barney entity." alt="" coords="212,296,366,323"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="673,228,354,298,353,293,672,223"/>
+<area shape="rect" id="Node000008" href="$dc/d29/class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="207,347,371,373"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="719,232,672,260,618,285,555,307,490,325,372,350,371,345,489,320,553,302,616,280,670,255,716,228"/>
+<area shape="rect" id="Node000009" href="$da/d04/class_c_talk_monster.html#abc1d68bb091a4c5cb01396f80fccc906" title="Stops the talk monster from following its target." alt="" coords="427,195,617,221"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="650,211,618,211,618,205,650,205"/>
+<area shape="rect" id="Node000003" href="$da/d04/class_c_talk_monster.html#a100840a7f1417df9e0630754fba12ceb" title="Handles the use interaction for the talk monster." alt="" coords="199,43,379,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,66,379,64,380,59,422,61"/>
+<area shape="rect" id="Node000004" href="$d0/d51/class_c_barney.html#abf46f736a42ef4e60fd853d9e86526d2" title="Spawns the Barney entity." alt="" coords="19,5,137,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,42,137,32,138,26,196,37"/>
+<area shape="rect" id="Node000005" href="$dc/d29/class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="14,56,142,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="183,65,143,68,142,63,183,60"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="497,185,446,133,413,107,378,84,352,72,354,68,380,79,416,102,450,129,501,181"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="484,189,435,161,378,134,345,123,347,118,380,130,437,156,487,184"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="476,230,428,254,405,271,380,286,350,298,348,293,378,282,402,266,426,250,473,226"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="501,235,450,287,416,314,380,337,354,348,352,344,378,332,413,309,446,283,497,231"/>
+<area shape="rect" id="Node000010" href="$da/d04/class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="206,144,372,171"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="442,193,353,174,354,169,443,188"/>
+<area shape="rect" id="Node000013" href="$d0/d51/class_c_barney.html#a7b4f6de84eb885c40f9b8d509571efc6" title="Handles damage taken by the Barney entity." alt="" coords="211,195,367,221"/>
+<area shape="poly" id="edge16_Node000009_Node000013" title=" " alt="" coords="411,211,367,211,367,205,411,205"/>
+<area shape="rect" id="Node000014" href="$dc/d29/class_c_scientist.html#aae526769eac1dfad245f95f261eb08ae" title="Handles damage taken by the scientist." alt="" coords="206,245,372,272"/>
+<area shape="poly" id="edge17_Node000009_Node000014" title=" " alt="" coords="443,228,354,247,353,242,442,223"/>
+<area shape="rect" id="Node000011" href="$d0/d51/class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="10,119,146,145"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="190,148,146,143,146,137,191,143"/>
+<area shape="rect" id="Node000012" href="$dc/d29/class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="5,169,151,196"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="191,172,152,177,151,171,191,166"/>
+</map>

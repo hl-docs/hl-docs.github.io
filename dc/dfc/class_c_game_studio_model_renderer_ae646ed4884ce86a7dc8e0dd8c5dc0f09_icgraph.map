@@ -1,0 +1,11 @@
+<map id="CGameStudioModelRenderer::StudioFxTransform" name="CGameStudioModelRenderer::StudioFxTransform">
+<area shape="rect" id="Node000001" title="Applies special effects transformations to the model." alt="" coords="906,5,1095,48"/>
+<area shape="rect" id="Node000002" href="$dc/dfc/class_c_game_studio_model_renderer.html#a6ab9526f25aed11c834b1286372e3804" title="Sets up the bones for rendering the current studio model." alt="" coords="668,5,858,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="890,29,858,29,858,24,890,24"/>
+<area shape="rect" id="Node000003" href="$dc/dfc/class_c_game_studio_model_renderer.html#a8cdb66bddf12c8764c44e739a6e26ee5" title="Handles the actual drawing of the player model." alt="" coords="431,5,620,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="653,29,621,29,621,24,653,24"/>
+<area shape="rect" id="Node000004" href="$dc/dfc/class_c_game_studio_model_renderer.html#a63196fe886f28fdfdedf4e0b24c8211c" title="Draws the player model on the screen." alt="" coords="194,5,383,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,29,384,29,384,24,415,24"/>
+<area shape="rect" id="Node000005" href="$d8/dfd/_game_studio_model_renderer_8cpp.html#ab59c170be1e5f319fdf78e61e00188c1" title="Draws a player model using the studio renderer." alt="" coords="5,13,146,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,29,146,29,146,24,179,24"/>
+</map>

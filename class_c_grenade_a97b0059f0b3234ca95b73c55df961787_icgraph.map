@@ -1,9 +1,0 @@
-<map id="CGrenade::BounceSound" name="CGrenade::BounceSound">
-<area shape="rect" id="Node000001" title="Plays a random bounce sound when the grenade bounces." alt="" coords="474,31,642,57"/>
-<area shape="rect" id="Node000002" href="$class_c_grenade.html#aa589fe24eba1486263fcb1a311746d91" title="Handles the bounce logic for the grenade." alt="" coords="260,5,426,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,35,426,31,427,26,459,30"/>
-<area shape="rect" id="Node000003" href="$class_c_grenade.html#ada52658ecf558528f58c2fd248bd4da2" title="Handles the sliding logic for the grenade." alt="" coords="267,56,419,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="459,58,419,63,419,58,458,53"/>
-<area shape="rect" id="Node000004" href="$class_c_grenade.html#ae0ef7b8fe706328b74f8eb134495d042" title="Creates and shoots a satchel charge." alt="" coords="5,56,212,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,72,212,72,212,67,252,67"/>
-</map>

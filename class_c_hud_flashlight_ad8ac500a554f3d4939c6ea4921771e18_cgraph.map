@@ -1,7 +1,0 @@
-<map id="CHudFlashlight::Draw" name="CHudFlashlight::Draw">
-<area shape="rect" id="Node000001" title="Draws the flashlight HUD element on the screen." alt="" coords="5,31,152,57"/>
-<area shape="rect" id="Node000002" href="$hud__redraw_8cpp.html#a7a66f75285c8a9493379911998117623" title="Scales the RGB values by adjusting them according to some factor." alt="" coords="201,5,292,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,30,185,25,185,30,153,36"/>
-<area shape="rect" id="Node000003" href="$cl__util_8h.html#a52eca3975d4d34bc8146918a0d62c1dc" title="Unpacks a RGB value (in hex format) into separate red, green, and blue components." alt="" coords="200,56,293,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,52,185,57,184,63,152,58"/>
-</map>

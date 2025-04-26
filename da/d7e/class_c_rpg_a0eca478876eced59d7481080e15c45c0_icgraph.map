@@ -1,0 +1,5 @@
+<map id="CRpg::Precache" name="CRpg::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches the resources needed for the RPG weapon." alt="" coords="154,5,270,32"/>
+<area shape="rect" id="Node000002" href="$da/d7e/class_c_rpg.html#aaef680e5c8bd47f54546248699d4258f" title="Initializes the RPG weapon." alt="" coords="5,5,106,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,21,106,21,106,16,138,16"/>
+</map>

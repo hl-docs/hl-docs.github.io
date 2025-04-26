@@ -1,0 +1,7 @@
+<map id="CHudGeiger::MsgFunc_Geiger" name="CHudGeiger::MsgFunc_Geiger">
+<area shape="rect" id="Node000001" title="Handles the incoming Geiger counter message and updates its range." alt="" coords="5,23,159,65"/>
+<area shape="rect" id="Node000002" href="$d0/d32/parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="207,5,311,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,30,191,26,192,31,160,36"/>
+<area shape="rect" id="Node000003" href="$d0/d32/parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="210,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,52,195,58,194,63,159,58"/>
+</map>

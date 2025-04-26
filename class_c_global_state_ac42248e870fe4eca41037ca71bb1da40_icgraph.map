@@ -1,7 +1,0 @@
-<map id="CGlobalState::EntityInTable" name="CGlobalState::EntityInTable">
-<area shape="rect" id="Node000001" title=" " alt="" coords="189,31,370,57"/>
-<area shape="rect" id="Node000002" href="$class_c_env_global.html#af8e62cec25d0c2067d7623b0d5f3e0dd" title="Spawns the global environment entity." alt="" coords="5,5,141,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,34,141,30,141,24,173,28"/>
-<area shape="rect" id="Node000003" href="$class_c_env_global.html#a57ab27ea7a3a5e67af0b2e8941108b61" title="Uses the global environment entity." alt="" coords="13,56,133,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,60,133,65,132,59,173,54"/>
-</map>

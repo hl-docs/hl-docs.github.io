@@ -1,0 +1,5 @@
+<map id="CHoundeye::GetScheduleOfType" name="CHoundeye::GetScheduleOfType">
+<area shape="rect" id="Node000001" title="Retrieves the schedule of a specific type for the Houndeye." alt="" coords="225,5,437,32"/>
+<area shape="rect" id="Node000002" href="$de/da2/class_c_houndeye.html#a30498cea7548a29ba46dc6659906aee4" title="Retrieves the current schedule for the Houndeye." alt="" coords="5,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,21,177,21,177,16,209,16"/>
+</map>

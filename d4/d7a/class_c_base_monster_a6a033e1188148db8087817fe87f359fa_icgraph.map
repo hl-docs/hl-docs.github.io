@@ -1,0 +1,9 @@
+<map id="CBaseMonster::GibMonster" name="CBaseMonster::GibMonster">
+<area shape="rect" id="Node000001" title="Creates gibs and removes the monster&#39;s model." alt="" coords="258,56,440,83"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#afcaee6b6757f8abf93b6d0208cad8b49" title="Calls the gibbing process for the monster." alt="" coords="5,5,210,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,55,174,35,175,30,267,50"/>
+<area shape="rect" id="Node000003" href="$de/d41/class_c_controller.html#aa28b0f4018115915ad7c9a7b05e0ccf5" title="Gibbles the controller monster." alt="" coords="27,56,188,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,72,188,72,188,67,242,67"/>
+<area shape="rect" id="Node000004" href="$d3/de7/class_c_h_grunt.html#add3139c87b9b0ab4ea8df2e07601dfe9" title="Handles the gibbing of the grunt." alt="" coords="34,107,181,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,89,175,109,174,103,266,84"/>
+</map>

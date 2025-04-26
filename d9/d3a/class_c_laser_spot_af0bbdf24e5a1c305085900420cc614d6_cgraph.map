@@ -1,0 +1,9 @@
+<map id="CLaserSpot::Spawn" name="CLaserSpot::Spawn">
+<area shape="rect" id="Node000001" title="Initializes the laser spot entity upon spawning." alt="" coords="5,56,142,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="243,5,289,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,53,227,26,228,31,128,58"/>
+<area shape="rect" id="Node000003" href="$d9/d3a/class_c_laser_spot.html#a4987129ddadb83093974e240b662c272" title="Pre&#45;caches the resources needed for the laser spot." alt="" coords="190,56,342,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,67,174,67,174,72,142,72"/>
+<area shape="rect" id="Node000004" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="212,107,320,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,81,198,100,197,105,126,86"/>
+</map>

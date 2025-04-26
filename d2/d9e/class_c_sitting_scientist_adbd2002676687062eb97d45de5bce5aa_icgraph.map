@@ -1,0 +1,5 @@
+<map id="CSittingScientist::SittingThink" name="CSittingScientist::SittingThink">
+<area shape="rect" id="Node000001" title="Handles the sitting behavior and interactions of the scientist." alt="" coords="180,5,306,48"/>
+<area shape="rect" id="Node000002" href="$d2/d9e/class_c_sitting_scientist.html#acf1d85ab1452574d20e406003eb97959" title="Spawns the sitting scientist entity." alt="" coords="5,5,132,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,29,132,29,132,24,164,24"/>
+</map>

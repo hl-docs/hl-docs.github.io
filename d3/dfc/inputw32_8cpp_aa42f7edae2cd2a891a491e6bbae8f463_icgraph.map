@@ -1,0 +1,25 @@
+<map id="RawValuePointer" name="RawValuePointer">
+<area shape="rect" id="Node000001" title="Returns the raw SDL axis value for a given joystick axis." alt="" coords="798,31,918,57"/>
+<area shape="rect" id="Node000002" href="$d3/dfc/inputw32_8cpp.html#a45c469dcd036dde62e2cbe43797d11ad" title="Handles joystick button and POV (Point&#45;of&#45;View) events." alt="" coords="619,5,726,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="782,36,726,29,726,23,783,31"/>
+<area shape="rect" id="Node000005" href="$d3/dfc/inputw32_8cpp.html#a32984ea8ea3586e2b5d715813dae3d95" title="Updates advanced joystick configuration mappings and control modes." alt="" coords="595,56,750,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="783,57,751,61,750,56,782,52"/>
+<area shape="rect" id="Node000003" href="$d9/dbd/cdll__int_8cpp.html#a4d6e3054b2b4a671963b61ed08e18b71" title="Updates client data when the shared data changes." alt="" coords="252,5,408,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="604,21,409,21,409,16,604,16"/>
+<area shape="rect" id="Node000004" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,56,44,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,26,165,33,92,47,45,63,43,58,91,41,165,28,236,20"/>
+<area shape="rect" id="Node000006" href="$d3/dfc/inputw32_8cpp.html#a64ecfae2c62ed2a8820bb0047ec22c0c" title="Initializes all input&#45;related variables and starts mouse and joystick subsystems." alt="" coords="473,56,530,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="579,72,531,72,531,67,579,67"/>
+<area shape="rect" id="Node000009" href="$d3/dfc/inputw32_8cpp.html#a1e376e928a5ba4e60c4c9b0af4e8f5e1" title="Processes joystick axis movements and converts them into player commands." alt="" coords="456,107,547,133"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="611,90,548,109,546,104,610,85"/>
+<area shape="rect" id="Node000007" href="$d8/d8c/input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="297,56,363,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="457,72,363,72,363,67,457,67"/>
+<area shape="rect" id="Node000008" href="$d9/dbd/cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="112,56,184,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="282,72,184,72,184,67,282,67"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="97,72,44,72,44,67,97,67"/>
+<area shape="rect" id="Node000010" href="$d3/dfc/inputw32_8cpp.html#a6fc0729f79ed19a8a7db6ad81ff64b90" title="Handles movement input from both mouse and joystick." alt="" coords="295,107,365,133"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="441,123,366,123,366,117,441,117"/>
+<area shape="rect" id="Node000011" href="$d8/d8c/input_8cpp.html#a7217f060254148177c44d7243fc20ae6" title="Creates and sends a movement command to the server." alt="" coords="92,107,204,133"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="279,123,205,123,205,117,279,117"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="99,103,43,79,45,75,101,98"/>
+</map>

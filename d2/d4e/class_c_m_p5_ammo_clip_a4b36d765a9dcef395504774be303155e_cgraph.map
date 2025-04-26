@@ -1,0 +1,9 @@
+<map id="CMP5AmmoClip::Spawn" name="CMP5AmmoClip::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the MP5 clip in the game." alt="" coords="5,56,170,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="286,5,332,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,53,270,25,271,30,150,58"/>
+<area shape="rect" id="Node000003" href="$d2/d4e/class_c_m_p5_ammo_clip.html#abb28b1b4746e67b6d72038bf4037a08a" title="Preloads the resources needed for the MP5 clip." alt="" coords="219,56,399,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,67,203,67,203,72,170,72"/>
+<area shape="rect" id="Node000004" href="$de/d71/class_c_base_player_ammo.html#a13402d91be00ef4937c8b9bf3a83024c" title="Spawns the ammo entity in the game world." alt="" coords="218,107,400,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,81,233,100,232,105,149,86"/>
+</map>

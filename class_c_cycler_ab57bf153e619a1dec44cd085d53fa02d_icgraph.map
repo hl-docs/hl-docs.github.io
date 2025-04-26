@@ -1,5 +1,0 @@
-<map id="CCycler::GenericCyclerSpawn" name="CCycler::GenericCyclerSpawn">
-<area shape="rect" id="Node000001" title="Initializes the cycler with a model and size." alt="" coords="213,5,409,32"/>
-<area shape="rect" id="Node000002" href="$class_c_generic_cycler.html#a869bdb209428c30a64e609b9970c5d9c" title="Spawns the cycler entity." alt="" coords="5,5,165,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,21,165,21,165,16,197,16"/>
-</map>

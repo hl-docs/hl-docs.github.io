@@ -1,0 +1,5 @@
+<map id="CLightning::BeamUpdateVars" name="CLightning::BeamUpdateVars">
+<area shape="rect" id="Node000001" title="Updates the beam variables for the lightning effect." alt="" coords="190,5,382,32"/>
+<area shape="rect" id="Node000002" href="$d6/d4a/class_c_lightning.html#ad1e95029a213e0d7faccb62f7cf38d3a" title="Activates the lightning effect." alt="" coords="5,5,142,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,21,142,21,142,16,174,16"/>
+</map>

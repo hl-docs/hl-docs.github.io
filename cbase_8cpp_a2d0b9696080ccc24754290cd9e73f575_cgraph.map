@@ -1,7 +1,0 @@
-<map id="DispatchThink" name="DispatchThink">
-<area shape="rect" id="Node000001" title="Dispatches the think event for an entity." alt="" coords="5,31,109,57"/>
-<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="169,5,278,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,33,153,27,154,32,110,39"/>
-<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a81fa9e9a390b949baa17b4befddd2550" title=" " alt="" coords="157,56,290,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,49,142,54,141,59,109,55"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CMortar::MortarExplode" name="CMortar::MortarExplode">
+<area shape="rect" id="Node000001" title="Handles the explosion of the mortar." alt="" coords="168,5,327,32"/>
+<area shape="rect" id="Node000002" href="$dd/df5/class_c_mortar.html#a54c8ec80d0835beac93026ded850653f" title="Spawns the mortar entity in the game." alt="" coords="5,5,120,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,21,120,21,120,16,152,16"/>
+</map>

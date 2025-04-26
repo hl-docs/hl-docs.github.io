@@ -1,7 +1,0 @@
-<map id="CSprite::Precache" name="CSprite::Precache">
-<area shape="rect" id="Node000001" title="Precaches the sprite effect resources." alt="" coords="5,5,133,32"/>
-<area shape="rect" id="Node000002" href="$class_c_sprite.html#a5e8b21c29076b5a77bd68387a093f2b7" title=" " alt="" coords="181,5,340,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,16,165,16,165,21,133,21"/>
-<area shape="rect" id="Node000003" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="388,5,471,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,16,373,16,373,21,341,21"/>
-</map>

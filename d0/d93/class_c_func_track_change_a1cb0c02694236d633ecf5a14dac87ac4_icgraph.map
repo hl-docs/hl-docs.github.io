@@ -1,0 +1,7 @@
+<map id="CFuncTrackChange::GoDown" name="CFuncTrackChange::GoDown">
+<area shape="rect" id="Node000001" title="Moves the track change entity down." alt="" coords="220,31,412,57"/>
+<area shape="rect" id="Node000002" href="$d0/d93/class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,34,172,31,172,25,204,29"/>
+<area shape="rect" id="Node000003" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="14,56,163,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,59,164,64,163,58,204,54"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CBaseMonster::ChangeSchedule" name="CBaseMonster::ChangeSchedule">
+<area shape="rect" id="Node000001" title="Changes the monster&#39;s schedule." alt="" coords="5,31,219,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="267,31,371,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,41,251,41,251,47,219,47"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="419,5,481,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,31,403,25,404,30,372,37"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="422,56,479,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="372,51,407,58,406,64,371,57"/>
+</map>

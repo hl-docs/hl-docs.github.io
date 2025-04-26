@@ -1,7 +1,0 @@
-<map id="CHudDeathNotice::Init" name="CHudDeathNotice::Init">
-<area shape="rect" id="Node000001" title="Initializes the death notice HUD element." alt="" coords="5,31,155,57"/>
-<area shape="rect" id="Node000002" href="$class_c_hud.html#aee3f9153b3045531340a6b60652db401" title="Adds a new HUD element to the list of HUD components." alt="" coords="203,5,340,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,31,187,27,188,32,155,37"/>
-<area shape="rect" id="Node000003" href="$cl__util_8h.html#a57f4a7bc4607d85cdedbbb60c2db2b58" title=" " alt="" coords="213,56,330,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,51,198,57,197,62,154,57"/>
-</map>

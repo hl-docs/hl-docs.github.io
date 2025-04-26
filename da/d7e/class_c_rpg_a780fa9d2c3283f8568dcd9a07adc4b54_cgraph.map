@@ -1,0 +1,7 @@
+<map id="CRpg::SecondaryAttack" name="CRpg::SecondaryAttack">
+<area shape="rect" id="Node000001" title="Handles the secondary attack for the RPG weapon." alt="" coords="5,31,167,57"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html#a63df096b8f08c3f315fd2153574097f8" title="Called when an entity is killed. Hides it visually." alt="" coords="228,5,362,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,32,212,26,212,31,167,37"/>
+<area shape="rect" id="Node000003" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="215,56,375,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,51,199,55,199,60,167,56"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="CSquadMonster::OccupySlot" name="CSquadMonster::OccupySlot">
-<area shape="rect" id="Node000001" title="Occupies a slot for the squad monster." alt="" coords="225,31,415,57"/>
-<area shape="rect" id="Node000002" href="$class_c_a_grunt.html#a480baa02288a0031f727bf2f94a996dd" title="Retrieves the current schedule for the Alien Grunt." alt="" coords="14,5,168,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,34,169,30,169,25,210,29"/>
-<area shape="rect" id="Node000003" href="$class_c_houndeye.html#a30498cea7548a29ba46dc6659906aee4" title="Retrieves the current schedule for the Houndeye." alt="" coords="5,56,177,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,59,178,62,177,57,209,54"/>
-</map>

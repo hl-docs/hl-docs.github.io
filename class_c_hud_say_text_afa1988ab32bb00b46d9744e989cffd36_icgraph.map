@@ -1,5 +1,0 @@
-<map id="CHudSayText::InitHUDData" name="CHudSayText::InitHUDData">
-<area shape="rect" id="Node000001" title="Initializes the data structures for handling the say text." alt="" coords="180,5,360,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_say_text.html#af5bd329929bbca6fcc7dac6702c4ffe3" title="Initializes the HUD Say Text element." alt="" coords="5,5,132,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
-</map>

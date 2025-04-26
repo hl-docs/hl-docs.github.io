@@ -1,0 +1,17 @@
+<map id="CFuncPlatRot::RotMove" name="CFuncPlatRot::RotMove">
+<area shape="rect" id="Node000001" title="Rotates the platform towards the specified destination angle." alt="" coords="460,81,620,108"/>
+<area shape="rect" id="Node000002" href="$dc/df8/class_c_func_plat_rot.html#a4e54da2f5c1449c7c01d2af40aaff448" title="Moves the platform down and initiates its rotation." alt="" coords="236,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,77,411,47,373,35,374,30,413,41,494,72"/>
+<area shape="rect" id="Node000003" href="$d0/d93/class_c_func_track_change.html#a1cb0c02694236d633ecf5a14dac87ac4" title="Moves the track change entity down." alt="" coords="220,56,412,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="444,87,412,83,413,78,445,81"/>
+<area shape="rect" id="Node000006" href="$dc/df8/class_c_func_plat_rot.html#a47f39237350e0e057996484d6f1177b4" title="Moves the platform up and initiates its rotation." alt="" coords="244,157,388,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="494,117,413,148,374,159,373,154,411,143,492,112"/>
+<area shape="rect" id="Node000007" href="$d0/d93/class_c_func_track_change.html#a86a802569986a457166bf7aa2de3831c" title="Moves the track change entity up." alt="" coords="228,107,404,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="445,108,405,113,404,107,444,103"/>
+<area shape="rect" id="Node000004" href="$d0/d93/class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="5,56,172,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,72,172,72,172,67,204,67"/>
+<area shape="rect" id="Node000005" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="14,107,163,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="238,89,152,109,151,103,237,84"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="237,105,151,86,152,81,238,100"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="213,123,164,123,164,117,213,117"/>
+</map>

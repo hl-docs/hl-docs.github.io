@@ -1,0 +1,22 @@
+<map id="CGraph" name="CGraph">
+<area shape="rect" id="Node000001" title="Manages the complete navigation graph for the game world." alt="" coords="176,360,242,387"/>
+<area shape="rect" id="Node000002" href="$d1/d64/class_c_node.html" title="Represents a navigation node in the game world." alt="" coords="5,269,66,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,306,88,334,133,353,177,365,175,370,131,358,85,338,53,310"/>
+<area shape="rect" id="Node000003" href="$d5/db2/class_vector.html" title=" " alt="" coords="67,16,127,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="54,48,40,58,29,71,17,96,12,124,12,181,22,232,33,268,28,270,16,233,6,181,6,123,12,95,24,68,36,54,51,44"/>
+<area shape="rect" id="Node000009" href="$dc/d60/struct_c_a_c_h_e___e_n_t_r_y.html" title=" " alt="" coords="96,269,212,296"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="125,53,135,68,153,125,160,182,161,233,158,269,153,269,155,233,155,183,148,126,130,71,121,56"/>
+<area shape="rect" id="Node000004" href="$d4/d28/class_c_link.html" title="Represents a connection between two navigation nodes." alt="" coords="236,269,291,296"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,311,219,361,214,358,245,308"/>
+<area shape="rect" id="Node000005" href="$d2/d88/structentvars__s.html" title=" " alt="" coords="284,16,360,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="270,44,250,55,234,71,212,115,208,154,217,196,234,244,251,268,246,271,229,247,212,197,203,155,207,114,230,68,247,51,268,40"/>
+<area shape="rect" id="Node000006" href="$db/d8e/structedict__s.html" title=" " alt="" coords="323,269,386,296"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="320,58,314,144,317,195,329,244,344,268,339,271,324,247,312,196,309,144,315,58"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="350,254,344,171,330,70,324,44,329,43,335,69,349,171,356,254"/>
+<area shape="rect" id="Node000007" href="$d5/de3/structlink__s.html" title=" " alt="" coords="439,16,494,43"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="472,58,473,98,469,148,457,200,446,224,432,247,412,265,388,276,385,271,409,261,428,244,442,222,452,198,464,147,468,98,466,58"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="489,5,500,3,510,6,518,15,520,30,516,47,505,55,490,55,475,45,478,41,491,50,503,50,512,44,515,29,513,18,507,11,500,8,489,10"/>
+<area shape="rect" id="Node000008" href="$d2/ded/struct_d_i_s_t___i_n_f_o.html" title=" " alt="" coords="410,269,496,296"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="411,305,326,339,243,365,241,360,324,334,409,300"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="159,310,168,335,191,358,187,362,164,338,154,312"/>
+</map>

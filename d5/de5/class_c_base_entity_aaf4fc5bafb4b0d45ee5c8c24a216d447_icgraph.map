@@ -1,0 +1,5 @@
+<map id="CBaseEntity::Activate" name="CBaseEntity::Activate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="157,5,305,32"/>
+<area shape="rect" id="Node000002" href="$d9/d95/client_8cpp.html#a52a703b1630ddeae3d4973ddc215d9b8" title="Activates the server and initializes entities." alt="" coords="5,5,109,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,21,109,21,109,16,141,16"/>
+</map>

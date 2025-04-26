@@ -1,7 +1,0 @@
-<map id="CHudSpectator::SetSpectatorStartPosition" name="CHudSpectator::SetSpectatorStartPosition">
-<area shape="rect" id="Node000001" title="Sets the initial position for the spectator camera." alt="" coords="5,5,199,48"/>
-<area shape="rect" id="Node000002" href="$hud__spectator_8cpp.html#aebf6955cb89be522f680e640b17fd067" title="Finds an entity by class name in the map and retrieves its origin and angle." alt="" coords="247,13,395,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,24,232,24,232,29,199,29"/>
-<area shape="rect" id="Node000003" href="$hud__spectator_8cpp.html#a00bc292c5864a19efb28cb4968946b48" title="Converts a space&#45;separated string to a 3D vector." alt="" coords="443,13,583,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,24,427,24,427,29,395,29"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="net_adrlist_s" name="net_adrlist_s">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,96,101,123"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="118,101,127,109,119,118,102,120,101,115,117,113,122,109,115,105"/>
-<area shape="rect" id="Node000002" href="$structnetadr__s.html" title=" " alt="" coords="17,5,89,32"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="56,48,56,95,50,95,50,48"/>
-</map>

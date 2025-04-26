@@ -1,0 +1,7 @@
+<map id="CController::HandleAnimEvent" name="CController::HandleAnimEvent">
+<area shape="rect" id="Node000001" title="Handles animation events for the controller monster." alt="" coords="5,43,201,69"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a39aef199e5a7d7558f2fdac85ee6c30a" title="Handles animation events for the monster." alt="" coords="249,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,41,233,37,233,43,202,47"/>
+<area shape="rect" id="Node000003" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="274,72,409,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,65,259,73,258,78,201,71"/>
+</map>

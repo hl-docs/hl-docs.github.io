@@ -1,5 +1,0 @@
-<map id="TeamFortressViewport::SetCurrentMenu" name="TeamFortressViewport::SetCurrentMenu">
-<area shape="rect" id="Node000001" title="Sets the current VGUI menu to the provided menu." alt="" coords="5,5,157,48"/>
-<area shape="rect" id="Node000002" href="$class_c_menu_panel.html#a589b0b1b05bbecf609caede27b8137b5" title=" " alt="" coords="205,13,339,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,24,189,24,189,29,157,29"/>
-</map>

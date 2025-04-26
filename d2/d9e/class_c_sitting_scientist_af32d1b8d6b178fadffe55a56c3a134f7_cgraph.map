@@ -1,0 +1,5 @@
+<map id="CSittingScientist::Precache" name="CSittingScientist::Precache">
+<area shape="rect" id="Node000001" title="Precaches resources for the sitting scientist." alt="" coords="5,5,132,48"/>
+<area shape="rect" id="Node000002" href="$d8/ddb/animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="180,13,301,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,24,164,24,164,29,132,29"/>
+</map>

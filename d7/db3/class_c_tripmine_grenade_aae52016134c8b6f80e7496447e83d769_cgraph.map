@@ -1,0 +1,5 @@
+<map id="CTripmineGrenade::KillBeam" name="CTripmineGrenade::KillBeam">
+<area shape="rect" id="Node000001" title="Kills the beam associated with the tripmine grenade." alt="" coords="5,5,194,32"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="242,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,16,226,16,226,21,194,21"/>
+</map>

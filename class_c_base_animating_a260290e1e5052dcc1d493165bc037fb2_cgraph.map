@@ -1,6 +1,0 @@
-<map id="CBaseAnimating::SetBodygroup" name="CBaseAnimating::SetBodygroup">
-<area shape="rect" id="Node000001" title="Sets the bodygroup value for the model." alt="" coords="5,29,214,56"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="79,30,74,21,78,11,90,5,110,3,131,5,142,12,139,16,129,10,109,8,91,10,82,15,79,20,84,28"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="262,29,308,56"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,40,246,40,246,45,214,45"/>
-</map>

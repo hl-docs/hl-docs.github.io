@@ -1,0 +1,29 @@
+<map id="TeamFortressViewport::UpdateCommandMenu" name="TeamFortressViewport::UpdateCommandMenu">
+<area shape="rect" id="Node000001" title="Updates the visibility and positions of the buttons in the command menu." alt="" coords="5,125,167,168"/>
+<area shape="rect" id="Node000002" href="$df/d43/class_c_command_menu.html#a4ff791457ab39db932447e808bda2c5c" title="Recalculates the positions of the menu and ensures that submenus fit on the screen...." alt="" coords="234,5,431,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,123,158,89,213,58,227,52,230,56,216,62,161,94,116,127"/>
+<area shape="rect" id="Node000003" href="$df/d43/class_c_command_menu.html#a87f073800d2916d06843591d74c5076a" title="Recalculates the visibility of buttons in the menu." alt="" coords="234,96,431,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,134,218,128,218,134,167,140"/>
+<area shape="rect" id="Node000006" href="$df/d43/class_c_command_menu.html#ac707212b7601683bcb2d912e83784e81" title="Removes all buttons from the command menu." alt="" coords="215,163,450,189"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="167,154,200,158,199,163,167,159"/>
+<area shape="rect" id="Node000007" href="$db/d40/class_team_fortress_viewport.html#a059863d7fd8bc8478845a8523f8cb7eb" title="Updates the player menu with a list of active players." alt="" coords="257,235,408,277"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="137,166,270,226,268,231,135,171"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="286,96,284,86,292,77,308,71,332,69,359,72,374,78,372,83,357,77,332,75,309,77,295,81,289,87,291,95"/>
+<area shape="rect" id="Node000004" href="$d5/dd3/class_command_button.html#a64fd038ae02cac9fffc42344415182a9" title=" " alt="" coords="513,37,697,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="431,93,497,79,498,84,432,99"/>
+<area shape="rect" id="Node000005" href="$d5/dd3/class_command_button.html#a38816dbe2213fb5d0579d399d41e42c2" title=" " alt="" coords="504,104,706,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="432,115,488,115,488,120,432,120"/>
+<area shape="rect" id="Node000008" href="$df/d43/class_c_command_menu.html#a9f014bfae3ef2626bfe56f8b7c686561" title="Adds a button to the command menu." alt="" coords="510,155,700,181"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="395,232,497,197,541,184,543,189,499,203,397,237"/>
+<area shape="rect" id="Node000009" href="$d5/dd3/class_command_button.html#a8282a0e10256715473d1cd87ce1a4d55" title="Assigns a key that triggers this button." alt="" coords="760,180,965,207"/>
+<area shape="poly" id="edge13_Node000007_Node000009" title=" " alt="" coords="408,245,745,204,745,210,408,250"/>
+<area shape="rect" id="Node000011" href="$db/d40/class_team_fortress_viewport.html#a581a2504cd06f12a1dded0202d998e4c" title="Retrieves information about all players from the engine." alt="" coords="530,256,681,299"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="409,259,515,268,514,273,408,265"/>
+<area shape="rect" id="Node000012" href="$de/dd7/class_c_hud_spectator.html#a0b5731784e3b1196d0c52c5d4dea8a5c" title="Determines if a given entity is an active player that can be spectated." alt="" coords="506,323,705,349"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="396,275,499,308,528,316,526,321,497,313,395,280"/>
+<area shape="rect" id="Node000013" href="$d5/dd3/class_command_button.html#a99958528a2f7097f260769a981808ae1" title="Sets the parent menu reference." alt="" coords="498,373,712,400"/>
+<area shape="poly" id="edge14_Node000007_Node000013" title=" " alt="" coords="363,276,423,318,499,359,518,366,516,371,497,364,421,322,360,280"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="701,175,745,179,745,184,701,180"/>
+<area shape="rect" id="Node000010" href="$d5/dd3/class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="1013,180,1232,207"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="965,191,997,191,997,196,965,196"/>
+</map>

@@ -1,0 +1,70 @@
+<map id="COsprey::DeployThink" name="COsprey::DeployThink">
+<area shape="rect" id="Node000001" title="Handles the deployment of grunts." alt="" coords="5,119,157,145"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1733,283,1779,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,116,142,82,172,63,204,48,278,22,339,8,401,3,480,3,1432,3,1462,5,1490,11,1543,34,1591,68,1633,108,1670,152,1701,196,1744,268,1739,270,1697,199,1666,155,1630,112,1587,72,1540,39,1488,16,1461,10,1432,8,480,8,401,9,340,14,280,27,206,53,175,68,145,86,100,120"/>
+<area shape="rect" id="Node000003" href="$dd/d18/class_c_osprey.html#af1461410a46ad89b3788af9d6fbea4f2" title="Handles the hover behavior of the Osprey." alt="" coords="215,93,359,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,120,199,115,200,120,157,125"/>
+<area shape="rect" id="Node000015" href="$dc/d44/dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="903,43,1058,69"/>
+<area shape="poly" id="edge38_Node000001_Node000015" title=" " alt="" coords="107,116,151,95,204,79,297,62,393,50,582,39,753,40,888,46,888,51,753,45,582,44,393,55,298,67,205,84,153,100,109,121"/>
+<area shape="rect" id="Node000028" href="$d7/d97/class_c_sound_ent.html#af146a07b8a0c4e99cd3548ccf68b4908" title="Inserts a sound into the sound list." alt="" coords="205,144,369,171"/>
+<area shape="poly" id="edge37_Node000001_Node000028" title=" " alt="" coords="157,139,189,143,189,148,157,144"/>
+<area shape="rect" id="Node000029" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="232,195,342,221"/>
+<area shape="poly" id="edge39_Node000001_Node000029" title=" " alt="" coords="115,143,206,180,225,187,223,192,204,185,113,148"/>
+<area shape="rect" id="Node000004" href="$dd/d18/class_c_osprey.html#af9af646ec5052760f0d54cd9a72a386f" title="Handles the flying behavior of the Osprey." alt="" coords="417,372,546,399"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="353,118,371,130,395,155,415,184,447,246,467,307,478,356,473,357,462,309,442,249,411,187,391,159,367,134,350,123"/>
+<area shape="poly" id="edge36_Node000003_Node000015" title=" " alt="" coords="359,101,564,90,816,72,887,65,888,70,817,77,565,95,359,106"/>
+<area shape="poly" id="edge4_Node000004_Node000001" title=" " alt="" coords="450,374,339,317,271,278,203,236,151,196,107,158,110,154,154,192,206,231,273,274,342,313,452,369"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="594,296,817,323"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="508,369,593,332,619,324,621,330,595,337,510,374"/>
+<area shape="rect" id="Node000006" href="$dd/d18/class_c_osprey.html#aa698c252f80a33605c2b1c6b291fc8a3" title="Manages the flight path of the Osprey." alt="" coords="649,347,762,373"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="547,375,634,365,634,371,547,381"/>
+<area shape="rect" id="Node000013" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="1355,421,1507,448"/>
+<area shape="poly" id="edge26_Node000004_Node000013" title=" " alt="" coords="547,387,696,404,768,417,818,434,834,447,843,461,851,474,866,484,898,496,927,502,977,502,1029,493,1096,484,1228,469,1346,449,1347,454,1229,474,1096,489,1030,498,978,508,926,508,897,501,863,489,847,477,838,464,830,450,815,438,766,422,695,409,546,393"/>
+<area shape="rect" id="Node000019" href="$d8/d3c/util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="663,448,748,475"/>
+<area shape="poly" id="edge24_Node000004_Node000019" title=" " alt="" coords="517,397,595,427,649,444,647,449,593,432,515,402"/>
+<area shape="rect" id="Node000020" href="$dd/d18/class_c_osprey.html#a83514f2ffbe6ba85cb2f9b874dabe7c8" title="Checks if any grunts are dead." alt="" coords="639,499,772,525"/>
+<area shape="poly" id="edge25_Node000004_Node000020" title=" " alt="" coords="496,397,537,441,565,465,596,484,625,496,623,501,593,489,562,469,533,445,492,401"/>
+<area shape="rect" id="Node000021" href="$dd/d18/class_c_osprey.html#a698c892941a24f882ab0923db155cc40" title="Shows damage effects for the Osprey." alt="" coords="625,549,786,576"/>
+<area shape="poly" id="edge27_Node000004_Node000021" title=" " alt="" coords="491,398,506,427,529,465,559,503,596,535,612,544,610,549,593,540,555,507,524,468,501,430,487,400"/>
+<area shape="rect" id="Node000023" href="$db/dc1/class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="605,600,806,643"/>
+<area shape="poly" id="edge29_Node000004_Node000023" title=" " alt="" coords="489,398,501,436,522,486,554,540,574,565,596,586,601,589,597,594,593,590,570,568,550,543,518,489,496,437,484,400"/>
+<area shape="rect" id="Node000024" href="$dd/d18/class_c_osprey.html#a55901934daee4ae792a68a2cf71651f5" title="Updates the goal entity for the Osprey." alt="" coords="631,144,780,171"/>
+<area shape="poly" id="edge30_Node000004_Node000024" title=" " alt="" coords="495,370,678,180,682,184,498,373"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="761,354,790,347,815,333,826,321,832,309,837,282,843,256,850,243,863,231,910,204,954,189,994,183,1034,184,1119,197,1169,203,1224,205,1432,205,1514,213,1594,231,1665,255,1719,277,1717,282,1663,260,1593,237,1513,218,1432,211,1224,211,1168,208,1119,202,1034,189,995,188,955,194,913,209,866,235,854,246,848,258,842,283,837,310,830,324,818,337,792,352,763,360"/>
+<area shape="rect" id="Node000007" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="911,347,1050,373"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="762,357,896,357,896,363,762,363"/>
+<area shape="rect" id="Node000008" href="$db/dc1/class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="865,397,1096,424"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="762,368,890,391,889,397,761,373"/>
+<area shape="rect" id="Node000009" href="$dc/d44/dlls_2util_8cpp.html#aeaab76538c4c0af63d171a342d50a5f2" title="Finds an entity by its classname." alt="" coords="883,448,1078,475"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="763,368,791,377,818,390,833,401,843,413,852,424,866,434,880,440,878,445,863,438,848,427,838,416,829,405,815,394,789,382,761,373"/>
+<area shape="poly" id="edge20_Node000006_Node000015" title=" " alt="" coords="761,357,790,349,815,333,836,302,844,272,843,240,838,208,833,176,832,144,841,111,863,79,887,63,890,68,867,83,845,114,837,144,838,176,843,207,848,240,849,272,841,305,819,337,793,354,763,362"/>
+<area shape="rect" id="Node000017" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="926,245,1035,272"/>
+<area shape="poly" id="edge22_Node000006_Node000017" title=" " alt="" coords="762,351,789,344,815,332,830,321,838,308,848,294,863,282,910,264,912,269,866,286,852,298,843,311,834,324,818,337,791,349,763,356"/>
+<area shape="rect" id="Node000018" href="$dc/d44/dlls_2util_8cpp.html#a8aee351b0b0671fb43cff3ba9f88bb4f" title="Calculates a spline fraction for smooth transitions." alt="" coords="912,296,1049,323"/>
+<area shape="poly" id="edge23_Node000006_Node000018" title=" " alt="" coords="761,347,896,322,897,327,762,352"/>
+<area shape="rect" id="Node000010" href="$dc/d44/dlls_2util_8cpp.html#abc74352378cda725cd25c82ff7095778" title="Finds an entity by a specific string value." alt="" coords="1144,396,1307,423"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1046,445,1144,424,1145,429,1047,450"/>
+<area shape="rect" id="Node000011" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1555,320,1685,347"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1307,393,1506,356,1544,348,1545,353,1507,361,1308,398"/>
+<area shape="rect" id="Node000012" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="1395,320,1467,347"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="1263,393,1380,349,1382,354,1265,398"/>
+<area shape="poly" id="edge17_Node000010_Node000013" title=" " alt="" coords="1308,417,1340,421,1340,426,1307,422"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="1670,317,1717,304,1719,309,1672,322"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="1467,331,1539,331,1539,336,1467,336"/>
+<area shape="poly" id="edge16_Node000012_Node000012" title=" " alt="" coords="1399,321,1393,311,1397,302,1410,295,1431,293,1454,296,1466,302,1463,307,1452,301,1431,299,1411,301,1401,305,1398,311,1403,318"/>
+<area shape="poly" id="edge18_Node000013_Node000002" title=" " alt="" coords="1507,441,1550,442,1596,437,1642,427,1684,407,1704,390,1721,368,1743,323,1748,325,1725,371,1708,393,1686,412,1643,432,1597,443,1550,447,1507,447"/>
+<area shape="rect" id="Node000014" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="1565,371,1675,397"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="1483,418,1552,399,1554,404,1484,423"/>
+<area shape="rect" id="Node000016" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="1155,43,1297,69"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="1058,53,1139,53,1139,59,1058,59"/>
+<area shape="rect" id="Node000022" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="913,549,1048,576"/>
+<area shape="poly" id="edge28_Node000021_Node000022" title=" " alt="" coords="786,560,898,560,898,565,786,565"/>
+<area shape="poly" id="edge35_Node000024_Node000015" title=" " alt="" coords="772,141,815,123,829,112,838,101,848,90,863,79,887,69,889,74,866,84,852,94,843,105,833,116,818,128,774,146"/>
+<area shape="rect" id="Node000025" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="950,144,1011,171"/>
+<area shape="poly" id="edge31_Node000024_Node000025" title=" " alt="" coords="780,155,935,155,935,160,780,160"/>
+<area shape="rect" id="Node000027" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="927,93,1034,120"/>
+<area shape="poly" id="edge33_Node000024_Node000027" title=" " alt="" coords="780,141,911,117,912,122,781,146"/>
+<area shape="rect" id="Node000026" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="1204,119,1247,145"/>
+<area shape="poly" id="edge32_Node000025_Node000026" title=" " alt="" coords="1011,152,1188,133,1189,138,1011,157"/>
+<area shape="poly" id="edge34_Node000027_Node000026" title=" " alt="" coords="1034,109,1189,126,1188,131,1033,115"/>
+</map>

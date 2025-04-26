@@ -1,0 +1,16 @@
+<map id="DecalGunshot" name="DecalGunshot">
+<area shape="rect" id="Node000001" title="Applies a gunshot decal to a surface." alt="" coords="824,31,927,57"/>
+<area shape="rect" id="Node000002" href="$d5/da5/class_c_i_slave.html#aedb32a778cb8a00a8eaa2619e7e256c0" title="Creates a beam from the CISlave&#39;s arm to nearby geometry." alt="" coords="645,5,776,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="808,36,776,31,777,26,808,31"/>
+<area shape="rect" id="Node000004" href="$d5/d05/class_c_crowbar.html#a1f5f173fa4655c01ef1fcd1e174a99a0" title="Plays the hit sound when the crowbar makes contact." alt="" coords="647,56,774,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="808,57,774,62,774,57,808,52"/>
+<area shape="rect" id="Node000003" href="$d5/da5/class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="423,5,597,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="630,21,598,21,598,16,630,16"/>
+<area shape="rect" id="Node000005" href="$d5/d05/class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="450,56,570,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="632,72,571,72,571,67,632,67"/>
+<area shape="rect" id="Node000006" href="$d5/d05/class_c_crowbar.html#a75fe911c0db1c8068051588cbfa2c6e9" title="Handles the primary attack action of the crowbar." alt="" coords="5,56,174,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="434,72,174,72,174,67,434,67"/>
+<area shape="rect" id="Node000007" href="$d5/d05/class_c_crowbar.html#ae3b7f4f2780a8f6c7ed0709d2bc0deb9" title="Handles the second swing of the crowbar." alt="" coords="222,81,375,108"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="435,81,376,88,375,83,434,76"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="206,86,174,82,174,77,207,81"/>
+</map>

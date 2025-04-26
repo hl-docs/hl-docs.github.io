@@ -1,0 +1,11 @@
+<map id="PM_UnDuck" name="PM_UnDuck">
+<area shape="rect" id="Node000001" title="Tries to unduck a player by moving them upward until they are no longer solid." alt="" coords="5,31,100,57"/>
+<area shape="rect" id="Node000002" href="$df/d58/pm__shared_8c.html#a529bb219e91540395d64964b9aa7af1b" title="Determines the player&#39;s current position state." alt="" coords="148,31,305,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,41,132,41,132,47,100,47"/>
+<area shape="rect" id="Node000003" href="$df/d58/pm__shared_8c.html#ad3d80fe28098f161b65d150d565c0a11" title="Records when the player touches a surface." alt="" coords="353,5,487,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,31,337,27,338,32,306,36"/>
+<area shape="rect" id="Node000004" href="$df/d58/pm__shared_8c.html#ac6b4103ba2fba7a0b91359fa3f932d22" title="Analyzes the water state around the player." alt="" coords="360,56,480,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="306,52,345,57,345,62,305,57"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="535,56,615,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="481,67,520,67,520,72,481,72"/>
+</map>

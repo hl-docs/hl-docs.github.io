@@ -1,0 +1,9 @@
+<map id="CTalkMonster::SetActivity" name="CTalkMonster::SetActivity">
+<area shape="rect" id="Node000001" title="Sets the activity for the talk monster." alt="" coords="5,56,177,83"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#aa01ae4caaeec69e9f4afabeecfdc9faa" title="Checks if the talk monster is currently talking." alt="" coords="250,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,53,248,33,249,38,158,58"/>
+<area shape="rect" id="Node000003" href="$db/dc1/class_c_base_animating.html#a40a4e881deccdeced4714dde7868dc15" title="Looks up the activity index for a given activity." alt="" coords="225,56,435,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,67,209,67,209,72,177,72"/>
+<area shape="rect" id="Node000004" href="$d4/d7a/class_c_base_monster.html#aff2100a3cb50d33a58240b540ff041b3" title="Sets the monster&#39;s activity to a new activity." alt="" coords="241,107,419,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,81,249,100,248,106,157,86"/>
+</map>

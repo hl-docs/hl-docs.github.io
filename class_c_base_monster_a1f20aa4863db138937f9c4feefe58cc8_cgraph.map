@@ -1,7 +1,0 @@
-<map id="CBaseMonster::FlYawDiff" name="CBaseMonster::FlYawDiff">
-<area shape="rect" id="Node000001" title="Calculates the difference in yaw between the monster&#39;s current and ideal yaw." alt="" coords="5,31,175,57"/>
-<area shape="rect" id="Node000002" href="$util_8cpp.html#a0b94cd4213f9d3edab1aeea0d437e399" title="Calculates the difference between two angles." alt="" coords="226,5,332,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,30,210,25,211,30,176,35"/>
-<area shape="rect" id="Node000003" href="$util_8cpp.html#a9c3ac10a492f4e794c77e49a05af0d03" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="223,56,335,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,53,208,57,207,62,175,58"/>
-</map>

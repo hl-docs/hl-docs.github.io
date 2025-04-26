@@ -1,0 +1,5 @@
+<map id="CRestore::ReadEntVars" name="CRestore::ReadEntVars">
+<area shape="rect" id="Node000001" title="Reads entity variables from the save data." alt="" coords="171,5,331,32"/>
+<area shape="rect" id="Node000002" href="$d4/d0e/cbase_8cpp.html#a28d62ac92a1ba4cfb587a60c412d6926" title="Restores the state of an entity from saved data." alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,21,123,21,123,16,155,16"/>
+</map>

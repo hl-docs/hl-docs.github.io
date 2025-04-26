@@ -1,5 +1,0 @@
-<map id="CBaseMonster::CanPlaySequence" name="CBaseMonster::CanPlaySequence">
-<area shape="rect" id="Node000001" title="Determines whether the monster can play a scripted sequence." alt="" coords="5,5,228,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a26789222385186bbdcf23cea1d8396f2" title=" " alt="" coords="276,5,428,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,16,260,16,260,21,228,21"/>
-</map>

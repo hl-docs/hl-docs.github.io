@@ -1,7 +1,0 @@
-<map id="CSatchelCharge::BounceSound" name="CSatchelCharge::BounceSound">
-<area shape="rect" id="Node000001" title="Plays a bounce sound when the satchel charge bounces." alt="" coords="460,5,664,32"/>
-<area shape="rect" id="Node000002" href="$class_c_satchel_charge.html#a724ead36956ba1907e71a656aba35687" title="Handles the sliding behavior of the satchel charge." alt="" coords="216,5,412,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,21,412,21,412,16,444,16"/>
-<area shape="rect" id="Node000003" href="$class_c_satchel_charge.html#a6f1633725613bd8ec801217668bf2ef2" title="Spawns the satchel charge entity." alt="" coords="5,5,168,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,21,168,21,168,16,200,16"/>
-</map>

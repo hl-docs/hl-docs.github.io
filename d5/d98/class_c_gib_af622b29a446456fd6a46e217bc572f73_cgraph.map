@@ -1,0 +1,63 @@
+<map id="CGib::SpawnRandomGibs" name="CGib::SpawnRandomGibs">
+<area shape="rect" id="Node000001" title="Spawns random gibs from a victim." alt="" coords="5,339,178,365"/>
+<area shape="rect" id="Node000002" href="$d6/db6/cbase_8h.html#afdb9a60de9742917308f705391b22517" title=" " alt="" coords="1168,5,1260,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,337,111,297,137,240,175,179,198,150,224,125,287,73,342,40,372,29,404,21,484,16,721,16,1152,16,1152,21,721,21,484,21,405,27,373,34,345,44,290,77,227,129,202,154,180,182,142,243,116,299,100,339"/>
+<area shape="rect" id="Node000006" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="1139,56,1290,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="100,337,150,271,189,227,236,181,290,137,350,101,415,76,449,69,484,67,721,67,1123,67,1123,72,721,72,484,72,450,74,417,81,353,106,293,142,240,185,193,230,154,274,104,340"/>
+<area shape="rect" id="Node000007" href="$d5/d98/class_c_gib.html#a112ff23abe26c0878145c718147d88f6" title="Limits the velocity of a gib." alt="" coords="226,440,359,467"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="120,363,227,419,250,430,248,435,224,424,117,368"/>
+<area shape="rect" id="Node000008" href="$d5/d98/class_c_gib.html#ac315188a2ad0ccca89b963a05d0e0190" title="Spawns a gib with a specified model." alt="" coords="244,339,341,365"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="178,349,229,349,229,355,178,355"/>
+<area shape="rect" id="Node000022" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="436,499,536,525"/>
+<area shape="poly" id="edge33_Node000001_Node000022" title=" " alt="" coords="159,363,272,392,324,409,360,426,377,441,385,456,394,470,409,485,422,492,420,497,405,489,390,474,381,458,372,444,358,430,322,414,271,397,157,368"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1405,107,1452,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1262,24,1307,42,1322,55,1332,68,1341,80,1355,92,1392,109,1390,114,1352,97,1337,84,1327,71,1318,58,1304,46,1260,29"/>
+<area shape="rect" id="Node000004" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="1374,56,1483,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1262,27,1359,50,1358,55,1260,32"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="1400,5,1457,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1261,16,1384,16,1384,21,1261,21"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="1275,81,1391,108,1389,114,1273,86"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="1290,67,1359,67,1359,72,1290,72"/>
+<area shape="poly" id="edge25_Node000008_Node000003" title=" " alt="" coords="305,336,364,281,409,245,461,208,519,174,583,145,649,125,718,117,976,117,1390,117,1390,123,976,123,718,123,650,130,585,150,522,178,464,213,412,249,368,285,309,340"/>
+<area shape="rect" id="Node000009" href="$d5/d98/class_c_gib.html#aa0c32e00a0f006a8541eae61554d68aa" title="Handles the touch event for a bouncing gib." alt="" coords="407,339,564,365"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="341,349,391,349,391,355,341,355"/>
+<area shape="poly" id="edge26_Node000008_Node000022" title=" " alt="" coords="334,364,361,382,379,409,385,436,391,460,409,485,423,494,420,498,405,489,386,463,380,437,374,412,357,386,331,368"/>
+<area shape="rect" id="Node000023" href="$d5/d98/class_c_gib.html#aa8503812081337c144ea764d13ef6cb7" title="Waits for a gib to land before emitting a scent." alt="" coords="421,448,550,475"/>
+<area shape="poly" id="edge27_Node000008_Node000023" title=" " alt="" coords="324,363,360,382,452,437,449,442,358,386,322,368"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="565,346,997,324,1204,309,1272,302,1304,295,1344,264,1375,224,1399,182,1415,147,1420,149,1404,185,1380,227,1347,267,1306,300,1273,307,1204,314,998,329,565,351"/>
+<area shape="rect" id="Node000010" href="$d3/d9c/class_c_breakable.html#abc0601c8e7512f66d879d625401daefd" title="Plays a random sound associated with a specific material." alt="" coords="630,360,809,403"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="565,359,614,365,614,371,564,364"/>
+<area shape="rect" id="Node000015" href="$dc/d44/dlls_2util_8cpp.html#a9c52d234cf02ae5c4ca04c90527b2c6c" title="Applies a blood decal at the location of a trace hit." alt="" coords="643,259,796,285"/>
+<area shape="poly" id="edge17_Node000009_Node000015" title=" " alt="" coords="520,336,611,301,654,288,656,293,613,307,522,341"/>
+<area shape="rect" id="Node000021" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="664,427,775,453"/>
+<area shape="poly" id="edge24_Node000009_Node000021" title=" " alt="" coords="512,364,558,388,613,412,650,423,649,429,611,417,556,393,510,368"/>
+<area shape="rect" id="Node000011" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="923,364,1027,391"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="810,377,907,376,907,381,810,383"/>
+<area shape="rect" id="Node000014" href="$d3/d9c/class_c_breakable.html#a6b83f580bf8b8084907dc2e3aba1a9b9" title="Retrieves the sound list for a specific material type." alt="" coords="875,415,1075,441"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="810,395,883,409,883,414,809,400"/>
+<area shape="rect" id="Node000012" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="1145,364,1283,391"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1028,375,1129,375,1129,380,1028,380"/>
+<area shape="rect" id="Node000013" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="1353,364,1504,391"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="1284,375,1338,375,1338,380,1284,380"/>
+<area shape="rect" id="Node000016" href="$dc/d44/dlls_2util_8cpp.html#a18786675baabf4a1e8605b2959d06e8a" title="Applies a decal at the location of a trace hit." alt="" coords="915,208,1035,235"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="790,255,899,233,900,239,791,261"/>
+<area shape="rect" id="Node000020" href="$dc/d44/dlls_2util_8cpp.html#a7e962acd5dc76628b0a5aabf9c0fdfe2" title="Determines if blood should be shown based on the color." alt="" coords="895,259,1055,285"/>
+<area shape="poly" id="edge23_Node000015_Node000020" title=" " alt="" coords="796,269,880,269,880,275,796,275"/>
+<area shape="poly" id="edge20_Node000016_Node000006" title=" " alt="" coords="996,205,1177,89,1180,94,999,210"/>
+<area shape="rect" id="Node000017" href="$d8/d3c/util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="1173,157,1256,184"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="1034,206,1157,180,1158,185,1035,211"/>
+<area shape="rect" id="Node000018" href="$d5/de5/class_c_base_entity.html#a17c4661ca7f9f14b07f28fb105f62599" title=" " alt="" coords="1127,208,1301,235"/>
+<area shape="poly" id="edge21_Node000016_Node000018" title=" " alt="" coords="1035,219,1111,219,1111,224,1035,224"/>
+<area shape="rect" id="Node000019" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="1147,259,1281,285"/>
+<area shape="poly" id="edge22_Node000016_Node000019" title=" " alt="" coords="1035,231,1133,252,1132,257,1034,236"/>
+<area shape="rect" id="Node000024" href="$d7/d97/class_c_sound_ent.html#af146a07b8a0c4e99cd3548ccf68b4908" title="Inserts a sound into the sound list." alt="" coords="637,477,802,504"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="551,467,622,476,621,481,550,472"/>
+<area shape="rect" id="Node000025" href="$d5/de5/class_c_base_entity.html#a39552fc60de295b550b0061ba527c832" title="Starts the fade&#45;out process for an entity." alt="" coords="612,528,827,555"/>
+<area shape="poly" id="edge29_Node000023_Node000025" title=" " alt="" coords="536,473,566,484,590,499,613,514,633,521,631,526,611,518,587,504,563,489,535,478"/>
+<area shape="rect" id="Node000028" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="669,579,770,605"/>
+<area shape="poly" id="edge32_Node000023_Node000028" title=" " alt="" coords="546,473,566,485,583,505,590,526,598,546,614,565,633,575,655,583,653,588,631,580,611,569,593,549,585,528,578,508,563,489,544,478"/>
+<area shape="rect" id="Node000026" href="$d5/de5/class_c_base_entity.html#aa87861f918ff70eafd02569b2b3b49ed" title="Continues the fade&#45;out process for an entity." alt="" coords="882,528,1068,555"/>
+<area shape="poly" id="edge30_Node000025_Node000026" title=" " alt="" coords="827,539,866,539,866,544,827,544"/>
+<area shape="rect" id="Node000027" href="$d5/de5/class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="1123,528,1305,555"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="1068,539,1107,539,1107,544,1068,544"/>
+</map>

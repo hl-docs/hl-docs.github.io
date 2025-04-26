@@ -1,0 +1,5 @@
+<map id="WeaponsResource::LoadWeaponSprites" name="WeaponsResource::LoadWeaponSprites">
+<area shape="rect" id="Node000001" title="Loads the sprites for a specific weapon." alt="" coords="5,5,221,48"/>
+<area shape="rect" id="Node000002" href="$dc/d8e/ammo_8cpp.html#a4b0e1136c1f1d1d5801e93d4585889ab" title="Searches for a sprite by name and resolution in a sprite list." alt="" coords="269,13,366,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,24,253,24,253,29,221,29"/>
+</map>

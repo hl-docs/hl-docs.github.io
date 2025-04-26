@@ -1,0 +1,5 @@
+<map id="CHudHealth::DrawDamage" name="CHudHealth::DrawDamage">
+<area shape="rect" id="Node000001" title="Draws individual damage icons on the screen." alt="" coords="181,5,356,32"/>
+<area shape="rect" id="Node000002" href="$d1/ddd/class_c_hud_health.html#a1b09edb6bb6bdee6e8d46e132a02fd25" title="Draws the health HUD element each frame." alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,21,133,21,133,16,165,16"/>
+</map>

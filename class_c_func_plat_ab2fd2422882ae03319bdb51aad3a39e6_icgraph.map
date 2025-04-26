@@ -1,5 +1,0 @@
-<map id="CFuncPlat::Setup" name="CFuncPlat::Setup">
-<area shape="rect" id="Node000001" title="Sets up the platform&#39;s initial properties." alt="" coords="236,5,360,32"/>
-<area shape="rect" id="Node000002" href="$class_c_func_track_change.html#a0ec26d33c7bbf3e9659cd974808a2f01" title="Spawns the track change entity and initializes its properties." alt="" coords="5,5,188,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,21,188,21,188,16,220,16"/>
-</map>

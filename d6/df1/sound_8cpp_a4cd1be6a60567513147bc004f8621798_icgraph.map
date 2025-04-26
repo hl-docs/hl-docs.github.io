@@ -1,0 +1,7 @@
+<map id="EMIT_SOUND_SUIT" name="EMIT_SOUND_SUIT">
+<area shape="rect" id="Node000001" title="Plays a specific sentence over the HEV suit speaker." alt="" coords="229,31,368,57"/>
+<area shape="rect" id="Node000002" href="$d1/d1e/class_c_item_suit.html#a7f6c9581417bc99c02b45497ee6a7207" title="Handles the interaction when a player touches the suit item." alt="" coords="23,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,36,163,30,164,25,214,31"/>
+<area shape="rect" id="Node000003" href="$d7/d8c/class_c_item_long_jump.html#a2f4286e053d3ba83cc2e074f54e1fbad" title="Handles the interaction when a player touches the long jump item." alt="" coords="5,56,181,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,57,182,61,181,56,213,52"/>
+</map>

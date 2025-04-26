@@ -1,5 +1,0 @@
-<map id="ConsoleStringLen" name="ConsoleStringLen">
-<area shape="rect" id="Node000001" title="Retrieves the width of a string when drawn on the console." alt="" coords="5,5,129,32"/>
-<area shape="rect" id="Node000002" href="$cl__util_8h.html#a5e8ba5654127484dcafd8e56860b4fc6" title="Retrieves the width and height of a string in the console." alt="" coords="177,5,326,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,16,161,16,161,21,129,21"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CZombie::IgnoreConditions" name="CZombie::IgnoreConditions">
+<area shape="rect" id="Node000001" title="Determines which conditions the zombie should ignore." alt="" coords="5,5,182,32"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a635fc07c098f2a86386f3d0c8a0eafc0" title="Ignores certain conditions that would interrupt the monster&#39;s schedule." alt="" coords="230,5,441,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,16,214,16,214,21,182,21"/>
+</map>

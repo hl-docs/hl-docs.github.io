@@ -1,0 +1,5 @@
+<map id="CHud::DrawHudStringReverse" name="CHud::DrawHudStringReverse">
+<area shape="rect" id="Node000001" title="Draws a HUD string from right to left (right&#45;aligned)." alt="" coords="176,5,369,32"/>
+<area shape="rect" id="Node000002" href="$df/dd7/class_c_hud_menu.html#a49d054e6c71b81840c281c5a83d6659e" title="Draws the current HUD menu on screen." alt="" coords="5,5,128,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,21,128,21,128,16,160,16"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UTIL_SayText" name="UTIL_SayText">
+<area shape="rect" id="Node000001" title="Sends a text message to a specific entity." alt="" coords="206,47,308,73"/>
+<area shape="rect" id="Node000002" href="$d6/d16/class_c_half_life_teamplay.html#ac0fc8aaae964ae8985007b82acafe5ff" title="Handles changes to a player&#39;s user info." alt="" coords="5,5,158,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,50,158,44,159,39,191,45"/>
+<area shape="rect" id="Node000003" href="$d6/d16/class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="13,72,150,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,75,151,83,150,78,190,70"/>
+</map>

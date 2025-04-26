@@ -1,0 +1,17 @@
+<map id="UTIL_StringToVector" name="UTIL_StringToVector">
+<area shape="rect" id="Node000001" title="Converts a space&#45;separated string to a 3D vector." alt="" coords="902,56,1042,83"/>
+<area shape="rect" id="Node000002" href="$dc/d44/dlls_2util_8cpp.html#af72e744c172f92e7257ad3adfe84d08d" title="Handles key&#45;value pairs for entity variables." alt="" coords="710,5,826,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="900,54,824,35,825,30,901,49"/>
+<area shape="rect" id="Node000004" href="$da/d1d/class_c_func_rotating.html#aa0fe847f6d36ff0d830026e66daeaf88" title="Processes key&#45;value pairs for the func_rotating entity." alt="" coords="682,56,854,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="886,72,854,72,854,67,886,67"/>
+<area shape="rect" id="Node000005" href="$d1/d71/hud__spectator_8cpp.html#aebf6955cb89be522f680e640b17fd067" title="Finds an entity by class name in the map and retrieves its origin and angle." alt="" coords="694,107,842,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="901,90,825,109,824,103,900,84"/>
+<area shape="rect" id="Node000003" href="$d4/d0e/cbase_8cpp.html#a321c6f352ba98d0b444a860784a910fc" title="Dispatches key&#45;value pairs to an entity." alt="" coords="474,5,602,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="694,21,602,21,602,16,694,16"/>
+<area shape="rect" id="Node000006" href="$de/dd7/class_c_hud_spectator.html#a88fad793293fa01139cdf9d4a0c551b4" title="Sets the initial position for the spectator camera." alt="" coords="441,99,634,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="678,123,635,123,635,117,678,117"/>
+<area shape="rect" id="Node000007" href="$de/dd7/class_c_hud_spectator.html#a22649f2acf16f40c4a108dde1b5bc760" title="Resets the spectator HUD to a clean state." alt="" coords="242,107,393,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="426,123,393,123,393,117,426,117"/>
+<area shape="rect" id="Node000008" href="$de/dd7/class_c_hud_spectator.html#ad4ca0f1796f5dc68c9e23eadd341a033" title="Initializes all HUD data structures for the spectator." alt="" coords="5,107,194,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="226,123,194,123,194,117,226,117"/>
+</map>

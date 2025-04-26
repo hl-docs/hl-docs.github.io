@@ -1,0 +1,15 @@
+<map id="EjectBrass" name="EjectBrass">
+<area shape="rect" id="Node000001" title="Ejects a brass shell from a weapon." alt="" coords="409,107,494,133"/>
+<area shape="rect" id="Node000002" href="$d4/d7c/class_c_glock.html#a522286710931a6ab18933b60f455e4ff" title="Fires the Glock with specified parameters." alt="" coords="229,31,358,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,101,360,72,333,60,335,55,362,67,417,96"/>
+<area shape="rect" id="Node000005" href="$db/dec/class_c_h_assassin.html#acce8f25a29338a05e75905b78a4f9e42" title="Executes the shooting action of the assassin." alt="" coords="226,81,361,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="393,113,361,108,362,103,394,108"/>
+<area shape="rect" id="Node000006" href="$d3/de7/class_c_h_grunt.html#a5cd2b731910f209061770876d6254e2b" title="Handles the grunt&#39;s shooting behavior." alt="" coords="237,132,350,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="394,132,351,139,350,134,393,127"/>
+<area shape="rect" id="Node000007" href="$d3/de7/class_c_h_grunt.html#a9a69af6d32f43cce812e033f196c487b" title="Handles the grunt&#39;s shotgun behavior." alt="" coords="230,183,357,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="417,144,362,173,335,185,333,180,360,168,414,139"/>
+<area shape="rect" id="Node000003" href="$d4/d7c/class_c_glock.html#aafaaa550e8e11f3246dd532775c225a3" title="Handles the primary attack of the Glock." alt="" coords="14,5,169,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,37,169,31,170,26,214,31"/>
+<area shape="rect" id="Node000004" href="$d4/d7c/class_c_glock.html#ae9c7e4c8faef6ab96816690330ddfdc5" title="Handles the secondary attack of the Glock." alt="" coords="5,56,178,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="214,57,178,61,178,56,213,51"/>
+</map>

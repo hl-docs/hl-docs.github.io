@@ -1,5 +1,0 @@
-<map id="TeamFortressViewport::SlotInput" name="TeamFortressViewport::SlotInput">
-<area shape="rect" id="Node000001" title="Handles number key input for current menu, if any." alt="" coords="5,5,157,48"/>
-<area shape="rect" id="Node000002" href="$class_c_menu_panel.html#aa8725b4dde82d48410910d843dc025e4" title=" " alt="" coords="205,13,359,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,24,189,24,189,29,157,29"/>
-</map>

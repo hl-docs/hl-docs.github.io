@@ -1,0 +1,52 @@
+<map id="CSquadMonster::MySquadLeader" name="CSquadMonster::MySquadLeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="747,383,964,409"/>
+<area shape="rect" id="Node000002" href="$db/dc8/class_c_squad_monster.html#a60382d8ab644a49ab5f354ab70d18985" title="Checks if the specified enemy is valid." alt="" coords="235,148,435,175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="840,369,820,327,789,277,748,227,724,206,698,189,666,174,632,163,561,150,491,147,428,150,428,145,491,141,562,145,633,158,668,169,701,184,728,202,752,224,793,273,825,324,845,367"/>
+<area shape="rect" id="Node000003" href="$db/dc8/class_c_squad_monster.html#abfb04f274808596d6d79c7e68846527d" title="Handles the death of the squad monster." alt="" coords="258,535,412,561"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="793,417,384,537,383,532,791,412"/>
+<area shape="rect" id="Node000006" href="$db/dc8/class_c_squad_monster.html#a98c837906ad17c13ce0292888cc88a7e" title="Checks for the possibility of friendly fire." alt="" coords="493,31,699,57"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="847,368,831,306,803,225,784,183,760,142,731,104,698,71,679,60,682,56,701,67,735,101,764,139,788,181,808,223,837,304,852,367"/>
+<area shape="rect" id="Node000009" href="$db/dc8/class_c_squad_monster.html#ad6c623c1bb2d1212675fd7d26f8ac9df" title="Occupies a slot for the squad monster." alt="" coords="240,379,430,405"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="770,415,700,424,596,430,493,424,396,409,397,403,493,419,596,425,699,419,769,410"/>
+<area shape="rect" id="Node000012" href="$d3/de7/class_c_h_grunt.html#a22b9b46aa09a75b99c80b2fc378d3499" title="Runs before scheduling code is executed." alt="" coords="505,265,687,292"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="821,376,765,340,698,306,664,295,666,290,700,302,768,336,824,371"/>
+<area shape="rect" id="Node000013" href="$db/dc8/class_c_squad_monster.html#a36fc031da0c46411ce8268d14776d98b" title="Copies enemy information from the squad leader to the squad member." alt="" coords="502,199,691,241"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="831,373,774,314,738,283,698,256,675,244,677,240,701,251,741,279,778,310,835,369"/>
+<area shape="rect" id="Node000014" href="$db/dc8/class_c_squad_monster.html#a6ce6a089b23ad40eeca23cf75e00a6b6" title="Counts the number of members in the squad." alt="" coords="500,383,693,409"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="732,399,693,399,693,393,732,393"/>
+<area shape="rect" id="Node000015" href="$db/dc8/class_c_squad_monster.html#a55854375a3cbddbb3b2dc00577392dd6" title="Checks if all squad members are fighting the same enemy." alt="" coords="496,316,696,359"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="778,381,693,362,694,357,779,376"/>
+<area shape="rect" id="Node000016" href="$db/dc8/class_c_squad_monster.html#ad3f3d4a9e52985a9c64a9b0246d6ae0b" title="Makes all squad members angry at the same enemy." alt="" coords="501,636,692,679"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="845,424,824,468,793,522,751,578,701,626,682,638,679,633,698,622,747,575,788,520,819,466,841,422"/>
+<area shape="rect" id="Node000018" href="$db/dc8/class_c_squad_monster.html#a3b7eb1984e002803ddee926b7a01c065" title="Checks if a squad member is within a specified range." alt="" coords="493,703,699,745"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="850,425,832,481,802,553,759,628,732,662,701,693,684,704,681,700,698,689,728,659,755,625,797,550,827,479,845,423"/>
+<area shape="rect" id="Node000020" href="$db/dc8/class_c_squad_monster.html#a5111d15a8b8b471dd7a72d74cc1b0d27" title="Pastes enemy information from the squad leader to the squad members." alt="" coords="500,81,693,124"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="842,369,821,321,790,261,749,199,725,170,698,145,669,127,672,122,701,141,728,167,753,196,795,259,826,319,847,367"/>
+<area shape="rect" id="Node000021" href="$db/dc8/class_c_squad_monster.html#a00bda933ae4bf40f93d2c9d38789c5a7" title="Removes a squad member from the squad." alt="" coords="494,535,699,561"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="831,422,774,470,738,496,701,518,655,536,653,532,698,514,735,492,770,466,827,418"/>
+<area shape="rect" id="Node000022" href="$db/dc8/class_c_squad_monster.html#a20d0103aeb9b33db9ba58b0e9d97f317" title="Vacates the slot occupied by the squad monster." alt="" coords="503,585,689,612"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="841,424,818,459,786,500,746,541,701,576,676,587,674,582,698,571,743,537,782,496,813,455,836,421"/>
+<area shape="rect" id="Node000004" href="$de/d41/class_c_controller.html#adce6c769c1ef72326fcb43808a06da7c" title="Handles the death of the controller monster." alt="" coords="28,509,154,536"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,541,154,532,154,526,242,536"/>
+<area shape="rect" id="Node000005" href="$d5/da5/class_c_i_slave.html#ae446ca8401c03125b6e9dbced39bae59" title="Handles the death of the CISlave entity." alt="" coords="39,560,143,587"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="242,560,144,571,143,565,242,555"/>
+<area shape="rect" id="Node000007" href="$d7/db7/class_c_a_grunt.html#af4314f91038ec3fa59b8202e8de3a2ca" title="Checks if the Alien Grunt can perform a ranged attack." alt="" coords="236,5,434,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="477,35,434,31,435,26,478,30"/>
+<area shape="rect" id="Node000008" href="$d3/de7/class_c_h_grunt.html#a489abde51cc63bb8147fa6a0e62284e6" title="Starts a task for the grunt." alt="" coords="267,56,403,83"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="478,58,403,65,403,60,477,53"/>
+<area shape="rect" id="Node000010" href="$d7/db7/class_c_a_grunt.html#a480baa02288a0031f727bf2f94a996dd" title="Retrieves the current schedule for the Alien Grunt." alt="" coords="14,353,168,380"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="224,383,168,377,169,372,225,378"/>
+<area shape="rect" id="Node000011" href="$de/da2/class_c_houndeye.html#a30498cea7548a29ba46dc6659906aee4" title="Retrieves the current schedule for the Houndeye." alt="" coords="5,404,177,431"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="224,406,177,411,177,406,224,401"/>
+<area shape="poly" id="edge13_Node000013_Node000002" title=" " alt="" coords="486,198,397,178,398,173,487,193"/>
+<area shape="poly" id="edge16_Node000015_Node000009" title=" " alt="" coords="481,364,403,381,402,375,480,359"/>
+<area shape="rect" id="Node000017" href="$db/dc8/class_c_squad_monster.html#a35efd3259d25ae761e62bd81b7c0d2ab" title="Gets the ideal state for the squad monster." alt="" coords="234,644,436,671"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="485,660,436,660,436,655,485,655"/>
+<area shape="rect" id="Node000019" href="$db/dc8/class_c_squad_monster.html#a838ec44c0d87b7bc1d83602d51482d23" title="Validates whether the chosen cover location is suitable." alt="" coords="246,703,424,745"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="478,727,424,727,424,721,478,721"/>
+<area shape="poly" id="edge22_Node000020_Node000002" title=" " alt="" coords="485,130,398,150,397,145,483,125"/>
+<area shape="poly" id="edge24_Node000021_Node000003" title=" " alt="" coords="478,551,412,551,412,545,478,545"/>
+<area shape="poly" id="edge26_Node000022_Node000003" title=" " alt="" coords="508,584,407,565,408,559,509,579"/>
+<area shape="rect" id="Node000023" href="$db/dc8/class_c_squad_monster.html#ae3094c6553018e9318696ce30402a9d5" title="Changes the schedule of the squad monster." alt="" coords="225,585,445,612"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="487,601,446,601,446,596,487,596"/>
+</map>

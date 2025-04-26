@@ -1,0 +1,5 @@
+<map id="CSqueakGrenade::HuntThink" name="CSqueakGrenade::HuntThink">
+<area shape="rect" id="Node000001" title="Handles the thinking behavior of the squeak grenade." alt="" coords="224,5,413,32"/>
+<area shape="rect" id="Node000002" href="$d1/de8/class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="5,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,21,176,21,176,16,208,16"/>
+</map>

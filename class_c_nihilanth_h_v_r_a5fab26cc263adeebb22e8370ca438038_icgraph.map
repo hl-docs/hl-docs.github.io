@@ -1,7 +1,0 @@
-<map id="CNihilanthHVR::TeleportThink" name="CNihilanthHVR::TeleportThink">
-<area shape="rect" id="Node000001" title="Handles the teleport think behavior for the Nihilanth Hover entity." alt="" coords="470,5,662,32"/>
-<area shape="rect" id="Node000002" href="$class_c_nihilanth_h_v_r.html#aed4a50ddacf698f481b8638acba76786" title="Initializes the teleport behavior for the Nihilanth Hover entity." alt="" coords="244,5,422,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,21,423,21,423,16,454,16"/>
-<area shape="rect" id="Node000003" href="$class_c_nihilanth.html#a4ed6459161906e00ac47759243266ca5" title="Handles animation events for the Nihilanth." alt="" coords="5,5,196,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,21,196,21,196,16,228,16"/>
-</map>

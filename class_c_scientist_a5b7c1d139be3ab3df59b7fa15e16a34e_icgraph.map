@@ -1,7 +1,0 @@
-<map id="CScientist::Scream" name="CScientist::Scream">
-<area shape="rect" id="Node000001" title="Makes the scientist scream." alt="" coords="199,31,333,57"/>
-<area shape="rect" id="Node000002" href="$class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="8,5,148,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,36,148,31,149,25,183,30"/>
-<area shape="rect" id="Node000003" href="$class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="5,56,151,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,58,151,62,150,57,183,52"/>
-</map>

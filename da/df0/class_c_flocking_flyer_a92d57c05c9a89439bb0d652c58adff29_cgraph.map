@@ -1,0 +1,83 @@
+<map id="CFlockingFlyer::Spawn" name="CFlockingFlyer::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the individual boid." alt="" coords="5,228,161,255"/>
+<area shape="rect" id="Node000002" href="$da/df0/class_c_flocking_flyer.html#a08b5e239075d9e8144eae8963b89268c" title="Handles the idle behavior of the boid." alt="" coords="244,228,411,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,239,228,239,228,244,161,244"/>
+<area shape="rect" id="Node000030" href="$da/df0/class_c_flocking_flyer.html#a7c998f932148a1358cd38cce3e327e7c" title="Preloads the boid&#39;s resources." alt="" coords="242,347,413,373"/>
+<area shape="poly" id="edge44_Node000001_Node000030" title=" " alt="" coords="114,253,285,337,283,342,111,258"/>
+<area shape="rect" id="Node000032" href="$da/df0/class_c_flocking_flyer.html#ad46fbcbf08f05388d5d163ee7e26e370" title="Initializes common properties for the boid." alt="" coords="209,63,446,89"/>
+<area shape="poly" id="edge46_Node000001_Node000032" title=" " alt="" coords="103,225,292,96,295,101,106,230"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="756,177,887,204"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,234,654,213,741,201,741,207,655,219,412,239"/>
+<area shape="rect" id="Node000005" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="539,177,610,204"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="395,225,523,198,524,204,397,230"/>
+<area shape="rect" id="Node000006" href="$da/df0/class_c_flocking_flyer.html#a2164b9da3b19156dadc544d0d9f27dda" title="Starts the flocking behavior for the boid." alt="" coords="502,325,646,352"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="365,253,525,317,523,322,363,258"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1556,93,1603,120"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="863,174,1024,127,1127,103,1233,85,1288,80,1332,79,1432,85,1541,98,1541,103,1431,91,1332,85,1289,85,1233,91,1128,108,1025,132,865,179"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="610,188,741,188,741,193,610,193"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="536,181,526,170,529,160,546,153,574,151,610,155,620,160,623,166,618,169,616,164,608,160,574,156,547,158,533,163,531,169,540,177"/>
+<area shape="rect" id="Node000007" href="$da/df0/class_c_flocking_flyer.html#aed0e3773555b335ea945a14593d87c39" title="Advances the boid&#39;s frame based on its speed." alt="" coords="1237,600,1428,643"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="641,350,656,362,674,386,682,410,684,434,683,457,683,504,690,527,704,552,736,588,767,616,797,637,828,652,899,674,989,695,1044,706,1087,710,1130,706,1184,695,1238,675,1285,649,1288,654,1240,680,1186,700,1131,712,1087,715,1043,711,988,700,897,679,826,657,794,641,764,620,733,592,700,555,685,529,678,504,678,457,679,434,677,411,669,389,652,366,638,355"/>
+<area shape="rect" id="Node000009" href="$da/df0/class_c_flocking_flyer.html#a7a0dbdc8429f9c73445821529c81986b" title="Handles the follower boid&#39;s behavior." alt="" coords="723,499,920,541"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="636,350,656,362,673,381,682,399,690,418,704,438,735,465,768,488,765,492,732,469,700,442,685,421,677,401,669,384,653,366,633,355"/>
+<area shape="rect" id="Node000011" href="$da/df0/class_c_flocking_flyer.html#a3e8b1f7f43c2fc435271596ccda9facf" title="Handles the leader boid&#39;s behavior." alt="" coords="993,339,1181,381"/>
+<area shape="poly" id="edge40_Node000006_Node000011" title=" " alt="" coords="647,339,978,353,978,358,647,344"/>
+<area shape="rect" id="Node000026" href="$da/df0/class_c_flocking_flyer.html#a7835e3d6f335af3faeceb450977452b5" title=" " alt="" coords="1004,268,1170,295"/>
+<area shape="poly" id="edge41_Node000006_Node000026" title=" " alt="" coords="601,322,647,302,702,285,776,274,852,269,989,271,989,276,852,275,777,280,703,291,649,307,603,327"/>
+<area shape="rect" id="Node000028" href="$db/dc1/class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="702,401,941,428"/>
+<area shape="poly" id="edge42_Node000006_Node000028" title=" " alt="" coords="621,350,655,361,703,380,750,394,749,399,701,385,653,367,619,355"/>
+<area shape="rect" id="Node000029" href="$d4/d7a/class_c_base_monster.html#aff2100a3cb50d33a58240b540ff041b3" title="Sets the monster&#39;s activity to a new activity." alt="" coords="733,300,910,327"/>
+<area shape="poly" id="edge43_Node000006_Node000029" title=" " alt="" coords="647,329,717,321,718,327,647,334"/>
+<area shape="rect" id="Node000008" href="$db/dc1/class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="1479,600,1680,643"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="1428,619,1463,619,1463,624,1428,624"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="921,537,1222,597,1221,602,920,542"/>
+<area shape="rect" id="Node000010" href="$d4/d7a/class_c_base_monster.html#aa2e628d7a882311c961e37b3d5d2fd4c" title="Checks if an entity is within the monster&#39;s view cone." alt="" coords="991,659,1183,685"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="847,540,908,592,948,620,990,644,1005,651,1003,656,987,649,945,625,905,596,843,544"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="857,496,1036,387,1038,392,860,500"/>
+<area shape="rect" id="Node000015" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="1744,473,1850,500"/>
+<area shape="poly" id="edge36_Node000009_Node000015" title=" " alt="" coords="837,540,860,577,895,621,938,663,963,681,990,695,1017,705,1041,710,1084,709,1128,701,1185,695,1263,696,1331,703,1450,721,1505,723,1560,715,1616,693,1678,653,1693,637,1700,621,1703,586,1705,548,1712,529,1726,510,1729,507,1733,511,1730,514,1717,531,1711,549,1709,586,1705,622,1697,640,1681,657,1619,698,1561,720,1505,728,1450,726,1331,708,1262,701,1185,700,1129,706,1084,714,1041,715,1016,710,988,700,960,685,935,667,891,624,856,580,833,543"/>
+<area shape="rect" id="Node000022" href="$d5/db2/class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="1517,499,1642,525"/>
+<area shape="poly" id="edge37_Node000009_Node000022" title=" " alt="" coords="920,500,988,492,1130,486,1272,488,1502,502,1501,507,1272,493,1130,492,989,497,921,505"/>
+<area shape="rect" id="Node000025" href="$da/df0/class_c_flocking_flyer.html#a001a9ad71fa9ecf31fc12cf0efc1106f" title=" " alt="" coords="1005,608,1169,635"/>
+<area shape="poly" id="edge34_Node000009_Node000025" title=" " alt="" coords="874,539,990,587,1027,600,1026,605,988,592,871,544"/>
+<area shape="poly" id="edge35_Node000009_Node000026" title=" " alt="" coords="866,496,904,471,939,438,955,409,961,382,968,354,987,325,1004,310,1024,299,1026,304,1007,315,991,328,972,356,966,383,960,411,943,442,907,475,869,500"/>
+<area shape="rect" id="Node000027" href="$da/df0/class_c_flocking_flyer.html#adb1bb0f746c395eabfc65fc5d9d02243" title="Adjusts the boid&#39;s course if too close to others." alt="" coords="989,507,1185,533"/>
+<area shape="poly" id="edge38_Node000009_Node000027" title=" " alt="" coords="920,517,973,517,973,523,920,523"/>
+<area shape="poly" id="edge15_Node000011_Node000004" title=" " alt="" coords="1144,336,1165,322,1183,305,1196,282,1202,260,1202,215,1201,193,1204,171,1213,150,1231,130,1268,106,1308,91,1351,82,1395,78,1477,83,1542,94,1541,100,1476,88,1395,84,1352,87,1310,96,1270,111,1235,134,1217,153,1209,173,1206,193,1207,215,1207,260,1201,284,1187,308,1169,326,1147,340"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="1110,380,1302,587,1298,590,1106,384"/>
+<area shape="rect" id="Node000012" href="$da/df0/class_c_flocking_flyer.html#a3a4f201ce3e3ae58bfb48303ca0a021f" title="Checks if the boid&#39;s path is blocked." alt="" coords="1233,245,1431,272"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="1129,336,1232,288,1269,275,1270,280,1234,293,1131,341"/>
+<area shape="rect" id="Node000013" href="$d3/d55/hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="1514,296,1645,323"/>
+<area shape="poly" id="edge31_Node000011_Node000013" title=" " alt="" coords="1181,340,1233,332,1373,318,1498,310,1499,316,1374,324,1233,337,1181,345"/>
+<area shape="rect" id="Node000014" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="1524,220,1635,247"/>
+<area shape="poly" id="edge33_Node000011_Node000014" title=" " alt="" coords="1137,336,1161,322,1183,305,1197,285,1204,266,1213,247,1232,231,1266,216,1303,206,1379,198,1452,203,1514,213,1513,219,1451,208,1379,204,1304,211,1268,221,1234,236,1217,250,1209,268,1202,288,1187,309,1164,326,1140,341"/>
+<area shape="poly" id="edge20_Node000011_Node000015" title=" " alt="" coords="1181,374,1729,472,1728,477,1181,379"/>
+<area shape="rect" id="Node000017" href="$da/df0/class_c_flocking_flyer.html#a4e4d5d8cbee95b6890d1081a01c53a32" title="Makes the boid produce sounds based on its state." alt="" coords="1240,144,1425,171"/>
+<area shape="poly" id="edge22_Node000011_Node000017" title=" " alt="" coords="1142,336,1164,322,1183,305,1194,290,1200,275,1205,246,1211,217,1218,202,1231,187,1247,176,1250,180,1235,191,1223,205,1216,219,1210,247,1205,277,1198,292,1187,308,1167,326,1144,340"/>
+<area shape="rect" id="Node000021" href="$da/df0/class_c_flocking_flyer.html#a570850f4fd8bc4f54451233582f890ca" title="Spreads the flock to avoid collisions." alt="" coords="1238,448,1427,475"/>
+<area shape="poly" id="edge27_Node000011_Node000021" title=" " alt="" coords="1131,379,1234,427,1270,440,1269,445,1232,432,1129,384"/>
+<area shape="rect" id="Node000024" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="1278,347,1386,373"/>
+<area shape="poly" id="edge32_Node000011_Node000024" title=" " alt="" coords="1181,357,1262,357,1262,363,1181,363"/>
+<area shape="poly" id="edge17_Node000012_Node000004" title=" " alt="" coords="1351,243,1429,181,1452,154,1462,142,1478,130,1509,116,1540,109,1542,114,1511,121,1481,134,1466,146,1456,157,1433,185,1355,247"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="1402,270,1499,290,1498,296,1400,275"/>
+<area shape="poly" id="edge19_Node000012_Node000014" title=" " alt="" coords="1432,246,1508,238,1509,243,1432,251"/>
+<area shape="rect" id="Node000016" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="1968,473,2011,500"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="1850,484,1952,484,1952,489,1850,489"/>
+<area shape="poly" id="edge26_Node000017_Node000004" title=" " alt="" coords="1400,141,1540,112,1541,117,1402,146"/>
+<area shape="rect" id="Node000018" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="1527,144,1632,171"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="1425,155,1512,155,1512,160,1425,160"/>
+<area shape="rect" id="Node000019" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="1728,144,1866,171"/>
+<area shape="poly" id="edge24_Node000018_Node000019" title=" " alt="" coords="1632,155,1712,155,1712,160,1632,160"/>
+<area shape="rect" id="Node000020" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="1914,144,2064,171"/>
+<area shape="poly" id="edge25_Node000019_Node000020" title=" " alt="" coords="1867,155,1899,155,1899,160,1867,160"/>
+<area shape="poly" id="edge28_Node000021_Node000022" title=" " alt="" coords="1402,473,1502,494,1501,499,1400,478"/>
+<area shape="poly" id="edge29_Node000022_Node000015" title=" " alt="" coords="1642,502,1728,492,1728,497,1643,507"/>
+<area shape="rect" id="Node000023" href="$d5/db2/class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="1744,524,1850,551"/>
+<area shape="poly" id="edge30_Node000022_Node000023" title=" " alt="" coords="1643,517,1729,527,1728,532,1642,522"/>
+<area shape="poly" id="edge39_Node000027_Node000022" title=" " alt="" coords="1186,525,1233,528,1332,531,1431,528,1501,521,1501,526,1432,533,1332,537,1233,533,1185,531"/>
+<area shape="rect" id="Node000031" href="$d0/d78/class_c_flocking_flyer_flock.html#a09a1dcbfe94636103a1fe923474b02a8" title="Preloads the sounds used by the flock." alt="" coords="494,376,654,419"/>
+<area shape="poly" id="edge45_Node000030_Node000031" title=" " alt="" coords="414,370,479,380,479,386,413,376"/>
+<area shape="poly" id="edge47_Node000032_Node000004" title=" " alt="" coords="387,59,471,42,579,23,699,9,820,3,1088,3,1154,5,1221,13,1350,37,1462,66,1543,91,1541,96,1461,71,1349,42,1220,18,1154,11,1088,8,820,8,699,14,579,29,472,47,388,65"/>
+<area shape="rect" id="Node000033" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="524,63,624,89"/>
+<area shape="poly" id="edge48_Node000032_Node000033" title=" " alt="" coords="446,73,509,73,509,79,446,79"/>
+</map>

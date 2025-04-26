@@ -1,7 +1,0 @@
-<map id="CFlockingFlyer::SpawnCommonCode" name="CFlockingFlyer::SpawnCommonCode">
-<area shape="rect" id="Node000001" title="Initializes common properties for the boid." alt="" coords="5,31,243,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="318,5,364,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,27,302,20,303,26,243,33"/>
-<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="291,56,391,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,55,275,59,275,64,243,61"/>
-</map>

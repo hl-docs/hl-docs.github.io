@@ -1,9 +1,0 @@
-<map id="CNihilanth::MakeFriend" name="CNihilanth::MakeFriend">
-<area shape="rect" id="Node000001" title="Creates a friendly entity near the specified start position." alt="" coords="714,5,871,32"/>
-<area shape="rect" id="Node000002" href="$class_c_nihilanth_h_v_r.html#a0453f9e28703d6f1827bff340250549a" title="Handles the teleport touch behavior for the Nihilanth Hover entity." alt="" coords="470,5,666,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="699,21,667,21,667,16,699,16"/>
-<area shape="rect" id="Node000003" href="$class_c_nihilanth_h_v_r.html#aed4a50ddacf698f481b8638acba76786" title="Initializes the teleport behavior for the Nihilanth Hover entity." alt="" coords="244,5,422,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,21,423,21,423,16,454,16"/>
-<area shape="rect" id="Node000004" href="$class_c_nihilanth.html#a4ed6459161906e00ac47759243266ca5" title="Handles animation events for the Nihilanth." alt="" coords="5,5,196,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,21,196,21,196,16,228,16"/>
-</map>

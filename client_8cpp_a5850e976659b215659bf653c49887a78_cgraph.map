@@ -1,5 +1,0 @@
-<map id="Player_Encode" name="Player_Encode">
-<area shape="rect" id="Node000001" title="Encodes the player state for network transmission." alt="" coords="5,5,115,32"/>
-<area shape="rect" id="Node000002" href="$client_8cpp.html#a244e65f77a6700fbc5f45e763c8e8ba5" title="Initializes the fields for player state delta encoding." alt="" coords="163,5,273,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,16,147,16,147,21,115,21"/>
-</map>

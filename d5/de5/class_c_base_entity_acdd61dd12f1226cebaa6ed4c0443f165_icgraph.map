@@ -1,0 +1,41 @@
+<map id="CBaseEntity::TeamID" name="CBaseEntity::TeamID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="767,465,914,492"/>
+<area shape="rect" id="Node000002" href="$d6/d16/class_c_half_life_teamplay.html#a6be6ef68f85c1e0d5ef5dd23fb86d0ab" title="Retrieves the team ID for a specified entity." alt="" coords="529,151,665,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="831,451,818,401,796,339,763,275,742,246,718,219,693,202,665,189,667,184,695,197,721,215,746,242,767,272,801,337,823,400,836,450"/>
+<area shape="rect" id="Node000008" href="$d6/d16/class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="20,272,156,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="814,456,771,418,718,381,641,341,578,316,512,299,427,284,355,277,283,276,157,286,156,281,282,271,355,271,427,279,513,294,580,311,643,336,721,376,774,414,817,452"/>
+<area shape="rect" id="Node000009" href="$d6/d16/class_c_half_life_teamplay.html#ac734c89edacf667f5baf73fa843afb67" title="Recounts the teams and updates their scores." alt="" coords="529,391,665,433"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="774,463,719,448,665,433,666,428,720,443,775,458"/>
+<area shape="rect" id="Node000013" href="$d8/dfc/class_c_game_player_team.html#ae0e740d02fd8e6fb36b9eb95d7ba9bc1" title="Retrieves the team name associated with a target." alt="" coords="475,524,719,551"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="778,499,720,515,670,526,668,521,719,509,777,494"/>
+<area shape="rect" id="Node000015" href="$d5/d48/class_c_game_team_master.html#a6a8cc5c761303c5fcd4d5ab30441d2c3" title="Checks if the activator&#39;s team matches the team conditions." alt="" coords="491,575,704,601"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="814,505,772,536,720,565,686,577,685,572,718,560,769,532,811,500"/>
+<area shape="rect" id="Node000017" href="$d5/d48/class_c_game_team_master.html#a85aba10b728ccebb2edf9103e18162c3" title="Activates the game team master entity." alt="" coords="239,625,407,652"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="826,507,784,564,755,593,721,616,682,632,641,643,558,656,477,658,407,654,408,648,478,653,557,651,640,638,680,627,718,611,752,589,780,561,822,504"/>
+<area shape="rect" id="Node000018" href="$d6/d16/class_c_half_life_teamplay.html#a170bb76c5817fd8f6ba11bc0524d3cac" title="Retrieves the team with the fewest players." alt="" coords="514,457,680,500"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="752,481,681,481,681,476,752,476"/>
+<area shape="rect" id="Node000003" href="$d6/d16/class_c_half_life_teamplay.html#aac3b84e95c79e8cfce7a1c6e565a839a" title="Determines the relationship between two players." alt="" coords="255,139,391,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,171,391,166,392,160,514,166"/>
+<area shape="rect" id="Node000004" href="$d6/d16/class_c_half_life_teamplay.html#ac5ea703eac1a11a07cbe4acece6a60c4" title="Handles the death notice for players." alt="" coords="20,5,156,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,132,227,97,169,62,146,51,148,46,172,58,230,92,282,127"/>
+<area shape="rect" id="Node000005" href="$d6/d16/class_c_half_life_teamplay.html#a9dbb937907c0dd575efc710f70f267dd" title="Determines if a player can take damage from an attacker." alt="" coords="5,72,171,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="239,139,165,118,166,113,240,134"/>
+<area shape="rect" id="Node000006" href="$d6/d16/class_c_half_life_teamplay.html#a221247741a39475b25522217c6e104e9" title="Determines the points awarded for a kill." alt="" coords="20,139,156,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="239,163,157,163,157,157,239,157"/>
+<area shape="rect" id="Node000007" href="$d6/d16/class_c_half_life_teamplay.html#a542bfed5fa6047fa8ed955725cd9b402" title="Determines if auto&#45;aim should be applied to a target." alt="" coords="20,205,156,248"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="240,186,157,210,156,205,239,181"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="555,383,496,346,462,328,426,315,356,299,283,291,215,289,156,290,156,285,215,284,284,286,357,293,428,309,464,323,499,341,558,379"/>
+<area shape="rect" id="Node000010" href="$d6/d16/class_c_half_life_teamplay.html#ac0fc8aaae964ae8985007b82acafe5ff" title="Handles changes to a player&#39;s user info." alt="" coords="247,324,399,367"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="513,395,399,366,400,361,515,389"/>
+<area shape="rect" id="Node000011" href="$d6/d16/class_c_half_life_teamplay.html#acd8c78636ad1ed18d6eae877a1ca7a3e" title="Handles the event when a player is killed." alt="" coords="255,391,391,433"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="514,415,391,415,391,409,514,409"/>
+<area shape="rect" id="Node000012" href="$d6/d16/class_c_half_life_teamplay.html#a1b77282244050f99186a5e47c3ad0a47" title="Sets the default team for a player." alt="" coords="248,457,398,500"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="515,435,399,463,398,458,513,430"/>
+<area shape="poly" id="edge13_Node000012_Node000008" title=" " alt="" coords="232,456,217,448,179,417,147,381,100,317,105,314,151,378,183,413,220,443,235,452"/>
+<area shape="rect" id="Node000014" href="$d8/dfc/class_c_game_player_team.html#a254f029366fd36320adecefc9b077972" title="Activates the game player team entity." alt="" coords="240,524,406,551"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="459,540,406,540,406,535,459,535"/>
+<area shape="rect" id="Node000016" href="$d5/d48/class_c_game_team_master.html#ae7e98ace3a557fbf5396e3440b78dedc" title="Checks if the game team master entity is triggered by the activator." alt="" coords="219,575,427,601"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="475,591,427,591,427,585,475,585"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="506,607,399,627,398,622,505,602"/>
+<area shape="poly" id="edge20_Node000018_Node000012" title=" " alt="" coords="499,481,398,481,398,476,499,476"/>
+</map>

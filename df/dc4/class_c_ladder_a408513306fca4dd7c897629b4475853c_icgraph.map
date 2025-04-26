@@ -1,0 +1,5 @@
+<map id="CLadder::Precache" name="CLadder::Precache">
+<area shape="rect" id="Node000001" title="Prepares the ladder entity for operation." alt="" coords="170,5,302,32"/>
+<area shape="rect" id="Node000002" href="$df/dc4/class_c_ladder.html#a35bd4bf5e1ead5466d157d3bc6db2da9" title="Initializes the ladder entity." alt="" coords="5,5,122,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
+</map>

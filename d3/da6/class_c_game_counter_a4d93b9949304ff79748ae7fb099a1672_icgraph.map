@@ -1,0 +1,7 @@
+<map id="CGameCounter::LimitValue" name="CGameCounter::LimitValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="405,5,584,32"/>
+<area shape="rect" id="Node000002" href="$d3/da6/class_c_game_counter.html#ae6db306af9ec6189564cfa5629723179" title=" " alt="" coords="195,5,357,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,21,358,21,358,16,390,16"/>
+<area shape="rect" id="Node000003" href="$d3/da6/class_c_game_counter.html#a8f1923e52decd992afccf77085f4839c" title="Activates the game counter entity." alt="" coords="5,5,147,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,21,147,21,147,16,179,16"/>
+</map>

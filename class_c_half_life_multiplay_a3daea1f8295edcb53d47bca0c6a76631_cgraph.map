@@ -1,9 +1,0 @@
-<map id="CHalfLifeMultiplay::FShouldSwitchWeapon" name="CHalfLifeMultiplay::FShouldSwitchWeapon">
-<area shape="rect" id="Node000001" title="Determines if a player should switch weapons." alt="" coords="5,48,170,91"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player_item.html#a53ac2d3638c688c3a3badea09625a72b" title=" " alt="" coords="218,5,412,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,48,236,33,238,39,171,54"/>
-<area shape="rect" id="Node000003" href="$class_c_base_player_item.html#a69e8192af8e7862abd76fa64d1d625d9" title=" " alt="" coords="218,56,412,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,67,202,67,202,72,170,72"/>
-<area shape="rect" id="Node000004" href="$class_c_base_player_item.html#a7b2b92fac311effcb9834e1f4340d235" title=" " alt="" coords="228,107,402,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,85,238,100,236,105,169,90"/>
-</map>

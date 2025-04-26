@@ -1,0 +1,5 @@
+<map id="CAmbientGeneric::ToggleUse" name="CAmbientGeneric::ToggleUse">
+<area shape="rect" id="Node000001" title="Toggles the ambient sound on or off." alt="" coords="224,5,416,32"/>
+<area shape="rect" id="Node000002" href="$d3/dcd/class_c_ambient_generic.html#a0d09758c5a14172511411d866a20b541" title="Spawns the ambient generic sound entity." alt="" coords="5,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,21,176,21,176,16,208,16"/>
+</map>

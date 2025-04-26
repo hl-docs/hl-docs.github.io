@@ -1,0 +1,14 @@
+<map id="CBasePlayer::Observer_FindNextPlayer" name="CBasePlayer::Observer_FindNextPlayer">
+<area shape="rect" id="Node000001" title="Finds the next player to observe." alt="" coords="414,80,570,123"/>
+<area shape="rect" id="Node000002" href="$d9/d95/client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="27,5,140,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,75,406,56,365,41,306,29,246,22,140,19,140,14,246,17,307,24,367,36,408,51,445,70"/>
+<area shape="rect" id="Node000003" href="$d5/d03/class_c_base_player.html#ad908da7573b1f65c426973168a9001e0" title="Checks the current observer target." alt="" coords="5,61,162,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="399,110,307,112,209,108,162,102,162,96,210,103,307,107,399,105"/>
+<area shape="rect" id="Node000004" href="$d5/d03/class_c_base_player.html#a679cf9d7919345390f759e3e81fb1304" title="Handles input buttons in observer mode." alt="" coords="5,139,162,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,117,163,151,162,146,398,112"/>
+<area shape="rect" id="Node000005" href="$d5/d03/class_c_base_player.html#a67d681ca046700f5f9ef025ef68baabe" title="Attempts to change the observer mode." alt="" coords="210,51,366,93"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="398,91,366,86,366,81,399,85"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="194,50,137,35,138,30,195,45"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="194,80,162,81,162,76,194,74"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="223,102,136,141,134,136,221,98"/>
+</map>

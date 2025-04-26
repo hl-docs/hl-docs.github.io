@@ -1,0 +1,9 @@
+<map id="COsprey::TraceAttack" name="COsprey::TraceAttack">
+<area shape="rect" id="Node000001" title="Handles the attack from another entity." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#a0a4b57092b62d45ab3add37da4958c08" title=" " alt="" coords="204,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,31,188,26,189,32,156,36"/>
+<area shape="rect" id="Node000003" href="$dc/d44/dlls_2util_8cpp.html#a98b7dd5c6b2ea38ab577a0ea282b5a22" title="Emits sparks at a specified position." alt="" coords="216,56,312,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,52,201,58,200,63,155,57"/>
+<area shape="rect" id="Node000004" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="372,56,506,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="312,67,356,67,356,72,312,72"/>
+</map>

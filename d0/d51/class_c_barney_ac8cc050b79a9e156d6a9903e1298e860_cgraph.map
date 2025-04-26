@@ -1,0 +1,5 @@
+<map id="CBarney::TalkInit" name="CBarney::TalkInit">
+<area shape="rect" id="Node000001" title="Initializes the talk data for the Barney entity." alt="" coords="5,5,126,32"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#a3f97f054f7ed3aba0606dc8003fde68c" title="Initializes the talk monster&#39;s talking capabilities." alt="" coords="174,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,16,158,16,158,21,126,21"/>
+</map>

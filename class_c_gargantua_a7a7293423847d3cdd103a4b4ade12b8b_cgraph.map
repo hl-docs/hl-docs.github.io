@@ -1,9 +1,0 @@
-<map id="CGargantua::TakeDamage" name="CGargantua::TakeDamage">
-<area shape="rect" id="Node000001" title="Handles damage taken by the Gargantua." alt="" coords="5,56,180,83"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a26789222385186bbdcf23cea1d8396f2" title=" " alt="" coords="250,5,402,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,53,246,33,247,38,158,58"/>
-<area shape="rect" id="Node000003" href="$class_c_base_monster.html#a0e452f766d29a4d6008044338dbd3aa6" title=" " alt="" coords="228,56,424,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,67,212,67,212,72,180,72"/>
-<area shape="rect" id="Node000004" href="$class_c_base_monster.html#ad73a936a05befe9d5e6a419042e69a21" title="Reduces the monster&#39;s health by a specified amount." alt="" coords="230,107,422,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,81,247,100,246,105,157,86"/>
-</map>

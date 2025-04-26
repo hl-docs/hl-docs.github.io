@@ -1,0 +1,9 @@
+<map id="CXenSpore::Spawn" name="CXenSpore::Spawn">
+<area shape="rect" id="Node000001" title="Spawns a generic Xen spore entity." alt="" coords="5,56,138,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="282,5,328,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,53,185,41,266,24,267,29,186,47,135,58"/>
+<area shape="rect" id="Node000003" href="$dc/d7f/class_c_xen_spore.html#a1c8cf497cf824f9ededc79fe0998b204" title="Preloads the resources needed by the Xen spore." alt="" coords="231,56,379,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,67,215,67,215,72,138,72"/>
+<area shape="rect" id="Node000004" href="$db/dc1/class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="186,107,424,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,81,186,92,224,100,223,105,185,97,134,86"/>
+</map>

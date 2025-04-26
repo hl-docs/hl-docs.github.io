@@ -1,0 +1,9 @@
+<map id="CGameScore::KeyValue" name="CGameScore::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the game score entity." alt="" coords="5,56,169,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="268,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,53,252,27,253,32,147,58"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="220,56,378,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,67,204,67,204,72,169,72"/>
+<area shape="rect" id="Node000004" href="$d9/d8d/class_c_game_score.html#a867477e664632161374a940dc55bf8d2" title=" " alt="" coords="217,107,381,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,81,226,100,225,105,145,86"/>
+</map>

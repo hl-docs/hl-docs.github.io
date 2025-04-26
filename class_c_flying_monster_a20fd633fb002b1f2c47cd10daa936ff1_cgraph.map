@@ -1,9 +1,0 @@
-<map id="CFlyingMonster::CeilingZ" name="CFlyingMonster::CeilingZ">
-<area shape="rect" id="Node000001" title="Gets the ceiling height at a specified position." alt="" coords="5,31,172,57"/>
-<area shape="rect" id="Node000002" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="224,5,334,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,30,208,25,209,31,173,36"/>
-<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#ab9ffe1bedd04fba26739ce06d1b7c1e8" title="Determines the water level at a specified position." alt="" coords="220,56,338,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,52,205,57,204,62,172,58"/>
-<area shape="rect" id="Node000004" href="$dlls_2util_8cpp.html#a168e867ce033654505b26655314ce1e3" title="Retrieves the contents at a specified point in the game world." alt="" coords="386,56,522,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,67,370,67,370,72,339,72"/>
-</map>

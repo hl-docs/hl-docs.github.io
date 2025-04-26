@@ -1,0 +1,5 @@
+<map id="CHGruntRepel::Precache" name="CHGruntRepel::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches resources for the grunt repel entity." alt="" coords="205,5,372,32"/>
+<area shape="rect" id="Node000002" href="$d6/d63/class_c_h_grunt_repel.html#a329f01876fad7b21476965a127efd09e" title="Spawns the grunt repel entity." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,21,157,21,157,16,189,16"/>
+</map>

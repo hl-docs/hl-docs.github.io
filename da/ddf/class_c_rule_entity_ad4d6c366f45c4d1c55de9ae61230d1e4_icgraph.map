@@ -1,0 +1,11 @@
+<map id="CRuleEntity::Spawn" name="CRuleEntity::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the rule entity." alt="" coords="430,56,567,83"/>
+<area shape="rect" id="Node000002" href="$da/df2/class_c_rule_point_entity.html#a97a19479e1673ad144b99d02c1284132" title="Spawns the rule point entity." alt="" coords="213,31,380,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,61,380,57,381,52,415,56"/>
+<area shape="rect" id="Node000005" href="$d4/d9f/class_c_rule_brush_entity.html#a1cdc3c830ad3669bdd7374ac00024a7d" title="Spawns the rule brush entity." alt="" coords="211,81,382,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="415,82,383,87,382,81,414,77"/>
+<area shape="rect" id="Node000003" href="$d9/d8d/class_c_game_score.html#aa522c43cac7f830407aebb3977590224" title="Spawns the game score entity." alt="" coords="11,5,157,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,35,157,30,158,25,198,30"/>
+<area shape="rect" id="Node000004" href="$d3/da6/class_c_game_counter.html#a63752142f994fdeae5e81f3d6143678c" title="Spawns the game counter entity." alt="" coords="5,56,163,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,58,163,63,163,57,197,53"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="CBreakable::Precache" name="CBreakable::Precache">
-<area shape="rect" id="Node000001" title="Pre&#45;caches all resources needed by the breakable entity." alt="" coords="5,43,157,69"/>
-<area shape="rect" id="Node000002" href="$class_c_breakable.html#a39a85075b60ca000cfd264d4ec44e8d7" title="Pre&#45;caches sounds for a specific material type." alt="" coords="205,5,384,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,43,189,38,190,44,158,48"/>
-<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#ab86625fdeef115046e288fecc38018c7" title=" " alt="" coords="224,72,365,99"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,64,209,71,208,76,157,69"/>
-<area shape="rect" id="Node000003" href="$class_c_breakable.html#a6b83f580bf8b8084907dc2e3aba1a9b9" title="Retrieves the sound list for a specific material type." alt="" coords="432,13,632,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,24,416,24,416,29,385,29"/>
-</map>

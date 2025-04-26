@@ -1,0 +1,19 @@
+<map id="CSatchel::Holster" name="CSatchel::Holster">
+<area shape="rect" id="Node000001" title="Holsters the satchel charge." alt="" coords="5,107,129,133"/>
+<area shape="rect" id="Node000002" href="$dc/d11/class_c_base_player_item.html#af9c05aa29a389bfdc1c796539b0db517" title="Destroys a player item." alt="" coords="177,5,377,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,104,123,73,175,42,192,35,194,40,178,46,126,77,86,108"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="225,56,329,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,103,209,83,210,88,126,109"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="254,107,300,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="129,117,238,117,238,123,129,123"/>
+<area shape="rect" id="Node000007" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="200,157,354,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="118,131,186,151,185,156,117,136"/>
+<area shape="rect" id="Node000009" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="197,224,357,251"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="82,132,123,171,149,192,178,210,192,216,190,221,175,214,146,196,119,175,79,136"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="438,56,576,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="329,67,422,67,422,72,329,72"/>
+<area shape="rect" id="Node000005" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="636,56,787,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="576,67,621,67,621,72,576,72"/>
+<area shape="rect" id="Node000008" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="425,165,588,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="354,176,410,176,410,181,354,181"/>
+</map>

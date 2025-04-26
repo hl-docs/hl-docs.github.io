@@ -1,0 +1,5 @@
+<map id="Trace_StartTrace" name="Trace_StartTrace">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,13,355,40"/>
+<area shape="rect" id="Node000002" href="$d8/d13/class_c_hud_benchmark.html#ac3dbd817dab4d3eef7edc136861acb77" title="Handles the &quot;Bench&quot; network message from the server." alt="" coords="5,5,187,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,29,187,29,187,24,219,24"/>
+</map>

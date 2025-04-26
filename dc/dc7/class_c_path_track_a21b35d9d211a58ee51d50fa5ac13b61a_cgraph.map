@@ -1,0 +1,20 @@
+<map id="CPathTrack::LookAhead" name="CPathTrack::LookAhead">
+<area shape="rect" id="Node000001" title="Looks ahead along the path track." alt="" coords="5,107,168,133"/>
+<area shape="rect" id="Node000002" href="$dc/dc7/class_c_path_track.html#a7c88acc042e1fbbca05de3d1d871c88e" title="Retrieves the next path track in the sequence." alt="" coords="227,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,104,155,73,215,42,231,35,233,40,217,46,157,78,109,108"/>
+<area shape="rect" id="Node000003" href="$dc/dc7/class_c_path_track.html#a9cc3e4bd00142dfa076ecc8857b3ab8b" title="Retrieves the previous path track in the sequence." alt="" coords="216,56,383,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,103,225,84,226,89,146,109"/>
+<area shape="rect" id="Node000004" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="604,107,711,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,117,589,117,589,123,168,123"/>
+<area shape="rect" id="Node000006" href="$dc/dc7/class_c_path_track.html#aa034c8721d3c10e473f0fbf4d3bb6014" title="Projects a point along the path between two path tracks." alt="" coords="230,157,369,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,131,226,151,225,156,145,137"/>
+<area shape="rect" id="Node000009" href="$dc/dc7/class_c_path_track.html#af60b8c450e705a03a87c9a57d488591f" title="Validates a path track based on its state." alt="" coords="223,208,376,235"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="109,132,157,162,217,194,233,200,231,205,215,198,155,167,106,136"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="759,107,802,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="711,117,743,117,743,123,711,123"/>
+<area shape="rect" id="Node000007" href="$d5/db2/class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="431,157,556,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="369,168,416,168,416,173,369,173"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="539,154,597,136,598,141,540,159"/>
+<area shape="rect" id="Node000008" href="$d5/db2/class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="605,157,710,184"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="557,168,589,168,589,173,557,173"/>
+</map>

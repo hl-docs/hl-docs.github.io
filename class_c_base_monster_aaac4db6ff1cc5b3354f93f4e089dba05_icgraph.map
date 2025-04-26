@@ -1,9 +1,0 @@
-<map id="CBaseMonster::PopEnemy" name="CBaseMonster::PopEnemy">
-<area shape="rect" id="Node000001" title="Attempts to recall the last few enemies encountered." alt="" coords="603,5,783,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a7cea5fb017cb2f089f933c4535b7d4bb" title="Attempts to find the best suitable enemy for the monster." alt="" coords="378,5,555,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="588,21,556,21,556,16,588,16"/>
-<area shape="rect" id="Node000003" href="$class_c_base_monster.html#acc5ba3ad67a53c37779693145984fb5d" title="Runs the AI logic for the monster." alt="" coords="180,5,330,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,21,330,21,330,16,363,16"/>
-<area shape="rect" id="Node000004" href="$class_c_bullsquid.html#ac8cb76bc1599fa3fa114091a82e23a54" title="Runs AI logic for the bullsquid." alt="" coords="5,5,132,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
-</map>

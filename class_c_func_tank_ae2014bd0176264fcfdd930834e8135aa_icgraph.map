@@ -1,5 +1,0 @@
-<map id="CFuncTank::AdjustAnglesForBarrel" name="CFuncTank::AdjustAnglesForBarrel">
-<area shape="rect" id="Node000001" title="Adjust the angles for a barrel that is offset from the tank&#39;s rotation axis." alt="" coords="217,5,408,48"/>
-<area shape="rect" id="Node000002" href="$class_c_func_tank.html#a40ca7f35fc5b4fdbce00945b716c245b" title="Tracks and aims the tank at a target." alt="" coords="5,13,169,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,29,169,29,169,24,201,24"/>
-</map>

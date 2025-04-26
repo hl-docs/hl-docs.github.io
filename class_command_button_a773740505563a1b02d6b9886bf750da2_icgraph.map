@@ -1,9 +1,0 @@
-<map id="CommandButton::cursorExited" name="CommandButton::cursorExited">
-<area shape="rect" id="Node000001" title="Called when the mouse cursor leaves the button. Unarms the button under specific conditions." alt="" coords="282,80,481,107"/>
-<area shape="rect" id="Node000002" href="$class_c_handler___command_button_highlight.html#ad8b4313c4d1edd215d73e9245b782935" title=" " alt="" coords="5,5,234,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,78,206,51,207,46,312,73"/>
-<area shape="rect" id="Node000003" href="$class_toggle_command_button.html#acc88c9dff9517a0a29e929683e393db9" title=" " alt="" coords="41,72,198,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,96,198,96,198,91,266,91"/>
-<area shape="rect" id="Node000004" href="$class_spect_toggle_button.html#a4961e1ce043866058d541c77f14be22d" title=" " alt="" coords="50,139,189,181"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="312,114,190,145,189,140,311,108"/>
-</map>

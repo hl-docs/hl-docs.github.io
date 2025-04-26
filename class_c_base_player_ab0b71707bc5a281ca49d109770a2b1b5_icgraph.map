@@ -1,5 +1,0 @@
-<map id="CBasePlayer::RenewItems" name="CBasePlayer::RenewItems">
-<area shape="rect" id="Node000001" title="Marks all items as new for the HUD." alt="" coords="204,5,380,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player.html#ad8f41e74b9bebc8f49168a6e51c45e96" title="Restores the player&#39;s state from a save file." alt="" coords="5,5,156,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,21,156,21,156,16,188,16"/>
-</map>

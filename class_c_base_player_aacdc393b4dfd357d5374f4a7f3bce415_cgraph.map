@@ -1,7 +1,0 @@
-<map id="CBasePlayer::SelectItem" name="CBasePlayer::SelectItem">
-<area shape="rect" id="Node000001" title="Switch to the specified item by name." alt="" coords="5,31,173,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player_item.html#a84095fcdbb320e6f0cc591a3308738f6" title=" " alt="" coords="221,5,392,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,32,205,28,206,33,174,37"/>
-<area shape="rect" id="Node000003" href="$class_c_base_player_item.html#a78d369b4bae2280a8c8e95086da28b85" title="Holsters a player item." alt="" coords="221,56,392,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,51,205,55,205,60,173,56"/>
-</map>

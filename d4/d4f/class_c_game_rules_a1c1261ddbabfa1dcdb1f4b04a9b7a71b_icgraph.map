@@ -1,0 +1,5 @@
+<map id="CGameRules::GetNextBestWeapon" name="CGameRules::GetNextBestWeapon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,5,460,32"/>
+<area shape="rect" id="Node000002" href="$dc/d44/dlls_2util_8cpp.html#a59d34fa41c494a701d3a1a698df277a8" title="Retrieves the next best weapon for a player." alt="" coords="5,5,183,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,21,183,21,183,16,215,16"/>
+</map>

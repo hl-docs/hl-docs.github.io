@@ -1,0 +1,5 @@
+<map id="HUD_GetStudioModelInterface" name="HUD_GetStudioModelInterface">
+<area shape="rect" id="Node000001" title="Exports the studio model interface for the engine to use." alt="" coords="92,5,289,32"/>
+<area shape="rect" id="Node000002" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,21,44,21,44,16,76,16"/>
+</map>

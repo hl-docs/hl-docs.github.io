@@ -1,9 +1,0 @@
-<map id="CGamePlayerZone" name="CGamePlayerZone">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,136,256"/>
-<area shape="rect" id="Node000002" href="$class_c_rule_brush_entity.html" title=" " alt="" coords="8,155,133,181"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,197,73,229,68,229,68,197"/>
-<area shape="rect" id="Node000003" href="$class_c_rule_entity.html" title=" " alt="" coords="25,80,116,107"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,122,73,154,68,154,68,122"/>
-<area shape="rect" id="Node000004" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="23,5,118,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="73,48,73,80,68,80,68,48"/>
-</map>

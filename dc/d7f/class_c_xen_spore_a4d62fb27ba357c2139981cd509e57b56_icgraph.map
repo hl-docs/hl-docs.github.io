@@ -1,0 +1,5 @@
+<map id="CXenSpore::Attack" name="CXenSpore::Attack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,5,354,32"/>
+<area shape="rect" id="Node000002" href="$dc/d7f/class_c_xen_spore.html#a7e1b7aaaf722f39429283214c9a38870" title="Inflicts damage on the entity." alt="" coords="5,5,175,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,21,175,21,175,16,207,16"/>
+</map>

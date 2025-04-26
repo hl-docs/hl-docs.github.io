@@ -1,9 +1,0 @@
-<map id="CPythonAmmo::Spawn" name="CPythonAmmo::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the ammo entity in the game." alt="" coords="5,56,162,83"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="278,5,324,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,53,262,25,263,30,145,58"/>
-<area shape="rect" id="Node000003" href="$class_c_python_ammo.html#a62445fe75117146390663503050310c0" title="Preloads the resources needed for the ammo entity." alt="" coords="215,56,387,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,67,199,67,199,72,162,72"/>
-<area shape="rect" id="Node000004" href="$class_c_base_player_ammo.html#a13402d91be00ef4937c8b9bf3a83024c" title="Spawns the ammo entity in the game world." alt="" coords="210,107,392,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,81,226,100,225,105,143,86"/>
-</map>

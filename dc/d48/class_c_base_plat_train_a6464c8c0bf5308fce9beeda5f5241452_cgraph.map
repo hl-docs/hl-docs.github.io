@@ -1,0 +1,7 @@
+<map id="CBasePlatTrain::KeyValue" name="CBasePlatTrain::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for platform properties." alt="" coords="5,31,181,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="279,5,341,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,31,263,21,264,27,181,36"/>
+<area shape="rect" id="Node000003" href="$d6/d0d/class_c_base_toggle.html#a99ba6e5114504377f537ca98b3afec40" title="Handles key&#45;value pairs for the toggle entity." alt="" coords="229,56,391,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,52,214,55,213,61,181,57"/>
+</map>

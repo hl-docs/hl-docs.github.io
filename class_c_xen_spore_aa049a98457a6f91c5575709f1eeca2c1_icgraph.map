@@ -1,9 +1,0 @@
-<map id="CXenSpore::Spawn" name="CXenSpore::Spawn">
-<area shape="rect" id="Node000001" title="Spawns a generic Xen spore entity." alt="" coords="219,56,351,83"/>
-<area shape="rect" id="Node000002" href="$class_c_xen_spore_small.html#aa2547346d755dfcb60eb7612f2f08530" title="Spawns a small Xen spore entity." alt="" coords="5,5,171,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,54,142,35,143,30,216,49"/>
-<area shape="rect" id="Node000003" href="$class_c_xen_spore_med.html#ae2116406d231d78fc3b7c7474a5a2b8f" title="Spawns a medium Xen spore entity." alt="" coords="9,56,167,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,72,167,72,167,67,203,67"/>
-<area shape="rect" id="Node000004" href="$class_c_xen_spore_large.html#a5c9ef3663cc7a76ef324f5d5d02330bc" title="Spawns a large Xen spore entity." alt="" coords="6,107,170,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,90,143,109,142,103,214,85"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="HUD_PlayerMoveTexture" name="HUD_PlayerMoveTexture">
+<area shape="rect" id="Node000001" title="Retrieves the texture type for player movement." alt="" coords="5,5,171,32"/>
+<area shape="rect" id="Node000002" href="$df/d58/pm__shared_8c.html#ad69b0264310e1758470f45f9cb82488e" title="Finds the type of a texture by its name." alt="" coords="219,5,363,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,16,203,16,203,21,171,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CNihilanthHVR::AbsorbInit" name="CNihilanthHVR::AbsorbInit">
+<area shape="rect" id="Node000001" title="Initializes the absorb behavior for the Nihilanth Hover entity." alt="" coords="224,5,397,32"/>
+<area shape="rect" id="Node000002" href="$d5/d34/class_c_nihilanth.html#a332c9bfd7b59bb49a6b69cc4843bbab1" title="Absorbs a sphere for the Nihilanth." alt="" coords="5,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,21,176,21,176,16,208,16"/>
+</map>

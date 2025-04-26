@@ -1,0 +1,5 @@
+<map id="CInfoIntermission::Spawn" name="CInfoIntermission::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the intermission info entity." alt="" coords="5,5,134,48"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="182,13,290,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,24,166,24,166,29,134,29"/>
+</map>

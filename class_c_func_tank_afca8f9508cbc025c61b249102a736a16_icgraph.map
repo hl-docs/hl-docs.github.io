@@ -1,7 +1,0 @@
-<map id="CFuncTank::KeyValue" name="CFuncTank::KeyValue">
-<area shape="rect" id="Node000001" title="Handles key&#45;value pairs for the tank entity." alt="" coords="242,31,393,57"/>
-<area shape="rect" id="Node000002" href="$class_c_func_tank_laser.html#ae6a6ff359c962d2528ed968ca3325c73" title="Handles key&#45;value pairs for the tank laser entity." alt="" coords="8,5,191,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,36,191,32,192,27,227,31"/>
-<area shape="rect" id="Node000003" href="$class_c_func_tank_mortar.html#abda3d563af24653ec743643d45869fcd" title="Handles key&#45;value pairs for the func_tankmortar entity." alt="" coords="5,56,194,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,57,195,61,194,56,226,52"/>
-</map>

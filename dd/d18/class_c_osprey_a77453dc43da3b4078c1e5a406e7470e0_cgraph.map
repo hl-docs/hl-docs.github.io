@@ -1,0 +1,33 @@
+<map id="COsprey::Killed" name="COsprey::Killed">
+<area shape="rect" id="Node000001" title="Handles the death of the Osprey." alt="" coords="5,157,118,184"/>
+<area shape="rect" id="Node000002" href="$dd/d18/class_c_osprey.html#aa10aceed3cb41c3404076374b6642de4" title="Handles the crash event when the Osprey collides with a solid entity." alt="" coords="166,56,315,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,155,118,128,164,99,189,87,191,92,167,104,121,132,83,159"/>
+<area shape="rect" id="Node000003" href="$dd/d18/class_c_osprey.html#acb7f8a95c86b47d03d0701ca95483d2f" title="Handles the dying behavior of the Osprey." alt="" coords="168,157,313,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,168,152,168,152,173,118,173"/>
+<area shape="rect" id="Node000007" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="417,5,463,32"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="113,154,233,120,314,92,328,80,337,68,346,55,362,42,401,25,403,29,364,46,350,58,341,71,332,84,316,97,235,125,115,159"/>
+<area shape="rect" id="Node000014" href="$d8/d3c/util_8h.html#a8a4601b94eb359b1b48670b4c5bc4e15" title=" " alt="" coords="186,208,295,235"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="112,182,177,201,175,206,111,187"/>
+<area shape="rect" id="Node000015" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="190,259,291,285"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="80,182,118,213,167,244,179,250,177,255,164,249,115,217,77,186"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="388,157,492,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="313,168,373,168,373,173,313,173"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="285,154,313,137,330,113,336,90,343,66,361,42,380,30,401,23,402,28,382,35,365,46,348,68,341,91,334,116,317,141,288,159"/>
+<area shape="rect" id="Node000008" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="373,208,507,235"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="297,182,371,201,369,206,295,187"/>
+<area shape="rect" id="Node000009" href="$d3/d55/hl__baseentity_8cpp.html#a3a20dd1e4e2f4832037c6797d4ffef37" title=" " alt="" coords="386,259,495,285"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="294,182,316,194,332,207,341,220,350,232,365,244,373,249,371,254,361,249,346,236,337,223,328,210,314,198,291,187"/>
+<area shape="rect" id="Node000010" href="$de/da7/_game_studio_model_renderer___sample_8cpp.html#a18d6229942e256d2883e19bf2dabf3cd" title="Advances the animation frame based on the specified time interval." alt="" coords="368,309,512,336"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="299,182,317,194,328,207,335,220,342,246,347,271,354,283,365,295,369,299,366,303,361,299,350,286,342,273,336,247,330,222,324,210,313,198,296,187"/>
+<area shape="rect" id="Node000011" href="$dc/d44/dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="363,56,517,83"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="279,154,313,136,337,114,347,104,362,92,372,87,375,92,364,97,350,107,341,118,317,141,281,159"/>
+<area shape="rect" id="Node000013" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="390,107,490,133"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="295,154,374,134,375,139,297,159"/>
+<area shape="rect" id="Node000005" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="567,259,706,285"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="490,182,518,194,565,220,606,247,603,251,563,224,516,198,488,187"/>
+<area shape="rect" id="Node000006" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="756,259,906,285"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="706,269,740,269,740,275,706,275"/>
+<area shape="rect" id="Node000012" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="565,56,708,83"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="517,67,550,67,550,72,517,72"/>
+<area shape="poly" id="edge15_Node000014_Node000005" title=" " alt="" coords="297,232,317,245,328,258,335,272,340,299,345,325,352,336,364,346,403,364,437,366,473,359,516,346,566,322,607,293,611,297,569,327,518,350,474,364,437,372,402,369,362,350,348,339,340,327,335,300,330,274,324,261,313,249,294,236"/>
+</map>

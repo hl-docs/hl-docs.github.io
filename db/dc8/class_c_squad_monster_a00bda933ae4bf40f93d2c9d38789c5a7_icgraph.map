@@ -1,0 +1,9 @@
+<map id="CSquadMonster::SquadRemove" name="CSquadMonster::SquadRemove">
+<area shape="rect" id="Node000001" title="Removes a squad member from the squad." alt="" coords="381,31,586,57"/>
+<area shape="rect" id="Node000002" href="$db/dc8/class_c_squad_monster.html#abfb04f274808596d6d79c7e68846527d" title="Handles the death of the squad monster." alt="" coords="179,31,333,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,47,333,47,333,41,366,41"/>
+<area shape="rect" id="Node000003" href="$de/d41/class_c_controller.html#adce6c769c1ef72326fcb43808a06da7c" title="Handles the death of the controller monster." alt="" coords="5,5,131,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,34,130,30,131,24,164,29"/>
+<area shape="rect" id="Node000004" href="$d5/da5/class_c_i_slave.html#ae446ca8401c03125b6e9dbced39bae59" title="Handles the death of the CISlave entity." alt="" coords="16,56,120,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="163,59,121,65,120,60,163,54"/>
+</map>

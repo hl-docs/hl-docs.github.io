@@ -1,7 +1,0 @@
-<map id="DragNDropPanel::setDragged" name="DragNDropPanel::setDragged">
-<area shape="rect" id="Node000001" title=" " alt="" coords="199,47,390,73"/>
-<area shape="rect" id="Node000002" href="$class_c_drag_n_drop_handler.html#ace10d0f034cb18f14d9a365cece910bd" title="Called when the mouse button is pressed to begin dragging." alt="" coords="5,5,151,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,46,150,40,151,35,189,41"/>
-<area shape="rect" id="Node000003" href="$class_c_drag_n_drop_handler.html#af9585b688b04c36f04f61532605ebd4d" title="Called when the mouse button is released to stop dragging." alt="" coords="5,72,151,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,79,151,85,150,80,188,74"/>
-</map>

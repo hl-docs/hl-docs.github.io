@@ -1,0 +1,17 @@
+<map id="DetpackButton" name="DetpackButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="274,279,381,305"/>
+<area shape="rect" id="Node000002" href="$d5/dd3/class_command_button.html" title=" " alt="" coords="131,172,249,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,203,286,221,310,249,325,277,320,280,306,252,283,225,253,207"/>
+<area shape="rect" id="Node000004" href="$df/d43/class_c_command_menu.html" title=" " alt="" coords="5,279,127,305"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="118,202,99,211,83,224,75,237,71,251,68,279,63,278,65,250,71,235,79,221,96,207,115,197"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,81,182,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,122,187,170,182,172,162,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="133,270,159,253,177,226,185,198,190,200,181,228,163,257,136,274"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="144,283,153,292,145,301,128,304,127,299,143,296,148,292,140,287"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="14,172,68,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="50,213,66,278,60,279,45,215"/>
+<area shape="rect" id="Node000006" href="$d7/ded/class_command_label.html" title=" " alt="" coords="206,81,318,108"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="244,122,202,173,198,170,240,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="236,5,288,32"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="265,47,265,81,259,81,259,47"/>
+</map>

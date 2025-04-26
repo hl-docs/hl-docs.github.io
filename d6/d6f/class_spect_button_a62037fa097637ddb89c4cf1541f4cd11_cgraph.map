@@ -1,0 +1,9 @@
+<map id="SpectButton::SpectButton" name="SpectButton::SpectButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,179,57"/>
+<area shape="rect" id="Node000002" href="$d5/dd3/class_command_button.html#a0844886ffcd98708570c16214ca8b580" title="Initializes visual and interactive properties of the button." alt="" coords="240,5,383,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,31,224,26,224,31,179,37"/>
+<area shape="rect" id="Node000003" href="$d5/dd3/class_command_button.html#a030a79a733862b5b8ff2108e3697abab" title="Sets the button display text." alt="" coords="227,56,396,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,51,211,55,211,60,179,57"/>
+<area shape="rect" id="Node000004" href="$d5/dd3/class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="444,56,663,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="396,67,428,67,428,72,396,72"/>
+</map>

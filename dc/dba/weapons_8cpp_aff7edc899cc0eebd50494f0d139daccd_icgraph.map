@@ -1,0 +1,34 @@
+<map id="ApplyMultiDamage" name="ApplyMultiDamage">
+<area shape="rect" id="Node000001" title="Applies accumulated multi&#45;damage to an entity." alt="" coords="681,132,812,159"/>
+<area shape="rect" id="Node000002" href="$dc/dba/weapons_8cpp.html#a0a4b57092b62d45ab3add37da4958c08" title="Adds damage to the global multi&#45;damage accumulator." alt="" coords="485,5,605,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="722,122,683,83,632,46,604,34,606,29,635,42,686,79,726,119"/>
+<area shape="rect" id="Node000003" href="$d9/df2/class_c_grenade.html#aa589fe24eba1486263fcb1a311746d91" title="Handles the bounce logic for the grenade." alt="" coords="462,56,628,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="703,127,632,97,598,86,599,81,634,92,705,123"/>
+<area shape="rect" id="Node000004" href="$de/d32/class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="500,107,590,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="666,138,590,128,591,123,667,133"/>
+<area shape="rect" id="Node000007" href="$db/dab/class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="496,157,594,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="666,158,595,167,594,162,665,153"/>
+<area shape="rect" id="Node000012" href="$d0/db0/class_c_crossbow.html#a51becd1d4131174516a44142fc273aae" title="Fires a sniper bolt in multiplayer mode." alt="" coords="456,208,633,235"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="705,168,634,198,599,210,598,205,632,194,703,163"/>
+<area shape="rect" id="Node000014" href="$d5/d05/class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="485,259,605,285"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="726,172,686,212,635,249,606,261,604,256,632,244,683,208,722,168"/>
+<area shape="rect" id="Node000005" href="$de/d32/class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="266,81,372,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="484,116,372,103,373,98,485,111"/>
+<area shape="rect" id="Node000006" href="$de/d32/class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="18,69,169,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="250,94,169,89,170,84,250,88"/>
+<area shape="rect" id="Node000008" href="$db/dab/class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21" title="Initiates the firing process for the Gauss weapon." alt="" coords="256,157,382,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="480,173,383,173,383,168,480,168"/>
+<area shape="rect" id="Node000009" href="$db/dab/class_c_gauss.html#a885e215da3bf2207e633b39d7d648d7c" title="Handles the primary attack for the Gauss weapon." alt="" coords="14,120,173,147"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="240,160,173,149,174,144,241,155"/>
+<area shape="rect" id="Node000010" href="$db/dab/class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="5,171,182,197"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="240,178,182,181,182,176,240,173"/>
+<area shape="rect" id="Node000011" href="$db/dab/class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="21,221,166,248"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="255,191,144,223,143,218,254,186"/>
+<area shape="rect" id="Node000013" href="$d0/db0/class_c_crossbow.html#a088e3d420a0cb3943cf33cf126323a32" title="Handles the primary attack of the crossbow weapon." alt="" coords="230,208,408,235"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="441,224,409,224,409,219,441,219"/>
+<area shape="rect" id="Node000015" href="$d5/d05/class_c_crowbar.html#a75fe911c0db1c8068051588cbfa2c6e9" title="Handles the primary attack action of the crowbar." alt="" coords="9,284,178,311"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="470,279,178,295,178,290,469,274"/>
+<area shape="rect" id="Node000016" href="$d5/d05/class_c_crowbar.html#ae3b7f4f2780a8f6c7ed0709d2bc0deb9" title="Handles the second swing of the crowbar." alt="" coords="242,309,396,336"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="470,291,382,311,381,306,469,286"/>
+<area shape="poly" id="edge16_Node000016_Node000015" title=" " alt="" coords="227,315,178,309,178,304,227,310"/>
+</map>

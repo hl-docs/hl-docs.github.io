@@ -1,0 +1,64 @@
+<map id="CBaseToggle::AngularMove" name="CBaseToggle::AngularMove">
+<area shape="rect" id="Node000001" title="Calculates velocity and next think time for angular movement." alt="" coords="1396,669,1577,696"/>
+<area shape="rect" id="Node000002" href="$d8/dd6/class_c_base_button.html#a979524cd17dbdcfb1aa71817904b5bd7" title="Starts the button moving &quot;in/up&quot;." alt="" coords="1157,213,1347,240"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1473,656,1424,526,1388,443,1346,361,1302,293,1263,242,1267,239,1306,290,1351,359,1392,441,1429,524,1478,654"/>
+<area shape="rect" id="Node000005" href="$d8/dd6/class_c_base_button.html#a7c4ec672410f32f1f3008409fe777b89" title="Starts the button moving &quot;out/down&quot;." alt="" coords="442,213,624,240"/>
+<area shape="poly" id="edge17_Node000001_Node000005" title=" " alt="" coords="1461,659,1412,609,1380,582,1347,558,1284,524,1231,504,1176,487,1107,464,984,421,887,391,791,357,671,305,623,276,561,243,564,238,626,271,674,300,793,352,888,386,986,416,1109,459,1178,482,1233,498,1286,519,1350,554,1384,578,1415,605,1465,656"/>
+<area shape="rect" id="Node000011" href="$de/d3b/class_c_base_door.html#ade64a5c38a51efa02cec0e9b0cc34b9e" title="Starts the door going to its &quot;down&quot; position." alt="" coords="1167,568,1338,595"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="1438,665,1284,598,1286,593,1441,660"/>
+<area shape="rect" id="Node000017" href="$de/d3b/class_c_base_door.html#a6dd5e8bb0768e579f845d10a0a43dd28" title="Starts the door going to its &quot;up&quot; position." alt="" coords="219,644,374,671"/>
+<area shape="poly" id="edge32_Node000001_Node000017" title=" " alt="" coords="1434,704,1355,729,1253,756,1137,778,1078,784,1020,787,775,787,680,786,605,782,532,768,441,741,405,726,370,708,315,673,318,669,373,704,407,721,443,736,533,763,606,777,680,781,775,781,1020,781,1078,779,1137,773,1252,751,1354,724,1433,699"/>
+<area shape="rect" id="Node000021" href="$d0/d93/class_c_func_track_change.html#a1cb0c02694236d633ecf5a14dac87ac4" title="Moves the track change entity down." alt="" coords="1156,821,1348,848"/>
+<area shape="poly" id="edge33_Node000001_Node000021" title=" " alt="" coords="1464,710,1415,757,1383,783,1350,805,1308,823,1306,818,1347,800,1380,778,1411,753,1461,706"/>
+<area shape="rect" id="Node000024" href="$d0/d93/class_c_func_track_change.html#a86a802569986a457166bf7aa2de3831c" title="Moves the track change entity up." alt="" coords="1164,872,1340,899"/>
+<area shape="poly" id="edge36_Node000001_Node000024" title=" " alt="" coords="1474,711,1454,745,1426,786,1391,827,1350,862,1327,874,1324,869,1347,858,1388,824,1422,783,1450,743,1470,708"/>
+<area shape="rect" id="Node000003" href="$d8/dd6/class_c_base_button.html#a3bac76de72c1f4981ce1c5f021f0431b" title="Handles touch interactions with the button." alt="" coords="929,213,1108,240"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1141,229,1109,229,1109,224,1141,224"/>
+<area shape="rect" id="Node000006" href="$d8/dd6/class_c_base_button.html#a8fd92acf133124bddea1334d3e8be26f" title="Handles the use interaction with the button." alt="" coords="213,68,380,95"/>
+<area shape="poly" id="edge15_Node000002_Node000006" title=" " alt="" coords="1206,209,1159,191,1107,175,1007,153,905,135,702,109,520,94,380,86,381,81,520,88,702,104,906,130,1008,148,1109,169,1161,186,1208,204"/>
+<area shape="rect" id="Node000009" href="$d8/dd6/class_c_base_button.html#a64525735e7e495aa67a55953e08e75f0" title="Handles damage taken by the button entity." alt="" coords="205,239,388,265"/>
+<area shape="poly" id="edge16_Node000002_Node000009" title=" " alt="" coords="1186,247,1047,279,964,294,881,305,809,310,736,311,593,302,464,286,364,269,365,263,465,281,594,297,737,305,809,305,880,300,963,289,1045,274,1185,242"/>
+<area shape="rect" id="Node000004" href="$d8/dd6/class_c_base_button.html#aca9cf4012a08dffe79128ab0bafa0fba" title="Handles the button returning to its start state." alt="" coords="672,264,881,291"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="937,246,844,266,843,261,936,241"/>
+<area shape="rect" id="Node000007" href="$d6/d80/class_c_rot_button.html#a60fe287e0fee6141f73bd3d3f18a1767" title="Spawns the rotating button entity." alt="" coords="10,5,146,32"/>
+<area shape="poly" id="edge12_Node000003_Node000007" title=" " alt="" coords="961,211,880,185,639,114,532,87,394,59,262,39,146,27,146,21,263,33,394,53,533,82,640,109,881,180,963,205"/>
+<area shape="rect" id="Node000008" href="$d8/dd6/class_c_base_button.html#a5eae01688c33be4ada622a6f7cd9d3ca" title="Spawns the button entity." alt="" coords="5,132,151,159"/>
+<area shape="poly" id="edge13_Node000003_Node000008" title=" " alt="" coords="989,251,940,281,911,295,881,305,817,316,730,322,628,323,521,321,322,306,246,294,198,280,159,254,126,221,101,187,84,160,89,158,105,184,130,217,162,250,200,275,247,289,322,301,521,315,629,318,730,316,816,311,880,300,909,290,938,277,986,247"/>
+<area shape="rect" id="Node000010" href="$d8/dd6/class_c_base_button.html#a26f3cfcfea37ef5c8b1143a1332d958e" title="Handles the button reaching the &quot;in/up&quot; position." alt="" coords="199,163,394,189"/>
+<area shape="poly" id="edge14_Node000003_Node000010" title=" " alt="" coords="913,214,880,211,617,191,394,182,394,176,617,186,881,205,913,209"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="693,263,600,243,601,238,694,258"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="640,224,929,224,929,229,640,229"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="495,207,319,97,321,93,498,203"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="427,241,388,245,388,240,426,235"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="452,212,361,193,363,187,453,207"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="232,66,127,35,128,30,234,61"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="234,102,127,134,126,129,233,97"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="409,165,442,164,630,160,776,163,922,176,1108,199,1180,210,1179,215,1108,204,921,181,776,169,630,165,442,169,409,171"/>
+<area shape="rect" id="Node000012" href="$de/d3b/class_c_base_door.html#a328f374a6339be384dcbfd4e1d44d9ef" title="Handles the blocked behavior for the door." alt="" coords="7,517,149,544"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="1161,566,1155,564,1131,552,1107,541,1017,513,945,495,872,485,778,483,532,483,427,486,323,496,150,521,149,515,323,491,427,481,532,477,778,477,873,480,946,490,1018,508,1109,536,1133,547,1157,559,1163,561"/>
+<area shape="rect" id="Node000013" href="$de/d3b/class_c_base_door.html#a5987e49900e7c7845d62f27c4af514f5" title="Causes the door to &quot;do its thing&quot;, i.e., start moving and cascade activation." alt="" coords="934,644,1103,671"/>
+<area shape="poly" id="edge20_Node000011_Node000013" title=" " alt="" coords="1195,603,1063,646,1061,641,1193,597"/>
+<area shape="rect" id="Node000016" href="$de/d3b/class_c_base_door.html#a347c41f04e7992149fd6cbd4a3cd6594" title="The door has reached the &quot;up&quot; position." alt="" coords="454,568,613,595"/>
+<area shape="poly" id="edge31_Node000011_Node000016" title=" " alt="" coords="1151,584,613,584,613,579,1151,579"/>
+<area shape="rect" id="Node000014" href="$de/d3b/class_c_base_door.html#a4de3928e8144b4f6d85e6b537283ff52" title="Handles the touch behavior for doors not tied to anything." alt="" coords="698,619,855,645"/>
+<area shape="poly" id="edge21_Node000013_Node000014" title=" " alt="" coords="918,650,855,643,856,638,919,644"/>
+<area shape="rect" id="Node000020" href="$de/d3b/class_c_base_door.html#ad814a3bc4ab6f2abfd3f4ddda16ccd91" title="Used by SUB_UseTargets when a door is the target of a button." alt="" coords="717,669,836,696"/>
+<area shape="poly" id="edge30_Node000013_Node000020" title=" " alt="" coords="919,670,836,679,836,674,918,665"/>
+<area shape="rect" id="Node000015" href="$de/d3b/class_c_base_door.html#a7a00193ddc527adee54032752b966b7c" title="The door has reached the &quot;down&quot; position." alt="" coords="443,517,623,544"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="737,613,684,585,623,558,589,547,591,542,625,554,686,581,739,608"/>
+<area shape="poly" id="edge24_Node000014_Node000016" title=" " alt="" coords="693,617,600,598,601,593,694,612"/>
+<area shape="rect" id="Node000018" href="$de/d3b/class_c_base_door.html#a7c17bb171f186b0bfe3b12bb5f8b44b7" title="Spawns the door entity." alt="" coords="466,619,600,645"/>
+<area shape="poly" id="edge28_Node000014_Node000018" title=" " alt="" coords="682,635,601,635,601,629,682,629"/>
+<area shape="rect" id="Node000019" href="$d4/d1a/class_c_rot_door.html#afea049164a038d09ea1a2bf4f77b746d" title="Spawns the rotating door entity." alt="" coords="471,669,595,696"/>
+<area shape="poly" id="edge29_Node000014_Node000019" title=" " alt="" coords="694,652,596,672,595,667,693,647"/>
+<area shape="poly" id="edge23_Node000015_Node000011" title=" " alt="" coords="639,531,855,542,1108,560,1166,567,1166,572,1108,565,855,547,638,537"/>
+<area shape="poly" id="edge25_Node000016_Node000017" title=" " alt="" coords="467,602,443,609,336,646,335,641,441,604,465,597"/>
+<area shape="poly" id="edge26_Node000017_Node000012" title=" " alt="" coords="257,638,101,547,104,542,260,634"/>
+<area shape="poly" id="edge27_Node000017_Node000013" title=" " alt="" coords="343,675,390,692,443,705,565,724,661,731,758,725,880,705,938,689,988,669,990,674,940,694,881,711,758,730,661,736,564,729,441,711,388,697,341,680"/>
+<area shape="rect" id="Node000022" href="$d0/d93/class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="935,821,1102,848"/>
+<area shape="poly" id="edge34_Node000021_Node000022" title=" " alt="" coords="1140,837,1102,837,1102,832,1140,832"/>
+<area shape="rect" id="Node000023" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="944,872,1093,899"/>
+<area shape="poly" id="edge35_Node000021_Node000023" title=" " alt="" coords="1173,854,1084,874,1083,869,1172,849"/>
+<area shape="poly" id="edge37_Node000024_Node000022" title=" " alt="" coords="1172,871,1083,851,1084,846,1173,866"/>
+<area shape="poly" id="edge38_Node000024_Node000023" title=" " alt="" coords="1148,888,1094,888,1094,883,1148,883"/>
+</map>

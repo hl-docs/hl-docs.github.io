@@ -1,5 +1,0 @@
-<map id="CItemLongJump::Precache" name="CItemLongJump::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the long jump item." alt="" coords="215,5,392,32"/>
-<area shape="rect" id="Node000002" href="$class_c_item_long_jump.html#a8760d3081b607076c61a1dce4302367d" title="Spawns the long jump item in the game." alt="" coords="5,5,167,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,167,21,167,16,199,16"/>
-</map>

@@ -1,0 +1,42 @@
+<map id="CNihilanth::ShootBalls" name="CNihilanth::ShootBalls">
+<area shape="rect" id="Node000001" title="Shoots energy balls from the Nihilanth." alt="" coords="5,208,157,235"/>
+<area shape="rect" id="Node000002" href="$d9/d71/class_c_nihilanth_h_v_r.html#acc6b4e52001653a9ca7f00a049f56e70" title="Initializes the zap behavior for the Nihilanth Hover entity." alt="" coords="205,208,358,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,219,189,219,189,224,157,224"/>
+<area shape="rect" id="Node000003" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="423,157,561,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,205,418,186,419,191,341,210"/>
+<area shape="rect" id="Node000004" href="$d9/d71/class_c_nihilanth_h_v_r.html#ae6c7e59112d110fcaed166a10866d1c7" title="Handles the zap think behavior for the Nihilanth Hover entity." alt="" coords="408,208,575,235"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="358,219,392,219,392,224,358,224"/>
+<area shape="rect" id="Node000017" href="$d9/d71/class_c_nihilanth_h_v_r.html#a95b0a04a3e0b2702b9f85d6fd5d5edda" title="Handles the zap touch behavior for the Nihilanth Hover entity." alt="" coords="406,360,577,387"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="303,233,461,349,458,353,300,237"/>
+<area shape="rect" id="Node000005" href="$d3/d55/hl__baseentity_8cpp.html#aff7edc899cc0eebd50494f0d139daccd" title=" " alt="" coords="662,5,792,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="560,205,575,194,589,176,596,158,598,119,601,81,608,61,624,42,646,28,649,32,627,46,613,64,606,82,604,120,601,159,594,178,579,198,563,210"/>
+<area shape="rect" id="Node000006" href="$d3/d55/hl__baseentity_8cpp.html#acbf3bd7aaed4b829055818197d1c086b" title=" " alt="" coords="663,56,791,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="558,205,576,194,586,182,593,170,598,144,604,118,612,105,624,93,647,79,650,84,627,97,616,108,609,120,604,146,598,172,591,185,579,198,561,210"/>
+<area shape="rect" id="Node000007" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="651,107,803,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="552,205,576,194,590,182,599,169,608,156,624,143,636,137,638,142,627,148,612,159,603,172,594,185,579,198,554,210"/>
+<area shape="rect" id="Node000010" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="660,157,794,184"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="557,205,646,185,647,190,558,210"/>
+<area shape="rect" id="Node000011" href="$d5/de5/class_c_base_entity.html#a7b55b66f1ee672cbe6d1b902c9aa70c6" title="Handles a trace attack on an entity." alt="" coords="641,208,813,235"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="576,219,625,219,625,224,576,224"/>
+<area shape="rect" id="Node000012" href="$dc/d44/dlls_2util_8cpp.html#ad146598f5113a09b2d852650c03fe2b2" title="Emits an ambient sound at a specified origin." alt="" coords="644,411,810,437"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="504,233,562,321,597,367,627,397,635,402,633,406,624,401,593,371,557,324,499,236"/>
+<area shape="rect" id="Node000015" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="677,309,777,336"/>
+<area shape="poly" id="edge14_Node000004_Node000015" title=" " alt="" coords="515,233,564,264,626,295,662,307,661,312,624,300,562,269,512,238"/>
+<area shape="rect" id="Node000016" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="672,259,782,285"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="558,233,657,254,656,260,557,238"/>
+<area shape="rect" id="Node000008" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="929,245,975,272"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="803,131,830,143,860,163,888,186,932,231,928,235,885,190,857,167,827,148,801,136"/>
+<area shape="rect" id="Node000009" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="897,107,1007,133"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="803,117,882,117,882,123,803,123"/>
+<area shape="rect" id="Node000013" href="$d5/db2/class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="881,385,1023,412"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="810,412,865,406,866,411,811,417"/>
+<area shape="rect" id="Node000014" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="877,436,1027,463"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="811,431,861,436,861,442,810,436"/>
+<area shape="poly" id="edge20_Node000017_Node000012" title=" " alt="" coords="558,385,647,404,646,409,557,390"/>
+<area shape="poly" id="edge21_Node000017_Node000015" title=" " alt="" coords="557,357,661,334,662,339,558,362"/>
+<area shape="rect" id="Node000018" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="662,360,792,387"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="578,371,647,371,647,376,578,376"/>
+<area shape="rect" id="Node000019" href="$d4/d7a/class_c_base_monster.html#a9d51846894118171b72b5a73cddca707" title="Inflicts radius damage from the monster&#39;s position." alt="" coords="625,461,829,488"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="515,385,564,416,626,447,646,454,644,459,624,452,562,421,512,390"/>
+<area shape="poly" id="edge18_Node000018_Node000008" title=" " alt="" coords="792,358,828,346,880,314,923,280,926,284,883,319,830,350,794,363"/>
+</map>

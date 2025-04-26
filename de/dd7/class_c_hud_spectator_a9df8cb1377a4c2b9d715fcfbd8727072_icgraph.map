@@ -1,0 +1,20 @@
+<map id="CHudSpectator::HandleButtonsUp" name="CHudSpectator::HandleButtonsUp">
+<area shape="rect" id="Node000001" title="Handles the release of spectator input buttons." alt="" coords="486,81,704,108"/>
+<area shape="rect" id="Node000002" href="$d8/d8c/input_8cpp.html#a7215648d82f3a1975858b808e3b9f6c7" title="Called when the back movement key is released." alt="" coords="339,5,425,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="540,78,421,35,423,30,542,73"/>
+<area shape="rect" id="Node000006" href="$d8/d8c/input_8cpp.html#aa28f6b3815a3d472d5a8448ef0182b25" title="Called when the forward movement key is released." alt="" coords="331,56,433,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="470,82,433,78,434,73,471,77"/>
+<area shape="rect" id="Node000007" href="$d8/d8c/input_8cpp.html#a11129f5df3d7d41d0807386b35be0ca5" title="Called when the move left key is released." alt="" coords="330,107,434,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="471,112,434,117,434,111,470,107"/>
+<area shape="rect" id="Node000008" href="$d8/d8c/input_8cpp.html#af72f76ebec674b661ad9b138b037f9ac" title="Called when the move right key is released." alt="" coords="326,157,438,184"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="542,116,423,159,421,154,540,111"/>
+<area shape="rect" id="Node000003" href="$d8/d8c/input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="212,81,278,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,42,328,46,268,83,265,79,325,42,334,37"/>
+<area shape="rect" id="Node000004" href="$d9/dbd/cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="92,81,164,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,97,165,97,165,92,197,92"/>
+<area shape="rect" id="Node000005" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,81,44,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,97,44,97,44,92,76,92"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="316,84,279,91,278,86,315,79"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="315,110,278,103,279,98,316,105"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="334,153,325,148,265,111,268,106,328,143,337,148"/>
+</map>

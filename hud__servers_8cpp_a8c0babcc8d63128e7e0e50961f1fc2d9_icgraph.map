@@ -1,7 +1,0 @@
-<map id="ServersCancel" name="ServersCancel">
-<area shape="rect" id="Node000001" title="Cancels any ongoing requests in the global server browser." alt="" coords="473,29,577,56"/>
-<area shape="rect" id="Node000002" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a5939f1fcd09ba93c5eaabc9b5f0eac70" title=" " alt="" coords="216,5,425,80"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,45,426,45,426,40,458,40"/>
-<area shape="rect" id="Node000003" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_stop_handler.html#ae58338d9c0e2a8cb30cdfb2e90df792a" title=" " alt="" coords="5,5,168,80"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,45,168,45,168,40,200,40"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CBaseDoor::SetToggleState" name="CBaseDoor::SetToggleState">
+<area shape="rect" id="Node000001" title="Sets the toggle state of the door." alt="" coords="5,5,190,32"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="238,5,346,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,16,222,16,222,21,190,21"/>
+</map>

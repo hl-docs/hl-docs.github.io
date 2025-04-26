@@ -1,5 +1,0 @@
-<map id="CFlyingMonster::GetStoppedActivity" name="CFlyingMonster::GetStoppedActivity">
-<area shape="rect" id="Node000001" title="Gets the activity when the flying monster is stopped." alt="" coords="252,5,441,48"/>
-<area shape="rect" id="Node000002" href="$class_c_flying_monster.html#a26d74b7b4e6820298b8919c9cea88e87" title="Executes the movement of the flying monster." alt="" coords="5,13,204,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,29,204,29,204,24,236,24"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="UpdateRange" name="UpdateRange">
+<area shape="rect" id="Node000001" title="Updates the range of values based on the goal and best values." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="Node000002" href="$d9/d34/nodes_8cpp.html#a2a0c4b06217f094f8c764136ba17c0b5" title="Calculates the bounds for a given goal and best value." alt="" coords="153,5,244,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,137,16,137,21,105,21"/>
+</map>

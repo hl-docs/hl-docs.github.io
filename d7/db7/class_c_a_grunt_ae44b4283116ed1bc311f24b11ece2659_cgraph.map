@@ -1,0 +1,29 @@
+<map id="CAGrunt::StartTask" name="CAGrunt::StartTask">
+<area shape="rect" id="Node000001" title="Starts a task for the Alien Grunt." alt="" coords="5,259,141,285"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#afcbb5ee692729f28d1985fac676d178f" title="Builds a route to a specified goal." alt="" coords="204,5,382,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,258,85,215,106,157,140,95,161,66,187,42,193,38,196,42,190,46,165,70,144,98,111,159,90,217,80,259"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#ac63a5e1c0bec68ff48cbd01a27f941ae" title=" " alt="" coords="223,56,363,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="77,257,90,224,113,179,146,132,187,93,207,82,209,86,190,97,150,136,118,182,95,226,82,259"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="270,107,316,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="81,257,122,201,152,170,187,143,221,129,254,121,255,126,222,134,190,148,156,174,126,205,85,260"/>
+<area shape="rect" id="Node000005" href="$d4/d7a/class_c_base_monster.html#a8cab8882314f3d6953372740e88aaca3" title="Calculates the ideal yaw for the monster to face a target." alt="" coords="193,157,393,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="89,256,132,225,188,194,206,187,208,192,190,198,135,229,93,260"/>
+<area shape="rect" id="Node000006" href="$d5/de5/class_c_base_entity.html#a50acf4d846cc583e41c17df62cc917c1" title=" " alt="" coords="189,208,397,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="134,255,217,236,218,241,135,261"/>
+<area shape="rect" id="Node000007" href="$d4/d7a/class_c_base_monster.html#ad48e6760ee3609d8f13383c10c4a2650" title="Starts a task for the monster." alt="" coords="207,259,379,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="141,269,192,269,192,275,141,275"/>
+<area shape="rect" id="Node000008" href="$d4/d7a/class_c_base_monster.html#a024c0e956ca067ea04615cf874efee79" title=" " alt="" coords="194,309,392,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="135,283,218,303,217,308,134,289"/>
+<area shape="rect" id="Node000010" href="$d4/d7a/class_c_base_monster.html#a85ce7d6f5797b914bd256434ac966d32" title=" " alt="" coords="211,360,375,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="93,284,135,315,190,346,208,352,206,357,188,350,132,319,89,288"/>
+<area shape="rect" id="Node000012" href="$d3/d55/hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="227,411,359,437"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="85,284,126,339,156,370,190,396,214,407,211,412,187,401,152,374,122,343,81,287"/>
+<area shape="rect" id="Node000013" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="238,461,348,488"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="82,285,95,318,118,362,150,408,190,447,224,463,222,468,187,452,146,412,113,365,90,320,77,287"/>
+<area shape="rect" id="Node000014" href="$d3/d55/hl__baseentity_8cpp.html#a59a244ce0d81abfbe9ad0097bad40100" title=" " alt="" coords="227,512,359,539"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="80,285,90,327,111,385,144,446,165,474,190,498,213,511,211,516,187,502,161,478,140,449,106,387,85,329,74,286"/>
+<area shape="rect" id="Node000009" href="$d4/d7a/class_c_base_monster.html#ad47e63eada724d17f05421fd73911cd1" title=" " alt="" coords="445,309,644,336"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="393,320,429,320,429,325,393,325"/>
+<area shape="rect" id="Node000011" href="$d4/d7a/class_c_base_monster.html#a0e452f766d29a4d6008044338dbd3aa6" title=" " alt="" coords="447,360,643,387"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="375,371,431,371,431,376,375,376"/>
+</map>

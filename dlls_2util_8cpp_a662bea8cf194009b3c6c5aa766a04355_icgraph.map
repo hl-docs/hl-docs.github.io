@@ -1,5 +1,0 @@
-<map id="UTIL_SayTextAll" name="UTIL_SayTextAll">
-<area shape="rect" id="Node000001" title="Sends a text message to all clients." alt="" coords="206,13,323,40"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#ac0fc8aaae964ae8985007b82acafe5ff" title="Handles changes to a player&#39;s user info." alt="" coords="5,5,158,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,29,158,29,158,24,190,24"/>
-</map>

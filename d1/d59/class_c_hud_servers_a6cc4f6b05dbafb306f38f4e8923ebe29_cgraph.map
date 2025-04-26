@@ -1,0 +1,5 @@
+<map id="CHudServers::GetServerInfo" name="CHudServers::GetServerInfo">
+<area shape="rect" id="Node000001" title="Gets the key/value info string of a specified server." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="Node000002" href="$d1/d59/class_c_hud_servers.html#a0cf574be6e6cfb2849ded46f773a2d45" title="Returns a pointer to the server at the specified index." alt="" coords="235,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,16,219,16,219,21,187,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBigMomma::NodeStart" name="CBigMomma::NodeStart">
+<area shape="rect" id="Node000001" title="Starts the node sequence for the Big Momma entity." alt="" coords="214,5,376,32"/>
+<area shape="rect" id="Node000002" href="$dd/d0a/class_c_big_momma.html#a5b08b3d01ea66e18ff8f58c974ff714c" title="Starts a task for Big Momma." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,166,21,166,16,198,16"/>
+</map>

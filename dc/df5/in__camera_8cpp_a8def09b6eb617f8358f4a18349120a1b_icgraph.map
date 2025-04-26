@@ -1,0 +1,19 @@
+<map id="SDL_GetCursorPos" name="SDL_GetCursorPos">
+<area shape="rect" id="Node000001" title="Gets the current mouse cursor position." alt="" coords="665,56,800,83"/>
+<area shape="rect" id="Node000002" href="$dc/df5/in__camera_8cpp.html#a7a3bcc169993003933579b11fda8935a" title="Starts using the mouse to change the camera distance (zoom in/out)." alt="" coords="472,5,608,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="663,54,593,35,594,30,665,49"/>
+<area shape="rect" id="Node000007" href="$dc/df5/in__camera_8cpp.html#ac5dc4afbcc03bc0919b54385b630c1e5" title="Starts handling camera movement with the mouse." alt="" coords="463,56,617,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="650,72,617,72,617,67,650,67"/>
+<area shape="rect" id="Node000008" href="$dc/df5/in__camera_8cpp.html#af43e0af8eb6804de13d670591b167b7b" title="Main function that updates third&#45;person camera position and angles each frame." alt="" coords="326,107,415,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="660,89,617,97,508,111,415,120,415,114,508,106,617,92,659,84"/>
+<area shape="rect" id="Node000003" href="$dc/df5/in__camera_8cpp.html#a010ef08e17dde10bd79877c4d0cdd3fd" title="Initializes camera system and binds key commands to actions." alt="" coords="333,56,408,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,40,409,61,407,56,478,34"/>
+<area shape="rect" id="Node000004" href="$d8/d8c/input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="212,56,278,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="318,72,279,72,279,67,318,67"/>
+<area shape="rect" id="Node000005" href="$d9/dbd/cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="92,56,164,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="197,72,165,72,165,67,197,67"/>
+<area shape="rect" id="Node000006" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,81,44,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="77,84,45,93,44,87,76,79"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="447,72,408,72,408,67,447,67"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="310,118,44,99,44,93,311,113"/>
+</map>

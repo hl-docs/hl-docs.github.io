@@ -1,0 +1,17 @@
+<map id="CActAnimating::GetActivity" name="CActAnimating::GetActivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="393,132,572,159"/>
+<area shape="rect" id="Node000002" href="$d6/d6a/class_c_xen_tree.html#acd8fcc73ba7f41d50abacc8d35598470" title="Executes the attack action of the Xen tree." alt="" coords="218,31,341,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,126,344,72,317,60,320,55,346,67,447,121"/>
+<area shape="rect" id="Node000005" href="$d5/d27/class_c_xen_p_light.html#a87057bb6dea4f1cef6aee879d4aec84d" title="Think function for the Xen plant light." alt="" coords="216,81,343,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="411,130,335,111,337,106,412,125"/>
+<area shape="rect" id="Node000006" href="$d6/d6a/class_c_xen_tree.html#ab5fcd3721e36a16e80a11b19c57680b8" title="Think function for the Xen tree." alt="" coords="222,132,337,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="378,148,338,148,338,143,378,143"/>
+<area shape="rect" id="Node000007" href="$dc/d7f/class_c_xen_spore.html#a8f9ed9e5c8d73fab3335448aca0b20fe" title="Think function for the Xen spore." alt="" coords="217,183,342,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="412,166,337,185,335,179,411,160"/>
+<area shape="rect" id="Node000008" href="$d5/d27/class_c_xen_p_light.html#af83b0df12b451ca5041d4040efa8b62e" title="Handles the touch event for the Xen plant light." alt="" coords="214,233,345,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="447,169,346,224,320,235,317,230,344,219,444,165"/>
+<area shape="rect" id="Node000003" href="$d6/d6a/class_c_xen_tree.html#aa778274ffe54626f3671e596481b6d81" title="Inflicts damage on the entity." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,37,166,32,167,27,203,31"/>
+<area shape="rect" id="Node000004" href="$d6/d6a/class_c_xen_tree.html#a57eb5f6508259699158c172f437661df" title="Handles the touch event for the Xen tree." alt="" coords="26,56,145,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="203,57,146,64,145,59,202,51"/>
+</map>

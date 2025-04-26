@@ -1,0 +1,20 @@
+<map id="PM_WaterMove" name="PM_WaterMove">
+<area shape="rect" id="Node000001" title="Handles movement while in water." alt="" coords="5,183,119,209"/>
+<area shape="rect" id="Node000002" href="$df/d58/pm__shared_8c.html#aa1c56bb275cd735559053b988b2efbe7" title="Handles flying movement mode." alt="" coords="177,107,274,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,180,180,138,182,143,94,184"/>
+<area shape="rect" id="Node000006" href="$d2/d29/cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="353,157,445,184"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="119,189,337,173,338,178,120,194"/>
+<area shape="rect" id="Node000007" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="186,208,265,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="119,202,170,210,170,215,119,207"/>
+<area shape="rect" id="Node000008" href="$d2/d29/cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="167,259,284,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="92,207,168,244,179,249,177,254,166,249,90,212"/>
+<area shape="rect" id="Node000003" href="$dd/d2e/studio__util_8cpp.html#a667bc7f812aa4b2f25b9bffce5d79d3c" title="Computes the cross product of two 3D vectors." alt="" coords="349,5,449,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,104,281,74,331,42,342,36,344,41,333,46,284,78,245,108"/>
+<area shape="rect" id="Node000004" href="$df/d58/pm__shared_8c.html#ad3d80fe28098f161b65d150d565c0a11" title="Records when the player touches a surface." alt="" coords="332,56,466,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="273,103,335,85,337,90,275,109"/>
+<area shape="rect" id="Node000005" href="$df/d58/pm__shared_8c.html#abd297d40e3ee83071bc3a0def6f772cc" title="Adjusts velocity when hitting a surface." alt="" coords="341,107,458,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="274,117,325,117,325,123,274,123"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="275,131,339,151,338,156,273,137"/>
+<area shape="rect" id="Node000009" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="378,259,421,285"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="285,269,362,269,362,275,285,275"/>
+</map>

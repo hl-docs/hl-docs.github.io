@@ -1,5 +1,0 @@
-<map id="CBasePlayerWeapon::RetireWeapon" name="CBasePlayerWeapon::RetireWeapon">
-<area shape="rect" id="Node000001" title="Retires a weapon when it has no more ammo." alt="" coords="5,5,159,48"/>
-<area shape="rect" id="Node000002" href="$class_c_game_rules.html#a1c1261ddbabfa1dcdb1f4b04a9b7a71b" title=" " alt="" coords="207,13,436,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,24,191,24,191,29,159,29"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CPython::SecondaryAttack" name="CPython::SecondaryAttack">
+<area shape="rect" id="Node000001" title="Handles the secondary attack for the Python weapon." alt="" coords="174,5,353,32"/>
+<area shape="rect" id="Node000002" href="$db/dc8/class_c_python.html#ae39f91f63c9f913ccd83bbfc408009af" title="Holsters the Python weapon." alt="" coords="5,5,126,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,21,126,21,126,16,158,16"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="CHudBenchmark::CountFrame" name="CHudBenchmark::CountFrame">
-<area shape="rect" id="Node000001" title="Records frame data to calculate average framerate." alt="" coords="212,5,410,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_benchmark.html#ae06d9a798b4da8865329470c7fc29880" title="Updates the benchmark logic." alt="" coords="5,5,164,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,21,164,21,164,16,196,16"/>
-</map>

@@ -1,0 +1,115 @@
+<map id="CBarnacle::Spawn" name="CBarnacle::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the barnacle entity." alt="" coords="5,925,134,952"/>
+<area shape="rect" id="Node000002" href="$de/d96/class_c_barnacle.html#a4226dea19f1c30a28fed856cc5007484" title="The main think function for the barnacle." alt="" coords="183,533,354,560"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,924,251,573,256,575,80,926"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1891,487,1937,513"/>
+<area shape="poly" id="edge60_Node000001_Node000005" title=" " alt="" coords="68,925,70,852,78,732,97,582,112,502,132,421,156,341,186,265,223,194,266,131,316,78,374,38,407,23,441,12,478,5,517,3,1462,3,1566,7,1610,14,1649,26,1686,44,1721,69,1756,101,1793,142,1813,172,1824,199,1828,226,1828,252,1828,308,1832,338,1841,372,1868,427,1896,472,1892,475,1863,429,1837,374,1826,339,1822,308,1823,252,1823,226,1819,201,1808,174,1789,146,1752,105,1718,73,1683,49,1647,31,1609,20,1566,12,1462,8,517,8,479,10,443,17,409,28,377,42,319,82,270,134,227,197,191,267,161,343,137,422,117,503,102,583,83,732,75,852,73,925"/>
+<area shape="rect" id="Node000014" href="$d4/d7a/class_c_base_monster.html#aff2100a3cb50d33a58240b540ff041b3" title="Sets the monster&#39;s activity to a new activity." alt="" coords="430,875,607,901"/>
+<area shape="poly" id="edge63_Node000001_Node000014" title=" " alt="" coords="134,925,181,917,414,893,415,899,182,923,134,930"/>
+<area shape="rect" id="Node000034" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="907,559,1007,585"/>
+<area shape="poly" id="edge65_Node000001_Node000034" title=" " alt="" coords="112,950,209,977,272,990,342,999,415,1003,490,1000,564,987,633,962,668,938,708,900,796,795,878,683,936,597,941,600,882,686,800,798,712,903,671,942,636,966,565,992,491,1005,415,1009,341,1004,271,995,207,982,110,955"/>
+<area shape="rect" id="Node000046" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="465,925,573,952"/>
+<area shape="poly" id="edge64_Node000001_Node000046" title=" " alt="" coords="134,936,449,936,449,941,134,941"/>
+<area shape="rect" id="Node000047" href="$db/dc1/class_c_base_animating.html#a687a7f90b352cb100fffcd49ebb2a585" title="Initializes the bone controllers for the animation." alt="" coords="182,1027,355,1069"/>
+<area shape="poly" id="edge61_Node000001_Node000047" title=" " alt="" coords="93,950,183,1006,205,1017,203,1022,180,1010,90,955"/>
+<area shape="rect" id="Node000048" href="$de/d96/class_c_barnacle.html#aef463dcd9289aea945164e6f7104b7d6" title="Preloads the resources needed by the barnacle." alt="" coords="196,1093,341,1120"/>
+<area shape="poly" id="edge62_Node000001_Node000048" title=" " alt="" coords="80,951,118,1013,148,1049,183,1079,191,1084,188,1089,180,1083,144,1052,114,1016,75,954"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#a0e9be05dc86bb8aef99fdb21c4d1c43a" title="Called when the monster is bitten by a barnacle." alt="" coords="417,555,620,597"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,554,402,560,401,565,354,559"/>
+<area shape="rect" id="Node000004" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="684,235,814,261"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="271,532,287,492,313,436,351,378,375,351,402,328,671,263,673,268,404,333,378,355,355,381,318,439,291,494,276,534"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="274,531,291,498,319,454,356,409,402,372,515,349,749,310,1098,253,1253,236,1454,216,1556,212,1651,215,1731,228,1765,239,1792,254,1807,266,1817,279,1826,307,1830,337,1841,372,1898,472,1894,475,1837,374,1825,339,1821,308,1812,282,1804,270,1790,258,1763,244,1730,233,1650,221,1556,218,1454,222,1253,241,1098,259,750,315,516,355,404,377,360,413,323,457,296,501,278,534"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="1408,335,1513,361"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="269,532,283,440,309,301,328,230,349,165,373,113,387,93,401,79,426,68,463,62,510,61,565,63,694,79,838,106,985,141,1122,179,1236,218,1314,254,1329,266,1339,279,1348,292,1362,304,1403,326,1400,331,1359,309,1344,295,1335,282,1326,270,1311,258,1234,223,1120,184,984,146,837,112,693,85,564,69,509,66,464,67,428,73,405,84,391,97,378,116,354,167,333,231,315,303,288,441,274,533"/>
+<area shape="rect" id="Node000009" href="$d5/de5/class_c_base_entity.html#a4f6c8c5c3432ef9c509c43194c74a70b" title=" " alt="" coords="433,621,605,648"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="296,558,345,583,404,607,429,614,428,620,402,612,343,588,294,563"/>
+<area shape="rect" id="Node000010" href="$d5/de5/class_c_base_entity.html#a7361acd9e2d77c86e2ff6960cd8e1c37" title=" " alt="" coords="423,672,615,699"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="284,559,333,608,367,635,404,658,419,664,417,669,402,662,364,639,329,612,280,563"/>
+<area shape="rect" id="Node000011" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="483,235,554,261"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="270,533,282,484,307,416,324,378,346,342,371,308,401,278,433,260,467,250,469,255,435,265,405,282,375,311,350,345,329,381,312,418,287,486,275,534"/>
+<area shape="rect" id="Node000012" href="$d5/de5/class_c_base_entity.html#a2a3645fbec4962b2ec7020a0bf84f8f1" title=" " alt="" coords="449,773,588,800"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="277,559,293,598,319,650,357,705,379,731,405,752,436,769,433,774,401,757,376,735,352,709,315,653,288,600,272,561"/>
+<area shape="rect" id="Node000013" href="$d5/de5/class_c_base_entity.html#a50acf4d846cc583e41c17df62cc917c1" title=" " alt="" coords="415,824,623,851"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="275,560,287,608,311,676,328,713,349,749,375,782,405,810,411,814,408,819,401,814,371,785,345,752,323,715,306,678,282,609,270,561"/>
+<area shape="poly" id="edge16_Node000002_Node000014" title=" " alt="" coords="274,560,283,616,304,698,321,742,344,786,371,826,405,861,418,869,415,874,401,865,367,830,339,789,317,745,299,700,278,617,268,561"/>
+<area shape="rect" id="Node000015" href="$db/dc1/class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="403,93,634,120"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="267,533,270,462,276,410,287,353,304,293,327,233,359,178,401,130,405,127,409,131,405,134,364,181,332,235,309,294,292,354,282,411,276,462,272,533"/>
+<area shape="rect" id="Node000016" href="$d4/d7a/class_c_base_monster.html#ad386ccd1636edf8528a34153aa75a078" title="Sets the monster&#39;s animation sequence by name." alt="" coords="422,144,615,187"/>
+<area shape="poly" id="edge18_Node000002_Node000016" title=" " alt="" coords="268,533,276,472,297,382,314,332,337,283,365,237,401,197,407,192,411,196,405,201,370,240,341,285,319,334,302,383,281,473,273,533"/>
+<area shape="rect" id="Node000017" href="$d5/d98/class_c_gib.html#af622b29a446456fd6a46e217bc572f73" title="Spawns random gibs from a victim." alt="" coords="433,504,605,531"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="354,534,417,527,418,532,355,539"/>
+<area shape="rect" id="Node000041" href="$db/dc1/class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="419,387,619,429"/>
+<area shape="poly" id="edge51_Node000002_Node000041" title=" " alt="" coords="281,531,332,486,365,461,402,439,414,433,416,438,404,444,368,465,335,490,285,535"/>
+<area shape="rect" id="Node000042" href="$d4/d7a/class_c_base_monster.html#ad73a936a05befe9d5e6a419042e69a21" title="Reduces the monster&#39;s health by a specified amount." alt="" coords="423,453,614,480"/>
+<area shape="poly" id="edge52_Node000002_Node000042" title=" " alt="" coords="298,530,346,510,402,489,430,482,431,487,404,495,348,515,300,535"/>
+<area shape="rect" id="Node000043" href="$de/d96/class_c_barnacle.html#aa52cfc244ffde743da41ab38ef7cd2c9" title=" " alt="" coords="864,740,1050,767"/>
+<area shape="poly" id="edge53_Node000002_Node000043" title=" " alt="" coords="278,559,296,592,323,633,359,675,381,693,404,708,439,721,485,732,602,745,731,751,848,752,848,758,730,756,601,750,484,737,437,726,402,713,378,698,356,679,319,636,291,594,274,562"/>
+<area shape="poly" id="edge59_Node000002_Node000046" title=" " alt="" coords="273,560,279,624,298,720,315,772,338,823,367,871,405,911,426,924,450,932,448,937,423,929,401,915,363,874,333,826,310,774,293,721,274,625,268,561"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="774,232,846,197,950,155,1011,135,1074,119,1139,108,1204,104,1462,104,1563,105,1605,108,1644,116,1681,128,1717,147,1754,174,1793,210,1809,230,1819,249,1826,287,1829,326,1833,348,1841,372,1869,426,1897,472,1893,475,1864,429,1837,374,1828,350,1824,327,1821,287,1814,251,1805,233,1789,214,1751,178,1714,152,1679,133,1643,121,1605,114,1563,110,1462,109,1204,109,1140,113,1075,124,1012,140,952,160,848,202,777,237"/>
+<area shape="rect" id="Node000007" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="1631,335,1769,361"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1513,345,1615,345,1615,351,1513,351"/>
+<area shape="rect" id="Node000008" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="1839,335,1989,361"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1769,345,1824,345,1824,351,1769,351"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="555,245,668,245,668,251,555,251"/>
+<area shape="poly" id="edge13_Node000011_Node000011" title=" " alt="" coords="481,236,473,226,477,216,493,210,519,208,547,211,562,218,559,223,546,216,519,213,494,215,481,220,478,226,485,233"/>
+<area shape="rect" id="Node000018" href="$d6/db6/cbase_8h.html#afdb9a60de9742917308f705391b22517" title=" " alt="" coords="1654,841,1746,868"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="606,525,636,541,656,564,664,588,670,612,685,638,732,694,777,739,820,775,864,803,911,826,965,845,1099,877,1173,889,1249,895,1326,896,1400,893,1535,880,1638,864,1639,869,1535,886,1400,899,1326,901,1249,900,1172,894,1097,883,963,850,909,831,861,808,817,779,773,743,729,698,680,642,665,614,659,589,651,566,633,545,604,529"/>
+<area shape="rect" id="Node000021" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="1624,639,1776,665"/>
+<area shape="poly" id="edge24_Node000017_Node000021" title=" " alt="" coords="602,529,636,540,660,557,684,574,756,608,815,632,876,645,956,649,1207,649,1609,649,1609,655,1207,655,955,655,875,650,814,637,754,613,681,578,657,561,633,545,600,534"/>
+<area shape="rect" id="Node000022" href="$d5/d98/class_c_gib.html#a112ff23abe26c0878145c718147d88f6" title="Limits the velocity of a gib." alt="" coords="682,537,816,564"/>
+<area shape="poly" id="edge27_Node000017_Node000022" title=" " alt="" coords="606,527,667,536,666,541,605,532"/>
+<area shape="rect" id="Node000023" href="$d5/d98/class_c_gib.html#ac315188a2ad0ccca89b963a05d0e0190" title="Spawns a gib with a specified model." alt="" coords="700,436,798,463"/>
+<area shape="poly" id="edge28_Node000017_Node000023" title=" " alt="" coords="590,501,634,489,700,466,701,471,635,495,591,506"/>
+<area shape="poly" id="edge50_Node000017_Node000034" title=" " alt="" coords="605,508,707,509,762,513,816,523,841,533,865,544,893,553,891,558,863,549,839,537,815,528,761,519,707,514,605,514"/>
+<area shape="poly" id="edge21_Node000018_Node000005" title=" " alt="" coords="1746,844,1769,835,1789,821,1836,701,1900,527,1905,529,1841,703,1793,824,1771,840,1747,849"/>
+<area shape="rect" id="Node000019" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="1860,715,1969,741"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="1745,839,1790,820,1842,786,1885,750,1889,754,1845,790,1792,825,1747,844"/>
+<area shape="rect" id="Node000020" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="1886,841,1943,868"/>
+<area shape="poly" id="edge23_Node000018_Node000020" title=" " alt="" coords="1747,852,1870,852,1870,857,1747,857"/>
+<area shape="poly" id="edge25_Node000021_Node000005" title=" " alt="" coords="1751,636,1790,618,1819,596,1847,571,1891,524,1895,527,1851,575,1823,600,1792,622,1754,640"/>
+<area shape="poly" id="edge26_Node000021_Node000019" title=" " alt="" coords="1741,663,1861,706,1859,711,1739,668"/>
+<area shape="poly" id="edge42_Node000023_Node000005" title=" " alt="" coords="798,444,1330,418,1622,412,1729,414,1792,421,1844,445,1887,475,1884,479,1842,450,1790,427,1728,419,1622,417,1330,423,798,449"/>
+<area shape="rect" id="Node000024" href="$d5/d98/class_c_gib.html#aa0c32e00a0f006a8541eae61554d68aa" title="Handles the touch event for a bouncing gib." alt="" coords="878,508,1036,535"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="791,461,902,500,900,505,789,466"/>
+<area shape="poly" id="edge43_Node000023_Node000034" title=" " alt="" coords="788,461,817,479,833,497,841,514,850,529,865,544,893,558,891,563,862,549,845,533,837,516,828,500,814,483,785,465"/>
+<area shape="rect" id="Node000035" href="$d5/d98/class_c_gib.html#aa8503812081337c144ea764d13ef6cb7" title="Waits for a gib to land before emitting a scent." alt="" coords="892,344,1022,371"/>
+<area shape="poly" id="edge44_Node000023_Node000035" title=" " alt="" coords="780,433,910,375,912,380,783,438"/>
+<area shape="poly" id="edge30_Node000024_Node000005" title=" " alt="" coords="1019,533,1051,544,1075,560,1085,568,1099,573,1165,587,1248,597,1343,603,1445,605,1546,603,1641,597,1724,587,1790,573,1842,550,1884,521,1887,525,1844,555,1792,579,1725,593,1641,602,1546,608,1445,610,1343,608,1248,602,1164,592,1097,579,1082,572,1072,565,1049,549,1017,538"/>
+<area shape="rect" id="Node000025" href="$d3/d9c/class_c_breakable.html#abc0601c8e7512f66d879d625401daefd" title="Plays a random sound associated with a specific material." alt="" coords="1116,471,1295,513"/>
+<area shape="poly" id="edge31_Node000024_Node000025" title=" " alt="" coords="1036,509,1100,502,1101,507,1036,515"/>
+<area shape="rect" id="Node000027" href="$dc/d44/dlls_2util_8cpp.html#a9c52d234cf02ae5c4ca04c90527b2c6c" title="Applies a blood decal at the location of a trace hit." alt="" coords="1129,537,1281,564"/>
+<area shape="poly" id="edge34_Node000024_Node000027" title=" " alt="" coords="1036,528,1114,537,1113,543,1036,533"/>
+<area shape="rect" id="Node000033" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="1150,689,1260,716"/>
+<area shape="poly" id="edge41_Node000024_Node000033" title=" " alt="" coords="1031,533,1052,545,1069,562,1078,580,1086,598,1100,618,1136,651,1172,679,1169,683,1132,655,1096,622,1081,601,1073,582,1065,565,1048,549,1028,538"/>
+<area shape="poly" id="edge32_Node000025_Node000006" title=" " alt="" coords="1244,468,1421,367,1423,372,1246,472"/>
+<area shape="rect" id="Node000026" href="$d3/d9c/class_c_breakable.html#a6b83f580bf8b8084907dc2e3aba1a9b9" title="Retrieves the sound list for a specific material type." alt="" coords="1360,436,1561,463"/>
+<area shape="poly" id="edge33_Node000025_Node000026" title=" " alt="" coords="1295,474,1361,463,1362,468,1296,480"/>
+<area shape="rect" id="Node000028" href="$dc/d44/dlls_2util_8cpp.html#a18786675baabf4a1e8605b2959d06e8a" title="Applies a decal at the location of a trace hit." alt="" coords="1401,537,1520,564"/>
+<area shape="poly" id="edge35_Node000027_Node000028" title=" " alt="" coords="1282,548,1386,548,1386,553,1282,553"/>
+<area shape="rect" id="Node000032" href="$dc/d44/dlls_2util_8cpp.html#a7e962acd5dc76628b0a5aabf9c0fdfe2" title="Determines if blood should be shown based on the color." alt="" coords="1381,487,1540,513"/>
+<area shape="poly" id="edge40_Node000027_Node000032" title=" " alt="" coords="1276,534,1374,514,1375,520,1277,539"/>
+<area shape="poly" id="edge37_Node000028_Node000021" title=" " alt="" coords="1495,562,1654,630,1651,635,1493,567"/>
+<area shape="rect" id="Node000029" href="$d8/d3c/util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="1658,537,1742,564"/>
+<area shape="poly" id="edge36_Node000028_Node000029" title=" " alt="" coords="1520,548,1643,548,1643,553,1520,553"/>
+<area shape="rect" id="Node000030" href="$d5/de5/class_c_base_entity.html#a17c4661ca7f9f14b07f28fb105f62599" title=" " alt="" coords="1613,436,1787,463"/>
+<area shape="poly" id="edge38_Node000028_Node000030" title=" " alt="" coords="1519,539,1559,523,1574,511,1583,499,1592,485,1607,472,1618,467,1620,472,1610,477,1596,489,1587,502,1578,515,1562,528,1521,544"/>
+<area shape="rect" id="Node000031" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="1633,487,1767,513"/>
+<area shape="poly" id="edge39_Node000028_Node000031" title=" " alt="" coords="1520,536,1618,515,1619,520,1521,541"/>
+<area shape="rect" id="Node000036" href="$d7/d97/class_c_sound_ent.html#af146a07b8a0c4e99cd3548ccf68b4908" title="Inserts a sound into the sound list." alt="" coords="1123,369,1287,396"/>
+<area shape="poly" id="edge45_Node000035_Node000036" title=" " alt="" coords="1022,361,1108,370,1107,375,1022,367"/>
+<area shape="rect" id="Node000037" href="$d5/de5/class_c_base_entity.html#a39552fc60de295b550b0061ba527c832" title="Starts the fade&#45;out process for an entity." alt="" coords="1098,268,1312,295"/>
+<area shape="poly" id="edge46_Node000035_Node000037" title=" " alt="" coords="992,341,1097,304,1125,296,1126,302,1099,309,994,346"/>
+<area shape="rect" id="Node000040" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="1155,319,1255,345"/>
+<area shape="poly" id="edge49_Node000035_Node000040" title=" " alt="" coords="1022,348,1139,336,1140,341,1022,353"/>
+<area shape="rect" id="Node000038" href="$d5/de5/class_c_base_entity.html#aa87861f918ff70eafd02569b2b3b49ed" title="Continues the fade&#45;out process for an entity." alt="" coords="1367,268,1554,295"/>
+<area shape="poly" id="edge47_Node000037_Node000038" title=" " alt="" coords="1313,279,1352,279,1352,284,1313,284"/>
+<area shape="rect" id="Node000039" href="$d5/de5/class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="1609,268,1791,295"/>
+<area shape="poly" id="edge48_Node000038_Node000039" title=" " alt="" coords="1554,279,1593,279,1593,284,1554,284"/>
+<area shape="poly" id="edge54_Node000043_Node000005" title=" " alt="" coords="1050,760,1155,766,1283,770,1422,766,1560,751,1629,741,1683,731,1732,712,1789,675,1826,641,1857,600,1881,560,1899,526,1903,529,1886,563,1861,603,1830,644,1793,679,1735,716,1684,736,1630,746,1561,756,1422,771,1283,775,1155,772,1050,765"/>
+<area shape="poly" id="edge58_Node000043_Node000033" title=" " alt="" coords="1025,737,1134,714,1135,720,1026,742"/>
+<area shape="rect" id="Node000044" href="$d4/d7a/class_c_base_monster.html#a5bb696a702ac281607eec2252008a414" title="Determines the relationship between two entities." alt="" coords="1111,841,1300,868"/>
+<area shape="poly" id="edge55_Node000043_Node000044" title=" " alt="" coords="984,765,1036,792,1099,820,1138,834,1136,839,1097,825,1034,797,982,770"/>
+<area shape="rect" id="Node000045" href="$dc/d44/dlls_2util_8cpp.html#af68c29797386a250d741368535d43dfb" title="Counts the number of entities within a specified box." alt="" coords="1395,715,1526,741"/>
+<area shape="poly" id="edge56_Node000043_Node000045" title=" " alt="" coords="1051,746,1379,729,1380,735,1051,751"/>
+<area shape="poly" id="edge57_Node000045_Node000021" title=" " alt="" coords="1504,712,1640,668,1642,673,1506,717"/>
+</map>

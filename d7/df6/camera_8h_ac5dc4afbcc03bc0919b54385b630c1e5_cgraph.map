@@ -1,0 +1,7 @@
+<map id="CAM_StartMouseMove" name="CAM_StartMouseMove">
+<area shape="rect" id="Node000001" title="Starts handling camera movement with the mouse." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="Node000002" href="$db/d4f/class_c_hud.html#ac1037bffa140abd71efd359593e0c571" title="Returns the current mouse sensitivity value." alt="" coords="208,5,349,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,31,192,27,193,32,161,37"/>
+<area shape="rect" id="Node000003" href="$dc/df5/in__camera_8cpp.html#a8def09b6eb617f8358f4a18349120a1b" title="Gets the current mouse cursor position." alt="" coords="211,56,346,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,51,196,56,195,61,160,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CLadder::Spawn" name="CLadder::Spawn">
+<area shape="rect" id="Node000001" title="Initializes the ladder entity." alt="" coords="5,31,122,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="213,5,259,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,33,197,22,198,27,123,38"/>
+<area shape="rect" id="Node000003" href="$df/dc4/class_c_ladder.html#a408513306fca4dd7c897629b4475853c" title="Prepares the ladder entity for operation." alt="" coords="170,56,302,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,50,155,55,154,60,122,55"/>
+</map>

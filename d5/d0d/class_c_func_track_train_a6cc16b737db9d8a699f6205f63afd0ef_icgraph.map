@@ -1,0 +1,5 @@
+<map id="CFuncTrackTrain::NearestPath" name="CFuncTrackTrain::NearestPath">
+<area shape="rect" id="Node000001" title="Finds the nearest path track for the track train." alt="" coords="228,13,427,40"/>
+<area shape="rect" id="Node000002" href="$d5/d0d/class_c_func_track_train.html#a1ccfc5232aaf4050af606ea3ce819c2a" title="Resets the track train&#39;s state and prepares it for the next path." alt="" coords="5,5,180,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,29,180,29,180,24,212,24"/>
+</map>

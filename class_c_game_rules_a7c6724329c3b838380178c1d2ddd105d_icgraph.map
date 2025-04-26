@@ -1,5 +1,0 @@
-<map id="CGameRules::ClientConnected" name="CGameRules::ClientConnected">
-<area shape="rect" id="Node000001" title=" " alt="" coords="156,5,357,32"/>
-<area shape="rect" id="Node000002" href="$client_8cpp.html#ab4cd33ae9b9026bf7a24e50f0fde1877" title="Called when a player connects to a server." alt="" coords="5,5,108,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,21,108,21,108,16,140,16"/>
-</map>

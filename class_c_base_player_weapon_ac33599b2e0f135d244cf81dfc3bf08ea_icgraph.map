@@ -1,5 +1,0 @@
-<map id="CBasePlayerWeapon::IsUseable" name="CBasePlayerWeapon::IsUseable">
-<area shape="rect" id="Node000001" title="Determines if a weapon is useable." alt="" coords="207,5,360,48"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a59ac992187225afef77591497f449ec0" title="Handles the post&#45;frame logic for a player weapon." alt="" coords="5,5,159,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,29,159,29,159,24,191,24"/>
-</map>

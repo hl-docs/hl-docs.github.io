@@ -1,0 +1,9 @@
+<map id="CTriggerCDAudio::Use" name="CTriggerCDAudio::Use">
+<area shape="rect" id="Node000001" title="Activates the CD audio trigger." alt="" coords="5,31,157,57"/>
+<area shape="rect" id="Node000002" href="$d3/d3e/class_c_trigger_c_d_audio.html#abba659bde795f9b34852ef95e8545b27" title="Plays the audio track associated with the trigger." alt="" coords="205,31,391,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,41,189,41,189,47,157,47"/>
+<area shape="rect" id="Node000003" href="$dc/d69/triggers_8cpp.html#a8017e676c936a23fddf40f61e0a88971" title="Plays the specified CD track." alt="" coords="441,5,538,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,29,425,24,425,30,392,34"/>
+<area shape="rect" id="Node000004" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="439,56,539,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="392,54,424,58,423,63,391,59"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CBaseMonster::BodyTarget" name="CBaseMonster::BodyTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,187,57"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html#ac63a5e1c0bec68ff48cbd01a27f941ae" title=" " alt="" coords="251,5,391,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,31,235,26,236,31,187,36"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#a4f6c8c5c3432ef9c509c43194c74a70b" title=" " alt="" coords="235,56,407,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,52,219,55,219,61,187,57"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="PM_CalcRoll" name="PM_CalcRoll">
-<area shape="rect" id="Node000001" title="Calculates the roll angle for a player based on their view angles and velocity." alt="" coords="5,5,102,32"/>
-<area shape="rect" id="Node000002" href="$pm__math_8c.html#abcfd2eb08af2296b6ea28caf16717a09" title="Converts angles into forward, right, and up direction vectors." alt="" coords="150,5,249,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,16,134,16,134,21,102,21"/>
-</map>

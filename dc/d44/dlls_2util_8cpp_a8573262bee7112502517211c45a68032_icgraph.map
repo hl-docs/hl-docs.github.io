@@ -1,0 +1,32 @@
+<map id="UTIL_Approach" name="UTIL_Approach">
+<area shape="rect" id="Node000001" title="Approaches a target value at a specified speed." alt="" coords="688,208,798,235"/>
+<area shape="rect" id="Node000002" href="$d4/d30/class_c_ichthyosaur.html#a0f89eace72a30e33cd6a98620af41e05" title="Changes the pitch of the ichthyosaur." alt="" coords="452,5,631,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="731,194,718,160,699,120,672,80,639,46,619,35,622,30,642,42,676,76,703,117,723,158,736,193"/>
+<area shape="rect" id="Node000003" href="$d9/d13/class_c_flying_monster.html#af30f90e869b0d2a7583a57df41416979" title="Changes the yaw of the flying monster." alt="" coords="447,56,636,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="724,197,688,149,665,125,639,104,602,86,604,81,642,99,669,121,692,146,728,193"/>
+<area shape="rect" id="Node000004" href="$d4/d30/class_c_ichthyosaur.html#a0e813ef2e04c46afe2f5e8236074740e" title="Changes the yaw of the ichthyosaur." alt="" coords="209,95,384,121"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="716,200,682,172,639,148,575,128,507,116,442,109,384,108,384,102,443,104,508,110,576,123,641,143,685,167,720,196"/>
+<area shape="rect" id="Node000005" href="$d5/da4/class_c_gargantua.html#a1839430c12b8cb4f1ec471cb178ec85b" title="Updates the Gargantua&#39;s eye glow effect." alt="" coords="460,157,622,184"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="673,207,597,187,598,182,674,201"/>
+<area shape="rect" id="Node000006" href="$d2/dc7/class_c_trigger_camera.html#ae65572e4e66660944b1c6bb08d7537e2" title="Moves the camera along the specified path." alt="" coords="465,208,617,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="673,224,618,224,618,219,673,219"/>
+<area shape="rect" id="Node000009" href="$d9/d13/class_c_flying_monster.html#a26d74b7b4e6820298b8919c9cea88e87" title="Executes the movement of the flying monster." alt="" coords="442,259,640,285"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="674,241,598,261,597,255,673,236"/>
+<area shape="rect" id="Node000010" href="$d4/d30/class_c_ichthyosaur.html#af8a9e18391b2098fbbfca89996315cd6" title="Updates the ichthyosaur&#39;s swimming behavior." alt="" coords="473,309,610,336"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="717,247,683,275,642,300,611,311,609,306,639,295,680,270,714,243"/>
+<area shape="rect" id="Node000012" href="$de/dde/class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="228,385,365,412"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="730,250,695,302,671,329,642,350,591,368,518,381,365,397,365,392,517,376,589,363,639,346,667,325,691,299,726,247"/>
+<area shape="rect" id="Node000014" href="$de/dde/class_c_leech.html#afc4932a50686ee9f41a87e29aebe8cc7" title="Updates the leech&#39;s motion based on its state." alt="" coords="465,411,618,437"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="735,250,721,283,701,322,675,361,642,394,609,412,606,408,639,390,671,357,696,319,716,281,730,248"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,88,385,97,384,92,437,83"/>
+<area shape="rect" id="Node000007" href="$d2/dc7/class_c_trigger_camera.html#aa8a467fa056991dd8a4225f7784d6819" title="Follows the target entity." alt="" coords="199,171,394,197"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="449,210,388,201,389,195,450,205"/>
+<area shape="rect" id="Node000008" href="$d2/dc7/class_c_trigger_camera.html#a1e79aa0cb1ea8697bb3d48299a216ce2" title="Activates the camera trigger." alt="" coords="5,196,151,223"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="450,222,151,214,151,209,450,216"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="184,200,151,204,151,198,183,194"/>
+<area shape="rect" id="Node000011" href="$d4/d30/class_c_ichthyosaur.html#ace8284a24b562b26adb3f46b6850ceb8" title="Handles the ichthyosaur&#39;s thinking logic." alt="" coords="205,309,388,336"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="457,325,388,325,388,320,457,320"/>
+<area shape="rect" id="Node000013" href="$de/dde/class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="22,385,134,412"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="213,401,135,401,135,396,213,396"/>
+<area shape="poly" id="edge16_Node000014_Node000012" title=" " alt="" coords="448,417,365,408,365,403,449,412"/>
+</map>

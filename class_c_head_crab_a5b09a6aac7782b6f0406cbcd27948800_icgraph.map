@@ -1,5 +1,0 @@
-<map id="CHeadCrab::GetScheduleOfType" name="CHeadCrab::GetScheduleOfType">
-<area shape="rect" id="Node000001" title="Retrieves the schedule of the specified type for the headcrab." alt="" coords="265,5,476,32"/>
-<area shape="rect" id="Node000002" href="$class_c_baby_crab.html#a75f91fa14b191522124cc4095c80fec4" title="Retrieves the schedule of the specified type for the baby headcrab." alt="" coords="5,5,217,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,21,217,21,217,16,249,16"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="CStudioModelRenderer::StudioEstimateGait" name="CStudioModelRenderer::StudioEstimateGait">
+<area shape="rect" id="Node000001" title="Estimates the gait (movement) of the player based on their velocity or the previous position." alt="" coords="5,5,160,48"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="208,13,268,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,24,192,24,192,29,160,29"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="316,13,359,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,24,300,24,300,29,268,29"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="CHudBenchmark::MsgFunc_Bench" name="CHudBenchmark::MsgFunc_Bench">
-<area shape="rect" id="Node000001" title="Handles the &quot;Bench&quot; network message from the server." alt="" coords="5,23,187,65"/>
-<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="246,5,344,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,30,230,24,231,29,187,35"/>
-<area shape="rect" id="Node000003" href="$hud__benchtrace_8h.html#ae66929f2c22fcf0b135b3495e9790376" title=" " alt="" coords="235,56,355,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,53,220,57,219,62,186,58"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="CFuncTankLaser::Think" name="CFuncTankLaser::Think">
-<area shape="rect" id="Node000001" title="Handles the thinking logic for the tank laser entity." alt="" coords="5,31,164,57"/>
-<area shape="rect" id="Node000002" href="$class_c_func_tank.html#aa2e41fb243b3fc542259ca41f214fda5" title="The think function for the func_tank entity." alt="" coords="212,5,338,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,31,196,26,197,32,164,36"/>
-<area shape="rect" id="Node000003" href="$class_c_laser.html#ae379e012333891145d280ebfcc6eb644" title="Turns off the laser effect." alt="" coords="219,56,331,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,52,204,57,204,63,163,57"/>
-<area shape="rect" id="Node000004" href="$class_c_sprite.html#a1ceacbcb997d27b2d1cdc7f65cf98a8b" title="Turns off the sprite effect." alt="" coords="386,56,499,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="331,67,370,67,370,72,331,72"/>
-</map>

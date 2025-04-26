@@ -1,0 +1,5 @@
+<map id="CBaseMonster::CallMonsterThink" name="CBaseMonster::CallMonsterThink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,190,48"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a78d6ba9d4f7da21ae68eff4198a05f04" title="Handles the monster&#39;s thinking process." alt="" coords="238,13,431,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
+</map>

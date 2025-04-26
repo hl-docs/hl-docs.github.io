@@ -1,0 +1,15 @@
+<map id="sqrt" name="sqrt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="368,81,411,108"/>
+<area shape="rect" id="Node000002" href="$d3/dc7/pm__math_8c.html#a9c4d0048c3779f963f8f7b40473102c8" title="Calculates the length (magnitude) of a vector." alt="" coords="231,31,292,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,83,291,58,293,53,355,78"/>
+<area shape="rect" id="Node000005" href="$d3/dc7/pm__math_8c.html#a4459a00d4002d1edac1e609fc299d61f" title="Converts a direction vector into angles." alt="" coords="212,81,311,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="352,97,311,97,311,92,352,92"/>
+<area shape="rect" id="Node000006" href="$d3/dc7/pm__math_8c.html#a9a5afc70a154f2aae2ad68b61b04e3f7" title="Makes a vector have a length of 1 while keeping its direction." alt="" coords="203,132,320,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="355,111,298,134,296,129,353,106"/>
+<area shape="rect" id="Node000003" href="$d3/dc7/pm__math_8c.html#a451d7fa2f32456fbb7a2804dbe07936b" title="Calculates the angle between two vectors in degrees." alt="" coords="5,5,155,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,40,155,32,156,26,216,35"/>
+<area shape="rect" id="Node000004" href="$d3/dc7/pm__math_8c.html#ab2064938c5db0d1ba3f8f2f96abf6f11" title="Calculates the distance between two points." alt="" coords="44,56,116,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,53,117,67,116,62,216,48"/>
+<area shape="rect" id="Node000007" href="$d3/dc7/pm__math_8c.html#a603a9d16cc55868d3bfa162a6c2e5b36" title="Creates right and up vectors from a forward vector." alt="" coords="32,132,128,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="187,148,128,148,128,143,187,143"/>
+</map>

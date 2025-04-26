@@ -1,0 +1,5 @@
+<map id="SequencePrecache" name="SequencePrecache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches the sounds associated with a specific animation sequence." alt="" coords="211,5,345,32"/>
+<area shape="rect" id="Node000002" href="$dd/d86/class_c_cine_monster.html#a93c4ca8c46be7c460c1b3bc1b5c41794" title="Activates the cinematic monster." alt="" coords="5,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,21,163,21,163,16,195,16"/>
+</map>

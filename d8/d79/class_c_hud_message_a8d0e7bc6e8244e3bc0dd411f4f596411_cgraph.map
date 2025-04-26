@@ -1,0 +1,5 @@
+<map id="CHudMessage::Init" name="CHudMessage::Init">
+<area shape="rect" id="Node000001" title="Initializes the HUD message system by hooking messages and resetting state." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="Node000002" href="$db/d4f/class_c_hud.html#aee3f9153b3045531340a6b60652db401" title="Adds a new HUD element to the list of HUD components." alt="" coords="185,5,322,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,16,169,16,169,21,137,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBaseMonster::FadeMonster" name="CBaseMonster::FadeMonster">
+<area shape="rect" id="Node000001" title="Fades the monster out of existence." alt="" coords="258,5,449,32"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#afcaee6b6757f8abf93b6d0208cad8b49" title="Calls the gibbing process for the monster." alt="" coords="5,5,210,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,21,210,21,210,16,242,16"/>
+</map>

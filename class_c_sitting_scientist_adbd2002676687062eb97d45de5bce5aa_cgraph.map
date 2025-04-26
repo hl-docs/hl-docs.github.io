@@ -1,5 +1,0 @@
-<map id="CSittingScientist::SittingThink" name="CSittingScientist::SittingThink">
-<area shape="rect" id="Node000001" title="Handles the sitting behavior and interactions of the scientist." alt="" coords="5,5,132,48"/>
-<area shape="rect" id="Node000002" href="$_game_studio_model_renderer___sample_8cpp.html#a18d6229942e256d2883e19bf2dabf3cd" title="Advances the animation frame based on the specified time interval." alt="" coords="180,13,324,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,24,164,24,164,29,132,29"/>
-</map>

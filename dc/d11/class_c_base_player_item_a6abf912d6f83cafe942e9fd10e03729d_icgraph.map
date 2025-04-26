@@ -1,0 +1,47 @@
+<map id="CBasePlayerItem::pszAmmo1" name="CBasePlayerItem::pszAmmo1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="781,455,977,481"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#a3546463a83121fedc1f2e249c176ebd0" title="Checks if the weapon has enough ammo to be deployed." alt="" coords="546,371,700,413"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="816,452,697,416,698,411,818,447"/>
+<area shape="rect" id="Node000018" href="$d4/d4f/class_c_game_rules.html#aa99c959689aeee3e0651bb97dcbae437" title="Checks if the player can have a specific item." alt="" coords="513,455,733,481"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="765,471,733,471,733,465,765,465"/>
+<area shape="rect" id="Node000020" href="$da/d7d/class_c_base_player_weapon.html#a59ac992187225afef77591497f449ec0" title="Handles weapon behavior during each frame." alt="" coords="546,563,700,605"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="834,491,673,564,671,560,832,486"/>
+<area shape="rect" id="Node000003" href="$da/d7d/class_c_base_player_weapon.html#a7bc312ba99eaf734af1135761e523ecb" title="Default method for deploying a weapon with animations and model." alt="" coords="305,352,458,395"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="531,388,458,382,458,377,531,382"/>
+<area shape="rect" id="Node000004" href="$d0/db0/class_c_crossbow.html#a135e9c515bc981e6be880394b2c1974f" title="Deploys the crossbow weapon." alt="" coords="103,5,238,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,337,361,274,338,196,322,155,301,115,277,79,247,46,231,35,234,30,251,42,281,75,306,113,327,153,343,194,366,273,378,336"/>
+<area shape="rect" id="Node000005" href="$d5/de8/class_c_shotgun.html#a20d3ca7fd13f66597b84df1531011dfc" title="Deploys the shotgun for use." alt="" coords="107,56,234,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="370,338,355,284,331,219,296,153,273,123,247,97,230,85,233,81,251,93,277,120,300,151,336,217,360,283,375,336"/>
+<area shape="rect" id="Node000006" href="$d4/d7c/class_c_glock.html#a8a1e6d95afb2af53710e09663a19d1aa" title="Deploys the Glock weapon." alt="" coords="114,107,227,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="366,338,349,295,324,243,290,192,247,147,226,135,228,130,251,143,294,188,328,241,354,292,371,336"/>
+<area shape="rect" id="Node000007" href="$d5/d05/class_c_crowbar.html#a935809b916f8d8ecc6f3f13f6237a0f8" title="Deploys the crowbar weapon." alt="" coords="108,157,233,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="360,339,315,268,284,230,248,198,227,187,230,182,251,194,288,227,319,264,365,336"/>
+<area shape="rect" id="Node000008" href="$db/dc8/class_c_python.html#acbf5eeadfdcd0563517bbcfb863dcc54" title="Deploys the Python weapon for use." alt="" coords="111,208,230,235"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="351,342,306,294,278,270,248,249,224,238,226,233,250,244,281,266,309,290,355,338"/>
+<area shape="rect" id="Node000009" href="$dd/d36/class_c_m_p5.html#afaffb2b6c0d790ff31e8b84938dd4151" title="Deploys the MP5 weapon." alt="" coords="118,259,223,285"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="333,346,248,300,218,288,220,283,250,295,335,341"/>
+<area shape="rect" id="Node000010" href="$da/d7e/class_c_rpg.html#ab5a12cdd15b75941a9936fed5b83398c" title="Deploys the RPG weapon." alt="" coords="120,309,221,336"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="289,354,221,337,222,332,290,349"/>
+<area shape="rect" id="Node000011" href="$db/dab/class_c_gauss.html#ae3a0b677d24814a7607df46385391e09" title="Deploys the Gauss weapon." alt="" coords="112,360,229,387"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="289,376,229,376,229,371,289,371"/>
+<area shape="rect" id="Node000012" href="$de/d32/class_c_egon.html#a8dd65175df536f7b8d45d172bc4ec349" title="Deploys the Egon weapon." alt="" coords="116,411,225,437"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="290,398,226,414,224,408,289,393"/>
+<area shape="rect" id="Node000013" href="$de/d2d/class_c_hgun.html#ab4f25b64be0fd9eac28005559d13f568" title="Deploys the hornet gun for use." alt="" coords="116,461,225,488"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="335,405,250,452,220,463,218,458,248,447,333,401"/>
+<area shape="rect" id="Node000014" href="$dd/dca/class_c_hand_grenade.html#a400bdfb17058df26b3a95920853bda50" title="Deploys the hand grenade for use." alt="" coords="92,512,249,539"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="335,406,299,437,285,454,277,470,267,486,251,502,230,514,227,509,247,498,263,483,272,468,281,451,295,433,332,402"/>
+<area shape="rect" id="Node000015" href="$dc/d48/class_c_satchel.html#a38be26d50209259d99649d31369d2c65" title="Deploys the satchel charge." alt="" coords="109,563,232,589"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="331,406,299,436,283,467,278,495,271,524,264,538,251,553,234,564,231,560,247,549,259,535,267,522,273,494,278,465,295,433,328,402"/>
+<area shape="rect" id="Node000016" href="$d1/d67/class_c_tripmine.html#a26016a64978ba554a76266bb9df692fe" title="Deploys the tripmine weapon." alt="" coords="107,613,234,640"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="329,406,299,436,287,459,281,480,279,521,276,561,267,582,251,603,235,615,232,611,247,599,262,580,270,560,274,521,276,479,282,457,295,433,326,402"/>
+<area shape="rect" id="Node000017" href="$d4/d4f/class_c_squeak.html#ac62277c8b3349f2029d6be99e07b91c7" title="Deploys the squeak weapon." alt="" coords="109,664,232,691"/>
+<area shape="poly" id="edge16_Node000003_Node000017" title=" " alt="" coords="328,406,312,420,299,436,285,466,279,494,280,547,282,573,280,599,270,626,251,654,234,667,231,663,247,650,266,624,274,598,277,573,275,547,274,493,280,464,295,433,309,416,325,402"/>
+<area shape="rect" id="Node000019" href="$d5/d5d/class_c_half_life_multiplay.html#a70aa6a4f55733da1a46edb1faa057683" title="Determines if a player can have a specific weapon." alt="" coords="310,447,452,489"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="498,471,453,471,453,465,498,465"/>
+<area shape="rect" id="Node000021" href="$d5/d93/hl__weapons_8cpp.html#a7f536b4e474cf3eafb01428429fc7bbe" title="Runs the weapon logic on the client&#45;side during prediction." alt="" coords="297,685,465,712"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="564,615,413,687,411,682,561,610"/>
+<area shape="rect" id="Node000022" href="$d5/d93/hl__weapons_8cpp.html#a1b6fe5f64f2a0a1dc0e3ee9749c4eddb" title="Called after player movement prediction is done on the client." alt="" coords="104,715,237,741"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="282,715,237,721,236,716,281,710"/>
+<area shape="rect" id="Node000023" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,715,44,741"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="89,731,44,731,44,725,89,725"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="CNihilanth::EmitSphere" name="CNihilanth::EmitSphere">
+<area shape="rect" id="Node000001" title="Emits a new energy sphere for the Nihilanth." alt="" coords="5,169,162,196"/>
+<area shape="rect" id="Node000002" href="$d9/d71/class_c_nihilanth_h_v_r.html#ae73c2634cdcf19cdbd5a2f3a67198342" title="Initializes the circle behavior for the Nihilanth Hover entity." alt="" coords="210,169,375,196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,180,194,180,194,185,162,185"/>
+<area shape="rect" id="Node000003" href="$d9/d71/class_c_nihilanth_h_v_r.html#a63596c29fb9ed46fc45916949756d80c" title="Handles the bounce touch behavior for the Nihilanth Hover entity." alt="" coords="423,81,617,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,166,422,130,468,112,470,117,424,134,330,171"/>
+<area shape="rect" id="Node000009" href="$d9/d71/class_c_nihilanth_h_v_r.html#aa49d5cd6e5fff0ae99cacbf94e881296" title="Handles the hover think behavior for the Nihilanth Hover entity." alt="" coords="431,144,609,171"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="375,171,415,166,416,172,376,176"/>
+<area shape="rect" id="Node000011" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="466,195,574,221"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="376,189,451,198,450,203,375,195"/>
+<area shape="rect" id="Node000012" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="470,245,570,272"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="327,194,424,231,456,240,454,246,422,236,325,199"/>
+<area shape="rect" id="Node000004" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="858,5,964,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,78,605,59,665,41,757,26,842,19,843,24,758,32,666,47,607,64,555,83"/>
+<area shape="rect" id="Node000006" href="$d5/db2/class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="675,56,800,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="617,81,659,76,660,81,618,86"/>
+<area shape="rect" id="Node000008" href="$dc/d44/dlls_2util_8cpp.html#af4f388b735687d7372271f4563e36335" title="Retrieves the current global trace result." alt="" coords="665,107,810,133"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="618,103,650,107,649,112,617,109"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="1012,5,1055,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="965,16,997,16,997,21,965,21"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="785,53,847,34,849,39,787,58"/>
+<area shape="rect" id="Node000007" href="$d5/db2/class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="858,56,964,83"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="800,67,842,67,842,72,800,72"/>
+<area shape="rect" id="Node000010" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="687,157,788,184"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="610,160,672,164,672,169,609,165"/>
+</map>

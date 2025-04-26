@@ -1,7 +1,0 @@
-<map id="SpectatorConnect" name="SpectatorConnect">
-<area shape="rect" id="Node000001" title="Handles a spectator joining the game." alt="" coords="5,35,131,61"/>
-<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="214,5,324,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,36,199,26,199,31,131,42"/>
-<area shape="rect" id="Node000003" href="$class_c_base_spectator.html#a549d64560bb53d3c1e5cfd186b672561" title="Called when a spectator connects to a server." alt="" coords="179,56,359,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,54,164,59,163,65,131,60"/>
-</map>

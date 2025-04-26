@@ -1,7 +1,0 @@
-<map id="CDeadHEV::KeyValue" name="CDeadHEV::KeyValue">
-<area shape="rect" id="Node000001" title="Handles key&#45;value pairs for the dead HEV suit entity." alt="" coords="5,31,157,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="259,5,322,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,32,243,22,244,27,157,38"/>
-<area shape="rect" id="Node000003" href="$class_c_base_monster.html#afe35b9ade6e7eb5b0095b22d885fc811" title="Processes key&#45;value pairs for the monster." alt="" coords="205,56,376,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,50,189,54,189,60,157,56"/>
-</map>

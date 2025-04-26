@@ -1,0 +1,5 @@
+<map id="Bench_SpotPosition" name="Bench_SpotPosition">
+<area shape="rect" id="Node000001" title="Calculates the user&#39;s score based on the distance between the target and the user&#39;s tracking dot." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="Node000002" href="$d8/d13/class_c_hud_benchmark.html#a40cd401a9ae7fc6b467c4c7adee0f857" title="Sets the current tracking score used during the tracking benchmark stage." alt="" coords="193,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,16,177,16,177,21,145,21"/>
+</map>

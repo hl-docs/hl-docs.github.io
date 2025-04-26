@@ -1,7 +1,0 @@
-<map id="EMIT_SOUND_SUIT" name="EMIT_SOUND_SUIT">
-<area shape="rect" id="Node000001" title="Plays a specific sentence over the HEV suit speaker." alt="" coords="5,5,145,32"/>
-<area shape="rect" id="Node000002" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="193,5,331,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,16,177,16,177,21,145,21"/>
-<area shape="rect" id="Node000003" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="379,5,529,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,16,364,16,364,21,332,21"/>
-</map>

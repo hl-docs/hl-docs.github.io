@@ -1,5 +1,0 @@
-<map id="CSchemeManager::getBgColor" name="CSchemeManager::getBgColor">
-<area shape="rect" id="Node000001" title="Retrieves the background color of a scheme." alt="" coords="5,5,206,32"/>
-<area shape="rect" id="Node000002" href="$class_c_scheme_manager.html#a5cc92793b3dcfb701d74281fea7d4c77" title="Always returns a valid scheme, even if the handle is invalid." alt="" coords="254,5,482,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,16,238,16,238,21,206,21"/>
-</map>

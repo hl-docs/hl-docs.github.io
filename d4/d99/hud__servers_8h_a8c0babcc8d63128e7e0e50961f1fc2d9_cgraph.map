@@ -1,0 +1,5 @@
+<map id="ServersCancel" name="ServersCancel">
+<area shape="rect" id="Node000001" title="Cancels any ongoing requests in the global server browser." alt="" coords="5,5,110,32"/>
+<area shape="rect" id="Node000002" href="$d1/d59/class_c_hud_servers.html#ae559a8408e1bda121e2c54560d895b45" title="Cancels all server requests and stops the querying process." alt="" coords="158,5,350,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,16,142,16,142,21,110,21"/>
+</map>

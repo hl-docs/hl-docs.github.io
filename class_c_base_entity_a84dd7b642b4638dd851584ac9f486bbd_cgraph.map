@@ -1,7 +1,0 @@
-<map id="CBaseEntity::Save" name="CBaseEntity::Save">
-<area shape="rect" id="Node000001" title="Saves the state of the entity." alt="" coords="5,31,136,57"/>
-<area shape="rect" id="Node000002" href="$class_c_save.html#a75b2a0ea70b0d1a138d778cd63219ae5" title="Writes entity variables to the save buffer." alt="" coords="184,5,328,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,32,168,28,169,33,137,38"/>
-<area shape="rect" id="Node000003" href="$class_c_save.html#ae5a95e92ef12b3c7d14f134f2e8fdc2e" title="Writes fields to the save buffer." alt="" coords="190,56,322,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,50,175,56,174,61,136,56"/>
-</map>

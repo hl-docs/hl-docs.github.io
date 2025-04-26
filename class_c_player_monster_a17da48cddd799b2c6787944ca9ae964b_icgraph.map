@@ -1,5 +1,0 @@
-<map id="CPlayerMonster::Precache" name="CPlayerMonster::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the player monster." alt="" coords="215,5,392,32"/>
-<area shape="rect" id="Node000002" href="$class_c_player_monster.html#a155f4e7026449f0d98c8d0fe054bcd37" title="Spawns the player monster entity in the game." alt="" coords="5,5,167,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,167,21,167,16,199,16"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="CAGrunt::ShouldSpeak" name="CAGrunt::ShouldSpeak">
-<area shape="rect" id="Node000001" title="Determines if the Alien Grunt should speak." alt="" coords="236,5,392,32"/>
-<area shape="rect" id="Node000002" href="$class_c_a_grunt.html#ae5f9aad2741f1c7fc8933f0759c787c5" title="Performs pre&#45;schedule thinking for the Alien Grunt." alt="" coords="5,5,188,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,21,188,21,188,16,220,16"/>
-</map>

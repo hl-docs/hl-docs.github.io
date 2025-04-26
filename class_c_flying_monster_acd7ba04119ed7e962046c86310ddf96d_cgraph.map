@@ -1,5 +1,0 @@
-<map id="CFlyingMonster::Move" name="CFlyingMonster::Move">
-<area shape="rect" id="Node000001" title="Moves the flying monster." alt="" coords="5,5,156,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a4619df7024c7708dc2e25613e5e79cd0" title="Moves the monster along its route." alt="" coords="204,5,349,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,16,188,16,188,21,156,21"/>
-</map>

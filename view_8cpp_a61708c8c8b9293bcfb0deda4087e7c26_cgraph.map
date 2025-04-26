@@ -1,5 +1,0 @@
-<map id="V_SmoothInterpolateAngles" name="V_SmoothInterpolateAngles">
-<area shape="rect" id="Node000001" title="Smoothly interpolates between two angles based on the specified speed." alt="" coords="5,5,188,32"/>
-<area shape="rect" id="Node000002" href="$pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="236,5,355,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,21,188,21"/>
-</map>

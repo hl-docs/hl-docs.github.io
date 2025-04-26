@@ -1,5 +1,0 @@
-<map id="CShotgunAmmo::Precache" name="CShotgunAmmo::Precache">
-<area shape="rect" id="Node000001" title="Preloads all resources needed for the shotgun." alt="" coords="217,5,396,32"/>
-<area shape="rect" id="Node000002" href="$class_c_shotgun_ammo.html#a126b1a6fcfd6ddbaf141d2f59cbcdd40" title="Spawns the shotgun in the game." alt="" coords="5,5,169,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,21,169,21,169,16,201,16"/>
-</map>

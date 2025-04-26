@@ -1,0 +1,5 @@
+<map id="CBasePlayer::GetCustomDecalFrames" name="CBasePlayer::GetCustomDecalFrames">
+<area shape="rect" id="Node000001" title="Gets the number of custom decal frames for the player." alt="" coords="180,5,384,48"/>
+<area shape="rect" id="Node000002" href="$df/d53/class_c_spray_can.html#adb2691f301556d79f30705042ad68440" title="Handles the spray can&#39;s behavior during each think event." alt="" coords="5,13,132,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,29,132,29,132,24,164,24"/>
+</map>

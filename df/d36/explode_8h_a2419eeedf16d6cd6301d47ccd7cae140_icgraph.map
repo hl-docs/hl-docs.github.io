@@ -1,0 +1,22 @@
+<map id="ExplosionCreate" name="ExplosionCreate">
+<area shape="rect" id="Node000001" title="Creates an explosion at a specified location." alt="" coords="1007,81,1123,108"/>
+<area shape="rect" id="Node000002" href="$d3/d9c/class_c_breakable.html#a7920746bea8c47175abe7162461a8a62" title="Handles the death of the breakable entity." alt="" coords="824,56,940,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="991,87,940,80,940,75,992,82"/>
+<area shape="rect" id="Node000010" href="$d2/d06/class_c_func_tank_mortar.html#a9f01f781cbd963cbab65deedb79ce3cd" title="Fires the mortar&#39;s cannon." alt="" coords="805,107,959,133"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="992,107,960,112,959,107,991,102"/>
+<area shape="rect" id="Node000003" href="$d3/d9c/class_c_breakable.html#ac085211900af2e77d708383264bc2de9" title="Handles the touch event for the breakable entity." alt="" coords="370,5,535,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="809,56,756,47,640,33,535,26,535,20,641,28,757,41,810,51"/>
+<area shape="rect" id="Node000006" href="$d3/d9c/class_c_breakable.html#adf5b94e0c19f1a449b894ddc982199c4" title="Handles damage taken by the breakable entity." alt="" coords="584,56,757,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="809,72,757,72,757,67,809,67"/>
+<area shape="rect" id="Node000008" href="$d3/d9c/class_c_breakable.html#a1d067db7acedbf1c8c2d8fd86f8ccaf5" title="Breaks the breakable entity when triggered." alt="" coords="611,107,730,133"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="810,89,730,109,729,103,809,84"/>
+<area shape="rect" id="Node000004" href="$d3/d9c/class_c_breakable.html#aa9ae6e72694530afcfe91852e1907af8" title="Spawns the breakable entity." alt="" coords="185,5,320,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="354,21,321,21,321,16,354,16"/>
+<area shape="rect" id="Node000005" href="$d1/d45/class_c_pushable.html#a7dc12c6652e12e9faaa2b7c4ceda1c8d" title="Spawns the pushable entity." alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,21,137,21,137,16,169,16"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="594,54,512,35,513,30,595,49"/>
+<area shape="rect" id="Node000007" href="$d1/d45/class_c_pushable.html#a45a316bc228c4fc5dac7fb9d25aa9969" title="Handles damage taken by the pushable entity." alt="" coords="368,56,536,83"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="569,72,537,72,537,67,569,67"/>
+<area shape="rect" id="Node000009" href="$d1/d45/class_c_pushable.html#a4594fa40f664a12a658889b6ec2d213f" title="Uses the pushable entity." alt="" coords="395,107,510,133"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="595,123,510,123,510,117,595,117"/>
+</map>

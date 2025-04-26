@@ -1,0 +1,13 @@
+<map id="CSittingScientist::Spawn" name="CSittingScientist::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the sitting scientist entity." alt="" coords="5,77,132,120"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="220,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,75,179,42,204,30,206,35,181,46,113,79"/>
+<area shape="rect" id="Node000003" href="$d8/ddb/animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="182,56,304,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,85,166,79,167,85,133,91"/>
+<area shape="rect" id="Node000004" href="$d2/d9e/class_c_sitting_scientist.html#adbd2002676687062eb97d45de5bce5aa" title="Handles the sitting behavior and interactions of the scientist." alt="" coords="180,107,306,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,107,165,112,164,117,132,112"/>
+<area shape="rect" id="Node000006" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="193,173,293,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="107,118,181,159,192,164,190,169,178,164,104,123"/>
+<area shape="rect" id="Node000005" href="$de/da7/_game_studio_model_renderer___sample_8cpp.html#a18d6229942e256d2883e19bf2dabf3cd" title="Advances the animation frame based on the specified time interval." alt="" coords="354,115,498,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,125,339,125,339,131,306,131"/>
+</map>

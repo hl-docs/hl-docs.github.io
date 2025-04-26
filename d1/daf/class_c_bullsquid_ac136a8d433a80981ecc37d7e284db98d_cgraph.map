@@ -1,0 +1,23 @@
+<map id="CBullsquid::StartTask" name="CBullsquid::StartTask">
+<area shape="rect" id="Node000001" title="Starts a task for the bullsquid." alt="" coords="5,157,153,184"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#afcbb5ee692729f28d1985fac676d178f" title="Builds a route to a specified goal." alt="" coords="211,5,390,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,155,131,100,163,68,199,42,210,36,213,41,202,46,166,72,135,103,92,158"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="248,56,353,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,155,142,124,200,92,233,81,234,86,202,97,145,128,100,159"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="277,107,324,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,154,261,126,263,131,141,159"/>
+<area shape="rect" id="Node000007" href="$d4/d7a/class_c_base_monster.html#a8cab8882314f3d6953372740e88aaca3" title="Calculates the ideal yaw for the monster to face a target." alt="" coords="201,157,400,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="153,168,185,168,185,173,153,173"/>
+<area shape="rect" id="Node000008" href="$d4/d7a/class_c_base_monster.html#aff2100a3cb50d33a58240b540ff041b3" title="Sets the monster&#39;s activity to a new activity." alt="" coords="212,208,389,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="141,182,225,201,224,207,140,187"/>
+<area shape="rect" id="Node000009" href="$d4/d7a/class_c_base_monster.html#ad48e6760ee3609d8f13383c10c4a2650" title="Starts a task for the monster." alt="" coords="215,259,386,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="100,182,145,213,202,244,220,251,218,256,200,249,142,218,97,187"/>
+<area shape="rect" id="Node000010" href="$d4/d7a/class_c_base_monster.html#a85ce7d6f5797b914bd256434ac966d32" title=" " alt="" coords="218,309,383,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="92,183,135,238,166,269,202,295,213,301,210,305,199,300,163,273,131,241,87,186"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="477,56,615,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="353,67,461,67,461,72,353,72"/>
+<area shape="rect" id="Node000005" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="692,56,843,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="615,67,676,67,676,72,615,72"/>
+<area shape="rect" id="Node000011" href="$d4/d7a/class_c_base_monster.html#a0e452f766d29a4d6008044338dbd3aa6" title=" " alt="" coords="448,309,644,336"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="383,320,432,320,432,325,383,325"/>
+</map>

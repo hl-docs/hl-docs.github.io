@@ -1,7 +1,0 @@
-<map id="CFuncTank::UpdateTargetPosition" name="CFuncTank::UpdateTargetPosition">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,225,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_entity.html#ae6e022656fe3a22490a6106abe7fea10" title=" " alt="" coords="273,5,441,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,16,257,16,257,21,225,21"/>
-<area shape="rect" id="Node000003" href="$class_c_base_entity.html#ac63a5e1c0bec68ff48cbd01a27f941ae" title=" " alt="" coords="489,5,629,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,16,474,16,474,21,441,21"/>
-</map>

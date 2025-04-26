@@ -1,5 +1,0 @@
-<map id="CHalfLifeMultiplay::FlWeaponRespawnTime" name="CHalfLifeMultiplay::FlWeaponRespawnTime">
-<area shape="rect" id="Node000001" title="Determines the respawn time for a weapon." alt="" coords="213,5,382,48"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#ac55f28da512d2efe39d244d05b934e47" title="Determines the respawn time for a weapon with entity limitations." alt="" coords="5,5,165,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,29,165,29,165,24,197,24"/>
-</map>

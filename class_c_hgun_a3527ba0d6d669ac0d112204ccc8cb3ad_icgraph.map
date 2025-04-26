@@ -1,9 +1,0 @@
-<map id="CHgun::Reload" name="CHgun::Reload">
-<area shape="rect" id="Node000001" title="Reloads the hornet gun." alt="" coords="222,56,330,83"/>
-<area shape="rect" id="Node000002" href="$class_c_hgun.html#a76ef24cbc9b3a13c4b278a4243385514" title="Handles the primary attack for the hornet gun." alt="" coords="14,5,165,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,54,141,35,142,30,210,49"/>
-<area shape="rect" id="Node000003" href="$class_c_hgun.html#a44f0904cf31dffc656d0149266fd452d" title="Handles the secondary attack for the hornet gun." alt="" coords="5,56,174,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,72,174,72,174,67,206,67"/>
-<area shape="rect" id="Node000004" href="$class_c_hgun.html#aadc575168c31bf7dce733c113342a5a9" title="Handles the idle state of the hornet gun." alt="" coords="21,107,158,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,90,142,109,141,103,209,85"/>
-</map>

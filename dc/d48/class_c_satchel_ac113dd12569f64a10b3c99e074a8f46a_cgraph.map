@@ -1,0 +1,9 @@
+<map id="CSatchel::AddToPlayer" name="CSatchel::AddToPlayer">
+<area shape="rect" id="Node000001" title="Adds the satchel charge to the player." alt="" coords="5,35,162,61"/>
+<area shape="rect" id="Node000002" href="$dc/d11/class_c_base_player_item.html#a8cee2a0150ff56a1c5364407d696b335" title="Adds an item to a player." alt="" coords="210,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,35,194,31,195,36,162,41"/>
+<area shape="rect" id="Node000003" href="$da/d7d/class_c_base_player_weapon.html#a9556949ddb68039a4e31271f78e4382a" title=" " alt="" coords="235,56,389,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,55,220,63,219,68,162,61"/>
+<area shape="rect" id="Node000004" href="$da/d7d/class_c_base_player_weapon.html#ab7444f1ccda6f915a2444a8f367d188c" title="Extracts ammo from a weapon." alt="" coords="462,56,615,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="389,75,446,75,446,80,389,80"/>
+</map>

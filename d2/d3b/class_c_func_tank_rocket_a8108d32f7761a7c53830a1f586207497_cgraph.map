@@ -1,0 +1,7 @@
+<map id="CFuncTankRocket::Precache" name="CFuncTankRocket::Precache">
+<area shape="rect" id="Node000001" title="Precaches the RPG rocket entity for use with the tank." alt="" coords="5,31,197,57"/>
+<area shape="rect" id="Node000002" href="$dd/d18/class_c_func_tank.html#a8d2a4d867a8d3f7fc8655bc71131fb4a" title="Precaches the tank&#39;s models and sounds." alt="" coords="245,5,395,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,30,229,26,230,32,197,36"/>
+<area shape="rect" id="Node000003" href="$d3/d55/hl__baseentity_8cpp.html#ab86625fdeef115046e288fecc38018c7" title=" " alt="" coords="249,56,391,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,52,234,57,234,62,197,58"/>
+</map>

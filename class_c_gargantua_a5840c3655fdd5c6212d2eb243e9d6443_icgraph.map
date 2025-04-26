@@ -1,7 +1,0 @@
-<map id="CGargantua::FlameDestroy" name="CGargantua::FlameDestroy">
-<area shape="rect" id="Node000001" title="Destroys the Gargantua&#39;s flame attack." alt="" coords="268,31,447,57"/>
-<area shape="rect" id="Node000002" href="$class_c_gargantua.html#a22855c90ddf584fbe2ac3975428c5b7f" title="Retrieves the schedule of a specific type for the Gargantua." alt="" coords="5,5,220,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,36,220,32,221,27,252,30"/>
-<area shape="rect" id="Node000003" href="$class_c_gargantua.html#ae93076998ee13769916c9736cc1a7058" title="Runs a task for the Gargantua." alt="" coords="38,56,187,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,58,188,64,187,59,252,52"/>
-</map>

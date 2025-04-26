@@ -1,0 +1,20 @@
+<map id="PM_CheckFalling" name="PM_CheckFalling">
+<area shape="rect" id="Node000001" title="Checks if the player is falling and handles the effects of a fall." alt="" coords="5,56,129,83"/>
+<area shape="rect" id="Node000002" href="$df/d58/pm__shared_8c.html#a4317b05094ba900560ebe20cd8266d0a" title="Maps texture types to step sound types." alt="" coords="378,5,577,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,56,176,48,362,26,363,32,177,53,129,61"/>
+<area shape="rect" id="Node000003" href="$df/d58/pm__shared_8c.html#aaa8cfe9f309b881e8a8e902e1c794627" title="Plays a footstep sound based on the surface type." alt="" coords="409,56,547,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,67,393,67,393,72,129,72"/>
+<area shape="rect" id="Node000006" href="$df/d58/pm__shared_8c.html#a37126c4dfcf154bbcb47b27e27dd33e9" title="Updates the player&#39;s step sound state." alt="" coords="177,107,330,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,81,188,100,186,105,118,86"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="667,81,728,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="547,75,652,87,651,92,547,80"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="818,81,861,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="728,92,802,92,802,97,728,97"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="271,104,318,73,377,42,395,35,397,40,379,46,321,77,274,109"/>
+<area shape="poly" id="edge10_Node000006_Node000003" title=" " alt="" coords="315,103,400,84,401,89,316,109"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="330,113,652,95,652,100,331,118"/>
+<area shape="rect" id="Node000007" href="$df/d58/pm__shared_8c.html#a17811ffb2af302bac8dbd28a960e296e" title="Analyzes the texture under the player." alt="" coords="387,157,568,184"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="316,131,401,151,400,156,315,137"/>
+<area shape="rect" id="Node000008" href="$df/d58/pm__shared_8c.html#ad69b0264310e1758470f45f9cb82488e" title="Finds the type of a texture by its name." alt="" coords="625,157,770,184"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="569,168,610,168,610,173,569,173"/>
+</map>

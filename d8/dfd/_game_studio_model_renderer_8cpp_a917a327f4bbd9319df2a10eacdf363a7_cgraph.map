@@ -1,0 +1,5 @@
+<map id="R_StudioInit" name="R_StudioInit">
+<area shape="rect" id="Node000001" title="Initializes the studio renderer." alt="" coords="5,13,97,40"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/class_c_studio_model_renderer.html#a014198bcaf6aa569cc20014c7244b9cc" title="Initializes the studio model renderer by retrieving engine variables and transformation matrices." alt="" coords="145,5,299,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,24,129,24,129,29,97,29"/>
+</map>

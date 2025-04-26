@@ -1,0 +1,9 @@
+<map id="CBullsquid::RunTask" name="CBullsquid::RunTask">
+<area shape="rect" id="Node000001" title="Runs a task for the bullsquid." alt="" coords="5,56,148,83"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a41adf7408ee22d23673d78cea57b7988" title="Changes the monster&#39;s yaw towards its ideal yaw." alt="" coords="203,5,388,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,53,219,33,221,39,138,58"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#a8cab8882314f3d6953372740e88aaca3" title="Calculates the ideal yaw for the monster to face a target." alt="" coords="196,56,395,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,67,180,67,180,72,148,72"/>
+<area shape="rect" id="Node000004" href="$d4/d7a/class_c_base_monster.html#ae523c25ad3204795f071703fd7009159" title="Runs a task for the monster." alt="" coords="212,107,379,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,81,221,100,219,105,137,86"/>
+</map>

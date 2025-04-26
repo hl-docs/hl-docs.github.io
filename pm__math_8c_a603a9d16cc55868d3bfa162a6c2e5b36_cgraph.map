@@ -1,9 +1,0 @@
-<map id="VectorMatrix" name="VectorMatrix">
-<area shape="rect" id="Node000001" title="Creates right and up vectors from a forward vector." alt="" coords="5,31,101,57"/>
-<area shape="rect" id="Node000002" href="$pm__math_8c.html#aecf9648658d7ca4c7c51497f0f235b80" title="Calculates the cross product of two vectors." alt="" coords="157,5,258,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,34,141,27,142,32,102,39"/>
-<area shape="rect" id="Node000003" href="$pm__math_8c.html#a9a5afc70a154f2aae2ad68b61b04e3f7" title="Makes a vector have a length of 1 while keeping its direction." alt="" coords="149,56,266,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,49,134,55,133,60,101,54"/>
-<area shape="rect" id="Node000004" href="$pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="314,56,357,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="266,67,299,67,299,72,266,72"/>
-</map>

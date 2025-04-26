@@ -1,5 +1,0 @@
-<map id="CInterpolation::InterpolateAngle" name="CInterpolation::InterpolateAngle">
-<area shape="rect" id="Node000001" title="Interpolates angles correctly by avoiding wrapping issues." alt="" coords="5,5,174,48"/>
-<area shape="rect" id="Node000002" href="$pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="222,13,341,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,24,206,24,206,29,174,29"/>
-</map>

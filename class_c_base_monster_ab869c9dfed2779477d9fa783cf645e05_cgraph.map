@@ -1,5 +1,0 @@
-<map id="CBaseMonster::VecToYaw" name="CBaseMonster::VecToYaw">
-<area shape="rect" id="Node000001" title="Converts a directional vector into a yaw value." alt="" coords="5,5,183,32"/>
-<area shape="rect" id="Node000002" href="$util_8cpp.html#a1e92dcf0a858a8ca61a31bcbfc168bff" title="Converts a vector to a yaw angle." alt="" coords="231,5,347,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,16,215,16,215,21,183,21"/>
-</map>

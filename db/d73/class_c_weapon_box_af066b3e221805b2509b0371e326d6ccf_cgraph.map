@@ -1,0 +1,12 @@
+<map id="CWeaponBox::KeyValue" name="CWeaponBox::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value data for the weapon box." alt="" coords="5,31,171,57"/>
+<area shape="rect" id="Node000002" href="$db/d73/class_c_weapon_box.html#a104acf81896515338e97f1772af8e27d" title="Adds ammo to the weapon box." alt="" coords="219,31,396,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,41,203,41,203,47,171,47"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="664,5,750,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,27,444,16,553,11,649,13,649,18,553,17,444,21,370,33"/>
+<area shape="rect" id="Node000004" href="$db/d73/class_c_weapon_box.html#afadea9dbeb8d5f21ca6a5e5295de0547" title="Gives ammo to the weapon box." alt="" coords="444,31,616,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="396,41,429,41,429,47,396,47"/>
+<area shape="rect" id="Node000005" href="$dc/dba/weapons_8cpp.html#a5c821057711edcff09b403ee62cd9525" title="Determines the maximum ammo a player can carry for a given ammo type." alt="" coords="473,81,588,108"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="370,55,458,76,457,81,369,61"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="616,29,648,24,649,30,617,34"/>
+</map>

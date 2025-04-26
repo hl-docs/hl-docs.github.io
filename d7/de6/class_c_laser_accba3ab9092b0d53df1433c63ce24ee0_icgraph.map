@@ -1,0 +1,5 @@
+<map id="CLaser::StrikeThink" name="CLaser::StrikeThink">
+<area shape="rect" id="Node000001" title="Think function for the laser strike." alt="" coords="163,5,298,32"/>
+<area shape="rect" id="Node000002" href="$d7/de6/class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="5,5,115,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,21,115,21,115,16,147,16"/>
+</map>

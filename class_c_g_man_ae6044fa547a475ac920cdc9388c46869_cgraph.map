@@ -1,5 +1,0 @@
-<map id="CGMan::TakeDamage" name="CGMan::TakeDamage">
-<area shape="rect" id="Node000001" title="Handles damage taken by the G&#45;Man." alt="" coords="5,5,155,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a0e452f766d29a4d6008044338dbd3aa6" title=" " alt="" coords="203,5,399,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,16,187,16,187,21,155,21"/>
-</map>

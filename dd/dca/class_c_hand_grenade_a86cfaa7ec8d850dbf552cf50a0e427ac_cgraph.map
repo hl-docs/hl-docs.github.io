@@ -1,0 +1,9 @@
+<map id="CHandGrenade::PrimaryAttack" name="CHandGrenade::PrimaryAttack">
+<area shape="rect" id="Node000001" title="Initiates the primary attack with the hand grenade." alt="" coords="5,43,206,69"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="257,5,411,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,40,241,36,242,41,206,46"/>
+<area shape="rect" id="Node000004" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="254,72,414,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,66,239,70,238,76,205,72"/>
+<area shape="rect" id="Node000003" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="462,13,625,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,24,446,24,446,29,411,29"/>
+</map>

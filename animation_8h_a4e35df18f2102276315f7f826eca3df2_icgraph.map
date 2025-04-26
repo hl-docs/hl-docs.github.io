@@ -1,7 +1,0 @@
-<map id="IsSoundEvent" name="IsSoundEvent">
-<area shape="rect" id="Node000001" title="Checks if the event number corresponds to a sound event." alt="" coords="393,5,493,32"/>
-<area shape="rect" id="Node000002" href="$animation_8cpp.html#ac5e3c404f2a9d6bdaaa1dcdd6127a17a" title="Pre&#45;caches the sounds associated with a specific animation sequence." alt="" coords="211,5,345,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,21,346,21,346,16,378,16"/>
-<area shape="rect" id="Node000003" href="$class_c_cine_monster.html#a93c4ca8c46be7c460c1b3bc1b5c41794" title="Activates the cinematic monster." alt="" coords="5,5,163,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,21,163,21,163,16,195,16"/>
-</map>

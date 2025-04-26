@@ -1,0 +1,5 @@
+<map id="CScientist::PainSound" name="CScientist::PainSound">
+<area shape="rect" id="Node000001" title="Plays a pain sound for the scientist." alt="" coords="214,5,366,32"/>
+<area shape="rect" id="Node000002" href="$dc/d29/class_c_scientist.html#a001a182bda0412802cd857f7c06f60b2" title="Plays a death sound for the scientist." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,166,21,166,16,198,16"/>
+</map>

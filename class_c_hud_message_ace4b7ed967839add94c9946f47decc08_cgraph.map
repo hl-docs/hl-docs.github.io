@@ -1,5 +1,0 @@
-<map id="CHudMessage::MessageScanNextChar" name="CHudMessage::MessageScanNextChar">
-<area shape="rect" id="Node000001" title="Processes the next character in a message for color blending and visual effects." alt="" coords="5,5,203,48"/>
-<area shape="rect" id="Node000002" href="$cl__util_8h.html#afa036ad782f2053845baa4c40c25c537" title="Draws a single character at the specified location with specified color." alt="" coords="251,13,406,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,24,235,24,235,29,203,29"/>
-</map>

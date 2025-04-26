@@ -1,0 +1,123 @@
+<map id="IN_Attack2Down" name="IN_Attack2Down">
+<area shape="rect" id="Node000001" title="Called when the secondary attack key is pressed (usually right&#45;click)." alt="" coords="5,595,123,621"/>
+<area shape="rect" id="Node000002" href="$d8/d8c/input_8cpp.html#a82a86398e48b491a403f73e5d3f6877b" title=" " alt="" coords="185,544,391,571"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,592,170,580,206,572,207,577,171,585,123,597"/>
+<area shape="rect" id="Node000003" href="$de/dd7/class_c_hud_spectator.html#ad7203888c3889b037e61853f34a97483" title="Handles spectator input buttons that are currently being held down." alt="" coords="171,595,405,621"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,605,155,605,155,611,123,611"/>
+<area shape="rect" id="Node000066" href="$d8/d8c/input_8cpp.html#a4b3bad5f852a07e61e1c9b3d5781fe79" title="Handles a key down event for a specific key binding (kbutton_t)." alt="" coords="250,645,326,672"/>
+<area shape="poly" id="edge71_Node000001_Node000066" title=" " alt="" coords="123,619,171,631,235,645,234,650,170,636,122,624"/>
+<area shape="rect" id="Node000004" href="$de/dd7/class_c_hud_spectator.html#a001f0e6c1674572ac4f958fe7d172311" title="Finds the next player to spectate, based on the current observer mode and direction." alt="" coords="684,109,891,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="388,592,403,581,424,554,434,527,436,500,434,473,430,414,436,383,451,349,500,279,549,233,607,197,683,155,718,139,720,144,686,160,610,201,552,238,504,283,455,352,441,384,436,415,439,472,441,500,439,528,428,556,407,585,392,596"/>
+<area shape="rect" id="Node000008" href="$de/dd7/class_c_hud_spectator.html#a75afd7d7417db578dbc10361de2e23ab" title="Sets the current spectator main and inset modes." alt="" coords="457,363,633,389"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="382,592,403,580,448,540,485,492,512,443,530,403,535,405,517,446,489,495,452,544,407,585,384,597"/>
+<area shape="rect" id="Node000039" href="$d0/dcb/class_spectator_panel.html#afb878948b966364bfada314319adb7fc" title="Toggles the visibility of the spectator menu." alt="" coords="949,999,1131,1025"/>
+<area shape="poly" id="edge69_Node000003_Node000039" title=" " alt="" coords="370,619,406,631,500,672,594,719,769,821,914,917,1010,987,1007,991,911,922,766,826,591,724,498,677,404,636,369,625"/>
+<area shape="rect" id="Node000065" href="$de/dd7/class_c_hud_spectator.html#a685795356c8348e1d22fa0355fe21388" title="Toggles to the next available inset view mode." alt="" coords="453,797,636,824"/>
+<area shape="poly" id="edge70_Node000003_Node000065" title=" " alt="" coords="390,620,407,631,422,649,430,668,433,705,435,741,442,759,455,777,469,788,465,792,451,781,437,762,430,742,427,705,425,669,417,652,403,635,387,624"/>
+<area shape="rect" id="Node000005" href="$db/d40/class_team_fortress_viewport.html#a581a2504cd06f12a1dded0202d998e4c" title="Retrieves information about all players from the engine." alt="" coords="964,5,1116,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="819,106,938,58,956,51,957,56,940,62,821,111"/>
+<area shape="rect" id="Node000006" href="$de/dd7/class_c_hud_spectator.html#a0b5731784e3b1196d0c52c5d4dea8a5c" title="Determines if a given entity is an active player that can be spectated." alt="" coords="940,72,1140,99"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="882,106,929,99,930,104,883,111"/>
+<area shape="rect" id="Node000007" href="$db/d40/class_team_fortress_viewport.html#a385a039565e8364d11f5d95ef7419d98" title="Resets the screen fade effect." alt="" coords="963,123,1117,165"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="891,129,948,134,947,139,891,134"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="555,361,592,314,634,252,647,224,653,199,663,176,683,153,700,141,703,145,686,157,667,179,658,201,652,226,639,255,596,317,560,364"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="554,361,623,270,659,225,683,201,711,185,738,176,785,169,833,164,860,158,889,146,903,137,913,127,923,118,937,108,953,102,955,106,940,113,926,122,917,131,907,141,892,150,861,163,834,170,786,174,739,181,714,190,686,205,663,229,627,274,558,364"/>
+<area shape="poly" id="edge13_Node000008_Node000007" title=" " alt="" coords="555,360,606,306,643,274,683,247,738,222,784,211,831,203,890,189,958,168,959,173,891,195,832,209,785,216,740,227,686,252,646,278,610,309,559,364"/>
+<area shape="rect" id="Node000009" href="$df/de1/class_c_hud_text_message.html#ad31afd57614ff64021461d4dddd58cbb" title="Localizes a text message with a local static buffer." alt="" coords="1460,435,1647,477"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="560,388,611,438,647,465,685,487,753,512,808,522,939,529,1040,535,1141,529,1301,507,1445,479,1446,484,1302,512,1141,535,1040,541,939,535,807,528,751,517,683,492,644,469,608,442,556,392"/>
+<area shape="rect" id="Node000012" href="$df/de1/class_c_hud_text_message.html#ae4f4c6911397b70240516c705ffbaafb" title="Message handler for displaying text messages in the game." alt="" coords="1200,797,1393,840"/>
+<area shape="poly" id="edge14_Node000008_Node000012" title=" " alt="" coords="552,389,567,434,593,498,633,566,658,597,686,625,744,666,807,701,873,730,940,754,1072,787,1185,806,1184,811,1071,793,939,759,871,735,804,706,741,670,683,629,654,601,628,569,588,500,562,436,547,391"/>
+<area shape="rect" id="Node000031" href="$db/d40/class_team_fortress_viewport.html#a8d2ef332bdcfc615c3d92badfc78b46e" title="Updates the spectator panel based on current spectator settings." alt="" coords="708,435,867,477"/>
+<area shape="poly" id="edge39_Node000008_Node000031" title=" " alt="" coords="589,387,707,427,705,432,587,392"/>
+<area shape="rect" id="Node000052" href="$dd/dc2/view_8cpp.html#a80a49e33e9108a906762415a7c28d8dc" title="Calculates the camera position and orientation for a chase cam following a specific target." alt="" coords="728,261,847,288"/>
+<area shape="poly" id="edge65_Node000008_Node000052" title=" " alt="" coords="578,360,738,292,741,297,580,365"/>
+<area shape="rect" id="Node000010" href="$df/de1/class_c_hud_text_message.html#a847c99e126f98c009a2129b99307f88c" title="Localizes a text message by replacing any placeholder messages with actual text." alt="" coords="1720,460,1907,503"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1648,462,1704,468,1704,473,1647,468"/>
+<area shape="rect" id="Node000011" href="$de/d3f/cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="1995,504,2115,531"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1908,493,1980,504,1980,509,1907,498"/>
+<area shape="rect" id="Node000013" href="$db/d40/class_team_fortress_viewport.html#a19c8e48550ed1a7ba3ea643b81f105fc" title="Determines if the HUD is allowed to print text messages." alt="" coords="1738,1023,1889,1065"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="1337,838,1391,866,1452,892,1510,906,1558,910,1604,917,1629,927,1657,943,1674,960,1682,977,1690,993,1705,1009,1725,1020,1722,1024,1702,1013,1686,996,1677,979,1670,963,1654,947,1627,932,1603,923,1557,915,1509,911,1450,897,1388,871,1334,843"/>
+<area shape="rect" id="Node000015" href="$d0/d32/parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="1501,957,1606,984"/>
+<area shape="poly" id="edge17_Node000012_Node000015" title=" " alt="" coords="1322,839,1379,887,1415,913,1453,936,1488,951,1485,956,1450,941,1412,918,1376,892,1318,843"/>
+<area shape="rect" id="Node000016" href="$de/d3f/cl__util_8h.html#a343f95fd90d348c99adbc1754cba1544" title="Centers a string on the screen." alt="" coords="1510,1008,1597,1035"/>
+<area shape="poly" id="edge18_Node000012_Node000016" title=" " alt="" coords="1312,839,1335,873,1367,916,1407,958,1453,994,1496,1011,1494,1016,1450,998,1403,962,1363,919,1330,877,1308,842"/>
+<area shape="rect" id="Node000017" href="$de/d3f/cl__util_8h.html#a9072906225158c6461f1bbd3afeca0b9" title="Prints a string to the console." alt="" coords="2187,780,2283,807"/>
+<area shape="poly" id="edge19_Node000012_Node000017" title=" " alt="" coords="1393,798,1451,791,1597,780,1711,777,1971,777,2055,775,2140,777,2172,781,2172,786,2139,783,2055,780,1971,783,1711,782,1597,785,1452,796,1394,803"/>
+<area shape="rect" id="Node000018" href="$dd/d13/text__message_8cpp.html#ae4ca2ecaa1da99fd79f80d6b3ef60702" title="Converts all carriage return characters (&#39;\r&#39;) to newline characters (&#39; &#39;)." alt="" coords="1499,1059,1608,1085"/>
+<area shape="poly" id="edge20_Node000012_Node000018" title=" " alt="" coords="1308,839,1328,883,1359,939,1401,996,1425,1022,1453,1044,1485,1060,1483,1064,1450,1049,1422,1026,1397,1000,1354,942,1323,886,1303,842"/>
+<area shape="rect" id="Node000019" href="$df/de1/class_c_hud_text_message.html#a4cd8758ca083f8e7f88de37b56e9cd11" title="Simplified version of LocaliseTextString, assumes the message is a single word." alt="" coords="1706,539,1921,565"/>
+<area shape="poly" id="edge21_Node000012_Node000019" title=" " alt="" coords="1330,795,1367,765,1401,726,1411,707,1416,689,1419,654,1425,621,1434,604,1450,589,1480,569,1512,554,1547,543,1583,536,1653,531,1718,534,1718,539,1653,536,1583,541,1548,548,1514,559,1482,573,1453,593,1438,608,1430,622,1425,655,1422,690,1416,709,1406,730,1371,769,1333,799"/>
+<area shape="rect" id="Node000020" href="$d0/d32/parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="1504,1109,1603,1136"/>
+<area shape="poly" id="edge23_Node000012_Node000020" title=" " alt="" coords="1312,839,1453,1095,1471,1106,1490,1113,1489,1118,1468,1110,1449,1099,1307,842"/>
+<area shape="rect" id="Node000021" href="$d0/d32/parsemsg_8h.html#ac44883481899652b5b22699b772ff57f" title=" " alt="" coords="1498,603,1609,629"/>
+<area shape="poly" id="edge24_Node000012_Node000021" title=" " alt="" coords="1327,795,1364,764,1401,726,1415,703,1422,681,1431,660,1450,639,1481,623,1484,628,1453,643,1435,663,1427,683,1420,705,1405,730,1368,768,1330,799"/>
+<area shape="rect" id="Node000022" href="$de/d3f/cl__util_8h.html#ad4e44a511a4030bed513894baa2e67d4" title="Safely formats a string and copies it to the destination buffer." alt="" coords="1510,653,1597,680"/>
+<area shape="poly" id="edge25_Node000012_Node000022" title=" " alt="" coords="1321,795,1395,732,1450,690,1494,674,1496,679,1453,694,1398,736,1324,799"/>
+<area shape="rect" id="Node000023" href="$de/d3f/cl__util_8h.html#ab4f98635af3e5146cd924dcff403ebbd" title="Safely copies a string from source to destination with length limitation." alt="" coords="1509,704,1598,731"/>
+<area shape="poly" id="edge26_Node000012_Node000023" title=" " alt="" coords="1341,795,1450,747,1494,732,1496,737,1452,752,1343,799"/>
+<area shape="rect" id="Node000024" href="$db/d74/class_c_hud_say_text.html#af63c6c752c97b58a98da35bd87058768" title="Prints the say text message to the buffer." alt="" coords="1461,805,1646,832"/>
+<area shape="poly" id="edge27_Node000012_Node000024" title=" " alt="" coords="1393,816,1446,816,1446,821,1393,821"/>
+<area shape="rect" id="Node000030" href="$dd/d13/text__message_8cpp.html#a215cf1234e2d5621b5e85b311e401ef0" title="Strips the newline character (&#39; &#39; or &#39;\r&#39;) from the end of a string." alt="" coords="1463,856,1644,883"/>
+<area shape="poly" id="edge38_Node000012_Node000030" title=" " alt="" coords="1394,835,1468,850,1467,855,1393,840"/>
+<area shape="rect" id="Node000014" href="$d2/dce/class_c_menu_panel.html#a528f8164358f2a99dd5f27e49a1e0cb6" title=" " alt="" coords="1971,1031,2139,1057"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1889,1041,1955,1041,1955,1047,1889,1047"/>
+<area shape="poly" id="edge22_Node000019_Node000011" title=" " alt="" coords="1911,535,1980,525,1980,531,1911,541"/>
+<area shape="poly" id="edge28_Node000024_Node000013" title=" " alt="" coords="1641,830,1658,842,1674,863,1682,884,1683,927,1684,968,1691,989,1706,1009,1725,1023,1722,1028,1702,1013,1686,991,1679,969,1678,927,1676,885,1669,866,1654,846,1638,835"/>
+<area shape="poly" id="edge29_Node000024_Node000017" title=" " alt="" coords="1646,813,2172,793,2172,798,1646,818"/>
+<area shape="rect" id="Node000025" href="$db/d74/class_c_hud_say_text.html#a3404663baf7a9909223f7b4036f0b070" title="Ensures the text fits within one line and wraps if necessary." alt="" coords="1715,956,1912,999"/>
+<area shape="poly" id="edge30_Node000024_Node000025" title=" " alt="" coords="1635,830,1657,842,1674,859,1683,876,1691,893,1706,911,1754,946,1751,950,1702,915,1687,896,1679,878,1670,862,1654,846,1633,835"/>
+<area shape="rect" id="Node000027" href="$d8/dbb/saytext_8cpp.html#a8ecb17481b5dd5041209001d58873b3f" title="Scrolls the text in the line buffer upwards." alt="" coords="2008,881,2103,908"/>
+<area shape="poly" id="edge37_Node000024_Node000027" title=" " alt="" coords="1621,830,1657,842,1681,855,1705,867,1780,883,1858,892,1930,895,1992,895,1992,900,1930,901,1857,897,1779,888,1703,872,1678,860,1655,846,1619,835"/>
+<area shape="rect" id="Node000028" href="$d3/d5b/death_8cpp.html#aa520d1289fab66699f197640abe8a46c" title="Returns the team color associated with a client index." alt="" coords="1761,652,1866,679"/>
+<area shape="poly" id="edge35_Node000024_Node000028" title=" " alt="" coords="1577,802,1774,685,1777,689,1579,807"/>
+<area shape="rect" id="Node000029" href="$de/d3f/cl__util_8h.html#a94e0b3cb3acf2d4519928b6e70cbacfc" title="Plays a sound by its name with the specified volume." alt="" coords="1771,831,1856,857"/>
+<area shape="poly" id="edge36_Node000024_Node000029" title=" " alt="" coords="1646,825,1756,836,1755,841,1646,830"/>
+<area shape="poly" id="edge31_Node000025_Node000025" title=" " alt="" coords="1768,956,1766,946,1773,937,1789,931,1813,929,1839,932,1855,938,1853,943,1838,937,1813,935,1790,937,1776,941,1771,947,1773,955"/>
+<area shape="poly" id="edge32_Node000025_Node000027" title=" " alt="" coords="1877,953,1998,911,2000,916,1879,958"/>
+<area shape="poly" id="edge33_Node000027_Node000017" title=" " alt="" coords="2079,878,2195,812,2198,817,2082,883"/>
+<area shape="poly" id="edge34_Node000027_Node000027" title=" " alt="" coords="2024,882,2019,873,2023,863,2035,857,2055,855,2077,857,2088,864,2086,868,2075,862,2055,860,2037,862,2027,867,2024,872,2029,880"/>
+<area shape="poly" id="edge40_Node000031_Node000009" title=" " alt="" coords="868,453,1445,453,1445,459,868,459"/>
+<area shape="poly" id="edge49_Node000031_Node000012" title=" " alt="" coords="815,476,871,522,940,574,996,608,1041,631,1087,654,1143,688,1207,738,1262,785,1258,789,1204,742,1139,693,1084,658,1039,635,993,612,937,578,868,527,812,480"/>
+<area shape="poly" id="edge48_Node000031_Node000028" title=" " alt="" coords="865,476,892,488,907,500,916,511,925,521,940,530,993,550,1042,564,1132,579,1214,580,1292,574,1371,565,1455,561,1549,567,1601,575,1656,588,1722,613,1778,642,1776,646,1720,618,1655,593,1599,580,1548,572,1455,566,1371,571,1292,579,1214,585,1131,584,1041,569,991,555,938,534,922,525,912,514,903,503,889,493,863,480"/>
+<area shape="rect" id="Node000032" href="$de/dd7/class_c_hud_spectator.html#afffdedadd10f80db6781c92fac1d1d0e" title="Checks and enforces inset view settings for the spectator HUD." alt="" coords="939,392,1141,419"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="867,437,954,420,955,425,868,443"/>
+<area shape="rect" id="Node000035" href="$d5/dd3/class_command_button.html#a030a79a733862b5b8ff2108e3697abab" title="Sets the button display text." alt="" coords="1469,312,1638,339"/>
+<area shape="poly" id="edge50_Node000031_Node000035" title=" " alt="" coords="809,432,864,387,899,364,938,347,1005,328,1075,314,1145,306,1215,301,1345,302,1454,310,1453,315,1345,307,1215,307,1145,311,1075,319,1006,333,940,352,902,369,867,391,812,436"/>
+<area shape="rect" id="Node000037" href="$d0/dcb/class_spectator_panel.html#a642cec1506e81c50c31572fb983126a3" title="Updates the positions and visibility of time, scores, and extra HUD info." alt="" coords="1474,373,1633,400"/>
+<area shape="poly" id="edge64_Node000031_Node000037" title=" " alt="" coords="820,432,873,402,905,388,938,377,1007,364,1078,356,1220,351,1351,357,1459,369,1458,374,1351,363,1220,356,1079,361,1008,369,939,383,907,393,876,406,822,436"/>
+<area shape="rect" id="Node000038" href="$db/d07/hud_8cpp.html#a73dbfbd112bc147678f3d8489b8cb5bc" title="Extracts the base name of a file, removing directory and extension." alt="" coords="985,493,1095,520"/>
+<area shape="poly" id="edge47_Node000031_Node000038" title=" " alt="" coords="868,469,970,490,969,495,867,475"/>
+<area shape="poly" id="edge51_Node000031_Node000039" title=" " alt="" coords="801,477,1029,983,1024,986,796,479"/>
+<area shape="rect" id="Node000033" href="$d0/dcb/class_spectator_panel.html#af29c2f205166c456bd9101125ed4a1b1" title="Enables or disables the inset camera view in spectator mode." alt="" coords="1189,392,1403,419"/>
+<area shape="poly" id="edge42_Node000032_Node000033" title=" " alt="" coords="1141,403,1174,403,1174,408,1141,408"/>
+<area shape="poly" id="edge43_Node000033_Node000009" title=" " alt="" coords="1368,417,1445,432,1444,437,1367,422"/>
+<area shape="poly" id="edge44_Node000033_Node000035" title=" " alt="" coords="1341,389,1493,341,1494,346,1343,394"/>
+<area shape="poly" id="edge46_Node000033_Node000037" title=" " alt="" coords="1403,395,1458,391,1458,396,1404,400"/>
+<area shape="rect" id="Node000036" href="$d5/dd3/class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="1704,312,1923,339"/>
+<area shape="poly" id="edge45_Node000035_Node000036" title=" " alt="" coords="1639,323,1688,323,1688,328,1639,328"/>
+<area shape="poly" id="edge52_Node000039_Node000009" title=" " alt="" coords="1046,997,1098,903,1139,842,1187,784,1217,755,1244,734,1296,704,1346,674,1373,653,1401,625,1417,604,1425,585,1434,565,1449,542,1478,512,1509,485,1513,489,1482,515,1453,546,1439,568,1430,587,1421,606,1405,628,1377,657,1349,679,1298,709,1247,739,1220,759,1191,787,1144,845,1103,906,1050,999"/>
+<area shape="poly" id="edge60_Node000039_Node000012" title=" " alt="" coords="1058,996,1253,847,1256,852,1061,1000"/>
+<area shape="rect" id="Node000040" href="$db/d40/class_team_fortress_viewport.html#ad9fcc35f44452924983aa174266d0369" title="Hides the current command menu and resets the armed states of its buttons." alt="" coords="1221,1024,1372,1067"/>
+<area shape="poly" id="edge53_Node000039_Node000040" title=" " alt="" coords="1132,1021,1205,1031,1205,1036,1131,1026"/>
+<area shape="rect" id="Node000046" href="$db/d40/class_team_fortress_viewport.html#a3eed3123a3dcc44d7dba06104691bbb4" title="Updates the state and visibility of the mouse cursor." alt="" coords="1478,1317,1629,1360"/>
+<area shape="poly" id="edge63_Node000039_Node000046" title=" " alt="" coords="1069,1023,1124,1050,1190,1076,1222,1084,1252,1088,1305,1088,1329,1089,1354,1095,1379,1107,1405,1127,1422,1149,1430,1172,1431,1216,1431,1261,1438,1282,1453,1304,1466,1314,1462,1318,1449,1307,1433,1284,1426,1261,1426,1216,1425,1173,1418,1152,1401,1131,1376,1111,1352,1100,1329,1094,1304,1093,1252,1093,1221,1090,1188,1081,1122,1055,1067,1028"/>
+<area shape="rect" id="Node000050" href="$d5/d6b/class_drop_down_button.html#ac26916773d4d6b5c0deb62b884696baa" title=" " alt="" coords="1205,1192,1388,1219"/>
+<area shape="poly" id="edge61_Node000039_Node000050" title=" " alt="" coords="1051,1024,1072,1056,1103,1098,1143,1141,1190,1178,1201,1183,1199,1188,1188,1182,1140,1145,1099,1102,1068,1059,1047,1027"/>
+<area shape="rect" id="Node000051" href="$dd/d9d/class_c_image_button.html#a23e98580cc6271feb08893485f0788bb" title=" " alt="" coords="1212,1141,1380,1168"/>
+<area shape="poly" id="edge62_Node000039_Node000051" title=" " alt="" coords="1058,1024,1114,1071,1151,1097,1190,1120,1222,1134,1220,1139,1188,1125,1148,1102,1110,1075,1054,1028"/>
+<area shape="rect" id="Node000041" href="$df/d43/class_c_command_menu.html#a7816c9c115b2d4bd0d5a30a6f81e1a70" title="Clears all buttons of their armed (highlighted) state." alt="" coords="1451,1184,1656,1227"/>
+<area shape="poly" id="edge54_Node000040_Node000041" title=" " alt="" coords="1373,1065,1405,1083,1421,1099,1430,1115,1439,1130,1453,1146,1493,1174,1490,1178,1450,1150,1434,1133,1426,1117,1417,1102,1402,1087,1370,1069"/>
+<area shape="rect" id="Node000044" href="$db/d40/class_team_fortress_viewport.html#a2ec7d2d99d1041391910b9cb74799a27" title="Sets the current command menu to the provided menu." alt="" coords="1462,1251,1645,1293"/>
+<area shape="poly" id="edge56_Node000040_Node000044" title=" " alt="" coords="1374,1061,1405,1083,1420,1103,1427,1123,1430,1162,1432,1200,1439,1218,1453,1237,1456,1239,1452,1243,1449,1240,1435,1221,1427,1201,1424,1163,1422,1125,1415,1106,1401,1087,1371,1066"/>
+<area shape="poly" id="edge57_Node000040_Node000046" title=" " alt="" coords="1374,1060,1391,1070,1405,1084,1424,1112,1432,1141,1432,1169,1429,1196,1427,1223,1427,1250,1435,1277,1453,1304,1466,1314,1462,1318,1449,1307,1430,1279,1422,1251,1421,1223,1424,1196,1427,1169,1426,1142,1419,1115,1401,1087,1388,1075,1371,1065"/>
+<area shape="poly" id="edge55_Node000041_Node000041" title=" " alt="" coords="1505,1184,1503,1174,1511,1165,1528,1159,1554,1157,1581,1160,1597,1166,1595,1171,1580,1165,1553,1163,1529,1165,1514,1169,1508,1175,1510,1183"/>
+<area shape="rect" id="Node000047" href="$d6/d87/voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="1748,1351,1879,1377"/>
+<area shape="poly" id="edge58_Node000046_Node000047" title=" " alt="" coords="1630,1343,1733,1354,1732,1359,1629,1349"/>
+<area shape="rect" id="Node000048" href="$d3/dfc/inputw32_8cpp.html#ad4c638a7e3ecee100b6da72b6c3a08c2" title="Resets the mouse cursor position to the center of the screen." alt="" coords="1757,1300,1870,1327"/>
+<area shape="poly" id="edge59_Node000046_Node000048" title=" " alt="" coords="1629,1329,1741,1318,1742,1323,1630,1334"/>
+<area shape="rect" id="Node000053" href="$dd/dc2/view_8cpp.html#a01e35c70a3631fc45948099bc7a30a21" title="Calculates the camera&#39;s origin based on a target&#39;s position and view angles." alt="" coords="1232,215,1361,241"/>
+<area shape="poly" id="edge66_Node000052_Node000053" title=" " alt="" coords="832,258,938,225,1012,218,1086,215,1217,219,1216,224,1086,220,1012,223,939,231,834,263"/>
+<area shape="rect" id="Node000058" href="$dd/dc2/view_8cpp.html#a0d567998e70ed2cc91007b19aa270888" title="Determines the camera position when following a directed chase." alt="" coords="945,240,1135,267"/>
+<area shape="poly" id="edge67_Node000052_Node000058" title=" " alt="" coords="847,267,929,260,929,265,847,272"/>
+<area shape="poly" id="edge68_Node000058_Node000053" title=" " alt="" coords="1135,241,1216,233,1216,239,1136,247"/>
+</map>

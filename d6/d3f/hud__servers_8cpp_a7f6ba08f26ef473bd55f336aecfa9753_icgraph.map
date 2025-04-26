@@ -1,0 +1,17 @@
+<map id="ServerListCompareFunc" name="ServerListCompareFunc">
+<area shape="rect" id="Node000001" title="Wrapper for CompareField for use with qsort, assumes ascending sort order." alt="" coords="1001,112,1160,139"/>
+<area shape="rect" id="Node000002" href="$d6/d3f/hud__servers_8cpp.html#a9b978150e6d467b9331ee9da4fa6a0f3" title="C&#45;style compare function for use with qsort." alt="" coords="829,112,953,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="985,128,953,128,953,123,985,123"/>
+<area shape="rect" id="Node000003" href="$d1/d59/class_c_hud_servers.html#abc932c1494ebad070f85b5cb2d4de5c9" title="Sorts the server list by the specified field." alt="" coords="609,112,781,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="813,128,781,128,781,123,813,123"/>
+<area shape="rect" id="Node000004" href="$d6/d3f/hud__servers_8cpp.html#a5b40bd582b22110d0a8c35df4b66f2d3" title="Sorts the servers in the global server browser by a specified field." alt="" coords="473,112,561,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="594,128,562,128,562,123,594,123"/>
+<area shape="rect" id="Node000005" href="$d4/d64/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#ae18bd6ece87801edc4e1893c278d3722" title=" " alt="" coords="216,88,425,163"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="457,128,425,128,425,123,457,123"/>
+<area shape="rect" id="Node000006" href="$d4/de2/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_sort_handler.html#a5b7bc31a8202af9e92a9beaaf5261b29" title=" " alt="" coords="5,5,168,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="200,86,167,74,169,69,202,81"/>
+<area shape="rect" id="Node000007" href="$dd/dc0/class_label_sort_input_handler.html#afddb2656aa2e6b8ca6795ce76ded14a2" title=" " alt="" coords="8,104,165,147"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="200,128,165,128,165,123,200,123"/>
+<area shape="rect" id="Node000008" href="$dd/dc0/class_label_sort_input_handler.html#aed1571a528f2389a60973de95c75403c" title=" " alt="" coords="12,171,161,213"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="201,162,162,173,160,168,200,157"/>
+</map>

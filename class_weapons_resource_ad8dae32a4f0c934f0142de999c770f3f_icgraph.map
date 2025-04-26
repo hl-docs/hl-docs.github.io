@@ -1,5 +1,0 @@
-<map id="WeaponsResource::AddWeapon" name="WeaponsResource::AddWeapon">
-<area shape="rect" id="Node000001" title=" " alt="" coords="283,5,493,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_ammo.html#a8985e497fa1d9a8153bab5aba358e3f9" title="Handles the registration of a new weapon type for the HUD." alt="" coords="5,5,235,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,21,235,21,235,16,267,16"/>
-</map>

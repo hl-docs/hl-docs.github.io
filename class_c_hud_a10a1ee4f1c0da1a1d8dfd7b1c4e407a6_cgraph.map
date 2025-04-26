@@ -1,5 +1,0 @@
-<map id="CHud::MsgFunc_ResetHUD" name="CHud::MsgFunc_ResetHUD">
-<area shape="rect" id="Node000001" title="USER&#45;DEFINED SERVER MESSAGE HANDLERS." alt="" coords="5,5,189,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_base.html#a868fe4aecafe4eb0f8bca85d7b206d66" title=" " alt="" coords="237,5,362,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,16,221,16,221,21,189,21"/>
-</map>

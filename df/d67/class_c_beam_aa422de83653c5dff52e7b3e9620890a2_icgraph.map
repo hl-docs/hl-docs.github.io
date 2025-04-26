@@ -1,0 +1,24 @@
+<map id="CBeam::SetEndPos" name="CBeam::SetEndPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="613,81,752,108"/>
+<area shape="rect" id="Node000002" href="$d6/d4a/class_c_lightning.html#ab55f81ab9ad5a6c6a74943ed85562539" title="Updates the beam variables for the lightning effect." alt="" coords="373,5,565,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="638,77,564,47,527,35,529,30,566,41,640,72"/>
+<area shape="rect" id="Node000004" href="$d7/de6/class_c_laser.html#ae877e46fde9a7ec6e98da554aa879b59" title="Fires the laser at a specific point." alt="" coords="402,56,537,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="597,87,537,80,538,75,598,82"/>
+<area shape="rect" id="Node000008" href="$df/d67/class_c_beam.html#a80e1166fe55e68e4b81a6b6f75b1533d" title="Initializes the beam as a hose." alt="" coords="410,107,529,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="598,107,530,116,529,110,598,102"/>
+<area shape="rect" id="Node000009" href="$df/d67/class_c_beam.html#a52880e341224bcfbae725eea95c14d83" title="Initializes the beam with start and end points." alt="" coords="406,157,532,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="640,117,566,148,529,159,527,154,564,143,638,112"/>
+<area shape="rect" id="Node000003" href="$d6/d4a/class_c_lightning.html#ad1e95029a213e0d7faccb62f7cf38d3a" title="Activates the lightning effect." alt="" coords="181,5,317,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,21,317,21,317,16,357,16"/>
+<area shape="rect" id="Node000005" href="$dc/d1f/class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="174,56,324,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,72,324,72,324,67,386,67"/>
+<area shape="rect" id="Node000006" href="$d7/de6/class_c_laser.html#accba3ab9092b0d53df1433c63ce24ee0" title="Think function for the laser strike." alt="" coords="181,107,317,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="394,89,311,109,309,103,392,84"/>
+<area shape="rect" id="Node000007" href="$d7/de6/class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="10,132,120,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="166,134,120,140,120,135,165,129"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="390,168,120,151,120,146,390,163"/>
+<area shape="rect" id="Node000010" href="$d9/d05/class_c_test_effect.html#a0f7cbe0c8417444d53120efc376ec062" title="Think function for the test effect." alt="" coords="173,208,325,235"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="394,191,311,210,309,205,392,185"/>
+<area shape="rect" id="Node000011" href="$d9/d05/class_c_test_effect.html#a47a9ec960b1e1d9ac185511e1c0e89c2" title="Uses the test effect." alt="" coords="5,208,125,235"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="157,224,125,224,125,219,157,219"/>
+</map>

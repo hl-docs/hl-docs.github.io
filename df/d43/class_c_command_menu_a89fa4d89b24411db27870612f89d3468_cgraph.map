@@ -1,0 +1,8 @@
+<map id="CCommandMenu::KeyInput" name="CCommandMenu::KeyInput">
+<area shape="rect" id="Node000001" title="Tries to find a button that has a key bound to the input and presses it." alt="" coords="5,29,186,56"/>
+<area shape="rect" id="Node000002" href="$db/d40/class_team_fortress_viewport.html#a2ec7d2d99d1041391910b9cb74799a27" title="Sets the current command menu to the provided menu." alt="" coords="234,21,416,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,40,218,40,218,45,186,45"/>
+<area shape="rect" id="Node000003" href="$df/d43/class_c_command_menu.html#ad3cdbbf95342ade61e7d8bbfbadd911d" title="Makes this menu and all parent menus in the chain visible." alt="" coords="464,29,664,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,40,449,40,449,45,417,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="524,31,517,21,522,11,538,5,564,3,593,5,608,12,606,17,592,10,564,8,539,10,525,15,522,20,528,27"/>
+</map>

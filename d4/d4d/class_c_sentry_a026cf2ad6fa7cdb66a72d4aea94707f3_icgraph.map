@@ -1,0 +1,5 @@
+<map id="CSentry::Precache" name="CSentry::Precache">
+<area shape="rect" id="Node000001" title="Preloads all resources needed by the sentry." alt="" coords="169,5,300,32"/>
+<area shape="rect" id="Node000002" href="$d4/d4d/class_c_sentry.html#aec10a8f84bda6bb7f70e9f2554ef352c" title="Spawns the sentry entity." alt="" coords="5,5,121,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,21,121,21,121,16,153,16"/>
+</map>

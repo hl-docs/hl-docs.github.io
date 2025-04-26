@@ -1,7 +1,0 @@
-<map id="CBasePlayer::CheckSuitUpdate" name="CBasePlayer::CheckSuitUpdate">
-<area shape="rect" id="Node000001" title="Checks and plays suit updates for the player." alt="" coords="367,5,573,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player.html#aafd0f877042347e2beec7a9df50d0da9" title="Handles the player&#39;s pre&#45;think logic." alt="" coords="163,5,319,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,21,320,21,320,16,351,16"/>
-<area shape="rect" id="Node000003" href="$client_8cpp.html#ab81b2e9b14840f5ce8a46d369746af2a" title="Called before the physics simulation for a player." alt="" coords="5,5,115,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,115,21,115,16,147,16"/>
-</map>

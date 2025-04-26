@@ -1,7 +1,0 @@
-<map id="DeactivateSatchels" name="DeactivateSatchels">
-<area shape="rect" id="Node000001" title="Deactivates all satchels owned by the specified player." alt="" coords="362,13,494,40"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a461017faef96deda77810cf2418d54f9" title="Handles logic when a player is killed." alt="" coords="190,5,314,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,29,314,29,314,24,346,24"/>
-<area shape="rect" id="Node000003" href="$class_c_half_life_teamplay.html#acd8c78636ad1ed18d6eae877a1ca7a3e" title="Handles the event when a player is killed." alt="" coords="5,5,142,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
-</map>

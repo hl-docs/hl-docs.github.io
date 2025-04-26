@@ -1,0 +1,16 @@
+<map id="CBeam::RandomTargetname" name="CBeam::RandomTargetname">
+<area shape="rect" id="Node000001" title="Finds a random target entity by name." alt="" coords="762,56,950,83"/>
+<area shape="rect" id="Node000002" href="$d6/d4a/class_c_lightning.html#a742db6e2243ce75f3a0531030b4df499" title="Think function for the lightning strike." alt="" coords="558,31,714,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="746,59,714,56,715,50,746,54"/>
+<area shape="rect" id="Node000006" href="$d7/de6/class_c_laser.html#accba3ab9092b0d53df1433c63ce24ee0" title="Think function for the laser strike." alt="" coords="568,81,704,108"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="746,85,704,90,703,84,746,79"/>
+<area shape="rect" id="Node000003" href="$d6/d4a/class_c_lightning.html#ae60d76702c9a62a7c700bbd864c0adc2" title="Spawns the lightning effect entity." alt="" coords="186,5,315,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="563,30,510,21,408,16,316,18,316,12,408,11,511,16,564,24"/>
+<area shape="rect" id="Node000005" href="$d6/d4a/class_c_lightning.html#a9b6e23ff1410db09ae90d3c86793506d" title="Uses the lightning effect to strike." alt="" coords="363,31,510,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="543,47,511,47,511,41,543,41"/>
+<area shape="rect" id="Node000004" href="$d7/def/class_c_trip_beam.html#a8e3d6f75ea13fae6608eefbaa3b3742f" title="Spawns the lightning effect entity." alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="348,35,315,30,316,25,348,29"/>
+<area shape="rect" id="Node000007" href="$d7/de6/class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="382,81,491,108"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="553,97,491,97,491,92,553,92"/>
+</map>

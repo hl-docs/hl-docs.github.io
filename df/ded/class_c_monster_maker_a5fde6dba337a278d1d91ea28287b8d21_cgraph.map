@@ -1,0 +1,7 @@
+<map id="CMonsterMaker::KeyValue" name="CMonsterMaker::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the monster maker." alt="" coords="5,31,183,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="285,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,31,269,21,270,27,183,37"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#afe35b9ade6e7eb5b0095b22d885fc811" title="Processes key&#45;value pairs for the monster." alt="" coords="231,56,402,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,51,216,55,215,60,182,57"/>
+</map>

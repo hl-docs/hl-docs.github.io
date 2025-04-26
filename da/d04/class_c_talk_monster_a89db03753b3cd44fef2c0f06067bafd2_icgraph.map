@@ -1,0 +1,11 @@
+<map id="CTalkMonster::Precache" name="CTalkMonster::Precache">
+<area shape="rect" id="Node000001" title="Precaches resources for the talk monster." alt="" coords="374,31,538,57"/>
+<area shape="rect" id="Node000002" href="$d0/d51/class_c_barney.html#add0646d23c20ec7491f95832e73e8cee" title="Preloads all resources needed by the Barney entity." alt="" coords="187,5,321,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,34,321,30,322,24,359,29"/>
+<area shape="rect" id="Node000004" href="$dc/d29/class_c_scientist.html#ab3d3d6446d78f9601c5cfa003b911b83" title="Precaches all resources needed by the scientist." alt="" coords="182,56,326,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,59,326,63,326,58,358,54"/>
+<area shape="rect" id="Node000003" href="$d0/d51/class_c_barney.html#abf46f736a42ef4e60fd853d9e86526d2" title="Spawns the Barney entity." alt="" coords="10,5,129,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,21,129,21,129,16,171,16"/>
+<area shape="rect" id="Node000005" href="$dc/d29/class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="5,56,134,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,72,134,72,134,67,166,67"/>
+</map>

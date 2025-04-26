@@ -1,5 +1,0 @@
-<map id="CFuncPlatRot::HitTop" name="CFuncPlatRot::HitTop">
-<area shape="rect" id="Node000001" title="Handles the event when the platform hits the top." alt="" coords="234,5,381,32"/>
-<area shape="rect" id="Node000002" href="$class_c_func_track_change.html#af3884efbdd881f0f26835f16c80672fa" title="Handles the event when the track change entity hits the top." alt="" coords="5,5,186,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,21,186,21,186,16,218,16"/>
-</map>

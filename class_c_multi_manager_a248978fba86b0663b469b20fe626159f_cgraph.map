@@ -1,7 +1,0 @@
-<map id="CMultiManager::KeyValue" name="CMultiManager::KeyValue">
-<area shape="rect" id="Node000001" title="Handles key&#45;value pairs for the multi&#45;manager." alt="" coords="5,31,178,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="253,5,315,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,30,237,22,238,27,179,35"/>
-<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#affc4a7dd0f0efdc504080ed1ce265938" title="Strips redundant tokens from a key string." alt="" coords="226,56,342,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,53,211,57,210,62,178,58"/>
-</map>

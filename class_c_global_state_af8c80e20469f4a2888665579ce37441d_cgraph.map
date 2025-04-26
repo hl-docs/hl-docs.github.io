@@ -1,5 +1,0 @@
-<map id="CGlobalState::Save" name="CGlobalState::Save">
-<area shape="rect" id="Node000001" title="Saves the global state to a save file." alt="" coords="5,5,140,32"/>
-<area shape="rect" id="Node000002" href="$class_c_save.html#ae5a95e92ef12b3c7d14f134f2e8fdc2e" title="Writes fields to the save buffer." alt="" coords="188,5,320,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,16,172,16,172,21,140,21"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="CRulePointEntity::Spawn" name="CRulePointEntity::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the rule point entity." alt="" coords="5,5,173,32"/>
-<area shape="rect" id="Node000002" href="$class_c_rule_entity.html#ad4d6c366f45c4d1c55de9ae61230d1e4" title="Spawns the rule entity." alt="" coords="221,5,358,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,16,205,16,205,21,173,21"/>
-</map>

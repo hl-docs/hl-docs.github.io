@@ -1,5 +1,0 @@
-<map id="USENTENCEG_Pick" name="USENTENCEG_Pick">
-<area shape="rect" id="Node000001" title="Picks a random sentence from a group using the LRU list." alt="" coords="5,5,149,32"/>
-<area shape="rect" id="Node000002" href="$sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="197,5,356,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,16,181,16,181,21,149,21"/>
-</map>

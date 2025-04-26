@@ -1,0 +1,7 @@
+<map id="CCineMonster::StartSequence" name="CCineMonster::StartSequence">
+<area shape="rect" id="Node000001" title="Starts a sequence for the target monster." alt="" coords="5,31,203,57"/>
+<area shape="rect" id="Node000002" href="$db/dc1/class_c_base_animating.html#a48b692e6ced2770a3f5e2fe4705c5ba9" title="Looks up the sequence index for a given label." alt="" coords="257,5,483,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,32,241,28,242,34,204,37"/>
+<area shape="rect" id="Node000003" href="$db/dc1/class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="251,56,489,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,51,235,54,235,59,203,56"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="CDeadBarney::Spawn" name="CDeadBarney::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the dead Barney entity." alt="" coords="5,56,154,83"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="292,5,338,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,53,276,24,277,29,146,58"/>
-<area shape="rect" id="Node000003" href="$class_c_base_animating.html#a48b692e6ced2770a3f5e2fe4705c5ba9" title="Looks up the sequence index for a given label." alt="" coords="202,56,428,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,67,186,67,186,72,154,72"/>
-<area shape="rect" id="Node000004" href="$class_c_base_monster.html#ab53e862339b77d41592461643599d1ef" title="Initializes the monster&#39;s state when it is dead." alt="" coords="210,107,420,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,81,235,100,234,105,144,86"/>
-</map>

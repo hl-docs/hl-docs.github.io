@@ -1,0 +1,15 @@
+<map id="CGameTeamMaster::TeamMatch" name="CGameTeamMaster::TeamMatch">
+<area shape="rect" id="Node000001" title="Checks if the activator&#39;s team matches the team conditions." alt="" coords="5,81,219,108"/>
+<area shape="rect" id="Node000002" href="$d5/d48/class_c_game_team_master.html#ae122f3f168e55c87bbbe00380cd3e5e6" title=" " alt="" coords="267,5,467,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,78,266,41,293,34,295,39,267,47,154,83"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#acdd61dd12f1226cebaa6ed4c0443f165" title=" " alt="" coords="294,56,440,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,81,278,75,279,81,219,87"/>
+<area shape="rect" id="Node000004" href="$d5/d48/class_c_game_team_master.html#a476462b620645286a9e1ad2302abc667" title="Retrieves the team ID associated with the game team master." alt="" coords="272,107,462,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,103,257,106,256,112,219,108"/>
+<area shape="rect" id="Node000006" href="$dc/d44/dlls_2util_8cpp.html#a1a9aba4a358b854b8ae3472733ad3563" title="Checks if two team names match." alt="" coords="302,157,432,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="154,106,267,143,295,150,293,156,266,148,152,111"/>
+<area shape="rect" id="Node000005" href="$d4/d4f/class_c_game_rules.html#a6ac8b5103c534e1738920c410c0ca5b5" title=" " alt="" coords="515,107,753,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="462,117,500,117,500,123,462,123"/>
+<area shape="rect" id="Node000007" href="$d4/d4f/class_c_game_rules.html#af37c18627f790989d05ede42541cc1ad" title=" " alt="" coords="548,157,720,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="432,168,532,168,532,173,432,173"/>
+</map>

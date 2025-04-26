@@ -1,7 +1,0 @@
-<map id="CRulePointEntity::Spawn" name="CRulePointEntity::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the rule point entity." alt="" coords="211,31,378,57"/>
-<area shape="rect" id="Node000002" href="$class_c_game_score.html#aa522c43cac7f830407aebb3977590224" title="Spawns the game score entity." alt="" coords="11,5,157,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,35,157,30,158,25,196,29"/>
-<area shape="rect" id="Node000003" href="$class_c_game_counter.html#a63752142f994fdeae5e81f3d6143678c" title="Spawns the game counter entity." alt="" coords="5,56,163,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,59,164,62,163,57,195,53"/>
-</map>

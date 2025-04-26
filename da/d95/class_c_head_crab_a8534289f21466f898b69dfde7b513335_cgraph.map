@@ -1,0 +1,7 @@
+<map id="CHeadCrab::Spawn" name="CHeadCrab::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the headcrab entity." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="215,5,261,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,31,199,22,200,27,140,36"/>
+<area shape="rect" id="Node000003" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="188,56,288,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,52,173,57,172,62,140,57"/>
+</map>

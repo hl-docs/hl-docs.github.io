@@ -1,7 +1,0 @@
-<map id="SetBodygroup" name="SetBodygroup">
-<area shape="rect" id="Node000001" title="Sets the body group for a model." alt="" coords="235,31,338,57"/>
-<area shape="rect" id="Node000002" href="$class_c_h_grunt.html#ab3164e77b091c16db163e518331ce563" title="Handles animation events for the grunt." alt="" coords="5,5,187,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,38,187,33,188,28,219,32"/>
-<area shape="rect" id="Node000003" href="$class_c_h_grunt.html#a416d7e13e836c614826df159ff4d536c" title="Spawns the grunt entity." alt="" coords="37,56,155,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,55,156,64,155,59,219,50"/>
-</map>

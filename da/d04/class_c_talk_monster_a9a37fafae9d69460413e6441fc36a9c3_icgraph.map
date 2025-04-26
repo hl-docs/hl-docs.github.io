@@ -1,0 +1,7 @@
+<map id="CTalkMonster::TrySmellTalk" name="CTalkMonster::TrySmellTalk">
+<area shape="rect" id="Node000001" title="Attempts to make the talk monster comment on a smell." alt="" coords="218,31,402,57"/>
+<area shape="rect" id="Node000002" href="$d0/d51/class_c_barney.html#a3341e9848d3c6ddacd909c07db355320" title="Determines the appropriate schedule for the Barney entity." alt="" coords="10,5,165,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,34,165,30,165,25,202,29"/>
+<area shape="rect" id="Node000003" href="$dc/d29/class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="5,56,170,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,59,171,63,170,57,202,54"/>
+</map>

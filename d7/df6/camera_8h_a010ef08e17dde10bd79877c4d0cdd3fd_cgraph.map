@@ -1,0 +1,61 @@
+<map id="CAM_Init" name="CAM_Init">
+<area shape="rect" id="Node000001" title="Initializes camera system and binds key commands to actions." alt="" coords="5,461,80,488"/>
+<area shape="rect" id="Node000002" href="$dc/df5/in__camera_8cpp.html#a5d28b50116f002d293abd4deb1087796" title="Ends distance adjustment via the mouse." alt="" coords="139,5,271,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,461,49,377,64,252,75,186,89,126,106,77,126,42,128,40,132,43,130,46,110,79,94,128,80,187,69,252,54,377,47,461"/>
+<area shape="rect" id="Node000003" href="$dc/df5/in__camera_8cpp.html#a352673f5daf22976cb5c8d928814a997" title="Stops camera movement via the mouse." alt="" coords="130,56,280,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="42,461,51,385,67,275,92,166,107,123,126,93,128,90,132,94,130,96,112,125,97,168,72,276,56,386,48,461"/>
+<area shape="rect" id="Node000004" href="$dc/df5/in__camera_8cpp.html#a484b26b2875ccee3a872c56d16329653" title="Zooms the camera in." alt="" coords="155,259,255,285"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="44,460,52,427,68,383,92,336,126,295,139,286,142,290,129,299,96,339,73,385,57,429,49,462"/>
+<area shape="rect" id="Node000006" href="$dc/df5/in__camera_8cpp.html#a9e5858b3da0481b11166cdaf2b9a0491" title="Stops zooming in." alt="" coords="163,563,247,589"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="57,486,88,517,129,548,150,558,148,563,126,553,85,521,54,490"/>
+<area shape="rect" id="Node000008" href="$dc/df5/in__camera_8cpp.html#ae7a7cd428965c572fb8a683707e0dce5" title="Zooms the camera out." alt="" coords="150,309,260,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="47,460,75,405,98,373,126,346,134,340,137,345,129,350,102,377,80,408,52,462"/>
+<area shape="rect" id="Node000009" href="$dc/df5/in__camera_8cpp.html#ae32fcc54ded9931211ea18a7e1266477" title="Stops zooming out." alt="" coords="158,613,252,640"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="52,487,80,541,102,572,129,599,145,609,142,613,126,603,98,576,75,544,47,489"/>
+<area shape="rect" id="Node000010" href="$dc/df5/in__camera_8cpp.html#a06461137b58714087583d306694595a4" title="Called when the user presses the key to tilt the camera down." alt="" coords="129,360,281,387"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="54,459,85,428,126,396,137,391,139,396,129,401,88,432,57,463"/>
+<area shape="rect" id="Node000011" href="$dc/df5/in__camera_8cpp.html#a5a533c4d1a97e98c4005fd1f4b74bff8" title="Called when the user releases the key to tilt the camera down." alt="" coords="137,664,273,691"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="49,488,57,521,73,564,96,610,130,650,134,654,131,658,126,654,92,613,68,566,52,522,44,489"/>
+<area shape="rect" id="Node000012" href="$dc/df5/in__camera_8cpp.html#a318e86b49d60f53d074ca93965bcb013" title="Called when the user presses the key to tilt the camera up." alt="" coords="137,107,273,133"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="43,461,53,394,70,299,95,206,109,169,126,144,128,141,132,145,130,147,114,172,100,208,75,301,58,395,48,461"/>
+<area shape="rect" id="Node000013" href="$dc/df5/in__camera_8cpp.html#aeaa30c1ac883f838117c4acc5ac84388" title="Called when the user releases the key to tilt the camera up." alt="" coords="145,411,265,437"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="79,461,144,440,146,445,81,466"/>
+<area shape="rect" id="Node000014" href="$dc/df5/in__camera_8cpp.html#a7a3bcc169993003933579b11fda8935a" title="Starts using the mouse to change the camera distance (zoom in/out)." alt="" coords="137,765,273,792"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="46,488,49,537,60,608,71,646,85,684,105,720,130,752,133,754,129,758,126,755,100,723,80,687,66,648,55,609,44,538,41,489"/>
+<area shape="rect" id="Node000017" href="$dc/df5/in__camera_8cpp.html#ac5dc4afbcc03bc0919b54385b630c1e5" title="Starts handling camera movement with the mouse." alt="" coords="128,715,282,741"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="47,488,53,529,66,586,91,647,108,676,130,701,133,704,130,708,126,705,104,679,86,650,61,588,48,530,42,488"/>
+<area shape="rect" id="Node000018" href="$dc/df5/in__camera_8cpp.html#a218d3468ada40e7102d180773c249db3" title="Switches the camera back to first&#45;person mode." alt="" coords="136,816,274,843"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="48,488,58,554,75,649,100,742,114,778,130,802,132,805,128,808,126,806,109,780,95,743,70,650,53,555,43,489"/>
+<area shape="rect" id="Node000019" href="$dc/df5/in__camera_8cpp.html#adb7128a3085bef400a7fc29b1f6168fd" title="Toggles the &#39;snap&#45;to&#39; feature, where the camera snaps to a set position." alt="" coords="137,867,273,893"/>
+<area shape="poly" id="edge26_Node000001_Node000019" title=" " alt="" coords="48,488,56,563,72,673,97,782,112,824,130,853,132,855,128,859,126,856,107,826,92,783,67,674,51,564,42,489"/>
+<area shape="rect" id="Node000020" href="$dc/df5/in__camera_8cpp.html#abd4e493d2d1d7e7001093508aaf846ac" title="Switches the camera to third&#45;person mode." alt="" coords="135,917,275,944"/>
+<area shape="poly" id="edge27_Node000001_Node000020" title=" " alt="" coords="47,488,54,572,69,697,80,762,94,821,110,870,130,904,132,906,128,910,126,907,106,873,89,823,75,763,64,698,49,573,42,489"/>
+<area shape="rect" id="Node000021" href="$dc/df5/in__camera_8cpp.html#a2d953f974d4cb106e50f65b618fde3af" title="Called when the user presses the key to rotate the camera left." alt="" coords="137,157,273,184"/>
+<area shape="poly" id="edge28_Node000001_Node000021" title=" " alt="" coords="41,461,44,411,55,340,66,301,80,263,100,226,126,194,129,191,133,195,130,198,105,229,85,265,71,303,60,341,49,412,46,461"/>
+<area shape="rect" id="Node000022" href="$dc/df5/in__camera_8cpp.html#a359b5f15c1faa4d6d68842742d28ae67" title="Called when the user releases the key to rotate the camera left." alt="" coords="145,461,265,488"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="80,472,130,472,130,477,80,477"/>
+<area shape="rect" id="Node000023" href="$dc/df5/in__camera_8cpp.html#a2300489f2100e4068aa28d474215748f" title="Called when the user presses the key to rotate the camera right." alt="" coords="133,208,277,235"/>
+<area shape="poly" id="edge32_Node000001_Node000023" title=" " alt="" coords="42,461,48,419,61,362,86,300,104,270,126,245,130,241,133,245,130,249,108,274,91,302,66,363,53,420,47,462"/>
+<area shape="rect" id="Node000024" href="$dc/df5/in__camera_8cpp.html#a76184c82e71b8c77d4961be3fa05fcde" title="Called when the user releases the key to rotate the camera right." alt="" coords="141,512,269,539"/>
+<area shape="poly" id="edge34_Node000001_Node000024" title=" " alt="" coords="81,484,146,504,144,509,79,489"/>
+<area shape="rect" id="Node000005" href="$d8/d8c/input_8cpp.html#a4b3bad5f852a07e61e1c9b3d5781fe79" title="Handles a key down event for a specific key binding (kbutton_t)." alt="" coords="363,233,439,260"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,263,347,251,347,256,255,268"/>
+<area shape="rect" id="Node000007" href="$d8/d8c/input_8cpp.html#a4d4954f7bc20bbdcee21bea11b60ca74" title="Handles a key up event for a specific key binding (kbutton_t)." alt="" coords="371,537,431,564"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="247,568,355,554,356,559,247,573"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="249,306,281,295,355,264,357,269,283,300,251,311"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="249,610,281,599,356,568,358,573,283,604,251,615"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="256,357,281,346,333,308,375,269,378,273,336,312,283,350,258,362"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="256,661,281,650,333,612,375,573,378,577,336,616,283,654,258,666"/>
+<area shape="poly" id="edge16_Node000012_Node000005" title=" " alt="" coords="258,132,283,143,336,181,378,220,375,224,333,185,281,148,256,136"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="258,436,283,447,336,485,378,524,375,528,333,489,281,452,256,440"/>
+<area shape="rect" id="Node000015" href="$db/d4f/class_c_hud.html#ac1037bffa140abd71efd359593e0c571" title="Returns the current mouse sensitivity value." alt="" coords="330,715,471,741"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="259,762,331,743,332,748,260,767"/>
+<area shape="rect" id="Node000016" href="$dc/df5/in__camera_8cpp.html#a8def09b6eb617f8358f4a18349120a1b" title="Gets the current mouse cursor position." alt="" coords="333,765,468,792"/>
+<area shape="poly" id="edge21_Node000014_Node000016" title=" " alt="" coords="273,776,317,776,317,781,273,781"/>
+<area shape="poly" id="edge23_Node000017_Node000015" title=" " alt="" coords="283,725,315,725,315,731,283,731"/>
+<area shape="poly" id="edge24_Node000017_Node000016" title=" " alt="" coords="260,739,332,758,331,763,259,745"/>
+<area shape="poly" id="edge29_Node000021_Node000005" title=" " alt="" coords="251,182,283,194,357,224,355,229,281,198,249,187"/>
+<area shape="poly" id="edge31_Node000022_Node000007" title=" " alt="" coords="251,486,283,498,358,529,356,534,281,502,249,491"/>
+<area shape="poly" id="edge33_Node000023_Node000005" title=" " alt="" coords="278,228,348,237,347,243,277,233"/>
+<area shape="poly" id="edge35_Node000024_Node000007" title=" " alt="" coords="270,531,355,542,355,547,269,536"/>
+</map>

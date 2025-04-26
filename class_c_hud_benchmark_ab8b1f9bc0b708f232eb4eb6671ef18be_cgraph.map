@@ -1,7 +1,0 @@
-<map id="CHudBenchmark::StartNextSection" name="CHudBenchmark::StartNextSection">
-<area shape="rect" id="Node000001" title="Starts the next benchmarking section based on the given stage." alt="" coords="5,5,188,48"/>
-<area shape="rect" id="Node000002" href="$hud__bench_8cpp.html#a0d99927ba36b870455c56ebdc54f26cc" title="Gets the switch time for the current stage." alt="" coords="236,13,389,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,24,220,24,220,29,188,29"/>
-<area shape="rect" id="Node000003" href="$hud__bench_8cpp.html#a2acca70ba9541b59d8154ab2ca54d037" title="Retrieves the current benchmark stage." alt="" coords="437,13,557,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,24,422,24,422,29,389,29"/>
-</map>

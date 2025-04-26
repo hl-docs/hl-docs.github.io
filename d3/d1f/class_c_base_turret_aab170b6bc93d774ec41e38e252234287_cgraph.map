@@ -1,0 +1,142 @@
+<map id="CBaseTurret::TurretUse" name="CBaseTurret::TurretUse">
+<area shape="rect" id="Node000001" title="Handles the use behavior for the turret." alt="" coords="5,1613,163,1640"/>
+<area shape="rect" id="Node000002" href="$d3/d1f/class_c_base_turret.html#aca75241a920a6e589920143208c8562c" title="Deploys the turret." alt="" coords="230,1208,372,1235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,1611,283,1247,287,1250,95,1614"/>
+<area shape="rect" id="Node000054" href="$d3/d1f/class_c_base_turret.html#a732fe94be3c994ac82fbed600ebdfcc4" title="Retires the turret." alt="" coords="676,1411,812,1437"/>
+<area shape="poly" id="edge89_Node000001_Node000054" title=" " alt="" coords="130,1610,682,1440,684,1445,131,1615"/>
+<area shape="rect" id="Node000060" href="$d5/de5/class_c_base_entity.html#a207d6bda0f1e022be3a575efa69fbfe8" title="Checks if the entity should toggle." alt="" coords="211,1664,391,1691"/>
+<area shape="poly" id="edge90_Node000001_Node000060" title=" " alt="" coords="145,1638,226,1657,225,1662,144,1643"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="1205,77,1309,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,1208,300,1146,305,1044,318,913,345,763,364,684,388,605,417,527,452,450,493,377,541,309,596,247,659,193,723,153,793,123,866,102,940,88,1011,81,1079,78,1189,81,1189,87,1079,83,1012,86,940,94,867,107,794,128,725,157,662,197,600,251,545,313,498,380,457,453,422,529,393,607,369,686,350,764,324,914,310,1045,305,1146,305,1208"/>
+<area shape="rect" id="Node000006" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="2086,1060,2133,1087"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="301,1208,314,1053,341,796,360,657,383,526,408,415,437,334,492,206,518,150,546,101,580,60,622,29,675,10,743,3,1750,3,1811,8,1862,23,1904,48,1938,81,1967,122,1992,170,2041,283,2060,352,2076,445,2088,554,2097,671,2107,893,2111,1044,2105,1045,2102,893,2091,671,2083,554,2071,446,2055,353,2036,285,1988,172,1962,125,1934,85,1900,52,1860,28,1810,13,1750,8,743,8,677,15,625,34,584,64,551,104,523,153,497,209,441,336,413,416,388,527,366,658,347,796,319,1053,306,1208"/>
+<area shape="rect" id="Node000007" href="$d3/d1f/class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="439,1056,612,1083"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="313,1206,364,1155,399,1125,438,1099,463,1086,466,1091,440,1104,403,1130,368,1159,316,1210"/>
+<area shape="rect" id="Node000021" href="$d3/d1f/class_c_base_turret.html#a400a671b3ad7cd0b3c8c171920718f99" title="Sets the turret&#39;s animation." alt="" coords="891,1259,1075,1285"/>
+<area shape="poly" id="edge84_Node000002_Node000021" title=" " alt="" coords="372,1225,661,1249,875,1263,875,1269,660,1255,372,1230"/>
+<area shape="rect" id="Node000025" href="$db/dc1/class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="1157,1048,1357,1091"/>
+<area shape="poly" id="edge85_Node000002_Node000025" title=" " alt="" coords="371,1208,1142,1085,1142,1090,372,1213"/>
+<area shape="rect" id="Node000027" href="$d9/dbc/class_c_base_delay.html#ab38df8e96cc9fe65f6964774452bbcc5" title="Executes the targets associated with the delay entity." alt="" coords="1157,1285,1358,1312"/>
+<area shape="poly" id="edge86_Node000002_Node000027" title=" " alt="" coords="311,1234,330,1267,359,1310,396,1356,441,1397,499,1436,550,1466,598,1488,645,1504,746,1527,876,1548,938,1561,987,1571,1010,1572,1034,1569,1060,1562,1089,1548,1120,1527,1148,1501,1172,1472,1193,1440,1225,1377,1245,1326,1250,1328,1230,1380,1198,1443,1176,1475,1152,1505,1123,1532,1091,1553,1062,1567,1035,1575,1010,1577,986,1576,936,1566,875,1553,745,1532,643,1509,596,1493,548,1471,496,1441,437,1401,392,1360,354,1314,325,1269,307,1236"/>
+<area shape="rect" id="Node000058" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="933,1664,1033,1691"/>
+<area shape="poly" id="edge88_Node000002_Node000058" title=" " alt="" coords="305,1235,311,1301,330,1399,347,1452,371,1504,401,1552,441,1593,496,1629,558,1656,623,1674,689,1685,754,1691,815,1691,917,1684,917,1690,815,1696,754,1696,688,1691,622,1680,556,1661,494,1634,437,1597,397,1556,366,1507,342,1454,325,1400,306,1302,300,1236"/>
+<area shape="rect" id="Node000059" href="$dc/d44/dlls_2util_8cpp.html#a9c3ac10a492f4e794c77e49a05af0d03" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="470,1360,582,1387"/>
+<area shape="poly" id="edge87_Node000002_Node000059" title=" " alt="" coords="316,1233,368,1284,403,1313,440,1339,466,1352,463,1356,438,1344,399,1317,364,1288,313,1237"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="1438,77,1576,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1310,88,1422,88,1422,93,1310,93"/>
+<area shape="rect" id="Node000005" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="1674,77,1824,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1576,88,1658,88,1658,93,1576,93"/>
+<area shape="rect" id="Node000008" href="$d3/d1f/class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="660,879,828,905"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="549,1053,635,986,719,914,722,918,638,991,553,1058"/>
+<area shape="rect" id="Node000014" href="$d5/de5/class_c_base_entity.html#a2a3645fbec4962b2ec7020a0bf84f8f1" title=" " alt="" coords="1188,296,1327,323"/>
+<area shape="poly" id="edge52_Node000007_Node000014" title=" " alt="" coords="525,1055,534,928,556,725,573,618,596,519,624,438,640,407,659,383,695,359,748,341,814,327,887,317,1040,307,1172,305,1172,311,1040,312,888,323,815,332,750,346,698,364,662,387,645,410,629,440,601,521,579,619,561,725,539,928,530,1056"/>
+<area shape="rect" id="Node000017" href="$d3/d1f/class_c_base_turret.html#abe14343099ae5102052ab4ec0ab5fa62" title="Moves the turret to its goal angles." alt="" coords="901,1208,1065,1235"/>
+<area shape="poly" id="edge54_Node000007_Node000017" title=" " alt="" coords="551,1081,600,1109,661,1138,720,1158,767,1170,876,1193,908,1201,907,1206,875,1199,766,1175,719,1163,659,1142,598,1114,548,1086"/>
+<area shape="poly" id="edge81_Node000007_Node000021" title=" " alt="" coords="540,1081,590,1133,624,1162,662,1187,714,1211,769,1230,876,1255,875,1261,768,1235,712,1216,659,1192,621,1166,586,1137,536,1085"/>
+<area shape="poly" id="edge83_Node000007_Node000025" title=" " alt="" coords="613,1067,1141,1067,1141,1072,613,1072"/>
+<area shape="rect" id="Node000051" href="$d4/d7a/class_c_base_monster.html#a4fa6c6cb5ac80a5aceadfed803865cba" title="Finds the best visible enemy for the monster." alt="" coords="1167,128,1348,171"/>
+<area shape="poly" id="edge51_Node000007_Node000051" title=" " alt="" coords="525,1055,532,909,553,672,571,546,593,429,622,331,639,293,658,264,682,238,708,216,766,180,830,155,898,138,966,129,1033,126,1151,131,1151,137,1033,131,967,135,899,144,832,160,768,185,711,220,685,242,662,267,644,296,627,333,599,430,576,547,559,673,538,910,530,1056"/>
+<area shape="rect" id="Node000052" href="$d4/d7a/class_c_base_monster.html#aeee91047385ca6a6e0c455d01440b485" title="Searches for visible entities within a specified distance." alt="" coords="1186,195,1329,221"/>
+<area shape="poly" id="edge53_Node000007_Node000052" title=" " alt="" coords="525,1055,536,922,560,708,577,594,600,488,626,399,642,364,658,337,682,309,709,285,770,247,837,219,909,202,981,192,1050,189,1170,194,1170,199,1051,194,981,197,910,207,839,224,772,251,712,289,686,313,662,340,646,367,631,401,605,489,583,595,565,709,541,923,530,1056"/>
+<area shape="rect" id="Node000053" href="$d3/d1f/class_c_base_turret.html#a00699cd3ffd37155a9562c09c6452328" title="Makes the turret emit a pinging noise while searching." alt="" coords="680,397,808,424"/>
+<area shape="poly" id="edge55_Node000007_Node000053" title=" " alt="" coords="529,1055,731,438,736,440,534,1056"/>
+<area shape="poly" id="edge62_Node000007_Node000054" title=" " alt="" coords="531,1083,542,1139,565,1221,582,1266,603,1311,630,1353,662,1390,676,1401,673,1405,659,1394,626,1356,599,1313,577,1268,559,1222,537,1140,526,1084"/>
+<area shape="rect" id="Node000056" href="$d3/d1f/class_c_base_turret.html#adb96fb9afc4894d312942c721cba01c5" title=" " alt="" coords="892,1309,1074,1336"/>
+<area shape="poly" id="edge82_Node000007_Node000056" title=" " alt="" coords="535,1082,552,1116,579,1162,616,1210,638,1231,662,1250,713,1277,768,1296,824,1308,877,1316,876,1321,823,1314,767,1301,711,1282,659,1254,634,1236,612,1214,575,1165,547,1119,530,1084"/>
+<area shape="poly" id="edge18_Node000008_Node000007" title=" " alt="" coords="720,908,635,975,551,1047,548,1043,632,971,717,904"/>
+<area shape="rect" id="Node000009" href="$d5/de5/class_c_base_entity.html#ae6e022656fe3a22490a6106abe7fea10" title=" " alt="" coords="899,752,1067,779"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="757,876,806,833,839,809,874,788,891,781,893,786,877,793,842,813,809,837,761,880"/>
+<area shape="rect" id="Node000011" href="$da/dd7/h__ai_8cpp.html#a219d5147ef146eba2b81d70dece1e8f5" title="Checks if the target is visible from the looker&#39;s perspective." alt="" coords="1928,779,2019,805"/>
+<area shape="poly" id="edge9_Node000008_Node000011" title=" " alt="" coords="744,878,752,822,772,741,789,698,811,655,839,617,874,586,908,570,952,561,1004,556,1060,554,1256,560,1508,560,1578,566,1646,584,1711,610,1772,641,1828,675,1876,709,1947,766,1944,770,1873,713,1825,680,1769,646,1709,615,1644,589,1577,572,1508,565,1256,565,1060,560,1004,561,953,566,909,575,877,590,843,621,815,658,794,700,777,743,757,823,749,879"/>
+<area shape="rect" id="Node000013" href="$db/dc1/class_c_base_animating.html#a50a621b4c3ea026cbe77976e22407040" title="Retrieves the position and angles of a specified attachment." alt="" coords="876,853,1090,880"/>
+<area shape="poly" id="edge11_Node000008_Node000013" title=" " alt="" coords="828,880,860,877,861,882,828,886"/>
+<area shape="poly" id="edge12_Node000008_Node000014" title=" " alt="" coords="743,878,746,808,752,758,763,702,779,644,802,586,833,532,874,485,901,465,926,454,952,450,977,449,1029,450,1058,445,1089,434,1130,411,1168,384,1230,331,1233,336,1172,388,1133,415,1091,438,1059,450,1030,455,977,455,952,455,928,459,903,469,877,489,838,535,807,588,784,645,768,703,758,759,751,809,748,878"/>
+<area shape="rect" id="Node000015" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="1204,727,1310,753"/>
+<area shape="poly" id="edge13_Node000008_Node000015" title=" " alt="" coords="747,877,760,837,786,784,823,729,847,706,874,687,918,669,965,661,1013,661,1060,666,1148,690,1216,717,1214,722,1146,695,1059,672,1012,666,966,666,920,674,877,692,850,710,827,733,790,786,765,839,752,879"/>
+<area shape="poly" id="edge14_Node000008_Node000017" title=" " alt="" coords="749,905,759,959,780,1038,797,1080,818,1122,845,1161,877,1194,888,1201,885,1206,874,1198,841,1164,814,1125,792,1082,775,1039,754,960,744,906"/>
+<area shape="rect" id="Node000019" href="$d5/db2/class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="920,803,1046,829"/>
+<area shape="poly" id="edge16_Node000008_Node000019" title=" " alt="" coords="777,876,875,839,904,831,905,836,876,844,779,881"/>
+<area shape="poly" id="edge19_Node000008_Node000021" title=" " alt="" coords="749,905,755,967,774,1059,791,1110,813,1159,841,1205,878,1245,881,1248,878,1252,874,1249,837,1208,808,1162,786,1112,769,1061,750,968,743,906"/>
+<area shape="rect" id="Node000023" href="$d3/d1f/class_c_base_turret.html#a3794240a2ff3ff8dccf26a91ec736a99" title=" " alt="" coords="915,904,1051,931"/>
+<area shape="poly" id="edge21_Node000008_Node000023" title=" " alt="" coords="828,898,900,906,899,911,828,904"/>
+<area shape="rect" id="Node000024" href="$d3/d1f/class_c_base_turret.html#ae49222f9c3dd83d9865656bd4d9b6f81" title=" " alt="" coords="900,955,1066,981"/>
+<area shape="poly" id="edge22_Node000008_Node000024" title=" " alt="" coords="779,903,877,940,904,948,902,953,875,945,777,908"/>
+<area shape="poly" id="edge23_Node000008_Node000025" title=" " alt="" coords="761,904,809,948,842,971,877,991,924,1007,991,1023,1142,1050,1141,1055,990,1028,923,1012,875,996,839,976,806,952,757,908"/>
+<area shape="rect" id="Node000026" href="$d3/d1f/class_c_base_turret.html#a0bf51cb491da64e2246751fd0460255c" title="Handles the damage behavior of the turret." alt="" coords="894,1157,1072,1184"/>
+<area shape="poly" id="edge24_Node000008_Node000026" title=" " alt="" coords="759,904,962,1143,958,1147,755,908"/>
+<area shape="rect" id="Node000048" href="$dc/d44/dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="906,600,1060,627"/>
+<area shape="poly" id="edge49_Node000008_Node000048" title=" " alt="" coords="746,878,759,833,784,770,822,702,846,671,874,643,893,631,896,636,877,647,850,674,826,705,789,772,764,835,751,879"/>
+<area shape="rect" id="Node000050" href="$d3/d55/hl__baseentity_8cpp.html#a59a244ce0d81abfbe9ad0097bad40100" title=" " alt="" coords="917,701,1049,728"/>
+<area shape="poly" id="edge50_Node000008_Node000050" title=" " alt="" coords="751,877,797,810,832,771,874,738,901,725,903,730,877,742,836,775,801,813,755,880"/>
+<area shape="poly" id="edge10_Node000011_Node000006" title=" " alt="" coords="1984,805,2098,1045,2093,1047,1979,807"/>
+<area shape="rect" id="Node000018" href="$db/dc1/class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="1142,1184,1373,1211"/>
+<area shape="poly" id="edge15_Node000017_Node000018" title=" " alt="" coords="1065,1212,1126,1206,1126,1211,1066,1217"/>
+<area shape="poly" id="edge17_Node000019_Node000015" title=" " alt="" coords="1045,799,1089,788,1198,756,1199,761,1091,793,1046,805"/>
+<area shape="rect" id="Node000022" href="$db/dc1/class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="1138,1235,1376,1261"/>
+<area shape="poly" id="edge20_Node000021_Node000022" title=" " alt="" coords="1075,1261,1122,1257,1122,1262,1076,1267"/>
+<area shape="poly" id="edge25_Node000026_Node000007" title=" " alt="" coords="918,1159,604,1089,605,1084,920,1154"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="1070,1182,1092,1194,1109,1213,1116,1234,1123,1253,1140,1271,1147,1276,1144,1280,1136,1275,1119,1256,1111,1236,1104,1216,1088,1198,1068,1187"/>
+<area shape="rect" id="Node000028" href="$d9/dbc/class_c_base_delay.html#a087ae7dc5b9ccc9efbb8997d493b5271" title="Handles the delayed execution of targets." alt="" coords="1424,1212,1590,1239"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="1358,1288,1375,1283,1474,1243,1476,1248,1377,1288,1359,1293"/>
+<area shape="rect" id="Node000029" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="1673,1225,1825,1252"/>
+<area shape="poly" id="edge46_Node000027_Node000029" title=" " alt="" coords="1358,1284,1658,1247,1658,1252,1358,1289"/>
+<area shape="rect" id="Node000031" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1908,1313,2038,1340"/>
+<area shape="poly" id="edge32_Node000027_Node000031" title=" " alt="" coords="1272,1311,1296,1338,1332,1373,1376,1407,1425,1434,1544,1478,1595,1492,1643,1499,1692,1499,1742,1492,1797,1476,1859,1451,1890,1431,1917,1406,1955,1352,1960,1355,1921,1409,1893,1436,1861,1456,1799,1481,1743,1497,1692,1505,1643,1505,1594,1497,1542,1483,1423,1438,1373,1411,1329,1377,1293,1342,1268,1314"/>
+<area shape="rect" id="Node000032" href="$d8/d3c/util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="1638,1415,1860,1441"/>
+<area shape="poly" id="edge34_Node000027_Node000032" title=" " alt="" coords="1276,1310,1339,1357,1380,1381,1425,1400,1474,1413,1524,1422,1622,1429,1622,1435,1524,1427,1473,1418,1423,1405,1378,1386,1336,1361,1273,1315"/>
+<area shape="rect" id="Node000033" href="$dc/d55/subs_8cpp.html#abce1dd6337addcc3256c7bf526e3948f" title="Fires the specified targets." alt="" coords="1464,1364,1550,1391"/>
+<area shape="poly" id="edge35_Node000027_Node000033" title=" " alt="" coords="1303,1310,1450,1357,1448,1362,1301,1315"/>
+<area shape="rect" id="Node000034" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="1713,1313,1785,1340"/>
+<area shape="poly" id="edge42_Node000027_Node000034" title=" " alt="" coords="1358,1302,1697,1321,1697,1326,1358,1307"/>
+<area shape="rect" id="Node000036" href="$d8/d3c/util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="1464,1009,1550,1036"/>
+<area shape="poly" id="edge43_Node000027_Node000036" title=" " alt="" coords="1357,1284,1374,1271,1394,1246,1402,1220,1403,1193,1400,1166,1397,1139,1397,1111,1404,1082,1422,1053,1448,1034,1451,1038,1426,1056,1409,1084,1402,1111,1402,1138,1405,1166,1408,1193,1407,1221,1398,1248,1378,1275,1360,1289"/>
+<area shape="rect" id="Node000037" href="$d6/db6/cbase_8h.html#afdb9a60de9742917308f705391b22517" title=" " alt="" coords="1927,1060,2019,1087"/>
+<area shape="poly" id="edge44_Node000027_Node000037" title=" " alt="" coords="1357,1284,1374,1271,1390,1251,1397,1229,1396,1184,1394,1161,1396,1139,1404,1117,1423,1097,1460,1077,1513,1065,1577,1057,1648,1054,1793,1057,1912,1065,1911,1070,1792,1062,1648,1060,1578,1063,1514,1070,1462,1083,1426,1101,1409,1120,1401,1140,1400,1161,1401,1184,1402,1230,1395,1253,1378,1275,1360,1288"/>
+<area shape="rect" id="Node000039" href="$d5/de5/class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="1432,1111,1582,1137"/>
+<area shape="poly" id="edge47_Node000027_Node000039" title=" " alt="" coords="1357,1283,1375,1271,1387,1257,1394,1243,1398,1212,1402,1180,1409,1163,1422,1147,1426,1144,1430,1148,1426,1151,1414,1166,1408,1181,1404,1212,1399,1244,1392,1260,1378,1275,1360,1287"/>
+<area shape="rect" id="Node000040" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="1457,1161,1557,1188"/>
+<area shape="poly" id="edge48_Node000027_Node000040" title=" " alt="" coords="1353,1283,1375,1271,1391,1254,1398,1236,1406,1217,1423,1198,1441,1187,1444,1192,1426,1202,1411,1220,1403,1238,1395,1257,1378,1275,1356,1287"/>
+<area shape="poly" id="edge28_Node000028_Node000006" title=" " alt="" coords="1577,1209,1784,1163,1911,1131,2038,1096,2071,1085,2072,1090,2039,1101,1913,1137,1786,1168,1578,1214"/>
+<area shape="poly" id="edge31_Node000028_Node000027" title=" " alt="" coords="1442,1242,1377,1264,1300,1283,1299,1278,1376,1259,1440,1237"/>
+<area shape="poly" id="edge29_Node000028_Node000029" title=" " alt="" coords="1590,1227,1658,1231,1658,1236,1590,1233"/>
+<area shape="poly" id="edge30_Node000029_Node000006" title=" " alt="" coords="1824,1234,1875,1229,1930,1218,1986,1199,2037,1172,2055,1157,2071,1138,2094,1100,2099,1102,2075,1141,2059,1161,2040,1177,1988,1204,1932,1223,1876,1234,1825,1240"/>
+<area shape="poly" id="edge33_Node000031_Node000006" title=" " alt="" coords="1984,1311,2010,1280,2036,1240,2072,1165,2097,1100,2102,1102,2077,1167,2041,1243,2014,1283,1989,1315"/>
+<area shape="poly" id="edge40_Node000033_Node000029" title=" " alt="" coords="1521,1362,1570,1320,1636,1275,1682,1255,1684,1260,1639,1280,1573,1324,1524,1366"/>
+<area shape="poly" id="edge36_Node000033_Node000032" title=" " alt="" coords="1551,1384,1668,1408,1667,1414,1550,1389"/>
+<area shape="poly" id="edge37_Node000033_Node000034" title=" " alt="" coords="1550,1366,1698,1335,1699,1340,1551,1371"/>
+<area shape="rect" id="Node000035" href="$d5/de5/class_c_base_entity.html#a96cff69ad8420acf0b7d0be685ff77a8" title=" " alt="" coords="1686,1364,1812,1391"/>
+<area shape="poly" id="edge41_Node000033_Node000035" title=" " alt="" coords="1551,1375,1671,1375,1671,1380,1551,1380"/>
+<area shape="poly" id="edge38_Node000034_Node000031" title=" " alt="" coords="1785,1324,1893,1324,1893,1329,1785,1329"/>
+<area shape="poly" id="edge39_Node000034_Node000034" title=" " alt="" coords="1711,1314,1704,1305,1709,1295,1724,1289,1749,1287,1775,1289,1790,1296,1787,1301,1774,1294,1749,1292,1725,1294,1712,1299,1710,1304,1715,1311"/>
+<area shape="poly" id="edge45_Node000037_Node000006" title=" " alt="" coords="2020,1071,2071,1071,2071,1076,2020,1076"/>
+<area shape="poly" id="edge56_Node000053_Node000003" title=" " alt="" coords="750,395,796,320,831,273,874,231,911,204,952,181,1036,143,1119,117,1189,100,1190,105,1120,122,1038,148,954,186,914,209,877,235,835,277,800,323,755,398"/>
+<area shape="poly" id="edge57_Node000053_Node000006" title=" " alt="" coords="808,394,875,383,1065,362,1256,357,1750,357,1806,364,1856,382,1900,410,1939,446,1972,491,2001,540,2026,595,2046,652,2077,769,2096,881,2106,977,2110,1045,2105,1045,2101,977,2091,882,2072,770,2041,653,2021,597,1997,543,1968,493,1935,450,1897,414,1854,386,1805,369,1750,363,1256,363,1065,367,876,388,808,399"/>
+<area shape="rect" id="Node000043" href="$d3/d1f/class_c_base_turret.html#a5dc8562f836fb099b48b028f3275dffc" title="Turns the turret&#39;s eye glow off." alt="" coords="913,499,1053,525"/>
+<area shape="poly" id="edge58_Node000053_Node000043" title=" " alt="" coords="779,422,937,490,935,495,777,427"/>
+<area shape="rect" id="Node000045" href="$d3/d1f/class_c_base_turret.html#ae04de7ce251f1980123b3240f4efb7a3" title="Turns the turret&#39;s eye glow on." alt="" coords="912,397,1054,424"/>
+<area shape="poly" id="edge60_Node000053_Node000045" title=" " alt="" coords="808,408,897,408,897,413,808,413"/>
+<area shape="rect" id="Node000044" href="$d3/d0f/class_c_sprite.html#a9b08724159d3ef5d536048a517d5ee9e" title=" " alt="" coords="1180,448,1334,475"/>
+<area shape="poly" id="edge59_Node000043_Node000044" title=" " alt="" coords="1053,496,1166,475,1167,481,1054,502"/>
+<area shape="poly" id="edge61_Node000045_Node000044" title=" " alt="" coords="1055,421,1167,442,1166,447,1054,426"/>
+<area shape="poly" id="edge72_Node000054_Node000006" title=" " alt="" coords="757,1436,803,1493,837,1524,877,1548,930,1569,977,1581,1019,1586,1060,1586,1147,1579,1256,1573,1750,1573,1783,1565,1824,1542,1869,1509,1916,1470,1996,1394,2036,1351,2067,1285,2087,1216,2098,1152,2104,1102,2109,1103,2104,1153,2092,1217,2072,1287,2041,1353,2000,1398,1919,1474,1873,1513,1827,1546,1785,1570,1751,1579,1256,1579,1147,1584,1060,1592,1019,1592,976,1586,929,1574,874,1553,834,1528,799,1497,752,1440"/>
+<area shape="poly" id="edge74_Node000054_Node000017" title=" " alt="" coords="749,1409,766,1375,793,1331,829,1284,874,1244,885,1238,888,1243,877,1249,833,1288,797,1334,770,1378,754,1412"/>
+<area shape="poly" id="edge75_Node000054_Node000021" title=" " alt="" coords="757,1409,874,1295,887,1289,889,1294,877,1300,761,1412"/>
+<area shape="poly" id="edge77_Node000054_Node000025" title=" " alt="" coords="812,1408,983,1373,1055,1357,1088,1346,1105,1326,1114,1306,1117,1286,1117,1265,1118,1220,1123,1196,1136,1171,1169,1130,1207,1098,1210,1102,1173,1134,1140,1173,1128,1198,1123,1221,1123,1265,1122,1286,1119,1307,1109,1329,1092,1350,1057,1362,984,1379,813,1414"/>
+<area shape="poly" id="edge79_Node000054_Node000027" title=" " alt="" coords="787,1435,848,1451,924,1464,966,1466,1008,1465,1049,1459,1089,1447,1135,1422,1176,1389,1210,1354,1235,1323,1240,1326,1214,1357,1180,1393,1138,1427,1091,1452,1051,1464,1008,1470,966,1471,924,1469,847,1457,786,1441"/>
+<area shape="poly" id="edge73_Node000054_Node000043" title=" " alt="" coords="745,1410,825,917,830,866,831,822,829,745,830,709,836,672,850,631,873,586,902,554,935,531,938,535,905,558,878,590,855,633,841,673,835,709,834,745,837,822,836,867,830,918,750,1411"/>
+<area shape="rect" id="Node000055" href="$d3/d1f/class_c_base_turret.html#ac5d610d943c3839668ba12cf4529be10" title="Handles the auto&#45;search behavior of the turret." alt="" coords="883,245,1083,272"/>
+<area shape="poly" id="edge63_Node000054_Node000055" title=" " alt="" coords="745,1410,780,1215,825,917,832,836,832,766,826,645,826,588,831,527,846,461,873,384,889,354,909,326,951,281,955,285,914,329,894,357,878,386,851,462,837,528,831,588,831,645,838,766,837,836,830,918,785,1216,751,1411"/>
+<area shape="rect" id="Node000042" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="914,1512,1052,1539"/>
+<area shape="poly" id="edge71_Node000054_Node000042" title=" " alt="" coords="770,1436,818,1463,877,1491,914,1504,912,1509,875,1496,816,1468,767,1440"/>
+<area shape="poly" id="edge76_Node000054_Node000056" title=" " alt="" coords="787,1408,826,1390,850,1371,874,1352,906,1339,909,1344,877,1357,853,1375,829,1394,789,1413"/>
+<area shape="rect" id="Node000057" href="$d5/de5/class_c_base_entity.html#ae34f00a81c3a4230e520ace7a75d59e0" title="A placeholder function that does nothing." alt="" coords="885,1411,1081,1437"/>
+<area shape="poly" id="edge78_Node000054_Node000057" title=" " alt="" coords="812,1421,869,1421,869,1427,812,1427"/>
+<area shape="poly" id="edge80_Node000054_Node000058" title=" " alt="" coords="756,1436,805,1506,839,1550,878,1593,914,1625,950,1653,947,1657,911,1630,874,1597,835,1554,801,1509,752,1439"/>
+<area shape="poly" id="edge65_Node000055_Node000002" title=" " alt="" coords="883,263,827,270,769,285,712,307,662,341,613,388,568,441,528,498,492,558,460,620,431,683,385,810,352,932,329,1041,307,1193,302,1192,324,1040,347,931,380,809,426,681,455,617,487,555,523,495,564,438,609,385,659,337,710,303,767,279,826,265,882,258"/>
+<area shape="poly" id="edge66_Node000055_Node000003" title=" " alt="" coords="1058,243,1088,225,1100,212,1106,198,1111,170,1116,142,1124,128,1136,114,1162,99,1190,91,1191,96,1164,104,1140,118,1128,131,1121,143,1116,171,1111,200,1104,215,1092,229,1061,247"/>
+<area shape="poly" id="edge67_Node000055_Node000006" title=" " alt="" coords="1084,256,1506,256,1750,256,1839,255,1913,259,1946,268,1978,283,2009,306,2040,340,2049,356,2057,381,2070,456,2091,665,2104,888,2110,1045,2105,1045,2099,889,2086,666,2065,457,2052,383,2044,358,2036,343,2005,310,1975,287,1944,273,1912,264,1839,260,1750,261,1506,261,1084,261"/>
+<area shape="poly" id="edge68_Node000055_Node000014" title=" " alt="" coords="1060,270,1173,291,1172,296,1059,275"/>
+<area shape="poly" id="edge70_Node000055_Node000025" title=" " alt="" coords="1002,270,1048,317,1073,349,1092,384,1112,439,1123,487,1127,531,1127,572,1125,658,1129,708,1141,765,1163,841,1191,915,1241,1033,1236,1035,1186,917,1158,843,1135,766,1124,708,1120,658,1121,572,1121,531,1118,488,1107,440,1088,386,1068,352,1044,321,998,274"/>
+<area shape="poly" id="edge64_Node000055_Node000051" title=" " alt="" coords="1046,242,1089,224,1103,214,1112,203,1122,192,1137,180,1151,173,1153,178,1139,185,1125,195,1116,206,1106,218,1091,229,1048,247"/>
+<area shape="poly" id="edge69_Node000055_Node000052" title=" " alt="" coords="1059,242,1169,221,1170,227,1060,247"/>
+</map>

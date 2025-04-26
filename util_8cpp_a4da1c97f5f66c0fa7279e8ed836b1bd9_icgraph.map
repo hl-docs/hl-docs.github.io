@@ -1,5 +1,0 @@
-<map id="UTIL_PlayerDecalTrace" name="UTIL_PlayerDecalTrace">
-<area shape="rect" id="Node000001" title="Applies a custom decal for a player." alt="" coords="180,5,336,32"/>
-<area shape="rect" id="Node000002" href="$class_c_spray_can.html#adb2691f301556d79f30705042ad68440" title="Handles the spray can&#39;s behavior during each think event." alt="" coords="5,5,132,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
-</map>

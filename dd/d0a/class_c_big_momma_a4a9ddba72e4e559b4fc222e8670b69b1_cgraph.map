@@ -1,0 +1,5 @@
+<map id="CBigMomma::GetScheduleOfType" name="CBigMomma::GetScheduleOfType">
+<area shape="rect" id="Node000001" title="Retrieves the schedule of a specific type for Big Momma." alt="" coords="5,13,226,40"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a37d35f03fc503f5043dab72ec5cc0736" title="Retrieves a schedule of a specific type for the monster." alt="" coords="274,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,24,258,24,258,29,226,29"/>
+</map>

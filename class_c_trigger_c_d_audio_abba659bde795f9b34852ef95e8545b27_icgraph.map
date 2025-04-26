@@ -1,7 +1,0 @@
-<map id="CTriggerCDAudio::PlayTrack" name="CTriggerCDAudio::PlayTrack">
-<area shape="rect" id="Node000001" title="Plays the audio track associated with the trigger." alt="" coords="217,31,403,57"/>
-<area shape="rect" id="Node000002" href="$class_c_trigger_c_d_audio.html#aa5bb92ecd1bddaf0dade1b22c5c3139d" title="Handles the touch event for the CD audio trigger." alt="" coords="5,5,169,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,34,169,31,170,25,202,29"/>
-<area shape="rect" id="Node000003" href="$class_c_trigger_c_d_audio.html#a01c00a968f74d3eae81e1aff0a78d8df" title="Activates the CD audio trigger." alt="" coords="11,56,163,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,59,163,63,163,58,201,54"/>
-</map>

@@ -1,0 +1,49 @@
+<map id="CBaseMonster::HandleAnimEvent" name="CBaseMonster::HandleAnimEvent">
+<area shape="rect" id="Node000001" title="Handles animation events for the monster." alt="" coords="499,511,684,553"/>
+<area shape="rect" id="Node000002" href="$d7/db7/class_c_a_grunt.html#a98010193093d0262b00b94d3daa58ec2" title="Handles animation events for the Alien Grunt entity." alt="" coords="257,5,439,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="589,495,585,404,579,346,567,283,550,218,525,155,492,97,449,46,434,35,437,30,453,42,496,94,530,153,555,217,572,282,584,345,591,404,594,495"/>
+<area shape="rect" id="Node000003" href="$de/d96/class_c_barnacle.html#ac725f124c9f3a2c329657d8eddacc977" title="Handles animation events specific to the barnacle." alt="" coords="252,56,444,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="587,496,581,413,573,361,561,305,543,248,519,193,488,141,449,97,433,85,436,81,453,93,493,138,524,191,548,247,566,304,578,360,586,413,593,495"/>
+<area shape="rect" id="Node000004" href="$dd/d0a/class_c_big_momma.html#a090db172b649d065298f5945d85edbb6" title="Handles animation events for the Big Momma entity." alt="" coords="245,107,451,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="586,495,576,421,554,327,536,278,513,230,484,186,449,147,433,136,436,132,453,143,489,183,518,228,541,276,559,326,581,421,591,495"/>
+<area shape="rect" id="Node000005" href="$d4/d85/class_c_bloater.html#a928bf0ffa55424b5e5d42411e3ab7cfe" title="Handles animation events specific to the bloater." alt="" coords="257,157,439,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="583,495,571,431,547,350,529,308,507,268,481,230,449,198,432,187,435,182,453,194,485,227,512,265,534,306,552,348,576,429,589,494"/>
+<area shape="rect" id="Node000006" href="$d1/daf/class_c_bullsquid.html#a6631c371599184dc93b7209f1809e110" title="Handles animation events for the bullsquid." alt="" coords="251,208,445,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="580,496,565,441,539,374,501,306,477,275,449,249,431,237,434,233,453,245,481,272,506,303,544,371,570,439,586,495"/>
+<area shape="rect" id="Node000007" href="$de/d41/class_c_controller.html#a0aded1e5c4507d3529008ab6a9258793" title="Handles animation events for the controller monster." alt="" coords="250,259,446,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="576,497,558,451,532,398,495,344,474,320,449,300,429,288,432,284,453,295,477,316,499,341,536,395,563,449,581,495"/>
+<area shape="rect" id="Node000008" href="$d9/d13/class_c_flying_monster.html#a7186a880d4334d326b3a9eb81623f279" title="Handles animation events for the flying monster." alt="" coords="253,309,443,352"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="568,499,519,431,486,396,449,366,429,355,432,350,453,362,490,392,523,428,572,496"/>
+<area shape="rect" id="Node000010" href="$d5/da4/class_c_gargantua.html#a813428a67ee9bb342a2cd0fb2ab1b4f1" title="Handles animation events specific to the Gargantua." alt="" coords="248,376,448,403"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="559,502,510,457,481,436,450,417,421,406,423,401,452,412,484,431,513,453,562,498"/>
+<area shape="rect" id="Node000011" href="$d9/dd6/class_c_generic_monster.html#a909b061ac1ec9f7b100f9f434db50a86" title="Handles animation events specific to the generic monster." alt="" coords="248,427,448,469"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="516,507,450,484,416,472,418,467,452,479,518,502"/>
+<area shape="rect" id="Node000012" href="$d8/da5/class_c_g_man.html#a560b52652c449588efc62bb5bd614f05" title="Handles animation events specific to the G&#45;Man." alt="" coords="260,493,436,520"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="483,523,436,518,436,513,484,518"/>
+<area shape="rect" id="Node000013" href="$db/dec/class_c_h_assassin.html#a3f9283db83b1e86ec67dd86ba5e4fe0a" title="Handles animation events for the assassin." alt="" coords="246,544,450,571"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="484,546,450,549,450,544,483,541"/>
+<area shape="rect" id="Node000014" href="$da/d95/class_c_head_crab.html#a7460c3db52e83ee272daf47fe452f758" title="Handles animation events specific to the headcrab." alt="" coords="249,595,447,621"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="521,562,452,585,410,597,409,591,450,580,519,557"/>
+<area shape="rect" id="Node000015" href="$d3/de7/class_c_h_grunt.html#ab3164e77b091c16db163e518331ce563" title="Handles animation events for the grunt." alt="" coords="257,645,439,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="557,566,509,602,452,636,421,647,419,642,450,631,506,598,553,561"/>
+<area shape="rect" id="Node000016" href="$de/da2/class_c_houndeye.html#a08ea3e6acdbe94305612080bc07c8f9a" title="Handles animation events for the Houndeye entity." alt="" coords="249,696,447,723"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="570,568,521,629,489,660,452,686,427,698,425,693,450,682,485,656,517,625,566,565"/>
+<area shape="rect" id="Node000017" href="$d5/da5/class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="261,747,435,773"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="578,568,558,608,531,654,495,699,453,737,431,748,428,744,449,732,492,695,526,651,554,605,573,566"/>
+<area shape="rect" id="Node000018" href="$de/dde/class_c_leech.html#a7e9fc3a93162c2366abdd17e24cb4947" title="Handles animation events for the leech." alt="" coords="260,797,436,824"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="583,569,566,619,539,678,502,737,479,764,453,787,433,799,430,794,449,783,475,760,497,734,534,675,561,617,578,568"/>
+<area shape="rect" id="Node000019" href="$d1/df9/class_c_player_monster.html#a4d6f3f020d09f714826b8ec23aefcae9" title="Handles animation events specific to the player monster." alt="" coords="252,848,444,891"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="586,570,571,628,545,700,506,774,482,808,453,838,436,850,433,845,449,834,478,804,502,771,540,698,566,627,581,568"/>
+<area shape="rect" id="Node000020" href="$da/d04/class_c_talk_monster.html#a1840de9c87c8db1c56c7467efedab615" title="Handles animation events for the talk monster." alt="" coords="258,915,438,957"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="590,569,578,640,555,730,537,777,514,823,486,866,453,905,437,916,434,912,449,901,482,863,510,820,532,775,549,728,573,639,584,569"/>
+<area shape="rect" id="Node000023" href="$d9/dc7/class_c_tentacle.html#a73eddacca442f40da46b6573de94f0a5" title="Handles the tentacle&#39;s animation events." alt="" coords="253,981,443,1008"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="593,569,586,651,578,704,566,760,548,817,524,873,493,926,453,971,436,983,433,979,449,967,488,923,519,871,543,816,561,759,573,703,581,651,587,568"/>
+<area shape="rect" id="Node000024" href="$d2/dcf/class_c_zombie.html#a9d4333be431f93a5ee3373d04918084c" title="Handles animation events specific to the zombie." alt="" coords="257,1032,439,1059"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="594,569,591,660,584,719,572,782,555,847,530,911,496,970,453,1022,437,1034,434,1029,449,1018,492,967,525,909,550,846,567,781,579,718,585,660,589,569"/>
+<area shape="rect" id="Node000009" href="$d4/d30/class_c_ichthyosaur.html#a39bd2b60f055a6de092f0e0279a1cea4" title="Handles animation events for the ichthyosaur." alt="" coords="13,309,189,352"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="237,333,189,333,189,328,237,328"/>
+<area shape="rect" id="Node000021" href="$d0/d51/class_c_barney.html#ad67727fb91de9879016a9f7778114c67" title="Handles animation events for the Barney entity." alt="" coords="10,897,192,924"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="242,928,192,923,192,917,243,923"/>
+<area shape="rect" id="Node000022" href="$dc/d29/class_c_scientist.html#ad4f79eea5fdff55654dea8edc8e590db" title="Handles animation events for the scientist." alt="" coords="5,948,197,975"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="243,949,198,954,197,949,242,944"/>
+</map>

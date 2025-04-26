@@ -1,0 +1,5 @@
+<map id="CBloater::PainSound" name="CBloater::PainSound">
+<area shape="rect" id="Node000001" title="Plays the pain sound for the bloater." alt="" coords="209,5,351,32"/>
+<area shape="rect" id="Node000002" href="$d4/d85/class_c_bloater.html#a2ce45349873ed698b0394137836ad809" title="Handles damage taken by the bloater." alt="" coords="5,5,161,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,21,161,21,161,16,193,16"/>
+</map>

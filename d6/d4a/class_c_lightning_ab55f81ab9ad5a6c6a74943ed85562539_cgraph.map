@@ -1,0 +1,60 @@
+<map id="CLightning::BeamUpdateVars" name="CLightning::BeamUpdateVars">
+<area shape="rect" id="Node000001" title="Updates the beam variables for the lightning effect." alt="" coords="5,385,198,412"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="315,5,399,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,384,110,322,133,229,151,178,175,128,206,82,244,42,270,27,299,19,301,24,272,31,247,46,210,85,180,131,156,180,138,231,115,323,107,385"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="246,56,468,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,385,114,330,139,251,158,208,181,165,210,126,244,93,250,88,253,93,247,97,214,130,186,168,162,210,144,253,119,331,108,386"/>
+<area shape="rect" id="Node000004" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="281,107,433,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="104,384,118,338,146,272,187,202,214,171,244,143,266,131,268,136,247,148,217,174,191,205,150,275,123,340,109,386"/>
+<area shape="rect" id="Node000007" href="$de/da7/effects_8cpp.html#abb1ae36db666d423a29b285eb4e94417" title="Determines if an entity is a point entity." alt="" coords="309,157,405,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="106,384,124,345,153,294,193,239,217,215,244,194,268,182,293,174,294,179,270,187,247,198,221,219,197,243,157,297,128,348,111,386"/>
+<area shape="rect" id="Node000011" href="$df/d67/class_c_beam.html#a8f35c1f4f28639dfeea55495157863f0" title="Relinks the beam entity." alt="" coords="286,208,428,235"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="110,383,161,316,199,277,244,244,270,233,272,238,247,249,203,281,165,320,114,386"/>
+<area shape="rect" id="Node000019" href="$df/d67/class_c_beam.html#a7876de5e9998abf12b44bee5cb269ccb" title="Sets the end entity for the beam." alt="" coords="282,259,432,285"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="116,383,170,339,206,315,245,295,266,287,268,292,247,300,209,320,173,344,120,387"/>
+<area shape="rect" id="Node000020" href="$df/d67/class_c_beam.html#aa422de83653c5dff52e7b3e9620890a2" title=" " alt="" coords="288,309,426,336"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="137,382,245,345,274,338,275,343,246,351,139,387"/>
+<area shape="rect" id="Node000021" href="$df/d67/class_c_beam.html#a63374c4d25984bc39b7be5f57fbbf8d3" title=" " alt="" coords="295,360,419,387"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="198,386,279,378,279,384,198,392"/>
+<area shape="rect" id="Node000022" href="$df/d67/class_c_beam.html#aa311591eceb6c1d3f9b7da94c8fb2c34" title=" " alt="" coords="292,411,422,437"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="198,406,277,413,276,419,198,411"/>
+<area shape="rect" id="Node000023" href="$df/d67/class_c_beam.html#a491afeacc511bb7efaca3605ebb17e05" title=" " alt="" coords="294,461,420,488"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="139,410,246,447,280,456,278,461,245,452,137,415"/>
+<area shape="rect" id="Node000024" href="$df/d67/class_c_beam.html#a1165f4dee32038d2809ba34778362a74" title=" " alt="" coords="281,512,433,539"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="120,410,173,454,209,477,247,498,267,505,265,510,245,502,206,482,170,458,116,414"/>
+<area shape="rect" id="Node000025" href="$df/d67/class_c_beam.html#a342ac202ea3477215befac4a9f2e97c8" title="Sets the start entity for the beam." alt="" coords="280,563,434,589"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="114,411,165,478,203,516,247,548,266,557,264,562,244,553,199,520,161,481,110,414"/>
+<area shape="rect" id="Node000026" href="$df/d67/class_c_beam.html#ac24cc4e5d062e14132700c552b31ba61" title=" " alt="" coords="285,613,429,640"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="111,412,128,450,157,501,197,554,221,578,247,599,272,612,270,616,244,604,217,582,193,558,153,504,124,452,106,414"/>
+<area shape="rect" id="Node000027" href="$df/d67/class_c_beam.html#ad5ab0b7d64f38595fe598e262e0fb798" title=" " alt="" coords="289,664,425,691"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="109,411,123,458,150,523,191,592,217,623,247,650,276,664,273,669,244,654,214,627,187,595,146,525,118,460,104,413"/>
+<area shape="rect" id="Node000028" href="$df/d67/class_c_beam.html#a8ff0d6c0d2947a17cc1da69ad31d7b9b" title=" " alt="" coords="297,715,417,741"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="108,412,119,466,144,545,162,587,186,629,214,668,247,701,264,711,283,718,281,723,262,716,244,705,210,671,181,632,158,590,139,546,114,467,102,413"/>
+<area shape="rect" id="Node000029" href="$df/d67/class_c_beam.html#a7201afb4de74ed1dfb21adcf0e56287b" title=" " alt="" coords="294,765,420,792"/>
+<area shape="poly" id="edge29_Node000001_Node000029" title=" " alt="" coords="107,412,115,474,138,567,156,617,180,666,210,712,247,751,280,769,277,773,244,755,206,715,175,669,151,619,133,568,110,475,101,413"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="565,56,611,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="421,103,550,75,551,80,422,109"/>
+<area shape="rect" id="Node000006" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="534,107,643,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="433,117,518,117,518,123,433,123"/>
+<area shape="rect" id="Node000008" href="$d8/d3c/util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="536,157,640,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="405,168,520,168,520,173,405,173"/>
+<area shape="rect" id="Node000009" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="755,107,817,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="640,155,739,129,741,134,641,160"/>
+<area shape="rect" id="Node000010" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="757,157,815,184"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="641,168,742,168,742,173,641,173"/>
+<area shape="rect" id="Node000012" href="$df/d67/class_c_beam.html#a34a675c6f2f84f896e8565b1c83af9f9" title="Gets the end position of the beam." alt="" coords="519,208,658,235"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="429,219,503,219,503,224,429,224"/>
+<area shape="rect" id="Node000015" href="$df/d67/class_c_beam.html#acae4ffb01e69219b45cd95ed915a324d" title="Gets the start position of the beam." alt="" coords="516,259,660,285"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="422,233,510,252,509,257,421,238"/>
+<area shape="rect" id="Node000017" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="534,309,642,336"/>
+<area shape="poly" id="edge17_Node000011_Node000017" title=" " alt="" coords="429,229,469,244,485,257,495,270,503,283,518,295,526,300,523,305,514,299,499,286,490,273,481,261,467,249,427,234"/>
+<area shape="rect" id="Node000018" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="538,360,638,387"/>
+<area shape="poly" id="edge18_Node000011_Node000018" title=" " alt="" coords="430,225,451,233,470,245,482,257,489,270,495,296,501,322,507,334,518,346,526,352,523,356,514,350,503,337,496,323,490,297,484,272,478,260,466,249,448,238,428,230"/>
+<area shape="rect" id="Node000013" href="$df/d67/class_c_beam.html#a9833b4276062463779d434cc7e4c4ea7" title=" " alt="" coords="711,208,861,235"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="658,219,695,219,695,224,658,224"/>
+<area shape="rect" id="Node000014" href="$df/d67/class_c_beam.html#a912392c66da142851a6c87b31a54f534" title=" " alt="" coords="725,259,847,285"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="644,233,717,252,716,257,643,238"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="661,269,710,269,710,275,661,275"/>
+<area shape="rect" id="Node000016" href="$df/d67/class_c_beam.html#ac2c5c42aa10f784e1b1da3c62082e405" title=" " alt="" coords="708,309,864,336"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="644,283,717,302,716,308,643,289"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="CGargantua::FlameDestroy" name="CGargantua::FlameDestroy">
-<area shape="rect" id="Node000001" title="Destroys the Gargantua&#39;s flame attack." alt="" coords="5,31,185,57"/>
-<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="233,5,371,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,30,217,26,217,32,186,36"/>
-<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="252,56,352,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,52,236,59,236,64,185,58"/>
-</map>

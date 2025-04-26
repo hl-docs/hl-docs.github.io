@@ -1,0 +1,7 @@
+<map id="ParmsChangeLevel" name="ParmsChangeLevel">
+<area shape="rect" id="Node000001" title="Changes parameters when transitioning to a new level." alt="" coords="5,5,138,32"/>
+<area shape="rect" id="Node000002" href="$dc/d69/triggers_8cpp.html#aa8f51b7a816c691eda52e660bcd044a2" title="Builds the list of transitions for the current level." alt="" coords="186,5,301,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,16,170,16,170,21,138,21"/>
+<area shape="rect" id="Node000003" href="$d7/da9/class_c_change_level.html#ab8aea13fe361d464e470647cda8a5448" title=" " alt="" coords="349,5,525,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,16,333,16,333,21,302,21"/>
+</map>

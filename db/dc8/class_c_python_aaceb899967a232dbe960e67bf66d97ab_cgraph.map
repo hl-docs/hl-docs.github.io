@@ -1,0 +1,7 @@
+<map id="CPython::AddToPlayer" name="CPython::AddToPlayer">
+<area shape="rect" id="Node000001" title="Adds the Python weapon to the specified player." alt="" coords="5,43,159,69"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#a9d00baf84f87d51863cf473d28373efe" title="Adds an item to a player." alt="" coords="207,5,360,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,42,191,37,192,43,159,47"/>
+<area shape="rect" id="Node000003" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="216,72,351,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,65,201,71,200,76,159,70"/>
+</map>

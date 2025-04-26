@@ -1,5 +1,0 @@
-<map id="CSatchel::IsUseable" name="CSatchel::IsUseable">
-<area shape="rect" id="Node000001" title="Checks if the satchel charge is usable." alt="" coords="5,13,145,40"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#ae1181fcbf5b7c587b316bad26ab2fbbe" title="Returns the index of the primary ammo type." alt="" coords="193,5,346,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,24,177,24,177,29,145,29"/>
-</map>

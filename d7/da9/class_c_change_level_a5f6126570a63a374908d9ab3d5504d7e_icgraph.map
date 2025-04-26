@@ -1,0 +1,5 @@
+<map id="CChangeLevel::UseChangeLevel" name="CChangeLevel::UseChangeLevel">
+<area shape="rect" id="Node000001" title="Activates the change level when triggered." alt="" coords="204,5,411,32"/>
+<area shape="rect" id="Node000002" href="$d7/da9/class_c_change_level.html#a60485c813e292eba0270b8d78f68000c" title="Initializes the change level trigger entity." alt="" coords="5,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,21,156,21,156,16,188,16"/>
+</map>

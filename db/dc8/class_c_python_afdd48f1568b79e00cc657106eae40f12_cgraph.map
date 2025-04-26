@@ -1,0 +1,17 @@
+<map id="CPython::Reload" name="CPython::Reload">
+<area shape="rect" id="Node000001" title="Reloads the Python weapon." alt="" coords="5,80,125,107"/>
+<area shape="rect" id="Node000002" href="$d5/d93/hl__weapons_8cpp.html#ad73fdc75faa333b89d1edd0654dd8553" title="Returns whether the current game is multiplayer or not." alt="" coords="212,21,313,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,77,172,57,196,50,198,55,173,63,111,82"/>
+<area shape="rect" id="Node000003" href="$da/d7d/class_c_base_player_weapon.html#a45ea7db79a9f40517bfebc1b5f28a959" title="Handles weapon reload logic using default behavior." alt="" coords="186,72,339,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,91,170,91,170,96,125,96"/>
+<area shape="rect" id="Node000008" href="$d4/d4f/class_c_game_rules.html#ad6ac4abfecc4f6ffde18b6232f1a4d9c" title=" " alt="" coords="173,139,352,165"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="111,105,173,124,198,131,196,136,172,129,109,110"/>
+<area shape="rect" id="Node000004" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="404,5,557,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="333,69,393,50,394,56,335,74"/>
+<area shape="rect" id="Node000006" href="$da/d7d/class_c_base_player_weapon.html#a902e601b56e6e451c55a34605b8b41c4" title=" " alt="" coords="404,72,557,115"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="340,91,388,91,388,96,340,96"/>
+<area shape="rect" id="Node000007" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="400,139,560,165"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="340,111,414,132,412,137,339,117"/>
+<area shape="rect" id="Node000005" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="608,13,772,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="557,24,593,24,593,29,557,29"/>
+</map>

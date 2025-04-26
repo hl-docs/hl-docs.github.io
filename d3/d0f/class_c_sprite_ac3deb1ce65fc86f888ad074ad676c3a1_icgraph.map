@@ -1,0 +1,22 @@
+<map id="CSprite::Expand" name="CSprite::Expand">
+<area shape="rect" id="Node000001" title="Expands the sprite over time." alt="" coords="1069,56,1186,83"/>
+<area shape="rect" id="Node000002" href="$de/d32/class_c_egon.html#a09f810d1f48929332f229e696116f782" title="Destroys the visual effects for the Egon weapon." alt="" coords="875,56,1021,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1054,72,1021,72,1021,67,1054,67"/>
+<area shape="rect" id="Node000003" href="$de/d32/class_c_egon.html#ae2b2d53ffc64083f45f8ffb3bc62ea82" title="Creates the visual effects for the Egon weapon." alt="" coords="688,19,827,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="861,55,827,48,828,43,862,50"/>
+<area shape="rect" id="Node000008" href="$de/d32/class_c_egon.html#a35de8cf5f46d3c2133a8890f37d98c90" title="Ends the attack action for the Egon weapon." alt="" coords="693,81,822,108"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="860,84,823,89,822,83,859,78"/>
+<area shape="rect" id="Node000004" href="$de/d32/class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="497,5,640,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="672,29,640,26,640,21,672,23"/>
+<area shape="rect" id="Node000005" href="$de/d32/class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="359,5,449,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="482,21,450,21,450,16,482,16"/>
+<area shape="rect" id="Node000006" href="$de/d32/class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="205,31,311,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="344,32,312,37,311,32,343,27"/>
+<area shape="rect" id="Node000007" href="$de/d32/class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,31,157,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="189,47,157,47,157,41,189,41"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="677,89,311,52,312,47,677,84"/>
+<area shape="rect" id="Node000009" href="$de/d32/class_c_egon.html#a3744c6ce6e1384b9cdc68a1eee4e2beb" title="Holsters the Egon weapon." alt="" coords="514,107,623,133"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="678,108,624,115,623,110,677,103"/>
+<area shape="rect" id="Node000010" href="$de/d32/class_c_egon.html#a846e9d63158bc388c93d70ab5963565e" title="Handles the idle state of the Egon weapon." alt="" coords="500,157,637,184"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="713,117,641,148,610,159,609,154,639,143,711,112"/>
+</map>

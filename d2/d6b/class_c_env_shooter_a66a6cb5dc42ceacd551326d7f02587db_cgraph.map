@@ -1,0 +1,10 @@
+<map id="CEnvShooter::KeyValue" name="CEnvShooter::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value data for the environment shooter entity." alt="" coords="5,31,166,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="469,5,531,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,36,453,19,453,24,166,42"/>
+<area shape="rect" id="Node000003" href="$d3/d21/class_c_gib_shooter.html#a85688a35b6fb26f1c3aea0c862db75f7" title="Handles key&#45;value data for the gib shooter entity." alt="" coords="214,56,373,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,51,199,55,198,60,166,56"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="350,53,453,27,454,32,352,58"/>
+<area shape="rect" id="Node000004" href="$d9/dbc/class_c_base_delay.html#a1674d768d18d41f701fc57735158c990" title="Handles key&#45;value pairs for the delay entity." alt="" coords="421,56,578,83"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="373,67,405,67,405,72,373,72"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CHudSpectator::ParseOverviewFile" name="CHudSpectator::ParseOverviewFile">
+<area shape="rect" id="Node000001" title="Parses the overview file for the current level to configure map overview settings." alt="" coords="441,5,663,32"/>
+<area shape="rect" id="Node000002" href="$de/dd7/class_c_hud_spectator.html#a22649f2acf16f40c4a108dde1b5bc760" title="Resets the spectator HUD to a clean state." alt="" coords="242,5,393,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,21,394,21,394,16,425,16"/>
+<area shape="rect" id="Node000003" href="$de/dd7/class_c_hud_spectator.html#ad4ca0f1796f5dc68c9e23eadd341a033" title="Initializes all HUD data structures for the spectator." alt="" coords="5,5,194,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,21,194,21,194,16,226,16"/>
+</map>

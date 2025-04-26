@@ -1,7 +1,0 @@
-<map id="CFuncTrackChange::Find" name="CFuncTrackChange::Find">
-<area shape="rect" id="Node000001" title="Finds the associated track entities for the track change." alt="" coords="244,43,412,69"/>
-<area shape="rect" id="Node000002" href="$class_c_func_track_change.html#ae119110f6089532553f392b4db61f77c" title="Resets the track change entity&#39;s think time." alt="" coords="5,5,196,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,46,196,42,197,36,229,41"/>
-<area shape="rect" id="Node000003" href="$class_c_func_track_change.html#a0ec26d33c7bbf3e9659cd974808a2f01" title="Spawns the track change entity and initializes its properties." alt="" coords="9,72,192,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,71,192,76,192,71,228,66"/>
-</map>

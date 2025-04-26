@@ -1,5 +1,0 @@
-<map id="EV_HLDM_PlayTextureSound" name="EV_HLDM_PlayTextureSound">
-<area shape="rect" id="Node000001" title="Plays a texture&#45;dependent impact sound when a bullet or melee attack hits a surface." alt="" coords="5,5,201,32"/>
-<area shape="rect" id="Node000002" href="$pm__shared_8c.html#ad69b0264310e1758470f45f9cb82488e" title="Finds the type of a texture by its name." alt="" coords="249,5,393,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,16,233,16,233,21,201,21"/>
-</map>

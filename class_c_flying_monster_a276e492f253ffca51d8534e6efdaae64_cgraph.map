@@ -1,5 +1,0 @@
-<map id="CFlyingMonster::Killed" name="CFlyingMonster::Killed">
-<area shape="rect" id="Node000001" title="Handles the death of the flying monster." alt="" coords="5,5,158,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a469904e35f6e6c8f4b271a98dc68a9e7" title="Handles the monster&#39;s death." alt="" coords="206,5,353,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,16,190,16,190,21,158,21"/>
-</map>

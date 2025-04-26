@@ -1,0 +1,5 @@
+<map id="CTalkMonster::SetActivity" name="CTalkMonster::SetActivity">
+<area shape="rect" id="Node000001" title="Sets the activity for the talk monster." alt="" coords="205,5,376,32"/>
+<area shape="rect" id="Node000002" href="$dc/d29/class_c_scientist.html#a9725ca5b586552a488fbabdd206c572e" title="Sets the activity for the scientist." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,21,157,21,157,16,189,16"/>
+</map>

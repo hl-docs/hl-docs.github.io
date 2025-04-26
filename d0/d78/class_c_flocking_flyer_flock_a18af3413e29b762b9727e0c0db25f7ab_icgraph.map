@@ -1,0 +1,5 @@
+<map id="CFlockingFlyerFlock::SpawnFlock" name="CFlockingFlyerFlock::SpawnFlock">
+<area shape="rect" id="Node000001" title="Spawns the individual boids in the flock." alt="" coords="194,5,334,48"/>
+<area shape="rect" id="Node000002" href="$d0/d78/class_c_flocking_flyer_flock.html#aae9d16564fbe84c8e4ad035bf04be7a0" title="Spawns the flock entity." alt="" coords="5,5,146,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,29,146,29,146,24,178,24"/>
+</map>

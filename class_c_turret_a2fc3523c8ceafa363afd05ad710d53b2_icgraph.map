@@ -1,5 +1,0 @@
-<map id="CTurret::Precache" name="CTurret::Precache">
-<area shape="rect" id="Node000001" title="Preloads all resources needed by the turret." alt="" coords="164,5,290,32"/>
-<area shape="rect" id="Node000002" href="$class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="5,5,116,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,21,116,21,116,16,148,16"/>
-</map>

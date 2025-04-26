@@ -1,0 +1,9 @@
+<map id="CBreakable::KeyValue" name="CBreakable::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the breakable entity." alt="" coords="5,72,158,99"/>
+<area shape="rect" id="Node000002" href="$d3/d9c/class_c_breakable.html#ab87c34fa575efb23cc1efe71954feb52" title=" " alt="" coords="206,5,379,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,69,198,50,200,55,133,74"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="261,72,324,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,83,245,83,245,88,158,88"/>
+<area shape="rect" id="Node000004" href="$d9/dbc/class_c_base_delay.html#a1674d768d18d41f701fc57735158c990" title="Handles key&#45;value pairs for the delay entity." alt="" coords="214,123,371,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,97,220,116,218,121,140,102"/>
+</map>

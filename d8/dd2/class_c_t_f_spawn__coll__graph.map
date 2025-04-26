@@ -1,0 +1,19 @@
+<map id="CTFSpawn" name="CTFSpawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,520,215,547"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="190,304,284,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,346,242,417,235,459,219,497,209,511,196,522,193,518,205,507,215,495,229,457,237,417,237,346"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="285,300,303,305,311,317,307,327,297,333,269,334,269,329,295,328,303,324,306,318,300,309,284,305"/>
+<area shape="rect" id="Node000003" href="$d2/d88/structentvars__s.html" title=" " alt="" coords="148,16,225,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,55,210,69,227,137,236,205,240,304,235,304,230,206,221,138,205,70,200,57"/>
+<area shape="rect" id="Node000004" href="$db/d8e/structedict__s.html" title=" " alt="" coords="63,304,126,331"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="193,58,195,97,194,145,187,197,170,247,145,281,115,306,112,302,141,277,165,244,182,196,189,144,190,97,187,58"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,290,72,245,65,187,70,125,78,95,93,68,114,53,147,40,149,45,116,58,97,71,83,97,75,126,71,187,77,244,88,289"/>
+<area shape="rect" id="Node000007" href="$d0/de2/class_e_h_a_n_d_l_e.html" title="Represents a handle to an entity in the game." alt="" coords="67,429,149,456"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="100,346,109,429,104,429,95,347"/>
+<area shape="rect" id="Node000005" href="$d5/de3/structlink__s.html" title=" " alt="" coords="5,16,61,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="30,59,25,97,22,144,25,195,37,244,57,277,81,302,77,306,53,281,32,247,20,196,17,144,20,96,25,58"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="55,5,67,3,77,6,85,15,87,30,83,47,71,55,56,55,42,45,45,41,58,50,70,50,78,44,82,29,80,18,74,11,66,8,56,10"/>
+<area shape="rect" id="Node000006" href="$d7/db8/struct_t_y_p_e_d_e_s_c_r_i_p_t_i_o_n.html" title=" " alt="" coords="249,16,390,43"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="316,58,296,142,266,246,245,305,240,303,261,245,291,141,311,57"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="112,471,121,495,133,507,148,518,145,522,130,511,117,498,107,473"/>
+</map>

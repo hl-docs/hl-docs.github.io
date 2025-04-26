@@ -1,5 +1,0 @@
-<map id="CGMan::PlayScriptedSentence" name="CGMan::PlayScriptedSentence">
-<area shape="rect" id="Node000001" title="Plays a scripted sentence for the G&#45;Man." alt="" coords="5,13,208,40"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a49b47f82870c6ef1723c6d72dcb49742" title="Plays a scripted sentence sound." alt="" coords="256,5,445,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,24,240,24,240,29,208,29"/>
-</map>

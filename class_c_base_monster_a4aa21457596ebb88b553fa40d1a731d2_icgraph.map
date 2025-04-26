@@ -1,5 +1,0 @@
-<map id="CBaseMonster::Eat" name="CBaseMonster::Eat">
-<area shape="rect" id="Node000001" title="Makes the monster full for a specified duration." alt="" coords="207,5,342,32"/>
-<area shape="rect" id="Node000002" href="$class_c_roach.html#a87e55ea407a4508497c63e1783079c4e" title="Custom think function for the roach." alt="" coords="5,5,159,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,21,159,21,159,16,191,16"/>
-</map>

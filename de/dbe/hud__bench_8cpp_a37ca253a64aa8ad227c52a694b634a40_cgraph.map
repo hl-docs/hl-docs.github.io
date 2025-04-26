@@ -1,0 +1,5 @@
+<map id="Bench_InStage" name="Bench_InStage">
+<area shape="rect" id="Node000001" title="Checks if the benchmark is currently in the specified stage." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="Node000002" href="$de/dbe/hud__bench_8cpp.html#a2acca70ba9541b59d8154ab2ca54d037" title="Retrieves the current benchmark stage." alt="" coords="163,5,283,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,16,147,16,147,21,115,21"/>
+</map>

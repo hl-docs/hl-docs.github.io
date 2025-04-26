@@ -1,5 +1,0 @@
-<map id="CHudSpectator::FindPlayer" name="CHudSpectator::FindPlayer">
-<area shape="rect" id="Node000001" title="Attempts to find and spectate a specific player by name." alt="" coords="256,13,435,40"/>
-<area shape="rect" id="Node000002" href="$class_c_menu_handler___spectate_follow.html#a1ec4ad8686d7a6655de3c618d5730dfa" title=" " alt="" coords="5,5,208,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,29,208,29,208,24,240,24"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="CGamePlayerEquip::UseOnly" name="CGamePlayerEquip::UseOnly">
-<area shape="rect" id="Node000001" title=" " alt="" coords="232,5,425,32"/>
-<area shape="rect" id="Node000002" href="$class_c_game_player_equip.html#a1fc8762d1dbc69b35c6ebb1f97415b28" title="Handles the touch event for the game player equip entity." alt="" coords="5,5,184,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,21,184,21,184,16,216,16"/>
-</map>

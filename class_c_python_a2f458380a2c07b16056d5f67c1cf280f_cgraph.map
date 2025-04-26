@@ -1,9 +1,0 @@
-<map id="CPython::Spawn" name="CPython::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the Python weapon entity in the game." alt="" coords="5,56,124,83"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="233,5,279,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,53,217,26,218,31,119,58"/>
-<area shape="rect" id="Node000003" href="$class_c_base_player_item.html#a991f3bdf1d8c7a8c199104f6312408e3" title="Initializes the fall behavior for a weapon." alt="" coords="172,56,340,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,67,156,67,156,72,124,72"/>
-<area shape="rect" id="Node000004" href="$class_c_python.html#ad63b13219560467d5625fada80339ba3" title="Preloads the resources needed for the Python weapon." alt="" coords="189,107,323,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,81,189,100,187,105,117,86"/>
-</map>

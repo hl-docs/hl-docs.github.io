@@ -1,7 +1,0 @@
-<map id="UpdateBeams" name="UpdateBeams">
-<area shape="rect" id="Node000001" title="Updates the positions and lifetimes of the client&#45;side beam effects." alt="" coords="5,31,109,57"/>
-<area shape="rect" id="Node000002" href="$hl__weapons_8cpp.html#aa2dc68495163aa09554d94ad05cac13a" title="Retrieves the last known predicted position of the Egon beam." alt="" coords="157,5,279,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,33,141,28,142,33,110,38"/>
-<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="178,56,258,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,50,163,58,163,63,109,55"/>
-</map>

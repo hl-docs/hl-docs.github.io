@@ -1,7 +1,0 @@
-<map id="CFuncMonsterClip::Spawn" name="CFuncMonsterClip::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the func_monsterclip entity." alt="" coords="5,5,181,32"/>
-<area shape="rect" id="Node000002" href="$class_c_func_wall.html#a5dcbd2db254e09466512bc8070e06e14" title="Spawns the func_wall entity." alt="" coords="229,5,361,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,16,213,16,213,21,181,21"/>
-<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="409,5,455,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,16,393,16,393,21,362,21"/>
-</map>

@@ -1,0 +1,11 @@
+<map id="CHoundeye::IdleSound" name="CHoundeye::IdleSound">
+<area shape="rect" id="Node000001" title="Plays an idle sound for the Houndeye." alt="" coords="5,31,159,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="207,5,311,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,30,191,26,192,31,160,36"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="236,56,282,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,52,220,61,220,67,159,58"/>
+<area shape="rect" id="Node000003" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="359,5,497,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,16,343,16,343,21,312,21"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="545,5,696,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="498,16,530,16,530,21,498,21"/>
+</map>

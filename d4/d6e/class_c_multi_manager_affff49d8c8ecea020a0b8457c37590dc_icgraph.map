@@ -1,0 +1,12 @@
+<map id="CMultiManager::ShouldClone" name="CMultiManager::ShouldClone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="691,29,881,56"/>
+<area shape="rect" id="Node000002" href="$d4/d6e/class_c_multi_manager.html#a9f0e2fa1ca8842e542ce61dc78041091" title="Activates the multi&#45;manager." alt="" coords="454,29,643,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="676,45,644,45,644,40,676,40"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="590,17,576,10,549,8,524,10,510,15,507,20,513,27,509,31,502,21,507,11,523,5,549,3,577,5,592,12"/>
+<area shape="rect" id="Node000003" href="$d4/d6e/class_c_multi_manager.html#a42a4dc1ab0a95ebc1f32a76f168a8719" title="Executes the think function for the multi&#45;manager." alt="" coords="209,29,406,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,54,406,54,406,49,438,49"/>
+<area shape="rect" id="Node000004" href="$d4/d6e/class_c_multi_manager.html#a5b822be236f6dc758d5022835b6e5612" title="Initializes the multi&#45;manager entity." alt="" coords="5,55,161,81"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="469,62,406,71,277,76,161,74,161,69,277,71,406,65,468,57"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="422,31,453,31,453,37,421,36"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="193,58,161,62,161,57,193,53"/>
+</map>

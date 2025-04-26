@@ -1,0 +1,18 @@
+<map id="EV_FireCrossbow2" name="EV_FireCrossbow2">
+<area shape="rect" id="Node000001" title="Handles the crossbow firing event (second type of fire, possibly reload)." alt="" coords="5,107,138,133"/>
+<area shape="rect" id="Node000002" href="$de/d49/ev__hldm_8cpp.html#a041e7f0678de97abfa1ae1f925610506" title="Callback function to adjust the position and angle of the crossbow bolt after it hits something." alt="" coords="195,5,315,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,104,184,48,207,37,210,41,187,53,95,109"/>
+<area shape="rect" id="Node000003" href="$d0/d2b/ev__common_8cpp.html#a1c1ba88cdb56a97d1df7d12f7e8a334a" title="Calculates the gun&#39;s position based on player&#39;s origin and view offset." alt="" coords="186,107,324,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,117,170,117,170,123,138,123"/>
+<area shape="rect" id="Node000004" href="$d0/d2b/ev__common_8cpp.html#a8f60c02cea0ae9a964b3c3a4d04c3607" title="Checks if the entity index is the local player." alt="" coords="375,56,462,83"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="128,104,185,92,277,79,359,71,360,77,277,85,186,97,129,109"/>
+<area shape="rect" id="Node000006" href="$d2/d29/cl__dll_2util_8cpp.html#a01a447b0daa5f1359936ce1b96a472ef" title="Converts a forward direction vector into a corresponding yaw and pitch (angles)." alt="" coords="205,157,305,184"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="123,131,192,151,190,156,122,137"/>
+<area shape="rect" id="Node000008" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="215,208,295,235"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="92,132,134,162,187,194,202,201,200,206,184,198,131,166,89,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,103,359,85,361,90,301,109"/>
+<area shape="rect" id="Node000005" href="$d0/d2b/ev__common_8cpp.html#acc7edcd9e402d1b9b56edc6a7707ccb3" title="Determines if the index belongs to a player." alt="" coords="372,107,465,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="325,117,357,117,357,123,325,123"/>
+<area shape="rect" id="Node000007" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="397,157,440,184"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="305,168,381,168,381,173,305,173"/>
+</map>

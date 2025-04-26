@@ -1,5 +1,0 @@
-<map id="CGargantua::EyeOff" name="CGargantua::EyeOff">
-<area shape="rect" id="Node000001" title="Turns off the Gargantua&#39;s eye glow." alt="" coords="184,5,321,32"/>
-<area shape="rect" id="Node000002" href="$class_c_gargantua.html#acf5639cd04b4aa159de56542098524e8" title="Handles the Gargantua&#39;s death." alt="" coords="5,5,136,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,21,136,21,136,16,168,16"/>
-</map>

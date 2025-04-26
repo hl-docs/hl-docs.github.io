@@ -1,5 +1,0 @@
-<map id="CHalfLifeMultiplay::IsMultiplayer" name="CHalfLifeMultiplay::IsMultiplayer">
-<area shape="rect" id="Node000001" title="Determines if the game is in multiplayer mode." alt="" coords="207,5,331,48"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a43be8fa1c2a21add19f77e43f3450ac4" title="Retrieves the spawn spot for a player." alt="" coords="5,5,159,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,29,159,29,159,24,191,24"/>
-</map>

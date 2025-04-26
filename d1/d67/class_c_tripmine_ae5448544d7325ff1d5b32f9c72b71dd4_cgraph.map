@@ -1,0 +1,17 @@
+<map id="CTripmine::WeaponIdle" name="CTripmine::WeaponIdle">
+<area shape="rect" id="Node000001" title="Handles the idle state of the tripmine weapon." alt="" coords="5,109,161,136"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#afc2df7cf1c1f24cd30ed0d228894d815" title="Retires a weapon when it has no more ammo." alt="" coords="218,5,372,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,106,208,58,221,52,223,57,210,62,111,111"/>
+<area shape="rect" id="Node000003" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="218,72,372,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,109,202,103,203,109,161,115"/>
+<area shape="rect" id="Node000005" href="$d3/d13/com__weapons_8cpp.html#a9ae7f2ebe1ba28e45fcd10cc2ea963b5" title="Generates a shared pseudo&#45;random float between low and high." alt="" coords="209,139,381,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,131,194,135,193,141,161,136"/>
+<area shape="rect" id="Node000008" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="215,189,375,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,134,210,175,229,182,227,187,208,180,112,139"/>
+<area shape="rect" id="Node000004" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="429,80,592,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="372,91,413,91,413,96,372,96"/>
+<area shape="rect" id="Node000006" href="$d3/d13/com__weapons_8cpp.html#a27de238ae44f691494d3b5b6dd45e18a" title="Generates a pseudo&#45;random number." alt="" coords="468,135,553,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="382,148,453,146,453,152,382,153"/>
+<area shape="rect" id="Node000007" href="$d3/d13/com__weapons_8cpp.html#adb962cdb4f81d757ce7bcaab3f47172b" title="Sets the seed for the custom random number generator." alt="" coords="475,185,546,212"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="360,163,460,185,459,190,359,168"/>
+</map>

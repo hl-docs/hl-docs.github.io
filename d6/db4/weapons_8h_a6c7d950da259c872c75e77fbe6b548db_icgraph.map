@@ -1,0 +1,7 @@
+<map id="SpawnBlood" name="SpawnBlood">
+<area shape="rect" id="Node000001" title="Spawns blood effects at a specified location." alt="" coords="235,31,328,57"/>
+<area shape="rect" id="Node000002" href="$d7/db7/class_c_a_grunt.html#a98010193093d0262b00b94d3daa58ec2" title="Handles animation events for the Alien Grunt entity." alt="" coords="5,5,187,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,38,187,34,188,28,220,33"/>
+<area shape="rect" id="Node000003" href="$d7/db7/class_c_a_grunt.html#a3a7ab70573301ac5de185133eb31698d" title="Handles trace attacks on the Alien Grunt." alt="" coords="21,56,171,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,55,171,62,171,56,219,50"/>
+</map>

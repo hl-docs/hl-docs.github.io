@@ -1,0 +1,7 @@
+<map id="CLight::Spawn" name="CLight::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the light entity in the game." alt="" coords="5,31,111,57"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="178,5,225,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,32,162,23,163,28,112,37"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="159,56,244,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,51,144,56,143,62,111,56"/>
+</map>

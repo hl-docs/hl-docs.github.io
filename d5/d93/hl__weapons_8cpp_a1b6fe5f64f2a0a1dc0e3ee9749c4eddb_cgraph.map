@@ -1,0 +1,51 @@
+<map id="HUD_PostRunCmd" name="HUD_PostRunCmd">
+<area shape="rect" id="Node000001" title="Called after player movement prediction is done on the client." alt="" coords="5,259,138,285"/>
+<area shape="rect" id="Node000002" href="$d5/d93/hl__weapons_8cpp.html#a7f536b4e474cf3eafb01428429fc7bbe" title="Runs the weapon logic on the client&#45;side during prediction." alt="" coords="186,259,354,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,269,170,269,170,275,138,275"/>
+<area shape="rect" id="Node000003" href="$d5/d93/hl__weapons_8cpp.html#ad73fdc75faa333b89d1edd0654dd8553" title="Returns whether the current game is multiplayer or not." alt="" coords="433,5,534,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,258,287,216,313,158,350,96,374,67,400,42,417,31,420,36,404,46,378,71,355,99,317,160,292,218,278,259"/>
+<area shape="rect" id="Node000004" href="$d8/d8c/input_8cpp.html#ae932b23fcf06d3131fcb639e5753b1ee" title="Checks if the player is currently dead." alt="" coords="442,56,526,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,257,293,224,320,179,356,133,400,92,426,79,428,84,404,97,360,136,324,182,297,226,280,259"/>
+<area shape="rect" id="Node000005" href="$dc/d11/class_c_base_player_item.html#a84095fcdbb320e6f0cc591a3308738f6" title=" " alt="" coords="626,132,797,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="289,256,338,224,401,194,454,177,508,165,610,150,611,155,509,170,455,183,403,198,340,229,291,260"/>
+<area shape="rect" id="Node000006" href="$dc/d11/class_c_base_player_item.html#a78d369b4bae2280a8c8e95086da28b85" title="Holsters a player item." alt="" coords="626,411,797,437"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="282,284,329,341,364,372,403,396,454,414,507,424,561,429,610,430,610,435,560,435,507,430,452,419,401,401,360,376,325,345,278,288"/>
+<area shape="rect" id="Node000007" href="$d3/d13/com__weapons_8cpp.html#a3669cfcca6af2c9a46811b8de658a706" title="Gets the current weapon animation." alt="" coords="407,208,561,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="329,255,409,236,410,241,330,261"/>
+<area shape="rect" id="Node000008" href="$d5/d93/hl__weapons_8cpp.html#a61478411fe7b40ba95f508af5a0dc2b4" title="Initializes all client&#45;side weapon code and player entities." alt="" coords="404,259,564,285"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="355,269,388,269,388,275,355,275"/>
+<area shape="rect" id="Node000009" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="402,309,565,336"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="330,283,410,303,409,308,329,289"/>
+<area shape="rect" id="Node000010" href="$d5/d93/hl__weapons_8cpp.html#a71847fdf360f992c2b9cc74bd7a57c87" title="Stores the predicted player origin for beam rendering." alt="" coords="423,360,544,387"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="293,284,342,314,403,346,419,352,417,357,401,350,340,319,290,288"/>
+<area shape="rect" id="Node000011" href="$da/d7d/class_c_base_player_weapon.html#a59ac992187225afef77591497f449ec0" title="Handles weapon behavior during each frame." alt="" coords="407,729,560,772"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="280,285,469,715,464,717,275,287"/>
+<area shape="rect" id="Node000023" href="$d5/d03/class_c_base_player.html#af1d440839effa9fa57471b81d59bc933" title="Called when the player is killed." alt="" coords="415,461,552,488"/>
+<area shape="poly" id="edge22_Node000002_Node000023" title=" " alt="" coords="281,285,326,358,362,402,404,441,422,452,420,457,400,445,358,405,322,361,276,287"/>
+<area shape="rect" id="Node000024" href="$d5/d03/class_c_base_player.html#a3b8e70ac52dfbe0eb3841f7b7fa8fbf7" title="Called when the player spawns." alt="" coords="412,107,556,133"/>
+<area shape="poly" id="edge24_Node000002_Node000024" title=" " alt="" coords="281,256,330,206,364,176,401,150,424,137,427,142,403,154,367,180,334,209,285,260"/>
+<area shape="rect" id="Node000012" href="$dc/d11/class_c_base_player_item.html#a3f6e430f31323a72e455ba445efd2939" title=" " alt="" coords="629,595,794,621"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="501,727,548,679,578,653,612,631,625,625,627,630,615,636,582,657,551,683,505,731"/>
+<area shape="rect" id="Node000013" href="$dc/d11/class_c_base_player_item.html#af2198d3aa322f98edbab82fedf8014d9" title=" " alt="" coords="621,645,802,672"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="520,727,564,703,612,682,633,674,635,679,614,686,566,708,523,731"/>
+<area shape="rect" id="Node000014" href="$da/d7d/class_c_base_player_weapon.html#ae1181fcbf5b7c587b316bad26ab2fbbe" title="Returns the index of the primary ammo type." alt="" coords="635,696,788,739"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="560,737,619,728,620,733,561,742"/>
+<area shape="rect" id="Node000015" href="$da/d7d/class_c_base_player_weapon.html#a749b6aec2645e5162004db682bebfbfe" title=" " alt="" coords="635,763,788,805"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="561,759,620,768,619,773,560,764"/>
+<area shape="rect" id="Node000016" href="$dc/d11/class_c_base_player_item.html#a6abf912d6f83cafe942e9fd10e03729d" title=" " alt="" coords="613,829,810,856"/>
+<area shape="poly" id="edge15_Node000011_Node000016" title=" " alt="" coords="523,770,566,793,614,815,635,822,633,827,612,820,564,798,520,775"/>
+<area shape="rect" id="Node000017" href="$dc/d11/class_c_base_player_item.html#a7b4cae9f3a51234c8e90ff2d053caa4c" title=" " alt="" coords="613,880,810,907"/>
+<area shape="poly" id="edge16_Node000011_Node000017" title=" " alt="" coords="505,770,551,819,582,844,615,866,627,872,625,876,612,870,578,848,548,823,501,774"/>
+<area shape="rect" id="Node000018" href="$da/d7d/class_c_base_player_weapon.html#a6e09b74843a57e981a875592988ca1cd" title=" " alt="" coords="635,931,788,973"/>
+<area shape="poly" id="edge17_Node000011_Node000018" title=" " alt="" coords="498,771,543,842,576,882,615,917,623,922,620,926,612,921,572,886,539,846,494,774"/>
+<area shape="rect" id="Node000019" href="$da/d7d/class_c_base_player_weapon.html#abf04395488948e60bbb88a8362a9d736" title="Returns the index of the secondary ammo type." alt="" coords="635,997,788,1040"/>
+<area shape="poly" id="edge18_Node000011_Node000019" title=" " alt="" coords="494,772,509,816,533,873,569,932,591,959,615,983,623,989,620,993,612,987,587,963,564,935,529,875,504,818,489,773"/>
+<area shape="rect" id="Node000020" href="$da/d7d/class_c_base_player_weapon.html#a330ceb620632202da015ef7bf293dbf9" title=" " alt="" coords="635,1064,788,1107"/>
+<area shape="poly" id="edge19_Node000011_Node000020" title=" " alt="" coords="491,772,502,827,525,902,541,942,561,981,586,1018,615,1050,624,1057,620,1061,612,1054,582,1021,557,984,536,944,520,904,497,829,485,773"/>
+<area shape="rect" id="Node000021" href="$da/d7d/class_c_base_player_weapon.html#a3229accc39fa1a39a95c5a3193838329" title=" " alt="" coords="635,461,788,504"/>
+<area shape="poly" id="edge20_Node000011_Node000021" title=" " alt="" coords="489,728,504,683,529,626,564,566,587,538,612,514,620,508,623,512,615,518,591,542,569,569,533,629,509,685,494,730"/>
+<area shape="rect" id="Node000022" href="$da/d7d/class_c_base_player_weapon.html#aa4999741ad7d283775d66b176326ae6f" title=" " alt="" coords="635,528,788,571"/>
+<area shape="poly" id="edge21_Node000011_Node000022" title=" " alt="" coords="494,727,539,656,572,615,612,581,620,575,623,579,615,585,576,619,543,659,498,730"/>
+<area shape="poly" id="edge23_Node000023_Node000006" title=" " alt="" coords="547,458,633,439,634,444,548,463"/>
+<area shape="poly" id="edge25_Node000024_Node000005" title=" " alt="" coords="557,125,612,132,611,137,556,131"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CSoundEnt::IAllocSound" name="CSoundEnt::IAllocSound">
+<area shape="rect" id="Node000001" title="Allocates a sound from the free list to the active list." alt="" coords="196,5,360,32"/>
+<area shape="rect" id="Node000002" href="$d7/d97/class_c_sound_ent.html#a15c34677bd39c7782292c7e4b43871d5" title="Initializes the sound entity." alt="" coords="5,5,148,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,21,148,21,148,16,180,16"/>
+</map>

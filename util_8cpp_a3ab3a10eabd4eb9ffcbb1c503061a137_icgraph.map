@@ -1,7 +1,0 @@
-<map id="UTIL_ScreenFadeAll" name="UTIL_ScreenFadeAll">
-<area shape="rect" id="Node000001" title="Fades the screen for all players." alt="" coords="186,31,325,57"/>
-<area shape="rect" id="Node000002" href="$class_c_fade.html#af2b633031bf922e8b1f91a69eac33f01" title="Uses the fade effect." alt="" coords="26,5,117,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,35,117,28,118,22,171,30"/>
-<area shape="rect" id="Node000003" href="$class_c_revert_saved.html#a5ca27e9679a041de5dd4d53d1eb65e84" title="Activates the revert saved entity." alt="" coords="5,56,138,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,58,138,63,137,58,170,53"/>
-</map>

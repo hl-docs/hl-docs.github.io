@@ -1,0 +1,7 @@
+<map id="CLeech::UpdateMotion" name="CLeech::UpdateMotion">
+<area shape="rect" id="Node000001" title="Updates the leech&#39;s motion based on its state." alt="" coords="350,5,503,32"/>
+<area shape="rect" id="Node000002" href="$de/dde/class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="166,5,302,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,21,303,21,303,16,335,16"/>
+<area shape="rect" id="Node000003" href="$de/dde/class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="5,5,118,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,21,118,21,118,16,150,16"/>
+</map>

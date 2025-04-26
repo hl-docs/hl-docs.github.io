@@ -1,0 +1,5 @@
+<map id="CZombie::AttackSound" name="CZombie::AttackSound">
+<area shape="rect" id="Node000001" title="Plays an attack sound for the zombie." alt="" coords="236,5,391,32"/>
+<area shape="rect" id="Node000002" href="$d2/dcf/class_c_zombie.html#a9d4333be431f93a5ee3373d04918084c" title="Handles animation events specific to the zombie." alt="" coords="5,5,188,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,21,188,21,188,16,220,16"/>
+</map>

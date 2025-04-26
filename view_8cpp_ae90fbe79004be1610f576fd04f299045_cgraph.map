@@ -1,5 +1,0 @@
-<map id="V_CalcBob" name="V_CalcBob">
-<area shape="rect" id="Node000001" title="Calculates the bobbing effect for the player&#39;s view." alt="" coords="5,5,92,32"/>
-<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="140,5,183,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,16,124,16,124,21,92,21"/>
-</map>

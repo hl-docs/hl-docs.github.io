@@ -1,0 +1,5 @@
+<map id="UTIL_WaterLevel" name="UTIL_WaterLevel">
+<area shape="rect" id="Node000001" title="Determines the water level at a specified position." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="Node000002" href="$dc/d44/dlls_2util_8cpp.html#a168e867ce033654505b26655314ce1e3" title="Retrieves the contents at a specified point in the game world." alt="" coords="172,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,16,156,16,156,21,124,21"/>
+</map>

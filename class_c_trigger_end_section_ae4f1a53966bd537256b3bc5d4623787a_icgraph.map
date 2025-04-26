@@ -1,5 +1,0 @@
-<map id="CTriggerEndSection::EndSectionTouch" name="CTriggerEndSection::EndSectionTouch">
-<area shape="rect" id="Node000001" title="Handles the touch event for the end section trigger." alt="" coords="190,5,326,48"/>
-<area shape="rect" id="Node000002" href="$class_c_trigger_end_section.html#afce27047c492aabbecfcfa3b4702ee46" title="Initializes the end section trigger entity." alt="" coords="5,5,142,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
-</map>

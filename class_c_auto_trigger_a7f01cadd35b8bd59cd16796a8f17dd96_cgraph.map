@@ -1,5 +1,0 @@
-<map id="CAutoTrigger::Spawn" name="CAutoTrigger::Spawn">
-<area shape="rect" id="Node000001" title="Initializes the auto trigger entity." alt="" coords="5,5,149,32"/>
-<area shape="rect" id="Node000002" href="$class_c_auto_trigger.html#aa4eed43aa3c6b330147c59225857c733" title="Prepares the auto trigger for operation." alt="" coords="197,5,356,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,16,181,16,181,21,149,21"/>
-</map>

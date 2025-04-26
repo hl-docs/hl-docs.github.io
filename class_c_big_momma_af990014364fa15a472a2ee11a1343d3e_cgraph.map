@@ -1,5 +1,0 @@
-<map id="CBigMomma::ShouldGoToNode" name="CBigMomma::ShouldGoToNode">
-<area shape="rect" id="Node000001" title="Determines if Big Momma should proceed to the next node." alt="" coords="5,5,211,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#ae780f8b0fbfe4ce3da0a270f328ac02b" title=" " alt="" coords="259,5,444,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,16,243,16,243,21,211,21"/>
-</map>

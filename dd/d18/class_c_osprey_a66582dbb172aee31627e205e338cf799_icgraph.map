@@ -1,0 +1,12 @@
+<map id="COsprey::DeployThink" name="COsprey::DeployThink">
+<area shape="rect" id="Node000001" title="Handles the deployment of grunts." alt="" coords="549,31,701,57"/>
+<area shape="rect" id="Node000002" href="$dd/d18/class_c_osprey.html#af9af646ec5052760f0d54cd9a72a386f" title="Handles the flying behavior of the Osprey." alt="" coords="372,5,501,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,34,502,30,502,25,534,29"/>
+<area shape="rect" id="Node000003" href="$dd/d18/class_c_osprey.html#ad4d8b0aac8c96e39aa32dcf4daded587" title="Finds all grunts to resupply." alt="" coords="173,5,324,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,21,325,21,325,16,356,16"/>
+<area shape="rect" id="Node000005" href="$dd/d18/class_c_osprey.html#af1461410a46ad89b3788af9d6fbea4f2" title="Handles the hover behavior of the Osprey." alt="" coords="177,56,320,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,39,301,58,300,53,369,34"/>
+<area shape="rect" id="Node000004" href="$dd/d18/class_c_osprey.html#ab0830f5d42d9096475ad4a6bd5d73894" title="Spawns the Osprey entity." alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="157,21,125,21,125,16,157,16"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="335,61,549,46,549,52,336,66"/>
+</map>

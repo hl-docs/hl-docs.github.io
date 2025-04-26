@@ -1,0 +1,7 @@
+<map id="CHGrunt::TakeDamage" name="CHGrunt::TakeDamage">
+<area shape="rect" id="Node000001" title="Handles damage taken by the grunt." alt="" coords="5,31,161,57"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#aeb81f95d3a3c64bbde64371cc2127bd5" title=" " alt="" coords="228,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,32,212,26,213,32,161,38"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#ad73a936a05befe9d5e6a419042e69a21" title="Reduces the monster&#39;s health by a specified amount." alt="" coords="209,56,400,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,50,194,54,193,59,161,56"/>
+</map>

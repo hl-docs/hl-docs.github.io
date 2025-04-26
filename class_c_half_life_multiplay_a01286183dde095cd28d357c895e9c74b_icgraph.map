@@ -1,5 +1,0 @@
-<map id="CHalfLifeMultiplay::DeathNotice" name="CHalfLifeMultiplay::DeathNotice">
-<area shape="rect" id="Node000001" title=" " alt="" coords="190,5,314,48"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#ac5ea703eac1a11a07cbe4acece6a60c4" title="Handles the death notice for players." alt="" coords="5,5,142,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
-</map>

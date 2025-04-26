@@ -1,0 +1,23 @@
+<map id="CBasePlayerAmmo::Spawn" name="CBasePlayerAmmo::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the ammo entity in the game world." alt="" coords="245,233,427,260"/>
+<area shape="rect" id="Node000002" href="$d6/dd0/class_c_crossbow_ammo.html#ad6864d74ceee7c06f384facf0cca10a8" title="Spawns the crossbow clip entity." alt="" coords="15,5,187,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,220,302,181,275,134,239,86,195,46,174,35,177,30,198,42,243,83,279,131,307,178,326,218"/>
+<area shape="rect" id="Node000003" href="$d6/de5/class_c_egon_ammo.html#a979542e5c1f4e676ac61b3869cd63e5f" title="Spawns the Egon ammo entity." alt="" coords="28,56,174,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,222,267,159,233,125,195,97,171,86,173,81,198,92,237,121,271,155,320,219"/>
+<area shape="rect" id="Node000004" href="$d0/d3e/class_c_gauss_ammo.html#a29a7484c4cd1e6256ca003d015f1dfd8" title="Spawns the Gauss ammo entity." alt="" coords="24,107,178,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="307,225,257,185,195,148,166,136,168,131,198,143,260,181,310,221"/>
+<area shape="rect" id="Node000005" href="$dd/d68/class_c_glock_ammo.html#aafdf5e36c2ff2933ed56804b111a5962" title="Spawns the ammo entity for the Glock." alt="" coords="26,157,176,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="285,230,196,199,157,187,158,182,197,193,286,225"/>
+<area shape="rect" id="Node000006" href="$d2/d4e/class_c_m_p5_ammo_clip.html#a4b36d765a9dcef395504774be303155e" title="Spawns the MP5 clip in the game." alt="" coords="19,208,183,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="229,238,184,233,184,228,229,233"/>
+<area shape="rect" id="Node000007" href="$d3/df8/class_c_m_p5_chainammo.html#adebcf2aa587e1e48b11614a706ff7392" title="Spawns the MP5 chain ammo in the game." alt="" coords="14,259,188,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="229,261,189,265,188,260,229,256"/>
+<area shape="rect" id="Node000008" href="$d3/d0a/class_c_m_p5_ammo_grenade.html#a0b643e23f5ccb3aa29b22f771b3758ec" title="Spawns the MP5 grenade in the game." alt="" coords="5,309,197,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="286,268,197,300,158,311,157,306,196,295,285,263"/>
+<area shape="rect" id="Node000009" href="$d4/dc5/class_c_python_ammo.html#abf232a5b02234625cf948d00795e9887" title="Spawns the ammo entity in the game." alt="" coords="23,360,179,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="310,273,260,312,198,350,168,362,166,357,195,346,257,308,307,268"/>
+<area shape="rect" id="Node000010" href="$df/d4d/class_c_rpg_ammo.html#a06463a444d8a66d7b5012bac7205fdac" title="Spawns the RPG ammo entity." alt="" coords="32,411,170,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="320,275,271,338,237,372,198,401,172,413,170,408,195,396,233,368,267,335,316,271"/>
+<area shape="rect" id="Node000011" href="$d6/d7d/class_c_shotgun_ammo.html#a126b1a6fcfd6ddbaf141d2f59cbcdd40" title="Spawns the shotgun in the game." alt="" coords="19,461,183,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="326,275,307,315,279,363,243,411,198,452,177,463,174,458,195,447,239,407,275,360,302,312,321,273"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CGib::WaitTillLand" name="CGib::WaitTillLand">
+<area shape="rect" id="Node000001" title="Waits for a gib to land before emitting a scent." alt="" coords="5,56,135,83"/>
+<area shape="rect" id="Node000002" href="$d7/d97/class_c_sound_ent.html#af146a07b8a0c4e99cd3548ccf68b4908" title="Inserts a sound into the sound list." alt="" coords="208,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,53,214,33,215,39,132,58"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#a39552fc60de295b550b0061ba527c832" title="Starts the fade&#45;out process for an entity." alt="" coords="183,56,397,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,67,167,67,167,72,135,72"/>
+<area shape="rect" id="Node000006" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="240,107,340,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="132,81,225,102,224,108,131,86"/>
+<area shape="rect" id="Node000004" href="$d5/de5/class_c_base_entity.html#aa87861f918ff70eafd02569b2b3b49ed" title="Continues the fade&#45;out process for an entity." alt="" coords="445,56,631,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,67,429,67,429,72,397,72"/>
+<area shape="rect" id="Node000005" href="$d5/de5/class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="679,56,862,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="632,67,664,67,664,72,632,72"/>
+</map>

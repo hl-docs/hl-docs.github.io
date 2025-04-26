@@ -1,0 +1,5 @@
+<map id="CGargantua::FlameUpdate" name="CGargantua::FlameUpdate">
+<area shape="rect" id="Node000001" title="Updates the Gargantua&#39;s flame attack each frame." alt="" coords="203,5,378,32"/>
+<area shape="rect" id="Node000002" href="$d5/da4/class_c_gargantua.html#ae93076998ee13769916c9736cc1a7058" title="Runs a task for the Gargantua." alt="" coords="5,5,155,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,21,155,21,155,16,187,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CHudMessage::FadeBlend" name="CHudMessage::FadeBlend">
+<area shape="rect" id="Node000001" title="Computes the blend factor for a fade effect based on timing." alt="" coords="197,5,373,32"/>
+<area shape="rect" id="Node000002" href="$d8/d79/class_c_hud_message.html#aa50d164eed66799f2c71b912f1d49d80" title="Main draw function for HUD messages. Iterates over active messages and draws them." alt="" coords="5,5,149,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,21,149,21,149,16,181,16"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="CGibShooter::KeyValue" name="CGibShooter::KeyValue">
-<area shape="rect" id="Node000001" title="Handles key&#45;value data for the gib shooter entity." alt="" coords="5,31,165,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="260,5,323,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,32,244,22,245,27,165,37"/>
-<area shape="rect" id="Node000003" href="$class_c_base_delay.html#a1674d768d18d41f701fc57735158c990" title="Handles key&#45;value pairs for the delay entity." alt="" coords="213,56,370,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,51,197,55,197,60,165,56"/>
-</map>

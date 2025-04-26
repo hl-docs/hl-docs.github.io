@@ -1,5 +1,0 @@
-<map id="CGrenade::ShootContact" name="CGrenade::ShootContact">
-<area shape="rect" id="Node000001" title=" " alt="" coords="219,5,385,32"/>
-<area shape="rect" id="Node000002" href="$class_c_m_p5.html#aba5b3ae405e55622c6e5b09cde061b38" title="Handles the secondary attack of the MP5." alt="" coords="5,5,171,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,21,171,21,171,16,203,16"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="PM_CheckWater" name="PM_CheckWater">
+<area shape="rect" id="Node000001" title="Analyzes the water state around the player." alt="" coords="5,5,126,32"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="174,5,253,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,16,158,16,158,21,126,21"/>
+</map>

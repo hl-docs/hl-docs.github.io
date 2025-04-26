@@ -1,0 +1,7 @@
+<map id="CGunTarget::Use" name="CGunTarget::Use">
+<area shape="rect" id="Node000001" title="Activates the gun target based on user input." alt="" coords="365,5,486,32"/>
+<area shape="rect" id="Node000002" href="$d6/d13/class_c_gun_target.html#adcc4d0b590238328cb786d674f41c03d" title="Starts the gun target&#39;s operation." alt="" coords="191,5,317,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,21,317,21,317,16,350,16"/>
+<area shape="rect" id="Node000003" href="$d6/d13/class_c_gun_target.html#aec59ac077de4324c0e6ac4a67cc8afc7" title="Spawns the gun target entity and initializes its properties." alt="" coords="5,5,143,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,21,143,21,143,16,175,16"/>
+</map>

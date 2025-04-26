@@ -1,5 +1,0 @@
-<map id="CNullEntity::Spawn" name="CNullEntity::Spawn">
-<area shape="rect" id="Node000001" title="Removes the null entity upon spawning." alt="" coords="5,5,139,32"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="187,5,233,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,16,171,16,171,21,139,21"/>
-</map>

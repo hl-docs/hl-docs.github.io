@@ -1,7 +1,0 @@
-<map id="CWeaponBox::GiveAmmo" name="CWeaponBox::GiveAmmo">
-<area shape="rect" id="Node000001" title="Gives ammo to the weapon box." alt="" coords="444,5,616,32"/>
-<area shape="rect" id="Node000002" href="$class_c_weapon_box.html#a104acf81896515338e97f1772af8e27d" title="Adds ammo to the weapon box." alt="" coords="219,5,396,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,21,396,21,396,16,429,16"/>
-<area shape="rect" id="Node000003" href="$class_c_weapon_box.html#af066b3e221805b2509b0371e326d6ccf" title="Handles key&#45;value data for the weapon box." alt="" coords="5,5,171,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,21,171,21,171,16,203,16"/>
-</map>

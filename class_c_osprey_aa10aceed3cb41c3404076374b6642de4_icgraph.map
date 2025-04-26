@@ -1,5 +1,0 @@
-<map id="COsprey::CrashTouch" name="COsprey::CrashTouch">
-<area shape="rect" id="Node000001" title="Handles the crash event when the Osprey collides with a solid entity." alt="" coords="166,5,315,32"/>
-<area shape="rect" id="Node000002" href="$class_c_osprey.html#a77453dc43da3b4078c1e5a406e7470e0" title="Handles the death of the Osprey." alt="" coords="5,5,118,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,21,118,21,118,16,150,16"/>
-</map>

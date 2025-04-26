@@ -1,0 +1,5 @@
+<map id="IN_LookupDown" name="IN_LookupDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,120,32"/>
+<area shape="rect" id="Node000002" href="$d8/d8c/input_8cpp.html#a4b3bad5f852a07e61e1c9b3d5781fe79" title="Handles a key down event for a specific key binding (kbutton_t)." alt="" coords="168,5,244,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,16,152,16,152,21,120,21"/>
+</map>

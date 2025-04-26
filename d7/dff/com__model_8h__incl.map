@@ -1,0 +1,15 @@
+<map id="common/com_model.h" name="common/com_model.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,5,184,32"/>
+<area shape="rect" id="Node000002" href="$d9/d23/custom_8h.html" title="Defines structures and functions for resource customization in Half&#45;Life." alt="" coords="70,80,145,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,33,110,64,105,64,105,33"/>
+<area shape="rect" id="Node000003" href="$da/d5a/const_8h.html" title=" " alt="" coords="27,155,92,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,109,78,143,74,140,97,106"/>
+<area shape="rect" id="Node000005" href="$dc/de6/crc_8h.html" title=" " alt="" coords="132,155,182,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="118,106,142,140,138,143,114,109"/>
+<area shape="rect" id="Node000004" href="$d0/d95/in__buttons_8h.html" title=" " alt="" coords="5,229,98,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="61,182,57,214,52,213,55,182"/>
+<area shape="rect" id="Node000006" href="$d2/de3/archtypes_8h.html" title=" " alt="" coords="122,229,211,256"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="161,182,165,214,160,214,156,182"/>
+<area shape="rect" id="Node000007" href="$da/de5/steamtypes_8h.html" title=" " alt="" coords="96,304,236,331"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="169,257,169,288,164,288,164,257"/>
+</map>

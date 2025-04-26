@@ -1,0 +1,7 @@
+<map id="Q_UnicodeValidate" name="Q_UnicodeValidate">
+<area shape="rect" id="Node000001" title="Returns true if a UTF&#45;8 string contains invalid sequences." alt="" coords="293,5,425,32"/>
+<area shape="rect" id="Node000002" href="$d9/d95/client_8cpp.html#a2bdc7b8c8b206cea10e51dbb42e9a848" title="Processes a player&#39;s chat message." alt="" coords="167,5,245,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,21,246,21,246,16,277,16"/>
+<area shape="rect" id="Node000003" href="$d9/d95/client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="5,5,119,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,21,119,21,119,16,151,16"/>
+</map>

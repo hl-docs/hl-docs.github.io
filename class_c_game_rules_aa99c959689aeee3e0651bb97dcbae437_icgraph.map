@@ -1,5 +1,0 @@
-<map id="CGameRules::CanHavePlayerItem" name="CGameRules::CanHavePlayerItem">
-<area shape="rect" id="Node000001" title="Checks if the player can have a specific item." alt="" coords="196,13,415,40"/>
-<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a70aa6a4f55733da1a46edb1faa057683" title="Determines if a player can have a specific weapon." alt="" coords="5,5,148,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,29,148,29,148,24,180,24"/>
-</map>

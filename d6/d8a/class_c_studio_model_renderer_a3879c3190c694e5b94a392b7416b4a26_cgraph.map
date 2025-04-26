@@ -1,0 +1,7 @@
+<map id="CStudioModelRenderer::StudioRenderFinal" name="CStudioModelRenderer::StudioRenderFinal">
+<area shape="rect" id="Node000001" title="Finalizes the model rendering based on the current hardware or software mode." alt="" coords="5,39,160,81"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/class_c_studio_model_renderer.html#a0fd694aa5803eb64a45390c47ad8ad14" title="Finalizes the model rendering in hardware mode." alt="" coords="208,5,404,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,46,192,41,193,46,160,51"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/class_c_studio_model_renderer.html#a647f3476b32f089f68f8b3ea8ee3217b" title="Finalizes the model rendering in software mode." alt="" coords="210,72,402,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,69,195,74,194,79,159,74"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CLegacyCineMonster::CineThink" name="CLegacyCineMonster::CineThink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,151,48"/>
+<area shape="rect" id="Node000002" href="$de/da7/_game_studio_model_renderer___sample_8cpp.html#a18d6229942e256d2883e19bf2dabf3cd" title="Advances the animation frame based on the specified time interval." alt="" coords="199,13,343,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,24,183,24,183,29,151,29"/>
+</map>

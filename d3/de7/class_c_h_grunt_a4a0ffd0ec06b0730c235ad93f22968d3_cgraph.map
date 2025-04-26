@@ -1,0 +1,5 @@
+<map id="CHGrunt::CheckAmmo" name="CHGrunt::CheckAmmo">
+<area shape="rect" id="Node000001" title="Checks the grunt&#39;s ammo status." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a0e452f766d29a4d6008044338dbd3aa6" title=" " alt="" coords="208,5,404,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,16,192,16,192,21,160,21"/>
+</map>

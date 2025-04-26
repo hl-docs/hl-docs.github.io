@@ -1,5 +1,0 @@
-<map id="CMultiplayGameMgrHelper::CanPlayerHearPlayer" name="CMultiplayGameMgrHelper::CanPlayerHearPlayer">
-<area shape="rect" id="Node000001" title="Determines if one player can hear another player." alt="" coords="5,5,182,48"/>
-<area shape="rect" id="Node000002" href="$class_c_game_rules.html#a57063ed5b34aa3ddc85d477592faee06" title=" " alt="" coords="230,13,444,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,24,214,24,214,29,182,29"/>
-</map>

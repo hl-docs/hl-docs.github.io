@@ -1,0 +1,5 @@
+<map id="CSoundEnt::ClientSoundIndex" name="CSoundEnt::ClientSoundIndex">
+<area shape="rect" id="Node000001" title="Returns the proper index for a client&#39;s reserved sound." alt="" coords="173,5,369,32"/>
+<area shape="rect" id="Node000002" href="$d9/d95/client_8cpp.html#a662d6669ee4119eb4d3e4cdb97fd2ca4" title="Called when a player disconnects from the server." alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,21,125,21,125,16,157,16"/>
+</map>

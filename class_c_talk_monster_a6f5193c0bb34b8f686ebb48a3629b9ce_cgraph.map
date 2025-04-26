@@ -1,5 +1,0 @@
-<map id="CTalkMonster::StopTalking" name="CTalkMonster::StopTalking">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,183,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a45ad260dbc04248cae6e811a3dc83f41" title="Stops any currently playing sentence sound." alt="" coords="231,5,428,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,16,215,16,215,21,183,21"/>
-</map>

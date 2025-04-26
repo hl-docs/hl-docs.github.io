@@ -1,0 +1,11 @@
+<map id="WeaponsResource::GetWeaponSlot" name="WeaponsResource::GetWeaponSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="465,56,696,83"/>
+<area shape="rect" id="Node000002" href="$d7/d02/class_c_hud_ammo.html#a1df3be7ffca03b3c895d754eca6e7206" title="Draws the weapon selection menu (weapon list)." alt="" coords="218,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,55,377,35,378,30,488,50"/>
+<area shape="rect" id="Node000004" href="$d7/d02/class_c_hud_ammo.html#a643573229ef205c1ab5f349b444b2f16" title="Selects the next weapon in the inventory, ensuring it has available ammo." alt="" coords="182,56,417,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="449,72,418,72,418,67,449,67"/>
+<area shape="rect" id="Node000005" href="$d7/d02/class_c_hud_ammo.html#aab21c10bfc7f96c28ef8f0a833e5599b" title="Selects the previous weapon in the inventory, ensuring it has available ammo." alt="" coords="183,107,416,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="488,89,378,109,377,103,487,83"/>
+<area shape="rect" id="Node000003" href="$d7/d02/class_c_hud_ammo.html#a2f1554ef4586294b2a82171ee7df6449" title="Draws the ammo status, including weapon selection, ammo counts, and ammo history." alt="" coords="5,5,134,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,21,134,21,134,16,203,16"/>
+</map>

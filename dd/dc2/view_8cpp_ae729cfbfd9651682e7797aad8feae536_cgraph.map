@@ -1,0 +1,9 @@
+<map id="V_GetMapFreePosition" name="V_GetMapFreePosition">
+<area shape="rect" id="Node000001" title="Calculates a free position on the map for a spectator view." alt="" coords="5,31,162,57"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="229,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,31,213,23,214,29,162,36"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="210,56,327,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,52,195,57,194,62,162,57"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="375,56,418,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="327,67,360,67,360,72,327,72"/>
+</map>

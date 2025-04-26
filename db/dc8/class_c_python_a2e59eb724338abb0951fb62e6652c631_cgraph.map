@@ -1,0 +1,7 @@
+<map id="CPython::SecondaryAttack" name="CPython::SecondaryAttack">
+<area shape="rect" id="Node000001" title="Handles the secondary attack for the Python weapon." alt="" coords="5,31,185,57"/>
+<area shape="rect" id="Node000002" href="$d5/d93/hl__weapons_8cpp.html#ad73fdc75faa333b89d1edd0654dd8553" title="Returns whether the current game is multiplayer or not." alt="" coords="272,5,373,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,31,256,23,257,29,185,37"/>
+<area shape="rect" id="Node000003" href="$d4/d4f/class_c_game_rules.html#ad6ac4abfecc4f6ffde18b6232f1a4d9c" title=" " alt="" coords="233,56,412,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,51,217,55,217,60,185,57"/>
+</map>

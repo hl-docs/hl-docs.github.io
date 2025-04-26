@@ -1,0 +1,5 @@
+<map id="CSquadMonster::GetScheduleOfType" name="CSquadMonster::GetScheduleOfType">
+<area shape="rect" id="Node000001" title="Retrieves the schedule of the specified type for the squad monster." alt="" coords="5,5,203,48"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a37d35f03fc503f5043dab72ec5cc0736" title="Retrieves a schedule of a specific type for the monster." alt="" coords="251,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,24,235,24,235,29,203,29"/>
+</map>

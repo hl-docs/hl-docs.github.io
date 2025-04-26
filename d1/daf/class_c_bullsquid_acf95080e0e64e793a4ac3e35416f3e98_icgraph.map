@@ -1,0 +1,5 @@
+<map id="CBullsquid::Precache" name="CBullsquid::Precache">
+<area shape="rect" id="Node000001" title="Precaches all resources needed by the bullsquid." alt="" coords="184,5,330,32"/>
+<area shape="rect" id="Node000002" href="$d1/daf/class_c_bullsquid.html#ae3fd27c1e0f9d2fd49ab1de73a4c8dd8" title="Spawns the bullsquid entity." alt="" coords="5,5,136,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,21,136,21,136,16,168,16"/>
+</map>

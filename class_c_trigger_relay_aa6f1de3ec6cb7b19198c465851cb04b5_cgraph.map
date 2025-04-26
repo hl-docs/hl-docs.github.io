@@ -1,5 +1,0 @@
-<map id="CTriggerRelay::ObjectCaps" name="CTriggerRelay::ObjectCaps">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,184,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_entity.html#ae8fb0a77c3af0f3285cf0c8a76b9c424" title=" " alt="" coords="232,5,402,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,16,216,16,216,21,184,21"/>
-</map>

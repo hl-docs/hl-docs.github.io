@@ -1,0 +1,17 @@
+<map id="CBaseMonster::CineCleanup" name="CBaseMonster::CineCleanup">
+<area shape="rect" id="Node000001" title="Cleans up the cinematic sequence for the monster." alt="" coords="1130,56,1318,83"/>
+<area shape="rect" id="Node000002" href="$dc/d13/scripted_8cpp.html#a7c8c29c4a23a9e776fb3dd45838d4507" title=" " alt="" coords="918,31,1047,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1114,61,1047,53,1048,48,1115,55"/>
+<area shape="rect" id="Node000008" href="$dd/d86/class_c_cine_monster.html#a66d4d7ae4886d382ca580de4c73aba9d" title="Called when a scripted sequence animation is done playing." alt="" coords="883,81,1082,108"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1114,84,1083,87,1082,82,1114,78"/>
+<area shape="rect" id="Node000003" href="$dd/d86/class_c_cine_monster.html#a699adb616367765de952a3fed679bb9c" title="Cancels the cinematic sequence for all entities with the same target name." alt="" coords="649,31,835,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="902,47,835,47,835,41,902,41"/>
+<area shape="rect" id="Node000004" href="$da/d04/class_c_talk_monster.html#a96eb0d4658e166d85659981510406f30" title="Starts the talk monster following a leader." alt="" coords="410,31,601,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="634,47,602,47,602,41,634,41"/>
+<area shape="rect" id="Node000005" href="$da/d04/class_c_talk_monster.html#a100840a7f1417df9e0630754fba12ceb" title="Handles the use interaction for the talk monster." alt="" coords="182,31,362,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="395,47,362,47,362,41,395,41"/>
+<area shape="rect" id="Node000006" href="$d0/d51/class_c_barney.html#abf46f736a42ef4e60fd853d9e86526d2" title="Spawns the Barney entity." alt="" coords="10,5,129,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="166,33,129,29,129,23,167,28"/>
+<area shape="rect" id="Node000007" href="$dc/d29/class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="5,56,134,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="166,60,134,64,133,59,166,55"/>
+</map>

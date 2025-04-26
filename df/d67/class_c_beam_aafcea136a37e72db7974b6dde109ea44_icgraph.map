@@ -1,0 +1,25 @@
+<map id="CBeam::BeamDamage" name="CBeam::BeamDamage">
+<area shape="rect" id="Node000001" title="Damages entities along the beam&#39;s path." alt="" coords="1025,74,1179,101"/>
+<area shape="rect" id="Node000002" href="$df/d67/class_c_beam.html#ae1f4097d553f01e28b39ed6752f6201e" title=" " alt="" coords="784,23,977,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1025,73,941,53,943,48,1026,67"/>
+<area shape="rect" id="Node000007" href="$d6/d4a/class_c_lightning.html#a2e360b22a6ac28c84bf395bf64fbe7a7" title="Think function for applying damage with the lightning effect." alt="" coords="363,74,532,101"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="1009,90,533,90,533,85,1009,85"/>
+<area shape="rect" id="Node000008" href="$d7/de6/class_c_laser.html#ae877e46fde9a7ec6e98da554aa879b59" title="Fires the laser at a specific point." alt="" coords="813,125,948,151"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="1026,107,943,127,941,122,1025,102"/>
+<area shape="rect" id="Node000003" href="$d6/d4a/class_c_lightning.html#a742db6e2243ce75f3a0531030b4df499" title="Think function for the lightning strike." alt="" coords="580,23,736,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="768,39,736,39,736,34,768,34"/>
+<area shape="rect" id="Node000004" href="$d6/d4a/class_c_lightning.html#ae60d76702c9a62a7c700bbd864c0adc2" title="Spawns the lightning effect entity." alt="" coords="186,23,315,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="585,22,532,14,448,8,363,14,302,25,301,20,363,9,448,3,533,9,586,17"/>
+<area shape="rect" id="Node000006" href="$d6/d4a/class_c_lightning.html#a9b6e23ff1410db09ae90d3c86793506d" title="Uses the lightning effect to strike." alt="" coords="374,23,521,50"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="565,39,522,39,522,34,565,34"/>
+<area shape="rect" id="Node000005" href="$d7/def/class_c_trip_beam.html#a8e3d6f75ea13fae6608eefbaa3b3742f" title="Spawns the lightning effect entity." alt="" coords="5,23,138,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="170,39,138,39,138,34,170,34"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="359,39,315,39,315,34,359,34"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="377,72,305,53,306,48,378,67"/>
+<area shape="rect" id="Node000009" href="$dc/d1f/class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="583,125,733,151"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="797,141,733,141,733,135,797,135"/>
+<area shape="rect" id="Node000010" href="$d7/de6/class_c_laser.html#accba3ab9092b0d53df1433c63ce24ee0" title="Think function for the laser strike." alt="" coords="590,175,726,202"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="804,158,720,177,719,172,803,153"/>
+<area shape="rect" id="Node000011" href="$d7/de6/class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="393,175,502,202"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="575,191,503,191,503,186,575,186"/>
+</map>

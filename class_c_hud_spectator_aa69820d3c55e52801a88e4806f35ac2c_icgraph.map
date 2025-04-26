@@ -1,5 +1,0 @@
-<map id="CHudSpectator::DeathMessage" name="CHudSpectator::DeathMessage">
-<area shape="rect" id="Node000001" title="Adds a dead player icon to the overview after a kill." alt="" coords="240,13,444,40"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_death_notice.html#ae7ac994f9ff2a5261c28167ec5e56522" title="Handles the &quot;DeathMsg&quot; message received from the server." alt="" coords="5,5,192,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,29,192,29,192,24,224,24"/>
-</map>

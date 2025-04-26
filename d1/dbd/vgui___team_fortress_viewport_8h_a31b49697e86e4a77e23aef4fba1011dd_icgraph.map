@@ -1,0 +1,17 @@
+<map id="LoadTGAForRes" name="LoadTGAForRes">
+<area shape="rect" id="Node000001" title="Loads a TGA image based on resource name." alt="" coords="786,85,903,112"/>
+<area shape="rect" id="Node000002" href="$d2/d0f/class_c_image_label.html#aa3a69c2f9211439a3672f914d85dd787" title="Constructor with image and position." alt="" coords="557,5,737,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="806,80,737,46,703,35,705,30,739,42,808,75"/>
+<area shape="rect" id="Node000003" href="$d2/d0f/class_c_image_label.html#a60656bb246623023c2cdfd7c1440947a" title="Constructor with image, position and size." alt="" coords="557,56,737,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="770,90,737,85,737,80,771,85"/>
+<area shape="rect" id="Node000004" href="$d9/df1/class_c_t_f_scroll_button.html#a5a047fe0664510f437ec658bbd84c68d" title="Scroll button with embedded arrow image." alt="" coords="556,107,738,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="771,112,739,117,738,112,770,107"/>
+<area shape="rect" id="Node000005" href="$d2/d0f/class_c_image_label.html#acec4260cc135199f8dbdaa1d7bbf36e2" title="Loads a new TGA image into the label." alt="" coords="563,173,731,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="812,123,778,144,739,164,707,175,705,170,737,159,775,139,810,118"/>
+<area shape="rect" id="Node000006" href="$de/dd7/class_c_hud_spectator.html#a68d7dab5a05bf25c71781a8bd6e97625" title="Processes director messages to control the spectator mode." alt="" coords="293,173,508,200"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="548,189,509,189,509,184,548,184"/>
+<area shape="rect" id="Node000007" href="$d9/dbd/cdll__int_8cpp.html#a13f8b6e71ea4313e0b97d907191b27bf" title="Handles director messages." alt="" coords="92,173,245,200"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="277,189,245,189,245,184,277,184"/>
+<area shape="rect" id="Node000008" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,173,44,200"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="76,189,44,189,44,184,76,184"/>
+</map>

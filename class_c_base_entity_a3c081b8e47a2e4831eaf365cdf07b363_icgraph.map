@@ -1,5 +1,0 @@
-<map id="CBaseEntity::UpdateOnRemove" name="CBaseEntity::UpdateOnRemove">
-<area shape="rect" id="Node000001" title="Updates global tables when an entity is removed." alt="" coords="154,5,360,32"/>
-<area shape="rect" id="Node000002" href="$dlls_2util_8cpp.html#a10563004053a3899c27ffadd93e43de8" title="Removes an entity from the game." alt="" coords="5,5,106,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,21,106,21,106,16,138,16"/>
-</map>

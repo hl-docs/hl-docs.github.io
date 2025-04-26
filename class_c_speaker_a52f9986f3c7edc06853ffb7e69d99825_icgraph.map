@@ -1,5 +1,0 @@
-<map id="CSpeaker::SpeakerThink" name="CSpeaker::SpeakerThink">
-<area shape="rect" id="Node000001" title="Think function for the speaker entity." alt="" coords="179,5,344,32"/>
-<area shape="rect" id="Node000002" href="$class_c_speaker.html#ae66e20b75e6913b46a8f67ac99b14d62" title="Spawns the speaker entity." alt="" coords="5,5,131,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,21,131,21,131,16,163,16"/>
-</map>

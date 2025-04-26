@@ -1,0 +1,9 @@
+<map id="CXenSpore::Think" name="CXenSpore::Think">
+<area shape="rect" id="Node000001" title="Think function for the Xen spore." alt="" coords="5,72,130,99"/>
+<area shape="rect" id="Node000002" href="$db/dc1/class_c_base_animating.html#a4378161ed931f8a0da287ebe91408a44" title="Dispatches animation events for the current frame." alt="" coords="189,5,367,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,69,184,50,185,55,119,74"/>
+<area shape="rect" id="Node000003" href="$d0/d36/class_c_act_animating.html#a4031a97a76b1a46efa282f01e5c9bc87" title=" " alt="" coords="188,72,368,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,83,173,83,173,88,130,88"/>
+<area shape="rect" id="Node000004" href="$db/dc1/class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="178,123,378,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,97,185,115,184,121,117,102"/>
+</map>

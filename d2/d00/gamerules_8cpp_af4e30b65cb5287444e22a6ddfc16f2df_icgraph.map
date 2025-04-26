@@ -1,0 +1,9 @@
+<map id="EntSelectSpawnPoint" name="EntSelectSpawnPoint">
+<area shape="rect" id="Node000001" title="Selects a spawn point for a player." alt="" coords="485,35,632,61"/>
+<area shape="rect" id="Node000002" href="$d4/d4f/class_c_game_rules.html#aeabf3c58c138d64a55882daac35ad25f" title="Gets the spawn spot for the player." alt="" coords="207,35,437,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,51,438,51,438,45,470,45"/>
+<area shape="rect" id="Node000003" href="$d9/d95/client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="25,5,139,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,35,139,28,139,23,193,30"/>
+<area shape="rect" id="Node000004" href="$d5/d5d/class_c_half_life_multiplay.html#a43be8fa1c2a21add19f77e43f3450ac4" title="Retrieves the spawn spot for a player." alt="" coords="5,56,159,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="193,66,160,71,159,65,192,61"/>
+</map>

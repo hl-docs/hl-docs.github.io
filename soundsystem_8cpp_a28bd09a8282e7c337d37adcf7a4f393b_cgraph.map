@@ -1,5 +1,0 @@
-<map id="LoadSoundAPIs" name="LoadSoundAPIs">
-<area shape="rect" id="Node000001" title="Loads the appropriate engine DLL (hardware or software) and initializes sound API pointers." alt="" coords="5,5,120,32"/>
-<area shape="rect" id="Node000002" href="$soundsystem_8cpp.html#a15864e80cece6bcb683674d10603154c" title="Loads the engine interface functions from the specified engine module (DLL)." alt="" coords="168,5,304,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,16,152,16,152,21,120,21"/>
-</map>

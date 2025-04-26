@@ -1,0 +1,8 @@
+<map id="UTIL_HudMessage" name="UTIL_HudMessage">
+<area shape="rect" id="Node000001" title="Displays a HUD message to a specific entity." alt="" coords="368,5,498,32"/>
+<area shape="rect" id="Node000002" href="$d5/df6/class_c_game_text.html#a7f9fce5855479583cb9c8032debc3f30" title="Activates the game text entity." alt="" coords="5,5,127,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,21,127,21,127,16,352,16"/>
+<area shape="rect" id="Node000003" href="$dc/d44/dlls_2util_8cpp.html#a9530e833f9072bdf01dd0b8e4ef86d62" title="Displays a HUD message to all players." alt="" coords="175,31,320,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="353,32,321,37,320,31,352,27"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="159,34,127,30,127,24,160,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CHAssassin::RunTask" name="CHAssassin::RunTask">
+<area shape="rect" id="Node000001" title="Runs a specific task for the assassin." alt="" coords="5,5,158,32"/>
+<area shape="rect" id="Node000002" href="$d8/ddb/animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="206,5,327,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,16,190,16,190,21,158,21"/>
+</map>

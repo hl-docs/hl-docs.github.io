@@ -1,5 +1,0 @@
-<map id="CMultiSource::IsTriggered" name="CMultiSource::IsTriggered">
-<area shape="rect" id="Node000001" title="Checks if the multi&#45;source entity is triggered." alt="" coords="184,5,354,32"/>
-<area shape="rect" id="Node000002" href="$class_c_multi_source.html#a9b6110ea6323e3411bee6a26cdd0d50e" title="Uses the multi&#45;source entity." alt="" coords="5,5,136,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,21,136,21,136,16,168,16"/>
-</map>

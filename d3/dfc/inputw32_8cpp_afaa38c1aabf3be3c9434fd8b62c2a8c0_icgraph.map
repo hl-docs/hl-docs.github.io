@@ -1,0 +1,11 @@
+<map id="MousePos_ThreadFunction" name="MousePos_ThreadFunction">
+<area shape="rect" id="Node000001" title="Thread function to continually track mouse delta movement." alt="" coords="432,5,611,32"/>
+<area shape="rect" id="Node000002" href="$d3/dfc/inputw32_8cpp.html#a64ecfae2c62ed2a8820bb0047ec22c0c" title="Initializes all input&#45;related variables and starts mouse and joystick subsystems." alt="" coords="326,5,384,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,21,384,21,384,16,416,16"/>
+<area shape="rect" id="Node000003" href="$d8/d8c/input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="212,5,278,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,21,279,21,279,16,311,16"/>
+<area shape="rect" id="Node000004" href="$d9/dbd/cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="92,5,164,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,21,165,21,165,16,197,16"/>
+<area shape="rect" id="Node000005" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,21,44,21,44,16,76,16"/>
+</map>

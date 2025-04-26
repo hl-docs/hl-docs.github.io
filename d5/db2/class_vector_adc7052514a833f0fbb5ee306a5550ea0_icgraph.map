@@ -1,0 +1,105 @@
+<map id="Vector::Vector" name="Vector::Vector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="886,879,991,905"/>
+<area shape="rect" id="Node000002" href="$d5/db2/class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="712,752,838,779"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="915,868,880,830,836,793,815,782,818,777,839,788,884,826,919,864"/>
+<area shape="rect" id="Node000089" href="$d5/db2/class_vector.html#a204ee43cd109b47a334d38b1e716ac19" title=" " alt="" coords="715,803,835,829"/>
+<area shape="poly" id="edge49_Node000001_Node000089" title=" " alt="" coords="897,874,837,844,811,832,813,828,839,839,899,869"/>
+<area shape="rect" id="Node000090" href="$d5/db2/class_vector.html#ae62844b362fd8c0680d28c76feca6221" title=" " alt="" coords="714,853,836,880"/>
+<area shape="poly" id="edge50_Node000001_Node000090" title=" " alt="" coords="870,884,836,879,837,873,871,879"/>
+<area shape="rect" id="Node000091" href="$d5/db2/class_vector.html#a449091b284984dc0768a4380b05f81d3" title=" " alt="" coords="716,904,834,931"/>
+<area shape="poly" id="edge51_Node000001_Node000091" title=" " alt="" coords="871,905,835,911,834,906,870,900"/>
+<area shape="rect" id="Node000092" href="$d5/db2/class_vector.html#ab40ea5360a9e704de5e53629901bfcdf" title=" " alt="" coords="716,955,834,981"/>
+<area shape="poly" id="edge52_Node000001_Node000092" title=" " alt="" coords="899,915,839,945,813,956,811,952,837,940,897,910"/>
+<area shape="rect" id="Node000093" href="$d5/db2/class_vector.html#a1551383010aea3ec0b70d44eea10b389" title=" " alt="" coords="716,1005,834,1032"/>
+<area shape="poly" id="edge53_Node000001_Node000093" title=" " alt="" coords="919,920,884,958,839,996,818,1007,815,1002,836,991,880,954,915,916"/>
+<area shape="rect" id="Node000003" href="$d3/d1f/class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="470,31,637,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="770,737,764,600,747,404,733,303,714,211,691,135,677,105,662,83,648,70,630,60,632,56,651,66,666,80,682,103,696,133,720,210,738,302,752,403,769,599,776,737"/>
+<area shape="rect" id="Node000018" href="$d9/d71/class_c_nihilanth_h_v_r.html#a63596c29fb9ed46fc45916949756d80c" title="Handles the bounce touch behavior for the Nihilanth Hover entity." alt="" coords="457,93,651,120"/>
+<area shape="poly" id="edge6_Node000002_Node000018" title=" " alt="" coords="770,737,763,608,746,426,732,333,714,249,691,180,677,154,662,134,648,123,651,118,666,130,682,151,695,178,719,248,737,333,751,425,769,607,775,736"/>
+<area shape="rect" id="Node000023" href="$d9/d71/class_c_nihilanth_h_v_r.html#a4dd1493ed1da7567cbf777b7ef961814" title="Circles around a target position." alt="" coords="462,144,646,171"/>
+<area shape="poly" id="edge8_Node000002_Node000023" title=" " alt="" coords="770,737,761,617,743,451,729,366,711,289,689,226,676,203,662,185,645,171,648,167,666,181,681,200,694,224,716,288,734,365,748,450,767,616,775,736"/>
+<area shape="rect" id="Node000024" href="$d9/d71/class_c_nihilanth_h_v_r.html#a52aa3584f788526693ced7cd8fc7a88e" title="Crawls in a random direction." alt="" coords="480,195,627,221"/>
+<area shape="poly" id="edge9_Node000002_Node000024" title=" " alt="" coords="769,737,759,626,739,475,725,399,708,329,687,273,662,235,646,223,627,215,629,210,649,218,666,232,691,271,713,328,730,398,745,474,765,626,774,736"/>
+<area shape="rect" id="Node000025" href="$d4/d7a/class_c_base_monster.html#ab6807dce987a631afee3706d9b409b7f" title="Handles the death of a monster&#39;s corpse." alt="" coords="443,245,664,272"/>
+<area shape="poly" id="edge10_Node000002_Node000025" title=" " alt="" coords="768,737,757,636,736,500,722,432,705,370,685,320,662,286,647,275,651,270,666,282,690,317,710,368,727,431,741,499,762,635,774,737"/>
+<area shape="rect" id="Node000026" href="$d4/d30/class_c_ichthyosaur.html#a0122fb50de81d5ced27a437e9761974e" title="Probes the environment to detect obstacles." alt="" coords="476,296,631,323"/>
+<area shape="poly" id="edge11_Node000002_Node000026" title=" " alt="" coords="768,737,755,645,732,525,701,410,683,366,662,337,648,326,631,318,633,313,650,321,666,333,688,363,707,408,738,524,760,645,773,736"/>
+<area shape="rect" id="Node000029" href="$da/df0/class_c_flocking_flyer.html#a7a0dbdc8429f9c73445821529c81986b" title="Handles the follower boid&#39;s behavior." alt="" coords="199,820,395,863"/>
+<area shape="poly" id="edge13_Node000002_Node000029" title=" " alt="" coords="721,788,714,793,700,806,692,819,682,833,665,844,598,864,527,872,458,871,395,864,396,859,458,866,527,867,597,859,663,839,678,829,687,817,696,803,711,789,719,784"/>
+<area shape="rect" id="Node000036" href="$d3/d4e/class_c_rpg_rocket.html#aa575d2c9a7f9bb666f6d9f61f2248cee" title="Updates the rocket&#39;s direction to follow the laser spot." alt="" coords="469,347,639,373"/>
+<area shape="poly" id="edge15_Node000002_Node000036" title=" " alt="" coords="772,736,769,665,755,571,741,521,722,472,696,427,663,387,638,372,641,367,666,383,700,424,727,470,746,519,760,570,774,665,777,736"/>
+<area shape="rect" id="Node000041" href="$d7/db7/class_c_a_grunt.html#a98010193093d0262b00b94d3daa58ec2" title="Handles animation events for the Alien Grunt entity." alt="" coords="463,448,644,475"/>
+<area shape="poly" id="edge17_Node000002_Node000041" title=" " alt="" coords="768,737,760,683,741,616,728,581,710,547,689,516,663,489,643,476,646,472,666,485,693,512,715,544,732,579,746,614,765,682,774,736"/>
+<area shape="rect" id="Node000042" href="$d1/daf/class_c_bullsquid.html#a6631c371599184dc93b7209f1809e110" title="Handles animation events for the bullsquid." alt="" coords="457,499,650,525"/>
+<area shape="poly" id="edge18_Node000002_Node000042" title=" " alt="" coords="766,738,754,693,734,639,704,585,685,561,663,539,644,528,647,524,666,535,689,557,709,582,739,637,759,692,771,736"/>
+<area shape="rect" id="Node000043" href="$de/dde/class_c_leech.html#a7e9fc3a93162c2366abdd17e24cb4947" title="Handles animation events for the leech." alt="" coords="466,549,641,576"/>
+<area shape="poly" id="edge19_Node000002_Node000043" title=" " alt="" coords="762,738,747,704,726,663,698,623,663,590,641,578,643,574,666,586,702,620,731,661,752,701,767,736"/>
+<area shape="rect" id="Node000044" href="$d1/de8/class_c_squeak_grenade.html#a1c95a185a0ce662810f8ad450bf105e8" title="Handles the thinking behavior of the squeak grenade." alt="" coords="459,397,648,424"/>
+<area shape="poly" id="edge20_Node000002_Node000044" title=" " alt="" coords="770,737,765,674,748,593,735,551,716,509,692,471,663,438,646,427,649,422,666,434,697,468,721,507,739,549,753,592,770,673,776,736"/>
+<area shape="rect" id="Node000046" href="$d1/d47/controller_8cpp.html#ab2e7e4dd85c0a408ebf5f036bcdf10af" title="Calculates the intersection vector for a moving target." alt="" coords="518,600,589,627"/>
+<area shape="poly" id="edge22_Node000002_Node000046" title=" " alt="" coords="756,740,718,689,692,663,663,641,626,626,589,618,590,613,628,621,666,636,695,659,722,685,760,737"/>
+<area shape="rect" id="Node000049" href="$dc/dad/barney_8cpp.html#aa6cfb86218571add44e2f92eec892175" title="Checks if an entity is facing a specific reference point." alt="" coords="519,651,589,677"/>
+<area shape="poly" id="edge25_Node000002_Node000049" title=" " alt="" coords="744,744,707,716,663,692,625,679,589,671,590,666,627,674,665,687,710,712,748,739"/>
+<area shape="rect" id="Node000051" href="$d2/dc7/class_c_trigger_camera.html#ae65572e4e66660944b1c6bb08d7537e2" title="Moves the camera along the specified path." alt="" coords="478,701,630,728"/>
+<area shape="poly" id="edge27_Node000002_Node000051" title=" " alt="" coords="698,751,615,731,616,726,699,745"/>
+<area shape="rect" id="Node000054" href="$d9/d13/class_c_flying_monster.html#a26d74b7b4e6820298b8919c9cea88e87" title="Executes the movement of the flying monster." alt="" coords="455,803,653,829"/>
+<area shape="poly" id="edge31_Node000002_Node000054" title=" " alt="" coords="699,785,616,805,615,799,698,780"/>
+<area shape="rect" id="Node000055" href="$dc/dc7/class_c_path_track.html#aa034c8721d3c10e473f0fbf4d3bb6014" title="Projects a point along the path between two path tracks." alt="" coords="485,904,623,931"/>
+<area shape="poly" id="edge32_Node000002_Node000055" title=" " alt="" coords="718,789,714,792,698,816,692,839,685,864,666,887,646,900,624,909,622,904,644,895,663,883,680,861,686,838,693,814,710,789,714,785"/>
+<area shape="rect" id="Node000064" href="$d6/d4a/class_c_lightning.html#a536b7a0a4c7500f6e7cabf6ff509fd5d" title="Generates a random lightning strike within an area." alt="" coords="471,955,636,981"/>
+<area shape="poly" id="edge34_Node000002_Node000064" title=" " alt="" coords="717,790,714,792,701,811,695,830,693,868,690,907,682,926,666,945,638,961,635,957,663,941,677,923,684,905,687,868,689,829,696,809,710,789,713,786"/>
+<area shape="rect" id="Node000069" href="$d6/d4a/class_c_lightning.html#a38c601c90d928734f8264d88e8d55174" title="Generates a random lightning strike from a point." alt="" coords="470,1208,638,1235"/>
+<area shape="poly" id="edge36_Node000002_Node000069" title=" " alt="" coords="716,791,714,792,697,819,686,845,680,871,678,896,684,946,695,996,706,1046,710,1096,707,1121,699,1147,686,1172,666,1198,640,1216,637,1212,663,1194,681,1169,694,1145,702,1120,705,1096,701,1047,690,997,678,947,673,896,675,870,681,843,693,816,710,789,712,787"/>
+<area shape="rect" id="Node000070" href="$d4/d30/class_c_ichthyosaur.html#a18b594eb6441785ceb517044738281ff" title="Runs a specific task for the ichthyosaur." alt="" coords="476,1005,632,1032"/>
+<area shape="poly" id="edge38_Node000002_Node000070" title=" " alt="" coords="716,790,714,792,698,818,691,843,691,868,693,894,695,919,694,945,685,970,666,995,651,1007,633,1015,631,1010,648,1002,662,991,680,968,688,944,690,919,688,894,685,869,686,842,693,816,710,789,712,787"/>
+<area shape="rect" id="Node000071" href="$d3/d21/class_c_gib_shooter.html#ac87720877a82210693cd78906b65f738" title="Think function for shooting gibs." alt="" coords="470,1056,638,1083"/>
+<area shape="poly" id="edge39_Node000002_Node000071" title=" " alt="" coords="716,790,714,792,695,825,688,856,689,888,694,919,698,951,698,982,689,1014,666,1046,640,1063,637,1059,662,1042,684,1012,693,982,693,951,688,920,684,888,683,856,690,823,710,789,712,787"/>
+<area shape="rect" id="Node000073" href="$d4/d30/class_c_ichthyosaur.html#a8f4d767a81d3cfb5f6f118f8e0563a88" title="Spawns the ichthyosaur entity." alt="" coords="482,1107,626,1133"/>
+<area shape="poly" id="edge40_Node000002_Node000073" title=" " alt="" coords="716,790,715,792,692,831,685,870,687,907,694,945,701,983,702,1020,692,1058,666,1097,648,1110,627,1119,625,1114,646,1106,662,1093,687,1056,697,1020,695,983,689,946,682,908,680,869,687,830,710,789,712,787"/>
+<area shape="rect" id="Node000074" href="$da/df0/class_c_flocking_flyer.html#a570850f4fd8bc4f54451233582f890ca" title="Spreads the flock to avoid collisions." alt="" coords="459,1157,648,1184"/>
+<area shape="poly" id="edge41_Node000002_Node000074" title=" " alt="" coords="716,791,714,792,699,815,689,838,682,883,685,927,695,971,704,1014,706,1058,703,1080,696,1103,684,1125,666,1147,651,1160,647,1156,662,1143,679,1122,691,1100,698,1079,701,1058,698,1015,689,972,680,928,676,883,684,836,695,813,710,789,712,787"/>
+<area shape="rect" id="Node000076" href="$da/df0/class_c_flocking_flyer.html#adb1bb0f746c395eabfc65fc5d9d02243" title="Adjusts the boid&#39;s course if too close to others." alt="" coords="456,752,652,779"/>
+<area shape="poly" id="edge42_Node000002_Node000076" title=" " alt="" coords="697,768,652,768,652,763,697,763"/>
+<area shape="rect" id="Node000077" href="$df/d88/class_c_stomp.html#a67e11d1187e65f16e08bc5a9d5664b15" title="Creates a stomp effect for the Gargantua." alt="" coords="478,1259,630,1285"/>
+<area shape="poly" id="edge44_Node000002_Node000077" title=" " alt="" coords="716,791,715,792,696,822,683,852,677,881,675,909,682,966,696,1022,709,1078,714,1134,711,1162,703,1191,688,1220,666,1249,650,1262,631,1270,629,1265,647,1257,662,1245,684,1217,698,1189,706,1161,709,1134,704,1079,691,1023,676,967,670,909,672,880,678,850,691,820,710,789,712,787"/>
+<area shape="rect" id="Node000080" href="$d3/d9c/class_c_breakable.html#adf5b94e0c19f1a449b894ddc982199c4" title="Handles damage taken by the breakable entity." alt="" coords="468,1309,640,1336"/>
+<area shape="poly" id="edge45_Node000002_Node000080" title=" " alt="" coords="716,791,715,792,704,811,697,836,690,896,690,968,694,1046,697,1124,696,1195,688,1256,679,1280,666,1299,642,1317,639,1312,662,1295,674,1277,682,1254,691,1195,692,1124,688,1046,685,969,684,896,691,835,699,809,710,789,712,787"/>
+<area shape="rect" id="Node000085" href="$d2/dcf/class_c_zombie.html#ad0730666988dd33c2bd25ddabd86bdb1" title="Handles damage taken by the zombie." alt="" coords="476,1360,632,1387"/>
+<area shape="poly" id="edge46_Node000002_Node000085" title=" " alt="" coords="716,791,715,792,703,813,695,840,688,907,689,986,694,1072,699,1157,699,1236,689,1302,680,1329,666,1350,651,1362,633,1371,631,1366,648,1358,662,1346,675,1326,684,1301,693,1235,693,1157,689,1072,684,986,683,907,690,839,698,811,710,789,712,787"/>
+<area shape="rect" id="Node000086" href="$d9/d05/class_c_test_effect.html#a0f7cbe0c8417444d53120efc376ec062" title="Think function for the test effect." alt="" coords="478,1411,630,1437"/>
+<area shape="poly" id="edge47_Node000002_Node000086" title=" " alt="" coords="716,791,715,792,702,815,694,845,686,918,688,1004,694,1097,700,1190,701,1276,691,1348,681,1377,666,1400,650,1414,631,1422,629,1417,647,1409,662,1397,676,1375,686,1347,695,1276,695,1190,689,1097,683,1004,681,917,688,844,697,813,710,789,712,787"/>
+<area shape="rect" id="Node000088" href="$dc/d44/dlls_2util_8cpp.html#a0f1ea88d7b7f04b2d91cd13fc42399bb" title="Clamps a vector to a box defined by the clamp size." alt="" coords="471,1461,637,1488"/>
+<area shape="poly" id="edge48_Node000002_Node000088" title=" " alt="" coords="716,791,715,792,701,817,692,849,685,928,687,1022,695,1123,701,1223,703,1316,699,1358,693,1395,682,1426,666,1451,654,1462,639,1470,636,1465,651,1458,662,1448,677,1424,688,1393,694,1357,697,1316,696,1223,689,1123,682,1022,679,928,687,848,696,815,710,789,712,787"/>
+<area shape="rect" id="Node000004" href="$d3/d1f/class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="210,5,384,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,46,359,35,360,30,455,40"/>
+<area shape="rect" id="Node000017" href="$db/d17/class_c_turret.html#abbdf253e3a38f63841f6530a38e10ec1" title="Handles the spin&#45;up behavior of the turret." alt="" coords="229,56,365,83"/>
+<area shape="poly" id="edge5_Node000003_Node000017" title=" " alt="" coords="455,56,365,65,365,60,454,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="399,17,491,27,491,33,399,23"/>
+<area shape="rect" id="Node000019" href="$d9/d71/class_c_nihilanth_h_v_r.html#ae73c2634cdcf19cdbd5a2f3a67198342" title="Initializes the circle behavior for the Nihilanth Hover entity." alt="" coords="214,107,380,133"/>
+<area shape="poly" id="edge7_Node000018_Node000019" title=" " alt="" coords="441,115,380,118,380,113,441,110"/>
+<area shape="rect" id="Node000027" href="$d4/d30/class_c_ichthyosaur.html#af8a9e18391b2098fbbfca89996315cd6" title="Updates the ichthyosaur&#39;s swimming behavior." alt="" coords="228,296,366,323"/>
+<area shape="poly" id="edge12_Node000026_Node000027" title=" " alt="" coords="460,312,366,312,366,307,460,307"/>
+<area shape="rect" id="Node000030" href="$da/df0/class_c_flocking_flyer.html#a2164b9da3b19156dadc544d0d9f27dda" title="Starts the flocking behavior for the boid." alt="" coords="6,828,150,855"/>
+<area shape="poly" id="edge14_Node000029_Node000030" title=" " alt="" coords="183,844,150,844,150,839,183,839"/>
+<area shape="rect" id="Node000037" href="$d3/d4e/class_c_rpg_rocket.html#ad41642b66d6e741207d671249c262968" title="Handles the thinking process after the rocket is ignited." alt="" coords="215,347,379,373"/>
+<area shape="poly" id="edge16_Node000036_Node000037" title=" " alt="" coords="453,363,380,363,380,357,453,357"/>
+<area shape="rect" id="Node000045" href="$d1/de8/class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="212,397,382,424"/>
+<area shape="poly" id="edge21_Node000044_Node000045" title=" " alt="" coords="444,413,382,413,382,408,444,408"/>
+<area shape="rect" id="Node000047" href="$de/d41/class_c_controller.html#aa5ffcbcc83d239847937098fc9592c46" title="Gets the schedule for the controller monster." alt="" coords="213,549,381,576"/>
+<area shape="poly" id="edge23_Node000046_Node000047" title=" " alt="" coords="502,606,367,579,369,574,503,601"/>
+<area shape="rect" id="Node000048" href="$de/d41/class_c_controller.html#ad60ab6fa2a4fd66eef7bb7273de6ce19" title="Runs a task for the controller monster." alt="" coords="225,600,369,627"/>
+<area shape="poly" id="edge24_Node000046_Node000048" title=" " alt="" coords="502,616,370,616,370,611,502,611"/>
+<area shape="rect" id="Node000050" href="$d0/d51/class_c_barney.html#a7b4f6de84eb885c40f9b8d509571efc6" title="Handles damage taken by the Barney entity." alt="" coords="219,651,375,677"/>
+<area shape="poly" id="edge26_Node000049_Node000050" title=" " alt="" coords="503,667,375,667,375,661,503,661"/>
+<area shape="rect" id="Node000052" href="$d2/dc7/class_c_trigger_camera.html#aa8a467fa056991dd8a4225f7784d6819" title="Follows the target entity." alt="" coords="199,701,395,728"/>
+<area shape="poly" id="edge28_Node000051_Node000052" title=" " alt="" coords="462,717,395,717,395,712,462,712"/>
+<area shape="rect" id="Node000053" href="$d2/dc7/class_c_trigger_camera.html#a1e79aa0cb1ea8697bb3d48299a216ce2" title="Activates the camera trigger." alt="" coords="5,727,151,753"/>
+<area shape="poly" id="edge30_Node000051_Node000053" title=" " alt="" coords="466,734,395,743,266,748,151,746,151,741,266,742,395,737,466,728"/>
+<area shape="poly" id="edge29_Node000052_Node000053" title=" " alt="" coords="184,730,152,734,151,729,183,725"/>
+<area shape="rect" id="Node000056" href="$dc/dc7/class_c_path_track.html#a21b35d9d211a58ee51d50fa5ac13b61a" title="Looks ahead along the path track." alt="" coords="216,904,378,931"/>
+<area shape="poly" id="edge33_Node000055_Node000056" title=" " alt="" coords="469,920,378,920,378,915,469,915"/>
+<area shape="rect" id="Node000065" href="$d6/d4a/class_c_lightning.html#a742db6e2243ce75f3a0531030b4df499" title="Think function for the lightning strike." alt="" coords="219,1081,375,1108"/>
+<area shape="poly" id="edge35_Node000064_Node000065" title=" " alt="" coords="462,989,444,996,406,1016,370,1040,315,1083,312,1079,367,1035,403,1011,442,991,460,984"/>
+<area shape="poly" id="edge37_Node000069_Node000065" title=" " alt="" coords="460,1205,442,1198,403,1178,367,1154,312,1110,315,1106,370,1150,406,1173,444,1194,462,1200"/>
+<area shape="poly" id="edge43_Node000076_Node000029" title=" " alt="" coords="473,785,444,793,357,822,355,817,442,788,471,780"/>
+</map>

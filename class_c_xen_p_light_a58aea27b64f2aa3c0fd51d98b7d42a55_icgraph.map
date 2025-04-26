@@ -1,5 +1,0 @@
-<map id="CXenPLight::Precache" name="CXenPLight::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed by the Xen plant light." alt="" coords="189,5,340,32"/>
-<area shape="rect" id="Node000002" href="$class_c_xen_p_light.html#a71b483921cb19cbda76a4e2b992b6e7c" title="Spawns the Xen plant light entity." alt="" coords="5,5,141,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
-</map>

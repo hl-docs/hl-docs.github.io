@@ -1,0 +1,7 @@
+<map id="CCineMonster::Spawn" name="CCineMonster::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the cinematic monster." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="Node000002" href="$dd/d86/class_c_cine_monster.html#a03bba1fb4e9c72a9df5194f7668ceff8" title=" " alt="" coords="204,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,32,188,28,188,33,157,37"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="245,56,331,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,51,230,60,229,65,156,56"/>
+</map>

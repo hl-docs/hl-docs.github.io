@@ -1,0 +1,12 @@
+<map id="VecCheckSplatToss" name="VecCheckSplatToss">
+<area shape="rect" id="Node000001" title="Calculates the velocity for a splat toss." alt="" coords="5,81,145,108"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="225,5,271,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,78,209,32,211,37,109,83"/>
+<area shape="rect" id="Node000003" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="195,56,301,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,82,179,77,180,82,145,87"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="351,81,394,108"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="145,92,336,92,336,97,145,97"/>
+<area shape="rect" id="Node000005" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="193,157,303,184"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="109,106,203,148,201,153,106,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="302,78,336,85,335,90,301,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CFuncTrackTrain::OnControls" name="CFuncTrackTrain::OnControls">
+<area shape="rect" id="Node000001" title="Checks if a given entity is within the control bounds of the track train." alt="" coords="5,5,198,32"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="246,5,377,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,16,230,16,230,21,198,21"/>
+</map>

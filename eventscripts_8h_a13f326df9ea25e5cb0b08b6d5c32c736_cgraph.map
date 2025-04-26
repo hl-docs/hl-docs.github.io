@@ -1,5 +1,0 @@
-<map id="EV_MuzzleFlash" name="EV_MuzzleFlash">
-<area shape="rect" id="Node000001" title="Triggers the muzzle flash effect on the current weapon model." alt="" coords="5,5,126,32"/>
-<area shape="rect" id="Node000002" href="$ev__common_8cpp.html#ad80554ac87e34a4b8d5b429988ca46ee" title="Gets the current weapon/view model entity." alt="" coords="174,5,278,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,16,158,16,158,21,126,21"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="WeaponsResource::LoadAllWeaponSprites" name="WeaponsResource::LoadAllWeaponSprites">
+<area shape="rect" id="Node000001" title="Loads all the weapon sprites for all available weapons." alt="" coords="189,5,371,48"/>
+<area shape="rect" id="Node000002" href="$d7/d02/class_c_hud_ammo.html#a0dd6e88581a520780def105f1231c784" title="Initializes the weapon HUD by loading sprite resources and setting other parameters." alt="" coords="5,13,141,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,29,141,29,141,24,173,24"/>
+</map>

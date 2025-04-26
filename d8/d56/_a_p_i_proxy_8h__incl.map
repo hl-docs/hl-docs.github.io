@@ -1,0 +1,11 @@
+<map id="engine/APIProxy.h" name="engine/APIProxy.h">
+<area shape="rect" id="Node000001" title="Defines the interface between the Half&#45;Life engine and client DLL." alt="" coords="114,5,243,32"/>
+<area shape="rect" id="Node000002" href="$d2/de3/archtypes_8h.html" title=" " alt="" coords="31,80,120,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,35,108,73,105,68,159,30"/>
+<area shape="rect" id="Node000004" href="$d7/df2/netadr_8h.html" title=" " alt="" coords="144,80,212,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,33,181,64,176,64,176,33"/>
+<area shape="rect" id="Node000005" href="$de/de5/_sequence_8h.html" title=" " alt="" coords="237,80,327,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,30,253,69,250,73,195,35"/>
+<area shape="rect" id="Node000003" href="$da/de5/steamtypes_8h.html" title=" " alt="" coords="5,155,146,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,107,78,139,73,139,73,107"/>
+</map>

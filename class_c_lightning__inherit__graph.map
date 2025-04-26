@@ -1,9 +1,0 @@
-<map id="CLightning" name="CLightning">
-<area shape="rect" id="Node000001" title=" " alt="" coords="11,155,94,181"/>
-<area shape="rect" id="Node000004" href="$class_c_trip_beam.html" title=" " alt="" coords="10,229,95,256"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="55,197,55,229,50,229,50,197"/>
-<area shape="rect" id="Node000002" href="$class_c_beam.html" title=" " alt="" coords="20,80,85,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,122,55,154,50,154,50,122"/>
-<area shape="rect" id="Node000003" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="5,5,100,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,48,55,80,50,80,50,48"/>
-</map>

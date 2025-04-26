@@ -1,0 +1,5 @@
+<map id="CXenHull::CreateHull" name="CXenHull::CreateHull">
+<area shape="rect" id="Node000001" title="Creates a new Xen hull entity." alt="" coords="218,5,359,32"/>
+<area shape="rect" id="Node000002" href="$d1/dbe/class_c_xen_spore_large.html#a5c9ef3663cc7a76ef324f5d5d02330bc" title="Spawns a large Xen spore entity." alt="" coords="5,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
+</map>

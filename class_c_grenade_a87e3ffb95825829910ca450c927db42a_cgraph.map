@@ -1,8 +1,0 @@
-<map id="CGrenade::Spawn" name="CGrenade::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the grenade entity." alt="" coords="5,5,132,32"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="328,5,374,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,16,313,16,313,21,132,21"/>
-<area shape="rect" id="Node000003" href="$util_8cpp.html#ab9f593697c96282971d0db5494d5a833" title="Sets the size of an entity." alt="" coords="180,31,280,57"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,26,164,31,164,36,132,31"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="280,31,312,24,313,29,281,36"/>
-</map>

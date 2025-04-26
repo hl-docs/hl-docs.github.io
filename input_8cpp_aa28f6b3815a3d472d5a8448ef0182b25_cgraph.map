@@ -1,7 +1,0 @@
-<map id="IN_ForwardUp" name="IN_ForwardUp">
-<area shape="rect" id="Node000001" title="Called when the forward movement key is released." alt="" coords="5,31,108,57"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a9df8cb1377a4c2b9d715fcfbd8727072" title="Handles the release of spectator input buttons." alt="" coords="156,5,374,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,35,140,31,141,36,108,40"/>
-<area shape="rect" id="Node000003" href="$input_8cpp.html#a4d4954f7bc20bbdcee21bea11b60ca74" title="Handles a key up event for a specific key binding (kbutton_t)." alt="" coords="235,56,295,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,48,219,61,219,67,108,53"/>
-</map>

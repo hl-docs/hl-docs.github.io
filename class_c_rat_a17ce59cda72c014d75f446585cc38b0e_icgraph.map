@@ -1,5 +1,0 @@
-<map id="CRat::Precache" name="CRat::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the rat." alt="" coords="151,5,264,32"/>
-<area shape="rect" id="Node000002" href="$class_c_rat.html#aa5eaa61073a5c20901560c3e7d7ed67b" title="Spawns the rat entity in the game." alt="" coords="5,5,103,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,21,103,21,103,16,135,16"/>
-</map>

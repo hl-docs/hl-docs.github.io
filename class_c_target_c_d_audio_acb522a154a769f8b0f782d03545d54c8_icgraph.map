@@ -1,7 +1,0 @@
-<map id="CTargetCDAudio::Play" name="CTargetCDAudio::Play">
-<area shape="rect" id="Node000001" title="Plays the audio track associated with the target." alt="" coords="210,31,361,57"/>
-<area shape="rect" id="Node000002" href="$class_c_target_c_d_audio.html#a60f16e32acc71148591f071055aa71dd" title="Handles the think function for the CD audio target." alt="" coords="5,5,162,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,35,162,31,162,26,195,30"/>
-<area shape="rect" id="Node000003" href="$class_c_target_c_d_audio.html#afa77a9d53055497471aae0bca4b0728f" title="Activates the CD audio target." alt="" coords="9,56,158,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,58,158,63,158,57,194,53"/>
-</map>

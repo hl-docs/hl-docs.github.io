@@ -1,0 +1,10 @@
+<map id="CBaseMonster::RouteClassify" name="CBaseMonster::RouteClassify">
+<area shape="rect" id="Node000001" title="Classifies the movement goal based on the movement flags." alt="" coords="561,5,757,32"/>
+<area shape="rect" id="Node000002" href="$d5/ddb/class_c_roach.html#a7494e1d02736375a1d768a6497f23cd7" title="Picks a new destination for the roach to run to." alt="" coords="360,5,513,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,21,513,21,513,16,545,16"/>
+<area shape="rect" id="Node000003" href="$d5/ddb/class_c_roach.html#a87e55ea407a4508497c63e1783079c4e" title="Custom think function for the roach." alt="" coords="5,5,159,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,21,159,21,159,16,344,16"/>
+<area shape="rect" id="Node000004" href="$d5/ddb/class_c_roach.html#a7dcd3c9d085a33e2f51aef11ab3f2a01" title="Moves the roach towards its current destination." alt="" coords="207,31,312,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="345,34,313,39,312,34,344,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="191,37,159,32,160,27,192,32"/>
+</map>

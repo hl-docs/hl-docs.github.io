@@ -1,0 +1,7 @@
+<map id="CScriptedSentence::KeyValue" name="CScriptedSentence::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value data for the scripted sentence." alt="" coords="5,23,147,65"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="245,5,307,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,32,229,22,229,27,147,38"/>
+<area shape="rect" id="Node000003" href="$d6/d0d/class_c_base_toggle.html#a99ba6e5114504377f537ca98b3afec40" title="Handles key&#45;value pairs for the toggle entity." alt="" coords="195,56,357,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,50,179,54,179,60,147,56"/>
+</map>

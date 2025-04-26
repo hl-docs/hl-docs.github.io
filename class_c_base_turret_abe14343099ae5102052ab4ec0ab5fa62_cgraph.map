@@ -1,5 +1,0 @@
-<map id="CBaseTurret::MoveTurret" name="CBaseTurret::MoveTurret">
-<area shape="rect" id="Node000001" title="Moves the turret to its goal angles." alt="" coords="5,5,170,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="218,5,449,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
-</map>

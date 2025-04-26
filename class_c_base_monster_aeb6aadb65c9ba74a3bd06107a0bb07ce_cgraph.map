@@ -1,7 +1,0 @@
-<map id="CBaseMonster::FScheduleValid" name="CBaseMonster::FScheduleValid">
-<area shape="rect" id="Node000001" title="Checks if the current schedule is valid." alt="" coords="5,5,212,32"/>
-<area shape="rect" id="Node000002" href="$dlls_2util_8cpp.html#a98b7dd5c6b2ea38ab577a0ea282b5a22" title="Emits sparks at a specified position." alt="" coords="260,5,355,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,16,244,16,244,21,212,21"/>
-<area shape="rect" id="Node000003" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="403,5,537,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,16,388,16,388,21,355,21"/>
-</map>

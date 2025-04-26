@@ -1,5 +1,0 @@
-<map id="CSoundEnt::Initialize" name="CSoundEnt::Initialize">
-<area shape="rect" id="Node000001" title="Initializes the sound entity." alt="" coords="5,5,148,32"/>
-<area shape="rect" id="Node000002" href="$class_c_sound_ent.html#a40144b8235a778dfabbeaa8bbc9ba665" title="Allocates a sound from the free list to the active list." alt="" coords="196,5,360,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,16,180,16,180,21,148,21"/>
-</map>

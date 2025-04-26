@@ -1,0 +1,5 @@
+<map id="CBasePlayer::SwitchWeapon" name="CBasePlayer::SwitchWeapon">
+<area shape="rect" id="Node000001" title="Switches the player&#39;s active weapon to a specified item." alt="" coords="206,13,398,40"/>
+<area shape="rect" id="Node000002" href="$d5/d5d/class_c_half_life_multiplay.html#a813d1624327140d4f4647b4d9c02bb96" title="Selects the next best weapon for the player." alt="" coords="5,5,158,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,29,158,29,158,24,190,24"/>
+</map>

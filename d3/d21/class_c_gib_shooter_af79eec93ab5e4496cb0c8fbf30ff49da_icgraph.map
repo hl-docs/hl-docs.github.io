@@ -1,0 +1,7 @@
+<map id="CGibShooter::CreateGib" name="CGibShooter::CreateGib">
+<area shape="rect" id="Node000001" title="Creates a gib entity." alt="" coords="396,5,557,32"/>
+<area shape="rect" id="Node000002" href="$d3/d21/class_c_gib_shooter.html#ac87720877a82210693cd78906b65f738" title="Think function for shooting gibs." alt="" coords="180,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="381,21,349,21,349,16,381,16"/>
+<area shape="rect" id="Node000003" href="$d3/d21/class_c_gib_shooter.html#acee5bbef009ceabb46c83a75367afa9c" title="Uses the gib shooter." alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
+</map>

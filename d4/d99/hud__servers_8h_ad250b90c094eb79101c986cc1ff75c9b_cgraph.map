@@ -1,0 +1,7 @@
+<map id="ServersGetInfo" name="ServersGetInfo">
+<area shape="rect" id="Node000001" title="Retrieves information string for a server in the global server browser." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="Node000002" href="$d1/d59/class_c_hud_servers.html#a6cc4f6b05dbafb306f38f4e8923ebe29" title="Gets the key/value info string of a specified server." alt="" coords="159,5,340,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,16,143,16,143,21,111,21"/>
+<area shape="rect" id="Node000003" href="$d1/d59/class_c_hud_servers.html#a0cf574be6e6cfb2849ded46f773a2d45" title="Returns a pointer to the server at the specified index." alt="" coords="388,5,549,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,16,372,16,372,21,340,21"/>
+</map>

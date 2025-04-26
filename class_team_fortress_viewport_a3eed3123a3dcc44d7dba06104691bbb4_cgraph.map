@@ -1,9 +1,0 @@
-<map id="TeamFortressViewport::UpdateCursorState" name="TeamFortressViewport::UpdateCursorState">
-<area shape="rect" id="Node000001" title="Updates the state and visibility of the mouse cursor." alt="" coords="5,23,157,65"/>
-<area shape="rect" id="Node000002" href="$voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="205,5,335,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,31,189,27,190,32,157,36"/>
-<area shape="rect" id="Node000003" href="$inputw32_8cpp.html#ad4c638a7e3ecee100b6da72b6c3a08c2" title="Resets the mouse cursor position to the center of the screen." alt="" coords="213,56,327,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,52,198,57,198,62,157,57"/>
-<area shape="rect" id="Node000004" href="$inputw32_8cpp.html#aa5217af39cdd520ec88085d8bb46f9ad" title="Atomically exchanges the value of a variable." alt="" coords="383,56,564,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="327,67,367,67,367,72,327,72"/>
-</map>

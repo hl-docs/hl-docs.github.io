@@ -1,9 +1,0 @@
-<map id="CHudStatusBar::MsgFunc_StatusValue" name="CHudStatusBar::MsgFunc_StatusValue">
-<area shape="rect" id="Node000001" title="Message handler for the StatusValue message." alt="" coords="5,48,179,91"/>
-<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="229,5,333,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,45,213,34,214,39,175,50"/>
-<area shape="rect" id="Node000003" href="$parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="232,56,330,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,67,216,67,216,72,179,72"/>
-<area shape="rect" id="Node000004" href="$parsemsg_8h.html#a45d0c7c694acc1f2d02eb77e1d6ec402" title=" " alt="" coords="227,107,335,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,89,214,100,213,105,173,94"/>
-</map>

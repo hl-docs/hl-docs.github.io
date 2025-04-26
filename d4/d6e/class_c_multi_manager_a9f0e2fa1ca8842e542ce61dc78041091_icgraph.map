@@ -1,0 +1,10 @@
+<map id="CMultiManager::ManagerUse" name="CMultiManager::ManagerUse">
+<area shape="rect" id="Node000001" title="Activates the multi&#45;manager." alt="" coords="454,29,643,56"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="591,17,576,10,549,8,523,10,509,15,506,20,512,27,508,31,501,21,506,11,522,5,549,3,578,5,593,12"/>
+<area shape="rect" id="Node000002" href="$d4/d6e/class_c_multi_manager.html#a42a4dc1ab0a95ebc1f32a76f168a8719" title="Executes the think function for the multi&#45;manager." alt="" coords="209,29,406,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,54,406,54,406,49,438,49"/>
+<area shape="rect" id="Node000003" href="$d4/d6e/class_c_multi_manager.html#a5b822be236f6dc758d5022835b6e5612" title="Initializes the multi&#45;manager entity." alt="" coords="5,55,161,81"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="469,62,406,71,277,76,161,74,161,69,277,71,406,65,468,57"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="422,31,453,31,453,37,421,36"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="193,58,161,62,161,57,193,53"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="CEgon::Holster" name="CEgon::Holster">
+<area shape="rect" id="Node000001" title="Holsters the Egon weapon." alt="" coords="5,157,115,184"/>
+<area shape="rect" id="Node000002" href="$de/d32/class_c_egon.html#a35de8cf5f46d3c2133a8890f37d98c90" title="Ends the attack action for the Egon weapon." alt="" coords="175,107,304,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,154,174,135,176,141,111,159"/>
+<area shape="rect" id="Node000008" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="366,157,526,184"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="115,168,350,168,350,173,115,173"/>
+<area shape="rect" id="Node000009" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="163,208,316,251"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="104,182,159,200,157,205,102,187"/>
+<area shape="rect" id="Node000003" href="$de/d32/class_c_egon.html#a09f810d1f48929332f229e696116f782" title="Destroys the visual effects for the Egon weapon." alt="" coords="373,56,519,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,103,373,84,374,90,298,109"/>
+<area shape="rect" id="Node000006" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="381,107,511,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="305,117,365,117,365,123,305,123"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="298,131,374,150,373,156,296,137"/>
+<area shape="rect" id="Node000004" href="$d3/d0f/class_c_sprite.html#ac3deb1ce65fc86f888ad074ad676c3a1" title="Expands the sprite over time." alt="" coords="575,5,692,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,53,566,34,568,39,499,58"/>
+<area shape="rect" id="Node000005" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="583,56,684,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="519,67,568,67,568,72,519,72"/>
+<area shape="rect" id="Node000007" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="610,107,657,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="511,117,595,117,595,123,511,123"/>
+<area shape="rect" id="Node000010" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="364,216,527,243"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="317,227,349,227,349,232,317,232"/>
+</map>

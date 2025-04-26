@@ -1,5 +1,0 @@
-<map id="CMP5AmmoClip::Precache" name="CMP5AmmoClip::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the MP5 clip." alt="" coords="218,5,398,32"/>
-<area shape="rect" id="Node000002" href="$class_c_m_p5_ammo_clip.html#a4b36d765a9dcef395504774be303155e" title="Spawns the MP5 clip in the game." alt="" coords="5,5,170,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
-</map>

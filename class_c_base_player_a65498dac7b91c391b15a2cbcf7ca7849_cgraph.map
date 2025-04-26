@@ -1,5 +1,0 @@
-<map id="CBasePlayer::UpdateGeigerCounter" name="CBasePlayer::UpdateGeigerCounter">
-<area shape="rect" id="Node000001" title="Updates the Geiger counter for the player." alt="" coords="5,5,190,48"/>
-<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="238,13,372,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,24,222,24,222,29,190,29"/>
-</map>

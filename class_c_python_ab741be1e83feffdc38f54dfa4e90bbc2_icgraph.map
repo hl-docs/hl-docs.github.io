@@ -1,7 +1,0 @@
-<map id="CPython::UseDecrement" name="CPython::UseDecrement">
-<area shape="rect" id="Node000001" title=" " alt="" coords="201,31,366,57"/>
-<area shape="rect" id="Node000002" href="$class_c_python.html#acbf5eeadfdcd0563517bbcfb863dcc54" title="Deploys the Python weapon for use." alt="" coords="19,5,139,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,35,139,29,139,23,186,29"/>
-<area shape="rect" id="Node000003" href="$class_c_python.html#a8a082c25a08c49a24ed41a582d24f5d6" title="Handles the idle state of the Python weapon." alt="" coords="5,56,153,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,59,153,63,153,58,185,53"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="CRevertSaved::LoadThink" name="CRevertSaved::LoadThink">
+<area shape="rect" id="Node000001" title="Handles the loading logic for the revert saved entity." alt="" coords="427,5,595,32"/>
+<area shape="rect" id="Node000002" href="$d1/db4/class_c_revert_saved.html#a1450bbf6de2eb5000579c06a8fbbcd02" title="Handles the message display logic." alt="" coords="186,5,379,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,21,380,21,380,16,412,16"/>
+<area shape="rect" id="Node000003" href="$d1/db4/class_c_revert_saved.html#a5ca27e9679a041de5dd4d53d1eb65e84" title="Activates the revert saved entity." alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+</map>

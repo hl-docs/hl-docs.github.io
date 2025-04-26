@@ -1,0 +1,17 @@
+<map id="CSprite::TurnOn" name="CSprite::TurnOn">
+<area shape="rect" id="Node000001" title="Turns on the sprite effect." alt="" coords="363,81,477,108"/>
+<area shape="rect" id="Node000002" href="$d3/d0f/class_c_sprite.html#ac3c24c95bbd55e6ba512483fd1c7d47c" title="Spawns the sprite effect entity." alt="" coords="203,19,315,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,78,294,48,296,43,371,73"/>
+<area shape="rect" id="Node000004" href="$d7/de6/class_c_laser.html#a3fea191f5ab6008e6dc1dedcd0208c45" title="Turns on the laser effect." alt="" coords="203,81,315,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="347,97,315,97,315,92,347,92"/>
+<area shape="rect" id="Node000008" href="$d3/d0f/class_c_sprite.html#af5c93637add4b7b894fd9608767dd1ab" title="Uses the sprite effect." alt="" coords="211,132,307,159"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="361,116,305,134,303,129,360,111"/>
+<area shape="rect" id="Node000003" href="$d3/d0f/class_c_sprite.html#a2ff7fab088c166f3b7c9b1b2990e0b29" title="Initializes the sprite with a specific model and origin." alt="" coords="18,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,29,142,26,142,21,188,24"/>
+<area shape="rect" id="Node000005" href="$dc/d1f/class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="5,56,155,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,87,155,83,156,77,188,82"/>
+<area shape="rect" id="Node000006" href="$d7/de6/class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="25,107,135,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="188,107,136,115,135,110,187,102"/>
+<area shape="rect" id="Node000007" href="$d7/de6/class_c_laser.html#a0bc98c302393fc59bdf9343573c801de" title="Uses the laser effect." alt="" coords="33,157,127,184"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="214,117,204,122,156,148,126,159,124,154,154,143,201,118,212,113"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="CFlockingFlyer::BoidAdvanceFrame" name="CFlockingFlyer::BoidAdvanceFrame">
-<area shape="rect" id="Node000001" title="Advances the boid&#39;s frame based on its speed." alt="" coords="5,5,197,48"/>
-<area shape="rect" id="Node000002" href="$class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="245,5,445,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,24,229,24,229,29,197,29"/>
-</map>

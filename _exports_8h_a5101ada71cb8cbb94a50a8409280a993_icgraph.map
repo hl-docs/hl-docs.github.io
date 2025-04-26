@@ -1,5 +1,0 @@
-<map id="V_CalcRefdef" name="V_CalcRefdef">
-<area shape="rect" id="Node000001" title="Calculates the player&#39;s or spectator&#39;s view during the frame." alt="" coords="92,5,191,32"/>
-<area shape="rect" id="Node000002" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,21,44,21,44,16,77,16"/>
-</map>

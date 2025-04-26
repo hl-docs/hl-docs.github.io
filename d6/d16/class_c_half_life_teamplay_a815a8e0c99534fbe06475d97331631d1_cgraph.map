@@ -1,0 +1,5 @@
+<map id="CHalfLifeTeamplay::ClientCommand" name="CHalfLifeTeamplay::ClientCommand">
+<area shape="rect" id="Node000001" title="Handles client commands in multiplayer mode." alt="" coords="5,5,142,48"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="190,13,252,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,24,174,24,174,29,142,29"/>
+</map>

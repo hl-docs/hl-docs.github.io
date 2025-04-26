@@ -1,0 +1,9 @@
+<map id="CBaseEntity::FireBulletsPlayer" name="CBaseEntity::FireBulletsPlayer">
+<area shape="rect" id="Node000001" title="Simulates client&#45;side bullet spread to match server behavior." alt="" coords="5,23,170,65"/>
+<area shape="rect" id="Node000002" href="$d3/d13/com__weapons_8cpp.html#a9ae7f2ebe1ba28e45fcd10cc2ea963b5" title="Generates a shared pseudo&#45;random float between low and high." alt="" coords="218,31,390,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,41,202,41,202,47,170,47"/>
+<area shape="rect" id="Node000003" href="$d3/d13/com__weapons_8cpp.html#a27de238ae44f691494d3b5b6dd45e18a" title="Generates a pseudo&#45;random number." alt="" coords="438,5,523,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,29,422,24,423,30,391,34"/>
+<area shape="rect" id="Node000004" href="$d3/d13/com__weapons_8cpp.html#adb962cdb4f81d757ce7bcaab3f47172b" title="Sets the seed for the custom random number generator." alt="" coords="445,56,516,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="391,54,430,59,429,65,390,59"/>
+</map>

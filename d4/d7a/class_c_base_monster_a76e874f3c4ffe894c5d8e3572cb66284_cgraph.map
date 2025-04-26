@@ -1,0 +1,7 @@
+<map id="CBaseMonster::GetSmallFlinchActivity" name="CBaseMonster::GetSmallFlinchActivity">
+<area shape="rect" id="Node000001" title="Determines the best flinch animation to play." alt="" coords="5,23,210,65"/>
+<area shape="rect" id="Node000002" href="$d8/ddb/animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="271,5,376,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,29,255,24,255,29,210,35"/>
+<area shape="rect" id="Node000003" href="$d3/d55/hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="258,56,389,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,53,242,57,242,62,209,59"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CStudioModelRenderer::StudioSlerpBones" name="CStudioModelRenderer::StudioSlerpBones">
+<area shape="rect" id="Node000001" title="Spherically interpolates bone rotations and linearly interpolates bone positions." alt="" coords="5,5,160,48"/>
+<area shape="rect" id="Node000002" href="$dd/d2e/studio__util_8cpp.html#ab621fbc786bcd3a0e31c5d3e6e2417bf" title="Performs spherical linear interpolation (SLERP) between two quaternions." alt="" coords="208,13,322,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,24,192,24,192,29,160,29"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="IsPointEntity" name="IsPointEntity">
-<area shape="rect" id="Node000001" title="Determines if an entity is a point entity." alt="" coords="5,31,101,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="149,31,253,57"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,41,133,41,133,47,101,47"/>
-<area shape="rect" id="Node000003" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="301,5,363,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,31,285,25,286,30,254,37"/>
-<area shape="rect" id="Node000004" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="304,56,361,83"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="254,51,289,58,288,64,253,57"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="anonymous_namespace{vgui_ControlConfigPanel::cpp}::FooTablePanel::getCellRenderer" name="anonymous_namespace{vgui_ControlConfigPanel::cpp}::FooTablePanel::getCellRenderer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,170,97"/>
-<area shape="rect" id="Node000002" href="$class_control_config_panel.html#af04ba8e5a6374993f9516c1c8b6c7cc9" title="Retrieves a CVar and its description at a specified index." alt="" coords="218,5,349,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,43,202,38,203,43,171,49"/>
-<area shape="rect" id="Node000003" href="$class_control_config_panel.html#af03e17968c57ce2d3ab481127a622a7d" title="Retrieves the CVar bind strings." alt="" coords="218,72,349,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,71,203,77,202,82,170,77"/>
-</map>

@@ -1,0 +1,29 @@
+<map id="V_GetDirectedChasePosition" name="V_GetDirectedChasePosition">
+<area shape="rect" id="Node000001" title="Determines the camera position when following a directed chase." alt="" coords="5,157,196,184"/>
+<area shape="rect" id="Node000002" href="$dd/dc2/view_8cpp.html#a01e35c70a3631fc45948099bc7a30a21" title="Calculates the camera&#39;s origin based on a target&#39;s position and view angles." alt="" coords="487,107,616,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,154,243,143,363,130,471,122,471,127,363,135,244,148,173,159"/>
+<area shape="rect" id="Node000007" href="$dd/dc2/view_8cpp.html#a435c7f92ff9e4d360b1e009785e32b97" title="Calculates the camera&#39;s angle and position when following two targets." alt="" coords="244,208,412,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="164,182,251,201,249,207,163,187"/>
+<area shape="rect" id="Node000012" href="$dd/dc2/view_8cpp.html#a3b343908e50d1e77b816e2e67d101a83" title="Calculates the camera&#39;s angle and position when following a single target." alt="" coords="249,157,407,184"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="196,168,234,168,234,173,196,173"/>
+<area shape="rect" id="Node000003" href="$dd/dc2/view_8cpp.html#a090efc998653bf944c811540e03257ba" title=" " alt="" coords="724,157,796,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="610,131,709,156,708,161,609,137"/>
+<area shape="rect" id="Node000004" href="$df/d58/pm__shared_8c.html#a08012c7e6a6dacc3d6c8480e6c70eaf6" title="Retrieves the information of a physics entity." alt="" coords="690,5,830,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="574,104,626,74,689,42,703,36,705,41,691,46,629,78,577,108"/>
+<area shape="rect" id="Node000005" href="$d2/d29/cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="720,56,800,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="609,103,705,80,706,85,610,109"/>
+<area shape="rect" id="Node000006" href="$d2/d29/cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="714,107,806,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="616,117,698,117,698,123,616,123"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="387,205,411,194,425,182,434,169,443,156,459,143,471,137,474,141,461,148,447,160,438,172,429,185,413,198,389,210"/>
+<area shape="rect" id="Node000008" href="$dd/dc2/view_8cpp.html#abc0ed954b32eb2991a4b26f8001406b3" title="Calculates the maximum angle difference between two angles." alt="" coords="467,208,636,235"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="413,219,451,219,451,224,413,224"/>
+<area shape="rect" id="Node000010" href="$dd/dc2/view_8cpp.html#a61708c8c8b9293bcfb0deda4087e7c26" title="Smoothly interpolates between two angles based on the specified speed." alt="" coords="460,157,642,184"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="389,205,474,185,475,191,391,210"/>
+<area shape="rect" id="Node000011" href="$d2/d29/cl__dll_2util_8cpp.html#a01a447b0daa5f1359936ce1b96a472ef" title="Converts a forward direction vector into a corresponding yaw and pitch (angles)." alt="" coords="502,259,601,285"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="391,233,487,255,486,260,389,238"/>
+<area shape="rect" id="Node000009" href="$d3/dc7/pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="700,208,820,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="636,219,685,219,685,224,636,224"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="610,182,688,201,687,206,609,187"/>
+<area shape="poly" id="edge14_Node000012_Node000002" title=" " alt="" coords="389,154,474,135,475,140,391,159"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="407,168,444,168,444,173,407,173"/>
+</map>

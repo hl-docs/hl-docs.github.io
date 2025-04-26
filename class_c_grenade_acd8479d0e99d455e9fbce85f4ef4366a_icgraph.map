@@ -1,5 +1,0 @@
-<map id="CGrenade::Smoke" name="CGrenade::Smoke">
-<area shape="rect" id="Node000001" title="Creates smoke effects after the grenade explodes." alt="" coords="188,5,316,32"/>
-<area shape="rect" id="Node000002" href="$class_c_grenade.html#adaceb7895d45068459bb81694064b96d" title="Handles the explosion logic based on a trace result." alt="" coords="5,5,140,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
-</map>

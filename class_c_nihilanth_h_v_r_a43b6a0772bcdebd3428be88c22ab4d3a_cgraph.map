@@ -1,7 +1,0 @@
-<map id="CNihilanthHVR::DissipateThink" name="CNihilanthHVR::DissipateThink">
-<area shape="rect" id="Node000001" title="Handles the dissipate think behavior for the Nihilanth Hover entity." alt="" coords="5,23,175,65"/>
-<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="223,5,357,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,31,207,27,207,32,175,36"/>
-<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="240,56,340,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,52,224,58,224,64,175,57"/>
-</map>

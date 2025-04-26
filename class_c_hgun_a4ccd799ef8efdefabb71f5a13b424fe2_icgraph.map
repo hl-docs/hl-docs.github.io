@@ -1,5 +1,0 @@
-<map id="CHgun::Precache" name="CHgun::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the hornet gun." alt="" coords="161,5,284,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hgun.html#a4daaf95c0227730842a29b4264c46961" title="Spawns the hornet gun entity in the game." alt="" coords="5,5,113,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,21,113,21,113,16,145,16"/>
-</map>

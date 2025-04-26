@@ -1,0 +1,34 @@
+<map id="CISlave::Killed" name="CISlave::Killed">
+<area shape="rect" id="Node000001" title="Handles the death of the CISlave entity." alt="" coords="5,183,110,209"/>
+<area shape="rect" id="Node000002" href="$d5/da5/class_c_i_slave.html#a2eead4ff49f5025b1bbc83c7631c7f86" title="Clears all beams created by the CISlave entity." alt="" coords="163,81,307,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,180,195,114,198,118,84,184"/>
+<area shape="rect" id="Node000008" href="$db/dc8/class_c_squad_monster.html#abfb04f274808596d6d79c7e68846527d" title="Handles the death of the squad monster." alt="" coords="158,233,312,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="108,207,172,226,171,231,106,213"/>
+<area shape="rect" id="Node000003" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="440,5,486,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,78,359,41,423,24,425,29,361,47,268,83"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#a8a4601b94eb359b1b48670b4c5bc4e15" title=" " alt="" coords="408,56,517,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="306,84,392,74,393,80,307,89"/>
+<area shape="rect" id="Node000007" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="413,107,513,133"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="307,100,397,110,397,115,306,105"/>
+<area shape="rect" id="Node000005" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="656,56,795,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="518,67,641,67,641,72,518,72"/>
+<area shape="rect" id="Node000006" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="886,56,1036,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="795,67,870,67,870,72,795,72"/>
+<area shape="rect" id="Node000009" href="$db/dc8/class_c_squad_monster.html#abb12bdacefd969667874163644fa1515" title=" " alt="" coords="641,208,810,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="261,230,306,210,359,193,436,185,513,185,586,192,649,202,648,207,585,197,513,191,436,190,361,199,308,215,263,235"/>
+<area shape="rect" id="Node000010" href="$d4/d7a/class_c_base_monster.html#a469904e35f6e6c8f4b271a98dc68a9e7" title="Handles the monster&#39;s death." alt="" coords="389,208,536,235"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="312,235,373,229,374,234,313,241"/>
+<area shape="rect" id="Node000011" href="$db/dc8/class_c_squad_monster.html#a8eecfa90882640b12b51daca63663e50" title=" " alt="" coords="617,309,834,336"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="264,258,309,278,361,295,422,306,484,314,602,321,602,326,484,320,421,312,359,300,307,283,262,263"/>
+<area shape="rect" id="Node000012" href="$db/dc8/class_c_squad_monster.html#a00bda933ae4bf40f93d2c9d38789c5a7" title="Removes a squad member from the squad." alt="" coords="360,360,565,387"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="252,258,299,298,361,339,392,352,390,357,359,344,296,302,249,262"/>
+<area shape="rect" id="Node000015" href="$db/dc8/class_c_squad_monster.html#a20d0103aeb9b33db9ba58b0e9d97f317" title="Vacates the slot occupied by the squad monster." alt="" coords="370,259,556,285"/>
+<area shape="poly" id="edge15_Node000008_Node000015" title=" " alt="" coords="313,253,354,257,354,263,312,258"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="535,357,637,337,638,342,536,362"/>
+<area shape="rect" id="Node000013" href="$db/dc8/class_c_squad_monster.html#af6e53dc3a408babffcea2367c5695b01" title=" " alt="" coords="640,360,811,387"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="566,371,624,371,624,376,566,376"/>
+<area shape="rect" id="Node000014" href="$db/dc8/class_c_squad_monster.html#a2b887c5d4e97c9b6bb0f7c59c8535cc3" title=" " alt="" coords="613,411,838,437"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="536,385,638,405,637,410,535,390"/>
+<area shape="poly" id="edge16_Node000015_Node000009" title=" " alt="" coords="535,255,637,236,638,241,536,261"/>
+<area shape="poly" id="edge17_Node000015_Node000011" title=" " alt="" coords="536,283,638,303,637,308,535,289"/>
+</map>

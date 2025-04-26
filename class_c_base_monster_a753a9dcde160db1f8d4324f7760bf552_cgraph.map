@@ -1,9 +1,0 @@
-<map id="CBaseMonster::GetDeathActivity" name="CBaseMonster::GetDeathActivity">
-<area shape="rect" id="Node000001" title="Determines the best death animation to play." alt="" coords="5,56,218,83"/>
-<area shape="rect" id="Node000002" href="$animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="279,5,384,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,53,263,32,264,37,173,58"/>
-<area shape="rect" id="Node000003" href="$util_8cpp.html#ab05f77512c119287424cb3a712bf6364" title="Makes vectors based on the provided angles." alt="" coords="266,56,397,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,67,250,67,250,72,218,72"/>
-<area shape="rect" id="Node000004" href="$util_8cpp.html#af140262dc39fcaf8706ee5f956ae6892" title="Traces a hull between two points." alt="" coords="277,107,386,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,81,262,101,261,107,172,86"/>
-</map>

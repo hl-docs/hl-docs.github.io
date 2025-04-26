@@ -1,7 +1,0 @@
-<map id="CBasePlayer::ItemPostFrame" name="CBasePlayer::ItemPostFrame">
-<area shape="rect" id="Node000001" title="Finalizes the player&#39;s items for the current frame." alt="" coords="381,5,575,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player.html#a70caf2bd9eb6b169f0adbdea94f9e987" title="Handles the player&#39;s post&#45;think logic." alt="" coords="170,5,333,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,21,333,21,333,16,365,16"/>
-<area shape="rect" id="Node000003" href="$client_8cpp.html#ab04e2fadfb0c84166a0fc589d6f430e1" title="Called after the physics simulation for a player." alt="" coords="5,5,122,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
-</map>

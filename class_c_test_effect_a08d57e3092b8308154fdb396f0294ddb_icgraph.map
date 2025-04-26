@@ -1,5 +1,0 @@
-<map id="CTestEffect::Precache" name="CTestEffect::Precache">
-<area shape="rect" id="Node000001" title="Precaches the test effect resources." alt="" coords="189,5,340,32"/>
-<area shape="rect" id="Node000002" href="$class_c_test_effect.html#ad5ffc82b38475c10f0d8b84b205cca36" title="Spawns the test effect entity." alt="" coords="5,5,141,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
-</map>

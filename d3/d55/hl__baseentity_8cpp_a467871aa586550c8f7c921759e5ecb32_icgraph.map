@@ -1,0 +1,9 @@
+<map id="UTIL_ClientPrintAll" name="UTIL_ClientPrintAll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,35,491,61"/>
+<area shape="rect" id="Node000002" href="$d9/d95/client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="195,5,309,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,37,309,31,310,26,347,32"/>
+<area shape="rect" id="Node000003" href="$d5/d5d/class_c_half_life_multiplay.html#a7609c4699f8c75f0e2ee8730aad1c179" title="Initializes the HUD for a player." alt="" coords="190,56,314,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="347,64,315,70,314,64,346,59"/>
+<area shape="rect" id="Node000004" href="$d6/d16/class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="5,56,142,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="174,80,142,80,142,75,174,75"/>
+</map>

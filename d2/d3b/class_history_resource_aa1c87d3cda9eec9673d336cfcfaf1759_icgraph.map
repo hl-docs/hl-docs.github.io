@@ -1,0 +1,10 @@
+<map id="HistoryResource::Reset" name="HistoryResource::Reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="360,31,519,57"/>
+<area shape="rect" id="Node000002" href="$d2/d3b/class_history_resource.html#a91a0c05206c2d2d86f9f971b31713dd3" title=" " alt="" coords="170,5,312,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,35,312,30,313,25,345,29"/>
+<area shape="rect" id="Node000004" href="$d7/d02/class_c_hud_ammo.html#a225d58ef60c2b520e5cfc842dc24b68a" title="Resets the ammo HUD to its default state." alt="" coords="174,56,308,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="345,59,308,64,307,58,344,53"/>
+<area shape="rect" id="Node000003" href="$d7/d02/class_c_hud_ammo.html#a093db8dab3dcca28eb23ee87b4b41f15" title="Initializes the Ammo HUD." alt="" coords="5,31,122,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,34,122,38,122,33,154,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="159,60,122,55,123,50,159,55"/>
+</map>

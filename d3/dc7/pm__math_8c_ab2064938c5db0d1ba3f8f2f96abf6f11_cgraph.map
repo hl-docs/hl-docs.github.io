@@ -1,0 +1,7 @@
+<map id="Distance" name="Distance">
+<area shape="rect" id="Node000001" title="Calculates the distance between two points." alt="" coords="5,5,78,32"/>
+<area shape="rect" id="Node000002" href="$d3/dc7/pm__math_8c.html#a9c4d0048c3779f963f8f7b40473102c8" title="Calculates the length (magnitude) of a vector." alt="" coords="126,5,186,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,16,110,16,110,21,78,21"/>
+<area shape="rect" id="Node000003" href="$d3/dc7/pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="234,5,277,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,16,218,16,218,21,186,21"/>
+</map>

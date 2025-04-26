@@ -1,0 +1,17 @@
+<map id="CGrenade::Detonate" name="CGrenade::Detonate">
+<area shape="rect" id="Node000001" title="Handles the detonation of the grenade." alt="" coords="1070,56,1209,83"/>
+<area shape="rect" id="Node000002" href="$d3/d4e/class_c_rpg_rocket.html#aa575d2c9a7f9bb666f6d9f61f2248cee" title="Updates the rocket&#39;s direction to follow the laser spot." alt="" coords="852,5,1022,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1068,54,993,35,994,30,1069,49"/>
+<area shape="rect" id="Node000007" href="$d9/df2/class_c_grenade.html#a46e98e0c0c60b9204a5d3321bcf1d323" title="Prepares the grenade for detonation." alt="" coords="857,56,1017,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1054,72,1017,72,1017,67,1054,67"/>
+<area shape="rect" id="Node000008" href="$d9/df2/class_c_grenade.html#a13c433168850a4a062cd5b6101995b80" title="Handles the tumbling logic for the grenade." alt="" coords="857,107,1017,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1069,90,994,109,993,103,1068,84"/>
+<area shape="rect" id="Node000003" href="$d3/d4e/class_c_rpg_rocket.html#ad41642b66d6e741207d671249c262968" title="Handles the thinking process after the rocket is ignited." alt="" coords="639,5,804,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="836,21,804,21,804,16,836,16"/>
+<area shape="rect" id="Node000004" href="$d3/d4e/class_c_rpg_rocket.html#a00ade43973324c13861559813d396761" title="Initializes the RPG rocket entity upon spawning." alt="" coords="450,5,591,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="624,21,592,21,592,16,624,16"/>
+<area shape="rect" id="Node000005" href="$d3/d4e/class_c_rpg_rocket.html#a4d9f000f14ddbdc04895e000bfa4b272" title="Creates a new RPG rocket entity." alt="" coords="198,5,402,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="435,21,402,21,402,16,435,16"/>
+<area shape="rect" id="Node000006" href="$da/d7e/class_c_rpg.html#a953326b14bfe1e7acdf5d72ba8b3fd80" title="Handles the primary attack for the RPG weapon." alt="" coords="5,5,150,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="182,21,150,21,150,16,182,16"/>
+</map>

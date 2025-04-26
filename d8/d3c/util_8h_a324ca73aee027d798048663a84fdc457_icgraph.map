@@ -1,0 +1,119 @@
+<map id="SENTENCEG_GetIndex" name="SENTENCEG_GetIndex">
+<area shape="rect" id="Node000001" title="Gets the index of a sentence group by name." alt="" coords="1213,717,1373,744"/>
+<area shape="rect" id="Node000002" href="$d6/df1/sound_8cpp.html#a008281b5a5a3c722a6424dbf30f1cb24" title="Plays a random sentence from a group by name." alt="" coords="973,329,1146,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1274,705,1067,358,1071,355,1278,703"/>
+<area shape="rect" id="Node000048" href="$d6/df1/sound_8cpp.html#a6d2abd3eb4321bcfaf6c7ca059594122" title="Plays sentences in sequential order from a group." alt="" coords="954,743,1165,769"/>
+<area shape="poly" id="edge60_Node000001_Node000048" title=" " alt="" coords="1198,744,1166,747,1165,742,1198,738"/>
+<area shape="rect" id="Node000003" href="$d5/da5/class_c_i_slave.html#a4920d0d204e09f4465c80ad466a99842" title="Plays the alert sound for the CISlave entity." alt="" coords="740,136,876,163"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1039,318,985,247,947,209,904,177,876,164,878,159,907,172,951,205,989,243,1043,315"/>
+<area shape="rect" id="Node000004" href="$d6/df1/sound_8cpp.html#ace8b6a40eb781891025eeb204dda6f92" title="Plays a random sentence from a group by name over the HEV suit speaker." alt="" coords="719,187,897,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1032,321,976,273,941,249,905,228,875,216,877,211,907,223,944,244,979,269,1035,317"/>
+<area shape="rect" id="Node000005" href="$d2/d9e/class_c_sitting_scientist.html#a18ee2d8fd7389fdd2336a6fa464c2597" title="Handles idle speaking behavior for the sitting scientist." alt="" coords="745,237,871,280"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1002,327,871,282,872,277,1004,321"/>
+<area shape="rect" id="Node000006" href="$d3/de7/class_c_h_grunt.html#a00e69976a91968a31a96740f319f51f2" title="Retrieves the current schedule for the grunt." alt="" coords="731,304,885,331"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="957,335,885,328,886,322,957,330"/>
+<area shape="rect" id="Node000007" href="$d3/de7/class_c_h_grunt.html#ac41446992855de172090c6ba9dc38867" title="Retrieves the schedule of a specific type for the grunt." alt="" coords="710,355,906,381"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="957,356,906,361,906,356,957,350"/>
+<area shape="rect" id="Node000008" href="$d3/de7/class_c_h_grunt.html#ab3164e77b091c16db163e518331ce563" title="Handles animation events for the grunt." alt="" coords="717,405,899,432"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1005,364,906,396,866,407,864,402,905,391,1003,359"/>
+<area shape="rect" id="Node000009" href="$d3/de7/class_c_h_grunt.html#a98161db2d3c804ab103577b597b2f974" title="Plays idle sounds for the grunt." alt="" coords="740,456,876,483"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1031,368,975,408,907,446,875,458,873,453,905,442,973,403,1028,364"/>
+<area shape="rect" id="Node000010" href="$d5/da5/class_c_i_slave.html#acc84d8345a8c41a32c04898dbcebdeca" title="Plays the idle sound for the CISlave entity." alt="" coords="743,507,873,533"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1041,370,986,434,949,468,907,497,874,511,872,506,904,492,945,464,982,430,1037,367"/>
+<area shape="rect" id="Node000011" href="$da/d04/class_c_talk_monster.html#a04ebd651fa0921a5daa97d66e5acea3f" title="Plays a sentence for the talk monster." alt="" coords="713,565,903,592"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1047,371,1025,410,993,457,954,506,907,548,869,567,866,562,904,543,950,502,989,454,1020,407,1042,368"/>
+<area shape="rect" id="Node000044" href="$d3/d77/class_c_speaker.html#a52f9986f3c7edc06853ffb7e69d99825" title="Think function for the speaker entity." alt="" coords="725,29,891,56"/>
+<area shape="poly" id="edge56_Node000002_Node000044" title=" " alt="" coords="1048,315,1030,262,1000,197,959,129,933,98,904,71,882,59,885,54,907,67,937,94,963,126,1005,194,1035,261,1053,313"/>
+<area shape="rect" id="Node000046" href="$d3/de7/class_c_h_grunt.html#ac28b31bbd5144fa79560d4a61a3b6e71" title="Speaks a cued sentence for the grunt." alt="" coords="722,81,894,108"/>
+<area shape="poly" id="edge58_Node000002_Node000046" title=" " alt="" coords="1044,316,1023,274,992,223,952,171,904,126,875,111,877,106,907,122,956,167,997,220,1028,272,1049,314"/>
+<area shape="rect" id="Node000012" href="$d0/d51/class_c_barney.html#a53be54510d569974b88611524a9aed5d" title="Plays the alert sound for the Barney entity." alt="" coords="495,683,638,709"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="778,604,726,639,663,673,632,685,630,679,661,668,724,635,775,599"/>
+<area shape="rect" id="Node000013" href="$d0/d51/class_c_barney.html#a1348a45b48c52c5c466cc461cf2bd532" title="Handles the decline of following behavior for the Barney entity." alt="" coords="479,733,655,760"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="790,606,737,665,702,697,664,724,638,735,636,730,661,719,699,693,734,662,786,603"/>
+<area shape="rect" id="Node000014" href="$dc/d29/class_c_scientist.html#a8bc4d57c4fdf76855e74b2548b2b2f6e" title="Declines following the player." alt="" coords="474,784,660,811"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="796,607,776,645,746,690,709,736,664,774,642,786,639,781,661,770,705,732,742,687,771,642,791,605"/>
+<area shape="rect" id="Node000015" href="$da/d04/class_c_talk_monster.html#a2b595cc5a75a165134fc688e5b267353" title="Attempts to greet the player for the first time they are seen." alt="" coords="484,565,650,592"/>
+<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="697,581,650,581,650,576,697,576"/>
+<area shape="rect" id="Node000019" href="$da/d04/class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="238,936,403,963"/>
+<area shape="poly" id="edge43_Node000011_Node000019" title=" " alt="" coords="810,608,808,693,801,750,790,810,772,871,746,930,710,984,689,1007,664,1028,644,1040,622,1048,577,1055,530,1051,483,1039,439,1022,399,1002,339,965,342,961,401,997,441,1017,485,1034,530,1046,576,1050,621,1043,641,1035,661,1023,685,1003,706,980,741,928,767,870,785,809,796,749,802,693,805,607"/>
+<area shape="rect" id="Node000021" href="$dc/d29/class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="15,885,160,912"/>
+<area shape="poly" id="edge42_Node000011_Node000021" title=" " alt="" coords="805,608,792,666,766,740,747,778,725,815,697,847,664,874,624,891,569,903,504,910,432,914,285,913,161,907,161,901,285,908,432,909,504,905,569,898,622,886,661,870,693,844,720,812,743,776,761,738,787,665,800,607"/>
+<area shape="rect" id="Node000022" href="$da/d04/class_c_talk_monster.html#a4c3d998262953f633db307b6c196a903" title="Attempts to start a conversation or make a statement." alt="" coords="480,515,654,541"/>
+<area shape="poly" id="edge20_Node000011_Node000022" title=" " alt="" coords="725,564,633,545,634,539,726,559"/>
+<area shape="rect" id="Node000023" href="$da/d04/class_c_talk_monster.html#ab655f22c2212418de53f37a2e6367ec9" title="Lets the player know the talk monster knows he&#39;s staring at them." alt="" coords="483,987,651,1013"/>
+<area shape="poly" id="edge23_Node000011_Node000023" title=" " alt="" coords="808,608,798,682,775,781,757,834,733,886,702,934,664,977,647,988,644,984,661,973,698,931,728,883,752,832,770,780,793,681,802,607"/>
+<area shape="rect" id="Node000024" href="$d0/d51/class_c_barney.html#a3341e9848d3c6ddacd909c07db355320" title="Determines the appropriate schedule for the Barney entity." alt="" coords="10,245,165,272"/>
+<area shape="poly" id="edge25_Node000011_Node000024" title=" " alt="" coords="722,559,708,547,694,526,684,506,677,465,680,424,688,385,696,346,697,308,687,271,676,253,660,235,630,211,597,192,562,179,525,170,447,164,367,171,291,186,221,207,119,247,117,242,220,202,290,181,367,165,447,159,526,164,564,174,600,187,633,207,664,231,681,250,692,269,703,307,701,347,693,386,685,425,682,465,689,504,698,524,712,544,725,555"/>
+<area shape="rect" id="Node000025" href="$da/d04/class_c_talk_monster.html#ae515b8494d6b2f42f65fff34e7d6decb" title="Retrieves a schedule of a specific type for the talk monster." alt="" coords="475,296,659,339"/>
+<area shape="poly" id="edge26_Node000011_Node000025" title=" " alt="" coords="724,560,708,547,691,522,683,497,682,472,684,448,685,424,684,400,677,376,660,352,647,341,651,337,664,349,682,374,689,399,691,424,689,448,687,472,689,496,696,520,712,544,727,556"/>
+<area shape="rect" id="Node000029" href="$da/d04/class_c_talk_monster.html#a1840de9c87c8db1c56c7467efedab615" title="Handles animation events for the talk monster." alt="" coords="477,107,656,149"/>
+<area shape="poly" id="edge31_Node000011_Node000029" title=" " alt="" coords="721,559,708,547,691,522,679,498,672,474,670,450,673,403,682,357,692,312,695,265,687,218,676,194,660,170,640,152,644,148,664,166,681,192,692,217,701,265,697,312,687,359,678,404,675,450,678,473,684,496,696,520,712,544,725,555"/>
+<area shape="rect" id="Node000032" href="$da/d04/class_c_talk_monster.html#a3a3aabf45f9a5116c1253e23af2bb657" title="Responds to a previous question." alt="" coords="477,936,657,963"/>
+<area shape="poly" id="edge34_Node000011_Node000032" title=" " alt="" coords="805,608,792,672,766,755,747,799,725,843,697,883,664,919,634,938,632,933,661,915,693,880,720,840,743,797,761,753,787,670,800,607"/>
+<area shape="rect" id="Node000033" href="$da/d04/class_c_talk_monster.html#ac0cbe8947e4599879628b580fa9b1fe6" title="Plays a scripted sentence for the talk monster." alt="" coords="475,616,658,659"/>
+<area shape="poly" id="edge36_Node000011_Node000033" title=" " alt="" coords="736,599,658,618,657,613,735,594"/>
+<area shape="rect" id="Node000034" href="$dc/d29/class_c_scientist.html#a5b7c1d139be3ab3df59b7fa15e16a34e" title="Makes the scientist scream." alt="" coords="253,835,388,861"/>
+<area shape="poly" id="edge37_Node000011_Node000034" title=" " alt="" coords="802,608,785,657,758,717,718,777,692,803,664,825,631,842,595,854,522,867,450,868,388,863,388,857,450,863,521,862,594,849,629,837,661,820,689,799,713,774,753,715,780,655,797,606"/>
+<area shape="rect" id="Node000035" href="$da/d04/class_c_talk_monster.html#a96eb0d4658e166d85659981510406f30" title="Starts the talk monster following a leader." alt="" coords="471,363,662,389"/>
+<area shape="poly" id="edge40_Node000011_Node000035" title=" " alt="" coords="725,560,708,547,695,530,687,512,684,477,680,443,673,426,661,410,633,392,636,388,664,406,678,424,685,442,689,476,693,510,699,527,712,543,728,556"/>
+<area shape="rect" id="Node000039" href="$da/d04/class_c_talk_monster.html#abc1d68bb091a4c5cb01396f80fccc906" title="Stops the talk monster from following its target." alt="" coords="472,464,662,491"/>
+<area shape="poly" id="edge44_Node000011_Node000039" title=" " alt="" coords="739,562,709,548,694,536,685,525,675,515,661,505,634,494,636,489,664,500,679,511,689,522,698,533,712,543,742,557"/>
+<area shape="rect" id="Node000041" href="$d0/d51/class_c_barney.html#a7b4f6de84eb885c40f9b8d509571efc6" title="Handles damage taken by the Barney entity." alt="" coords="243,423,398,449"/>
+<area shape="poly" id="edge52_Node000011_Node000041" title=" " alt="" coords="728,561,709,547,698,535,691,522,685,497,679,474,672,464,661,454,628,437,592,425,555,418,517,414,444,416,382,425,381,419,444,411,517,409,555,412,593,420,630,432,664,450,676,460,684,472,690,496,696,520,702,532,712,543,731,556"/>
+<area shape="rect" id="Node000043" href="$da/d04/class_c_talk_monster.html#a9a37fafae9d69460413e6441fc36a9c3" title="Attempts to make the talk monster comment on a smell." alt="" coords="228,220,413,247"/>
+<area shape="poly" id="edge53_Node000011_Node000043" title=" " alt="" coords="722,559,708,547,687,513,680,478,681,445,687,411,692,379,692,347,683,316,660,286,635,265,606,249,574,237,542,229,475,222,413,223,413,218,475,216,543,224,576,232,608,244,638,261,664,282,688,314,697,346,697,379,692,412,686,445,685,478,692,511,712,544,726,555"/>
+<area shape="rect" id="Node000016" href="$da/d04/class_c_talk_monster.html#a73cd9db7d1bd90bad36b49a739c07709" title="Runs a task for the talk monster." alt="" coords="240,676,401,703"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="481,601,473,606,458,620,449,635,441,651,425,666,401,678,398,673,421,662,437,648,445,633,453,617,469,602,478,597"/>
+<area shape="poly" id="edge17_Node000015_Node000019" title=" " alt="" coords="475,603,473,606,450,638,440,670,439,701,443,733,447,766,448,800,443,836,425,875,410,895,391,912,352,938,349,933,387,908,406,891,421,872,437,835,443,800,442,766,437,734,434,701,435,669,446,636,469,602,472,600"/>
+<area shape="rect" id="Node000018" href="$dc/d29/class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="17,756,158,783"/>
+<area shape="poly" id="edge16_Node000016_Node000018" title=" " alt="" coords="266,711,130,758,128,753,264,706"/>
+<area shape="rect" id="Node000020" href="$d0/d51/class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="20,936,155,963"/>
+<area shape="poly" id="edge18_Node000019_Node000020" title=" " alt="" coords="222,952,156,952,156,947,222,947"/>
+<area shape="poly" id="edge19_Node000019_Node000021" title=" " alt="" coords="240,935,152,915,153,910,241,930"/>
+<area shape="poly" id="edge21_Node000022_Node000016" title=" " alt="" coords="477,552,473,555,461,568,455,581,450,609,445,638,437,652,425,666,402,680,400,675,421,662,433,649,440,636,444,608,450,580,457,565,469,551,474,548"/>
+<area shape="poly" id="edge22_Node000022_Node000019" title=" " alt="" coords="475,553,473,555,447,594,436,632,436,669,441,707,448,746,451,786,445,829,425,875,410,895,391,912,353,938,350,933,388,908,406,891,421,872,440,828,445,786,443,746,436,708,431,669,431,631,442,592,469,552,471,549"/>
+<area shape="poly" id="edge24_Node000023_Node000019" title=" " alt="" coords="483,986,388,966,389,961,484,980"/>
+<area shape="rect" id="Node000026" href="$d0/d51/class_c_barney.html#ad83e9b695592b5d2a4ae6bc2cd0b4de3" title="Retrieves the schedule of type for the Barney entity." alt="" coords="223,271,418,297"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="459,305,418,300,419,295,459,300"/>
+<area shape="rect" id="Node000027" href="$dc/d29/class_c_scientist.html#a5d4b1925bdf5e414ea2f371fc8a3d0a1" title="Retrieves a specific schedule type for the scientist." alt="" coords="218,321,423,348"/>
+<area shape="poly" id="edge29_Node000025_Node000027" title=" " alt="" coords="459,328,424,330,423,325,458,322"/>
+<area shape="poly" id="edge28_Node000026_Node000024" title=" " alt="" coords="207,274,165,270,165,264,208,269"/>
+<area shape="rect" id="Node000028" href="$dc/d29/class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="5,321,170,348"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="202,337,170,337,170,332,202,332"/>
+<area shape="rect" id="Node000030" href="$d0/d51/class_c_barney.html#ad67727fb91de9879016a9f7778114c67" title="Handles animation events for the Barney entity." alt="" coords="230,67,411,93"/>
+<area shape="poly" id="edge32_Node000029_Node000030" title=" " alt="" coords="462,110,392,97,393,91,463,105"/>
+<area shape="rect" id="Node000031" href="$dc/d29/class_c_scientist.html#ad4f79eea5fdff55654dea8edc8e590db" title="Handles animation events for the scientist." alt="" coords="225,117,416,144"/>
+<area shape="poly" id="edge33_Node000029_Node000031" title=" " alt="" coords="462,132,416,132,416,127,462,126"/>
+<area shape="poly" id="edge35_Node000032_Node000019" title=" " alt="" coords="461,952,403,952,403,947,461,947"/>
+<area shape="poly" id="edge38_Node000034_Node000018" title=" " alt="" coords="264,832,129,786,130,781,265,827"/>
+<area shape="poly" id="edge39_Node000034_Node000021" title=" " alt="" coords="241,868,153,887,152,882,240,863"/>
+<area shape="rect" id="Node000036" href="$da/d04/class_c_talk_monster.html#a100840a7f1417df9e0630754fba12ceb" title="Handles the use interaction for the talk monster." alt="" coords="230,372,411,399"/>
+<area shape="poly" id="edge41_Node000035_Node000036" title=" " alt="" coords="455,383,411,385,411,379,455,378"/>
+<area shape="poly" id="edge49_Node000039_Node000019" title=" " alt="" coords="475,502,473,504,456,527,443,550,432,593,432,637,440,681,449,726,453,773,447,822,439,848,425,875,410,895,391,912,353,938,350,933,388,908,406,891,421,872,434,846,442,821,448,772,443,726,435,682,427,637,426,593,438,548,451,524,469,501,471,499"/>
+<area shape="poly" id="edge47_Node000039_Node000024" title=" " alt="" coords="456,488,387,490,317,488,257,480,234,473,216,463,199,446,190,428,186,390,185,351,179,331,168,311,146,290,121,275,123,270,149,286,172,308,184,329,190,350,192,390,195,427,203,443,219,459,236,468,258,475,318,483,387,485,456,483"/>
+<area shape="poly" id="edge48_Node000039_Node000028" title=" " alt="" coords="493,497,423,508,365,517,317,527,271,526,245,520,216,508,192,492,170,473,133,428,107,384,92,349,96,347,112,381,138,425,173,469,195,488,219,503,247,515,272,521,317,521,364,512,423,503,492,492"/>
+<area shape="poly" id="edge45_Node000039_Node000036" title=" " alt="" coords="525,459,476,435,422,413,385,402,386,397,424,408,479,431,527,454"/>
+<area shape="rect" id="Node000040" href="$dc/d29/class_c_scientist.html#a5f4158da2e426c5e0983d5ef6dc3aeb1" title="Determines the ideal state for the scientist." alt="" coords="236,625,405,652"/>
+<area shape="poly" id="edge46_Node000039_Node000040" title=" " alt="" coords="477,501,473,505,461,518,455,531,450,559,445,587,437,602,425,615,406,627,404,623,421,611,433,599,440,585,444,558,450,529,457,515,469,501,474,497"/>
+<area shape="poly" id="edge50_Node000039_Node000041" title=" " alt="" coords="467,463,398,452,399,446,468,458"/>
+<area shape="rect" id="Node000042" href="$dc/d29/class_c_scientist.html#aae526769eac1dfad245f95f261eb08ae" title="Handles damage taken by the scientist." alt="" coords="238,575,403,601"/>
+<area shape="poly" id="edge51_Node000039_Node000042" title=" " alt="" coords="483,499,473,505,458,517,449,531,440,544,424,558,385,576,383,572,422,554,436,541,445,528,454,514,469,500,480,495"/>
+<area shape="poly" id="edge54_Node000043_Node000024" title=" " alt="" coords="214,248,165,253,165,248,213,242"/>
+<area shape="poly" id="edge55_Node000043_Node000028" title=" " alt="" coords="238,254,219,261,169,288,112,323,109,319,166,284,217,256,236,249"/>
+<area shape="rect" id="Node000045" href="$d3/d77/class_c_speaker.html#ae66e20b75e6913b46a8f67ac99b14d62" title="Spawns the speaker entity." alt="" coords="504,5,629,32"/>
+<area shape="poly" id="edge57_Node000044_Node000045" title=" " alt="" coords="709,36,629,28,630,22,710,30"/>
+<area shape="rect" id="Node000047" href="$d3/de7/class_c_h_grunt.html#a489abde51cc63bb8147fa6a0e62284e6" title="Starts a task for the grunt." alt="" coords="499,56,634,83"/>
+<area shape="poly" id="edge59_Node000046_Node000047" title=" " alt="" coords="707,87,635,79,635,74,707,81"/>
+<area shape="rect" id="Node000049" href="$df/df3/doors_8cpp.html#afd6182352d8e2f7b36e1f9da171e9759" title="Plays door or button locked or unlocked sounds." alt="" coords="748,1139,868,1165"/>
+<area shape="poly" id="edge61_Node000048_Node000049" title=" " alt="" coords="1044,784,820,1139,816,1137,1039,781"/>
+<area shape="rect" id="Node000050" href="$d8/dd6/class_c_base_button.html#a979524cd17dbdcfb1aa71817904b5bd7" title="Starts the button moving &quot;in/up&quot;." alt="" coords="472,1139,662,1165"/>
+<area shape="poly" id="edge62_Node000049_Node000050" title=" " alt="" coords="733,1155,662,1155,662,1149,733,1149"/>
+<area shape="rect" id="Node000051" href="$d8/dd6/class_c_base_button.html#a3bac76de72c1f4981ce1c5f021f0431b" title="Handles touch interactions with the button." alt="" coords="231,1113,410,1140"/>
+<area shape="poly" id="edge64_Node000049_Node000051" title=" " alt="" coords="733,1139,662,1129,530,1124,410,1125,410,1120,530,1118,663,1124,734,1134"/>
+<area shape="rect" id="Node000059" href="$de/d3b/class_c_base_door.html#a5987e49900e7c7845d62f27c4af514f5" title="Causes the door to &quot;do its thing&quot;, i.e., start moving and cascade activation." alt="" coords="483,1240,651,1267"/>
+<area shape="poly" id="edge65_Node000049_Node000059" title=" " alt="" coords="768,1175,663,1224,613,1242,612,1237,661,1219,766,1170"/>
+<area shape="rect" id="Node000060" href="$de/d3b/class_c_base_door.html#a4de3928e8144b4f6d85e6b537283ff52" title="Handles the touch behavior for doors not tied to anything." alt="" coords="242,1215,399,1241"/>
+<area shape="poly" id="edge67_Node000049_Node000060" title=" " alt="" coords="734,1168,663,1180,400,1220,399,1214,662,1175,733,1163"/>
+<area shape="poly" id="edge63_Node000050_Node000051" title=" " alt="" coords="456,1143,410,1139,411,1133,456,1138"/>
+<area shape="poly" id="edge66_Node000059_Node000060" title=" " alt="" coords="467,1246,399,1239,400,1233,468,1241"/>
+</map>

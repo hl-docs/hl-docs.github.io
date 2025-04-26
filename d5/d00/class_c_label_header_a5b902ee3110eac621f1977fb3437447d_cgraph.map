@@ -1,0 +1,9 @@
+<map id="CLabelHeader::setFgColor" name="CLabelHeader::setFgColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,179,57"/>
+<area shape="rect" id="Node000002" href="$d5/d00/class_c_label_header.html#aca596a9a57b2e1b2959852d99e6419ad" title=" " alt="" coords="227,31,400,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,41,211,41,211,47,179,47"/>
+<area shape="rect" id="Node000003" href="$de/dcb/class_c_text_image2.html#a19e83c440b906912079b6c11ba9bd72f" title=" " alt="" coords="452,5,605,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,31,436,27,437,32,401,36"/>
+<area shape="rect" id="Node000004" href="$de/dcb/class_c_text_image2.html#a4b881e77a9f7e6ba6a002f0c64e2d09b" title=" " alt="" coords="448,56,608,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="401,52,433,55,432,61,400,57"/>
+</map>

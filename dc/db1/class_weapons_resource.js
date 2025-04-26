@@ -1,0 +1,25 @@
+var class_weapons_resource =
+[
+    [ "AddWeapon", "dc/db1/class_weapons_resource.html#ad8dae32a4f0c934f0142de999c770f3f", null ],
+    [ "CountAmmo", "dc/db1/class_weapons_resource.html#a909e6a23db8cf1b8f43f2bac2cc47b42", null ],
+    [ "DropAllWeapons", "dc/db1/class_weapons_resource.html#a73b9dfd6f984ff1ed64ec6977737fdab", null ],
+    [ "DropWeapon", "dc/db1/class_weapons_resource.html#a95f09b904738d1faa965b1308ba0a187", null ],
+    [ "GetAmmo", "dc/db1/class_weapons_resource.html#ad3b82306e0ca19712f074267ec1e798a", null ],
+    [ "GetAmmoPicFromWeapon", "dc/db1/class_weapons_resource.html#ac325d2a86ff4a8dd5b33b7456b32e18e", null ],
+    [ "GetFirstPos", "dc/db1/class_weapons_resource.html#abb48e0b9a3dafee943fbc40a70191c9a", null ],
+    [ "GetNextActivePos", "dc/db1/class_weapons_resource.html#a4dc70e0742f2b5553191848f6c9a67d8", null ],
+    [ "GetWeapon", "dc/db1/class_weapons_resource.html#a5a6ebb0a22d692ea4288fa8a7941800f", null ],
+    [ "GetWeaponSlot", "dc/db1/class_weapons_resource.html#a7b20a4d25d14cf8621d1d28b292ab82b", null ],
+    [ "HasAmmo", "dc/db1/class_weapons_resource.html#a57d2e816bfbc647a46c29e04c361e6f6", null ],
+    [ "Init", "dc/db1/class_weapons_resource.html#a6ae47bc7f1a0a76001847dabf7ca4ad8", null ],
+    [ "LoadAllWeaponSprites", "dc/db1/class_weapons_resource.html#af788acd28d4e9bb07b59ec6f051bfd1d", null ],
+    [ "LoadWeaponSprites", "dc/db1/class_weapons_resource.html#ab7facdfd23c635363412896dada371b8", null ],
+    [ "PickupWeapon", "dc/db1/class_weapons_resource.html#ac264fc9f0ab22179dbb8d7a78d895ca1", null ],
+    [ "Reset", "dc/db1/class_weapons_resource.html#a84e7afe3f788241cc4b9c3075ae5c541", null ],
+    [ "SelectSlot", "dc/db1/class_weapons_resource.html#a077969347e46f70ca675e237c6fc7233", null ],
+    [ "SetAmmo", "dc/db1/class_weapons_resource.html#a0621f283344be4ecc9a2bba284c7eb69", null ],
+    [ "iOldWeaponBits", "dc/db1/class_weapons_resource.html#a4e7737a04e01a6a7f9efb40e9be7b8bb", null ],
+    [ "rgSlots", "dc/db1/class_weapons_resource.html#acd8da059e60a604947b290cc4626c04d", null ],
+    [ "rgWeapons", "dc/db1/class_weapons_resource.html#a24f33e1898c722f9c3b862b443d6bbe4", null ],
+    [ "riAmmo", "dc/db1/class_weapons_resource.html#a5f15dd213d6b0c49e5278d45e80df378", null ]
+];

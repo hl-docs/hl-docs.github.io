@@ -1,0 +1,11 @@
+<map id="CWallHealth::Spawn" name="CWallHealth::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the wall health entity in the game." alt="" coords="5,81,146,108"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="249,5,295,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,78,193,42,233,28,234,33,195,46,108,83"/>
+<area shape="rect" id="Node000003" href="$db/d84/class_c_wall_health.html#a347ac6e6871e700befd7d09f960eb01d" title="Preloads the resources needed for the wall health entity." alt="" coords="194,56,350,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,83,178,79,178,84,147,88"/>
+<area shape="rect" id="Node000004" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="218,107,326,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,101,203,108,202,114,146,106"/>
+<area shape="rect" id="Node000005" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="222,157,322,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="108,106,195,143,213,149,211,154,193,148,106,111"/>
+</map>

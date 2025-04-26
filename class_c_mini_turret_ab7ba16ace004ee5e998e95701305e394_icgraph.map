@@ -1,5 +1,0 @@
-<map id="CMiniTurret::Precache" name="CMiniTurret::Precache">
-<area shape="rect" id="Node000001" title="Preloads all resources needed by the mini turret." alt="" coords="188,5,338,32"/>
-<area shape="rect" id="Node000002" href="$class_c_mini_turret.html#a1e952284488c7dceb845b8c843f3ffe7" title="Spawns the mini turret entity." alt="" coords="5,5,140,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
-</map>

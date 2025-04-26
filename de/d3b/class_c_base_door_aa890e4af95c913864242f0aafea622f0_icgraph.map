@@ -1,0 +1,7 @@
+<map id="CBaseDoor::Precache" name="CBaseDoor::Precache">
+<area shape="rect" id="Node000001" title="Preloads all resources needed by the door." alt="" coords="188,31,338,57"/>
+<area shape="rect" id="Node000002" href="$de/d3b/class_c_base_door.html#a7c17bb171f186b0bfe3b12bb5f8b44b7" title="Spawns the door entity." alt="" coords="5,5,140,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,35,140,30,141,25,173,29"/>
+<area shape="rect" id="Node000003" href="$d4/d1a/class_c_rot_door.html#afea049164a038d09ea1a2bf4f77b746d" title="Spawns the rotating door entity." alt="" coords="10,56,135,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,59,135,64,134,58,172,53"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="FnServerCompare" name="FnServerCompare">
-<area shape="rect" id="Node000001" title="C&#45;style compare function for use with qsort." alt="" coords="5,5,130,32"/>
-<area shape="rect" id="Node000002" href="$hud__servers_8cpp.html#a7f6ba08f26ef473bd55f336aecfa9753" title="Wrapper for CompareField for use with qsort, assumes ascending sort order." alt="" coords="178,5,337,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,16,162,16,162,21,130,21"/>
-<area shape="rect" id="Node000003" href="$hud__servers_8cpp.html#ae43e1b962ca384ca82262c942c744490" title="Compares two servers based on a specific field value." alt="" coords="385,5,486,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,16,370,16,370,21,337,21"/>
-</map>

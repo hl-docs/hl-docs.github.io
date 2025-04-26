@@ -1,9 +1,0 @@
-<map id="Bench_GetDotAdded" name="Bench_GetDotAdded">
-<area shape="rect" id="Node000001" title="Checks if a benchmark tracking dot has been added." alt="" coords="458,5,602,32"/>
-<area shape="rect" id="Node000002" href="$hud__bench_8cpp.html#a0b38730b07d42542696b28634ddfce73" title="Adds the benchmark dot entities if required during the benchmark." alt="" coords="277,5,410,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,21,411,21,411,16,443,16"/>
-<area shape="rect" id="Node000003" href="$entity_8cpp.html#aa35954da5a303375d555434af0280f34" title="Adds custom entities to the render list." alt="" coords="92,5,229,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,21,230,21,230,16,262,16"/>
-<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,21,44,21,44,16,76,16"/>
-</map>

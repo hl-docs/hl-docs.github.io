@@ -1,5 +1,0 @@
-<map id="CBarnacle::Precache" name="CBarnacle::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed by the barnacle." alt="" coords="182,5,326,32"/>
-<area shape="rect" id="Node000002" href="$class_c_barnacle.html#a7288eb00da0ada4f605b04dbc5aa3cf6" title="Spawns the barnacle entity." alt="" coords="5,5,134,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,21,134,21,134,16,166,16"/>
-</map>

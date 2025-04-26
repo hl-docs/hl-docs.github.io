@@ -1,0 +1,9 @@
+<map id="CGrenade::Detonate" name="CGrenade::Detonate">
+<area shape="rect" id="Node000001" title="Handles the detonation of the grenade." alt="" coords="5,56,145,83"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="237,5,283,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,53,221,26,222,31,127,58"/>
+<area shape="rect" id="Node000003" href="$d9/df2/class_c_grenade.html#a26b11375db7cf44d49526d15f1a23ed9" title="Handles the explosion of the grenade." alt="" coords="193,56,327,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,67,177,67,177,72,145,72"/>
+<area shape="rect" id="Node000004" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="205,107,315,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,81,195,100,194,105,126,86"/>
+</map>

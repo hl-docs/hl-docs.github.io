@@ -1,7 +1,0 @@
-<map id="CTalkMonster::HandleAnimEvent" name="CTalkMonster::HandleAnimEvent">
-<area shape="rect" id="Node000001" title="Handles animation events for the talk monster." alt="" coords="245,23,424,65"/>
-<area shape="rect" id="Node000002" href="$class_c_barney.html#ad67727fb91de9879016a9f7778114c67" title="Handles animation events for the Barney entity." alt="" coords="10,5,192,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,35,192,31,192,26,230,30"/>
-<area shape="rect" id="Node000003" href="$class_c_scientist.html#ad4f79eea5fdff55654dea8edc8e590db" title="Handles animation events for the scientist." alt="" coords="5,56,197,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,58,197,62,197,56,229,53"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="SetMovedir" name="SetMovedir">
-<area shape="rect" id="Node000001" title="Sets the movement direction based on angles." alt="" coords="213,5,298,32"/>
-<area shape="rect" id="Node000002" href="$class_c_func_conveyor.html#ad7b244c5e886038ebd97fb07501f3a2f" title="Spawns the func_conveyor entity." alt="" coords="5,5,165,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,21,165,21,165,16,197,16"/>
-</map>

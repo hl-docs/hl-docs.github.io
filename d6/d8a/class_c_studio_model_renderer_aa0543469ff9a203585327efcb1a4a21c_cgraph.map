@@ -1,0 +1,9 @@
+<map id="CStudioModelRenderer::StudioSetUpTransform" name="CStudioModelRenderer::StudioSetUpTransform">
+<area shape="rect" id="Node000001" title="Sets up the model transformation matrix for rendering the entity." alt="" coords="5,48,165,91"/>
+<area shape="rect" id="Node000002" href="$dd/d2e/studio__util_8cpp.html#a372d6dd2f14c5053998d80e6dd0e6675" title="Converts an angle (in degrees) into a 4x4 transformation matrix." alt="" coords="231,5,321,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,46,215,32,216,37,166,51"/>
+<area shape="rect" id="Node000003" href="$dd/d2e/studio__util_8cpp.html#a236632d897a70225249a71ff7eb1a914" title="Concatenates two 3x4 transformation matrices." alt="" coords="213,56,339,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,67,197,67,197,72,165,72"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#a25e0fa0a41af6ee0dc38542de4dd5683" title="Inverses the components of a vector." alt="" coords="226,107,326,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,88,212,100,211,106,164,93"/>
+</map>

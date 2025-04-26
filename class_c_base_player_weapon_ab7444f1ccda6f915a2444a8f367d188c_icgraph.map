@@ -1,7 +1,0 @@
-<map id="CBasePlayerWeapon::ExtractAmmo" name="CBasePlayerWeapon::ExtractAmmo">
-<area shape="rect" id="Node000001" title="Extracts ammo from a weapon." alt="" coords="411,5,564,48"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a9556949ddb68039a4e31271f78e4382a" title=" " alt="" coords="210,5,363,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,29,363,29,363,24,395,24"/>
-<area shape="rect" id="Node000003" href="$class_c_satchel.html#ac113dd12569f64a10b3c99e074a8f46a" title="Adds the satchel charge to the player." alt="" coords="5,13,162,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,29,162,29,162,24,194,24"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="CPushable::MaxSpeed" name="CPushable::MaxSpeed">
-<area shape="rect" id="Node000001" title=" " alt="" coords="351,31,505,57"/>
-<area shape="rect" id="Node000002" href="$class_c_pushable.html#a37f40f4a44155271e15b00eddd4f6ab8" title="Moves the pushable entity based on interaction with another entity." alt="" coords="181,31,303,57"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,47,303,47,303,41,335,41"/>
-<area shape="rect" id="Node000003" href="$class_c_pushable.html#a8795e1a3cd0f04d535ccc33ddad8805d" title="Handles touch events for the pushable entity." alt="" coords="5,5,133,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,35,133,31,133,25,165,30"/>
-<area shape="rect" id="Node000004" href="$class_c_pushable.html#a4594fa40f664a12a658889b6ec2d213f" title="Uses the pushable entity." alt="" coords="11,56,127,83"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="166,58,128,64,127,58,165,53"/>
-</map>

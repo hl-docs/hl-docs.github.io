@@ -1,0 +1,9 @@
+<map id="CHudStatusBar::ParseStatusString" name="CHudStatusBar::ParseStatusString">
+<area shape="rect" id="Node000001" title="Parses a status string for a specific line and substitutes values." alt="" coords="5,27,197,69"/>
+<area shape="rect" id="Node000002" href="$d3/d5b/death_8cpp.html#aa520d1289fab66699f197640abe8a46c" title="Returns the team color associated with a client index." alt="" coords="286,5,391,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,34,270,24,270,30,197,39"/>
+<area shape="rect" id="Node000003" href="$df/de1/class_c_hud_text_message.html#a847c99e126f98c009a2129b99307f88c" title="Localizes a text message by replacing any placeholder messages with actual text." alt="" coords="245,56,432,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,57,229,61,229,66,197,62"/>
+<area shape="rect" id="Node000004" href="$de/d3f/cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="480,64,600,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,75,464,75,464,80,432,80"/>
+</map>

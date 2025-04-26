@@ -1,0 +1,5 @@
+<map id="CAGrunt::CheckMeleeAttack1" name="CAGrunt::CheckMeleeAttack1">
+<area shape="rect" id="Node000001" title="Checks if the Alien Grunt can perform a melee attack." alt="" coords="5,5,202,32"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#ad47e63eada724d17f05421fd73911cd1" title=" " alt="" coords="250,5,449,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,16,234,16,234,21,202,21"/>
+</map>

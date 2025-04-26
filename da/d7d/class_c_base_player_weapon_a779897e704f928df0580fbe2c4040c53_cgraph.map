@@ -1,0 +1,5 @@
+<map id="CBasePlayerWeapon::SendWeaponAnim" name="CBasePlayerWeapon::SendWeaponAnim">
+<area shape="rect" id="Node000001" title="Sends a weapon animation to the HUD." alt="" coords="5,5,159,48"/>
+<area shape="rect" id="Node000002" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="207,13,370,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,24,191,24,191,29,159,29"/>
+</map>

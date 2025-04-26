@@ -1,0 +1,9 @@
+<map id="CHudStatusIcons::EnableIcon" name="CHudStatusIcons::EnableIcon">
+<area shape="rect" id="Node000001" title="Adds or updates a status icon in the active list." alt="" coords="5,56,200,83"/>
+<area shape="rect" id="Node000002" href="$db/d4f/class_c_hud.html#afef18a05b64c7b2c6750bd939ce031a0" title=" " alt="" coords="263,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,53,247,33,249,38,164,58"/>
+<area shape="rect" id="Node000003" href="$db/d4f/class_c_hud.html#aee3124b4f58baa73eab23621cf8640d1" title=" " alt="" coords="248,56,395,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,67,233,67,233,72,200,72"/>
+<area shape="rect" id="Node000004" href="$db/d4f/class_c_hud.html#a1fe1369815e46a2edf526814e17e7c9f" title=" " alt="" coords="250,107,393,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,81,247,100,245,105,163,86"/>
+</map>

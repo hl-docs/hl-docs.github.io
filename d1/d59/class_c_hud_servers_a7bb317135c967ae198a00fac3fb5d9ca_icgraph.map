@@ -1,0 +1,13 @@
+<map id="CHudServers::RequestBroadcastList" name="CHudServers::RequestBroadcastList">
+<area shape="rect" id="Node000001" title="Sends broadcast requests over LAN (IP and IPX) to discover servers." alt="" coords="712,79,945,105"/>
+<area shape="rect" id="Node000002" href="$d6/d3f/hud__servers_8cpp.html#a32bf42a9107c55724125e60c0e05f46b" title="Starts a LAN broadcast query for local servers." alt="" coords="520,79,664,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="697,95,665,95,665,89,697,89"/>
+<area shape="rect" id="Node000003" href="$d4/d64/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#ad81217fae309e445167dc7c88521e2f5" title=" " alt="" coords="263,5,472,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,77,472,68,473,63,514,72"/>
+<area shape="rect" id="Node000005" href="$d4/d64/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a1a28428c2bdfff5d8fe0b7e4a1f7b124" title=" " alt="" coords="263,104,472,179"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="514,112,473,121,472,116,513,107"/>
+<area shape="rect" id="Node000004" href="$d3/d31/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_broadcast_refresh_handler.html#a02d6bbbe7bd1ed26c972d1406edef988" title=" " alt="" coords="5,5,215,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,45,215,45,215,40,247,40"/>
+<area shape="rect" id="Node000006" href="$d5/d32/classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_refresh_handler.html#afc7a73b68d173e885d8b1faab4992afe" title=" " alt="" coords="29,104,191,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="247,144,192,144,192,139,247,139"/>
+</map>

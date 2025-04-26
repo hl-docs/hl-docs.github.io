@@ -1,0 +1,5 @@
+<map id="CFuncConveyor::Use" name="CFuncConveyor::Use">
+<area shape="rect" id="Node000001" title="Toggles the direction of the conveyor." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="Node000002" href="$d5/d62/class_c_func_conveyor.html#a68a736c4d61b1374cdabffd1480c5c18" title="Updates the speed of the conveyor." alt="" coords="197,5,395,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,16,181,16,181,21,149,21"/>
+</map>

@@ -1,7 +1,0 @@
-<map id="CHud::DrawHudString" name="CHud::DrawHudString">
-<area shape="rect" id="Node000001" title="Draws a left&#45;aligned HUD string." alt="" coords="210,31,357,57"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_menu.html#a49d054e6c71b81840c281c5a83d6659e" title="Draws the current HUD menu on screen." alt="" coords="22,5,145,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,35,145,29,145,24,194,30"/>
-<area shape="rect" id="Node000003" href="$class_c_hud_benchmark.html#a8a451e267ced8b843a17c8a80e34dee4" title="Renders the benchmark results on the HUD." alt="" coords="5,56,162,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,58,162,62,162,57,194,53"/>
-</map>

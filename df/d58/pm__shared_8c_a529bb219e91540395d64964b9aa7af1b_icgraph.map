@@ -1,0 +1,17 @@
+<map id="PM_CatagorizePosition" name="PM_CatagorizePosition">
+<area shape="rect" id="Node000001" title="Determines the player&#39;s current position state." alt="" coords="820,21,978,47"/>
+<area shape="rect" id="Node000002" href="$df/d58/pm__shared_8c.html#a617b2cd359b1f001662eed812315caa0" title="Handles player ducking." alt="" coords="552,21,630,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="829,19,756,9,717,8,678,11,631,23,630,17,678,6,717,3,756,4,830,14"/>
+<area shape="rect" id="Node000003" href="$df/d58/pm__shared_8c.html#a4af09a5ca8abcfc2d4e5d71a6f24848d" title="Returns with origin, angles, and velocity modified in place." alt="" coords="388,46,504,73"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="827,53,773,62,627,68,504,65,504,60,627,63,772,57,826,48"/>
+<area shape="rect" id="Node000007" href="$df/d58/pm__shared_8c.html#afb26718fa7359030c2e593744e4dd23e" title="Tries to unduck a player by moving them upward until they are no longer solid." alt="" coords="678,21,772,47"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="805,37,773,37,773,31,805,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="537,46,505,52,504,46,536,41"/>
+<area shape="rect" id="Node000004" href="$df/d58/pm__shared_8c.html#a93976be26aeba051339105f9caa17b67" title="The main player physics update function." alt="" coords="262,46,340,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,62,341,62,341,57,373,57"/>
+<area shape="rect" id="Node000005" href="$d9/dbd/cdll__int_8cpp.html#ac1888150107edabbf964bc55a56f0403" title="Moves the player based on movement commands." alt="" coords="92,46,214,73"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="246,62,214,62,214,57,246,57"/>
+<area shape="rect" id="Node000006" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,46,44,73"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="76,62,44,62,44,57,76,57"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="662,37,630,37,630,31,662,31"/>
+</map>

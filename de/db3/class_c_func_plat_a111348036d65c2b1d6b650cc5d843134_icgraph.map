@@ -1,0 +1,11 @@
+<map id="CFuncPlat::GoUp" name="CFuncPlat::GoUp">
+<area shape="rect" id="Node000001" title="Moves the platform up." alt="" coords="444,31,567,57"/>
+<area shape="rect" id="Node000002" href="$dc/df8/class_c_func_plat_rot.html#a47f39237350e0e057996484d6f1177b4" title="Moves the platform up and initiates its rotation." alt="" coords="236,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,37,380,31,380,25,429,32"/>
+<area shape="rect" id="Node000003" href="$d0/d93/class_c_func_track_change.html#a86a802569986a457166bf7aa2de3831c" title="Moves the track change entity up." alt="" coords="220,56,396,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,56,397,61,396,55,428,51"/>
+<area shape="rect" id="Node000004" href="$d0/d93/class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="5,31,172,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,60,172,56,172,51,205,55"/>
+<area shape="rect" id="Node000005" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="14,81,163,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="205,84,164,89,163,83,204,79"/>
+</map>

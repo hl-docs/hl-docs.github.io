@@ -1,0 +1,5 @@
+<map id="CPython::Reload" name="CPython::Reload">
+<area shape="rect" id="Node000001" title="Reloads the Python weapon." alt="" coords="216,5,335,32"/>
+<area shape="rect" id="Node000002" href="$db/dc8/class_c_python.html#a5e20c90592da8cd4200cceb46d578b59" title="Handles the primary attack for the Python weapon." alt="" coords="5,5,168,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,21,168,21,168,16,200,16"/>
+</map>

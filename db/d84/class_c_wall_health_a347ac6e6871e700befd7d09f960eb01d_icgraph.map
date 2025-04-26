@@ -1,0 +1,5 @@
+<map id="CWallHealth::Precache" name="CWallHealth::Precache">
+<area shape="rect" id="Node000001" title="Preloads the resources needed for the wall health entity." alt="" coords="194,5,350,32"/>
+<area shape="rect" id="Node000002" href="$db/d84/class_c_wall_health.html#a605f03b005e1c1945ab37cf16c6c7905" title="Spawns the wall health entity in the game." alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,21,146,21,146,16,178,16"/>
+</map>

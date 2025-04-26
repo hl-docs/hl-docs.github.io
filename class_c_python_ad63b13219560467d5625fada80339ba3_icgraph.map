@@ -1,5 +1,0 @@
-<map id="CPython::Precache" name="CPython::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the Python weapon." alt="" coords="172,5,306,32"/>
-<area shape="rect" id="Node000002" href="$class_c_python.html#a2f458380a2c07b16056d5f67c1cf280f" title="Spawns the Python weapon entity in the game." alt="" coords="5,5,124,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,21,124,21,124,16,156,16"/>
-</map>

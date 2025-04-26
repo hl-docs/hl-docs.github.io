@@ -1,0 +1,14 @@
+<map id="CMomentaryRotButton::Instance" name="CMomentaryRotButton::Instance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="866,64,1019,107"/>
+<area shape="rect" id="Node000002" href="$da/d0a/class_c_momentary_rot_button.html#a3386d7a5a1f89dde5d326bfebb234fb0" title="Updates all buttons attached to the same target." alt="" coords="664,64,818,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="850,88,818,88,818,83,850,83"/>
+<area shape="rect" id="Node000003" href="$da/d0a/class_c_momentary_rot_button.html#ae6b83921f5aa2c039855de36b4efc37a" title="Returns the momentary rotating button to its start position." alt="" coords="448,5,601,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="649,63,601,50,602,45,650,58"/>
+<area shape="rect" id="Node000006" href="$da/d0a/class_c_momentary_rot_button.html#a788bc3a87d2fed62ffe77a615ebf8b81" title="Uses the momentary rotating button entity." alt="" coords="432,72,616,99"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="649,88,617,88,617,83,649,83"/>
+<area shape="rect" id="Node000004" href="$da/d0a/class_c_momentary_rot_button.html#ae8d59ee62b239a65319c49e7ae4fccae" title="Turns off the momentary rotating button." alt="" coords="207,43,384,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,41,385,47,384,42,432,36"/>
+<area shape="rect" id="Node000005" href="$da/d0a/class_c_momentary_rot_button.html#af0765f564f25f22cc47a2762a3d70e57" title="Updates the state of the momentary rotating button." alt="" coords="5,89,159,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,76,160,94,159,88,225,71"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="174,114,377,119,497,116,616,108,663,101,664,106,617,113,497,122,377,124,174,119"/>
+</map>

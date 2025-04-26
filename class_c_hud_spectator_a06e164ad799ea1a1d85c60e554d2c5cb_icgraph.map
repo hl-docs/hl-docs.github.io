@@ -1,9 +1,0 @@
-<map id="CHudSpectator::DrawOverviewEntities" name="CHudSpectator::DrawOverviewEntities">
-<area shape="rect" id="Node000001" title="Draws all overview entities (like players) on the map." alt="" coords="561,5,758,48"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a497b66b5fdecded16ce7c9d9f39088f4" title="Main function to draw the spectator overview." alt="" coords="317,13,513,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,29,514,29,514,24,546,24"/>
-<area shape="rect" id="Node000003" href="$tri_8cpp.html#a80efb0af0ebb5b5348a07fce9d0a6a7d" title="Draws non&#45;transparent (opaque) triangles on the HUD." alt="" coords="92,13,269,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,29,270,29,270,24,301,24"/>
-<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,13,44,40"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,29,44,29,44,24,76,24"/>
-</map>

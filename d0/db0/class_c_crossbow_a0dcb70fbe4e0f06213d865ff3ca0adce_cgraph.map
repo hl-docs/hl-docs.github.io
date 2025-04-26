@@ -1,0 +1,20 @@
+<map id="CCrossbow::Reload" name="CCrossbow::Reload">
+<area shape="rect" id="Node000001" title="Reloads the crossbow weapon." alt="" coords="5,131,141,157"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#a45ea7db79a9f40517bfebc1b5f28a959" title="Handles weapon reload logic using default behavior." alt="" coords="210,39,363,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,128,188,91,204,84,206,89,190,96,105,133"/>
+<area shape="rect" id="Node000007" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="217,105,356,132"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="141,133,201,126,202,131,141,139"/>
+<area shape="rect" id="Node000008" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="263,156,310,183"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="141,149,248,162,247,167,141,155"/>
+<area shape="rect" id="Node000009" href="$d0/db0/class_c_crossbow.html#a2bcd23aecea292921259e8417a0c86f2" title="Handles the secondary attack of the crossbow weapon." alt="" coords="189,207,384,233"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="104,156,190,192,212,199,210,204,188,197,101,160"/>
+<area shape="rect" id="Node000003" href="$da/d7d/class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="436,5,589,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,46,420,38,420,43,364,51"/>
+<area shape="rect" id="Node000005" href="$da/d7d/class_c_base_player_weapon.html#a902e601b56e6e451c55a34605b8b41c4" title=" " alt="" coords="436,72,589,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="364,69,420,77,420,82,363,74"/>
+<area shape="rect" id="Node000006" href="$d3/d13/com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="432,156,592,183"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="359,79,385,91,410,107,433,124,471,146,469,151,431,129,407,111,383,96,357,84"/>
+<area shape="rect" id="Node000004" href="$d3/d13/com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="640,13,804,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="589,24,625,24,625,29,589,29"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="349,203,434,184,435,189,350,209"/>
+</map>

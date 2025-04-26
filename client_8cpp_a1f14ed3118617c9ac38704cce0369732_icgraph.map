@@ -1,5 +1,0 @@
-<map id="UpdateClientData" name="UpdateClientData">
-<area shape="rect" id="Node000001" title="Updates the client data for a specific player." alt="" coords="225,13,347,40"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player.html#affcadeaf66aff6f4b54c1874c05aadb5" title="Forces an update of the client DLL state." alt="" coords="5,5,177,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,29,177,29,177,24,209,24"/>
-</map>

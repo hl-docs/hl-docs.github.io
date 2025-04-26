@@ -1,9 +1,0 @@
-<map id="CGrenade::DangerSoundThink" name="CGrenade::DangerSoundThink">
-<area shape="rect" id="Node000001" title="Handles the danger sound logic for the grenade." alt="" coords="449,31,645,57"/>
-<area shape="rect" id="Node000002" href="$class_c_grenade.html#a1dfa3dd6ad98097e4ffbee7a9569cfdb" title="Creates and shoots a contact grenade." alt="" coords="235,31,401,57"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,47,402,47,402,41,433,41"/>
-<area shape="rect" id="Node000003" href="$class_c_h_grunt.html#ab3164e77b091c16db163e518331ce563" title="Handles animation events for the grunt." alt="" coords="5,5,187,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,35,187,32,187,26,220,30"/>
-<area shape="rect" id="Node000004" href="$class_c_m_p5.html#aba5b3ae405e55622c6e5b09cde061b38" title="Handles the secondary attack of the MP5." alt="" coords="13,56,179,83"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,58,180,63,179,57,219,53"/>
-</map>

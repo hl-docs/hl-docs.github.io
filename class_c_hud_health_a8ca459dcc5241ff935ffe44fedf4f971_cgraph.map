@@ -1,7 +1,0 @@
-<map id="CHudHealth::VidInit" name="CHudHealth::VidInit">
-<area shape="rect" id="Node000001" title="Initializes video&#45;related elements like sprites." alt="" coords="5,31,140,57"/>
-<area shape="rect" id="Node000002" href="$class_c_hud.html#aee3124b4f58baa73eab23621cf8640d1" title=" " alt="" coords="188,5,335,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,32,172,28,172,33,140,38"/>
-<area shape="rect" id="Node000003" href="$class_c_hud.html#a1fe1369815e46a2edf526814e17e7c9f" title=" " alt="" coords="190,56,333,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,50,174,55,174,60,140,56"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CSpiral::Spawn" name="CSpiral::Spawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="164,5,264,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,16,148,16,148,21,116,21"/>
+</map>

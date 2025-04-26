@@ -1,9 +1,0 @@
-<map id="CBaseMonster::MoveExecute" name="CBaseMonster::MoveExecute">
-<area shape="rect" id="Node000001" title="Executes the movement of the monster." alt="" coords="5,31,199,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="290,5,336,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,30,274,21,275,26,199,35"/>
-<area shape="rect" id="Node000003" href="$util_8cpp.html#a3989d857830dd5d2a4afd8094748c686" title="Moves an entity to a specified origin." alt="" coords="247,56,379,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,53,231,57,231,62,199,58"/>
-<area shape="rect" id="Node000004" href="$class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="427,56,569,83"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="380,67,412,67,412,72,380,72"/>
-</map>

@@ -1,0 +1,9 @@
+<map id="CBigMomma::TraceAttack" name="CBigMomma::TraceAttack">
+<area shape="rect" id="Node000001" title="Handles trace attacks on the Big Momma entity." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#a37eb12ce5728617367790c76eb33bd95" title="Handles a trace attack on an entity." alt="" coords="228,5,413,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,32,212,28,212,33,181,37"/>
+<area shape="rect" id="Node000003" href="$dc/d44/dlls_2util_8cpp.html#a550a9917cf17ef5811cc0bf16fbd674b" title="Emits a ricochet effect at a specified position." alt="" coords="268,56,373,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,51,252,59,252,64,180,56"/>
+<area shape="rect" id="Node000004" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="461,56,595,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,67,445,67,445,72,373,72"/>
+</map>

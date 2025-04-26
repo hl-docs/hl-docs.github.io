@@ -1,0 +1,11 @@
+<map id="CPushable::Precache" name="CPushable::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches sounds for the pushable entity." alt="" coords="5,43,153,69"/>
+<area shape="rect" id="Node000002" href="$d3/d9c/class_c_breakable.html#a4bae2ba63eb2079028d4ce52558918ae" title="Pre&#45;caches all resources needed by the breakable entity." alt="" coords="201,43,352,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,53,185,53,185,59,153,59"/>
+<area shape="rect" id="Node000003" href="$d3/d9c/class_c_breakable.html#a39a85075b60ca000cfd264d4ec44e8d7" title="Pre&#45;caches sounds for a specific material type." alt="" coords="400,5,579,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,43,384,38,385,44,353,48"/>
+<area shape="rect" id="Node000005" href="$d3/d55/hl__baseentity_8cpp.html#ab86625fdeef115046e288fecc38018c7" title=" " alt="" coords="419,72,560,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="353,64,404,71,404,76,352,69"/>
+<area shape="rect" id="Node000004" href="$d3/d9c/class_c_breakable.html#a6b83f580bf8b8084907dc2e3aba1a9b9" title="Retrieves the sound list for a specific material type." alt="" coords="627,13,828,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="580,24,612,24,612,29,580,29"/>
+</map>

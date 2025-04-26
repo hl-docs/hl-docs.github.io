@@ -1,9 +1,0 @@
-<map id="CVoiceStatus::SetPlayerBlockedState" name="CVoiceStatus::SetPlayerBlockedState">
-<area shape="rect" id="Node000001" title=" " alt="" coords="252,56,465,99"/>
-<area shape="rect" id="Node000002" href="$class_score_panel.html#a969ce964c31781f6017e57441dae14b3" title="Handles mouse press events on the scoreboard." alt="" coords="13,5,196,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,55,165,35,166,30,249,49"/>
-<area shape="rect" id="Node000003" href="$class_c_client_exports.html#acc69f7bce8810de7c0ca2481a008d2d7" title=" " alt="" coords="13,56,196,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,80,196,80,196,75,236,75"/>
-<area shape="rect" id="Node000004" href="$class_c_client_exports.html#a7ce372c7b893ddcee3c11490ea1660c8" title=" " alt="" coords="5,123,204,165"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,106,189,125,188,119,259,101"/>
-</map>

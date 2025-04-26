@@ -1,0 +1,46 @@
+<map id="FixedUnsigned16" name="FixedUnsigned16">
+<area shape="rect" id="Node000001" title="Converts a float value to a fixed unsigned 16&#45;bit integer." alt="" coords="896,132,1017,159"/>
+<area shape="rect" id="Node000002" href="$dc/d44/dlls_2util_8cpp.html#ad1b3d7095d7ca2fd69eb5fc68dfcd363" title="Displays a HUD message to a specific entity." alt="" coords="706,56,836,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="907,128,805,86,807,81,909,123"/>
+<area shape="rect" id="Node000005" href="$dc/d44/dlls_2util_8cpp.html#aff7532a84abfe0b934132c8a812b87c9" title="Builds a screen fade effect." alt="" coords="694,132,848,159"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="880,148,848,148,848,143,880,143"/>
+<area shape="rect" id="Node000011" href="$dc/d44/dlls_2util_8cpp.html#a0c963ac10efb8e051699509cb27356e9" title="Shakes the screen of all clients within a specified radius." alt="" coords="705,335,837,361"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="935,172,786,336,783,333,931,168"/>
+<area shape="rect" id="Node000003" href="$d5/df6/class_c_game_text.html#a7f9fce5855479583cb9c8032debc3f30" title="Activates the game text entity." alt="" coords="244,5,366,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="694,55,646,47,495,31,366,23,366,18,495,26,647,41,695,50"/>
+<area shape="rect" id="Node000004" href="$dc/d44/dlls_2util_8cpp.html#a9530e833f9072bdf01dd0b8e4ef86d62" title="Displays a HUD message to all players." alt="" coords="477,56,622,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="690,72,623,72,623,67,690,67"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="466,55,366,34,367,29,467,50"/>
+<area shape="rect" id="Node000006" href="$dc/d44/dlls_2util_8cpp.html#a3c51afca76039084f1ebff709d9d3289" title="Fades the screen for a specific entity." alt="" coords="488,107,612,133"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="678,137,612,130,613,124,679,132"/>
+<area shape="rect" id="Node000009" href="$dc/d44/dlls_2util_8cpp.html#a3ab3a10eabd4eb9ffcbb1c503061a137" title="Fades the screen for all players." alt="" coords="480,157,619,184"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="679,158,620,165,619,160,679,153"/>
+<area shape="rect" id="Node000007" href="$db/dab/class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="217,56,393,83"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="472,107,372,86,373,81,473,102"/>
+<area shape="rect" id="Node000008" href="$d0/d8a/class_c_fade.html#af2b633031bf922e8b1f91a69eac33f01" title="Uses the fade effect." alt="" coords="260,107,350,133"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="472,123,350,123,350,117,472,117"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="466,156,350,132,351,127,468,151"/>
+<area shape="rect" id="Node000010" href="$d1/db4/class_c_revert_saved.html#a5ca27e9679a041de5dd4d53d1eb65e84" title="Activates the revert saved entity." alt="" coords="239,157,371,184"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="464,173,371,173,371,168,464,168"/>
+<area shape="rect" id="Node000012" href="$de/d32/class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="505,208,595,235"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="745,326,701,286,645,249,594,231,596,226,648,244,704,282,749,322"/>
+<area shape="rect" id="Node000015" href="$d1/daf/class_c_bullsquid.html#a6631c371599184dc93b7209f1809e110" title="Handles animation events for the bullsquid." alt="" coords="453,259,646,285"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="716,331,645,307,592,288,594,283,647,301,718,326"/>
+<area shape="rect" id="Node000016" href="$d5/da4/class_c_gargantua.html#a813428a67ee9bb342a2cd0fb2ab1b4f1" title="Handles animation events specific to the Gargantua." alt="" coords="205,335,405,361"/>
+<area shape="poly" id="edge17_Node000011_Node000016" title=" " alt="" coords="689,351,405,351,405,345,689,345"/>
+<area shape="rect" id="Node000017" href="$dd/df5/class_c_mortar.html#a4c5d81b2f0e837dca5290eac704015f3" title="Handles the explosion of the mortar." alt="" coords="470,411,629,437"/>
+<area shape="poly" id="edge18_Node000011_Node000017" title=" " alt="" coords="726,370,647,401,609,413,608,408,645,396,725,365"/>
+<area shape="rect" id="Node000019" href="$d5/da4/class_c_gargantua.html#a96fe5dbe4098470c3e7f813cda7001d2" title="Executes the Gargantua&#39;s stomp attack." alt="" coords="463,360,637,387"/>
+<area shape="poly" id="edge20_Node000011_Node000019" title=" " alt="" coords="690,360,638,366,637,361,690,355"/>
+<area shape="rect" id="Node000020" href="$d9/ddd/class_c_shake.html#a9abc407493be9c816f3e19e387ac4d93" title="Uses the shake effect." alt="" coords="501,461,599,488"/>
+<area shape="poly" id="edge22_Node000011_Node000020" title=" " alt="" coords="749,374,704,414,648,452,600,469,598,464,645,447,701,410,745,370"/>
+<area shape="rect" id="Node000021" href="$dc/d44/dlls_2util_8cpp.html#a4a0e84dd78df29fdf9709ede4019849c" title="Shakes the screen of all clients." alt="" coords="476,512,623,539"/>
+<area shape="poly" id="edge23_Node000011_Node000021" title=" " alt="" coords="757,376,714,440,683,474,648,502,625,514,622,509,645,498,680,470,710,437,753,373"/>
+<area shape="rect" id="Node000013" href="$de/d32/class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="252,208,358,235"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="489,224,358,224,358,219,489,219"/>
+<area shape="rect" id="Node000014" href="$de/d32/class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,208,157,235"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="236,224,157,224,157,219,236,219"/>
+<area shape="rect" id="Node000018" href="$dd/df5/class_c_mortar.html#a54c8ec80d0835beac93026ded850653f" title="Spawns the mortar entity in the game." alt="" coords="248,411,362,437"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="454,427,362,427,362,421,454,421"/>
+<area shape="poly" id="edge21_Node000019_Node000016" title=" " alt="" coords="446,365,405,361,406,356,447,360"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="CTentacleMaw::Spawn" name="CTentacleMaw::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the tentacle maw entity." alt="" coords="5,56,159,83"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="268,5,315,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,53,252,25,254,30,141,58"/>
-<area shape="rect" id="Node000003" href="$class_c_tentacle_maw.html#ab98b9828021f75ca3e2e6c7435d42c54" title="Preloads the tentacle maw&#39;s resources." alt="" coords="207,56,376,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,67,191,67,191,72,159,72"/>
-<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="241,107,342,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,81,226,102,225,107,140,86"/>
-</map>

@@ -1,0 +1,17 @@
+<map id="CBaseToggle::AxisDir" name="CBaseToggle::AxisDir">
+<area shape="rect" id="Node000001" title="Sets the movement direction based on spawn flags." alt="" coords="476,132,624,159"/>
+<area shape="rect" id="Node000002" href="$dc/df8/class_c_func_plat_rot.html#a89f2dd655ea0264320973507aae8633a" title="Sets up the rotation parameters for the platform." alt="" coords="236,31,428,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="517,125,475,97,427,72,395,60,397,55,429,67,478,93,520,120"/>
+<area shape="rect" id="Node000005" href="$db/dfc/class_c_pendulum.html#a538f8c330e1366965f343a36e2593a2b" title="Spawns the func_pendulum entity." alt="" coords="264,81,400,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="474,130,392,111,393,106,475,125"/>
+<area shape="rect" id="Node000006" href="$d6/d80/class_c_rot_button.html#a60fe287e0fee6141f73bd3d3f18a1767" title="Spawns the rotating button entity." alt="" coords="264,132,400,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="461,148,400,148,400,143,461,143"/>
+<area shape="rect" id="Node000007" href="$da/d0a/class_c_momentary_rot_button.html#adad7e9d6f4dd03440cc2f36b0152f4e0" title="Spawns the momentary rotating button entity." alt="" coords="255,183,409,225"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="484,166,410,186,408,181,482,161"/>
+<area shape="rect" id="Node000008" href="$d4/d1a/class_c_rot_door.html#afea049164a038d09ea1a2bf4f77b746d" title="Spawns the rotating door entity." alt="" coords="270,249,394,276"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="525,171,482,207,429,240,396,252,394,248,427,235,479,202,522,167"/>
+<area shape="rect" id="Node000003" href="$dc/df8/class_c_func_plat_rot.html#a62c290464b41df01845fd67bd4184bee" title="Spawns the rotating platform and initializes its properties." alt="" coords="22,5,171,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,35,171,29,172,24,220,29"/>
+<area shape="rect" id="Node000004" href="$d0/d93/class_c_func_track_change.html#a0ec26d33c7bbf3e9659cd974808a2f01" title="Spawns the track change entity and initializes its properties." alt="" coords="5,56,188,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="220,59,188,62,188,57,220,53"/>
+</map>

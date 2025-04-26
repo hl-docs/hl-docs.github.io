@@ -1,9 +1,0 @@
-<map id="TeamFortressViewport::ShowCommandMenu" name="TeamFortressViewport::ShowCommandMenu">
-<area shape="rect" id="Node000001" title="Displays the command menu corresponding to the specified index." alt="" coords="489,35,641,77"/>
-<area shape="rect" id="Node000002" href="$class_spectator_panel.html#a1a544898f388f8e31d9d630b0ae5f73a" title="Handles commands triggered by UI buttons in the spectator panel." alt="" coords="250,13,441,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,46,441,42,442,37,474,41"/>
-<area shape="rect" id="Node000004" href="$class_team_fortress_viewport.html#a5b444b705fe09a117cc63afa5634965f" title="Activates the player&#39;s special ability based on their class." alt="" coords="270,64,421,107"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="474,71,422,78,421,73,473,66"/>
-<area shape="rect" id="Node000003" href="$class_c_spectator_handler___command.html#a509a22bc71233c7f1b98bc4c9a30c76b" title=" " alt="" coords="5,5,202,48"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,29,202,29,202,24,234,24"/>
-</map>

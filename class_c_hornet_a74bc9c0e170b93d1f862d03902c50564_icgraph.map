@@ -1,7 +1,0 @@
-<map id="CHornet::TrackTouch" name="CHornet::TrackTouch">
-<area shape="rect" id="Node000001" title="Handles the hornet&#39;s touch behavior when it hits a target." alt="" coords="353,5,496,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hornet.html#a0845e7a20faeace07303c47c670c431b" title="Starts tracking the target for the hornet." alt="" coords="169,5,305,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,21,305,21,305,16,338,16"/>
-<area shape="rect" id="Node000003" href="$class_c_hornet.html#a7d03243e49c6325891e6d9884450fa29" title="Spawns the hornet entity." alt="" coords="5,5,121,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,21,121,21,121,16,153,16"/>
-</map>

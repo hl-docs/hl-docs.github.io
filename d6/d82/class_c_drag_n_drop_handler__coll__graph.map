@@ -1,0 +1,9 @@
+<map id="CDragNDropHandler" name="CDragNDropHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,172,158,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,91,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,121,86,170,81,173,58,123"/>
+<area shape="rect" id="Node000003" href="$dc/d03/class_drag_n_drop_panel.html" title=" " alt="" coords="115,81,232,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,122,103,173,99,170,149,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="131,5,216,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,47,176,81,171,81,171,47"/>
+</map>

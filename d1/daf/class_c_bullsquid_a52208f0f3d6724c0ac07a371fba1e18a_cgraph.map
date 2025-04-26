@@ -1,0 +1,5 @@
+<map id="CBullsquid::CheckMeleeAttack2" name="CBullsquid::CheckMeleeAttack2">
+<area shape="rect" id="Node000001" title="Checks if the bullsquid can perform a melee attack (bite)." alt="" coords="5,5,214,32"/>
+<area shape="rect" id="Node000002" href="$d4/d7a/class_c_base_monster.html#ad47e63eada724d17f05421fd73911cd1" title=" " alt="" coords="262,5,461,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,16,246,16,246,21,214,21"/>
+</map>

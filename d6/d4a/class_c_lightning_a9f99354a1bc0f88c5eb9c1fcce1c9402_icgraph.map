@@ -1,0 +1,17 @@
+<map id="CLightning::Zap" name="CLightning::Zap">
+<area shape="rect" id="Node000001" title="Creates a zap effect between two points." alt="" coords="978,31,1089,57"/>
+<area shape="rect" id="Node000002" href="$d6/d4a/class_c_lightning.html#a536b7a0a4c7500f6e7cabf6ff509fd5d" title="Generates a random lightning strike within an area." alt="" coords="763,5,929,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="962,37,929,33,929,27,963,32"/>
+<area shape="rect" id="Node000007" href="$d6/d4a/class_c_lightning.html#a38c601c90d928734f8264d88e8d55174" title="Generates a random lightning strike from a point." alt="" coords="762,56,930,83"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="963,56,931,61,930,55,962,51"/>
+<area shape="rect" id="Node000003" href="$d6/d4a/class_c_lightning.html#a742db6e2243ce75f3a0531030b4df499" title="Think function for the lightning strike." alt="" coords="558,31,714,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="748,33,715,37,714,32,747,28"/>
+<area shape="rect" id="Node000004" href="$d6/d4a/class_c_lightning.html#ae60d76702c9a62a7c700bbd864c0adc2" title="Spawns the lightning effect entity." alt="" coords="186,31,315,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="543,47,315,47,315,41,543,41"/>
+<area shape="rect" id="Node000006" href="$d6/d4a/class_c_lightning.html#a9b6e23ff1410db09ae90d3c86793506d" title="Uses the lightning effect to strike." alt="" coords="363,56,510,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="543,58,511,63,511,57,543,53"/>
+<area shape="rect" id="Node000005" href="$d7/def/class_c_trip_beam.html#a8e3d6f75ea13fae6608eefbaa3b3742f" title="Spawns the lightning effect entity." alt="" coords="5,31,138,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="170,47,138,47,138,41,170,41"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="348,60,315,55,316,50,348,55"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="746,60,713,56,714,51,747,55"/>
+</map>

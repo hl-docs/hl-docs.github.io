@@ -1,5 +1,0 @@
-<map id="CSquadMonster::SquadCopyEnemyInfo" name="CSquadMonster::SquadCopyEnemyInfo">
-<area shape="rect" id="Node000001" title="Copies enemy information from the squad leader to the squad member." alt="" coords="5,5,195,48"/>
-<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#a8eecfa90882640b12b51daca63663e50" title=" " alt="" coords="243,13,459,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,24,227,24,227,29,195,29"/>
-</map>

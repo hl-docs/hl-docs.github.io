@@ -1,0 +1,34 @@
+<map id="CBeam::PointEntInit" name="CBeam::PointEntInit">
+<area shape="rect" id="Node000001" title="Initializes the beam with a start point and end entity." alt="" coords="1094,107,1233,133"/>
+<area shape="rect" id="Node000002" href="$d5/da5/class_c_i_slave.html#aedb32a778cb8a00a8eaa2619e7e256c0" title="Creates a beam from the CISlave&#39;s arm to nearby geometry." alt="" coords="880,5,1010,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1132,99,1092,72,1045,46,1010,34,1011,29,1047,42,1094,67,1135,95"/>
+<area shape="rect" id="Node000004" href="$de/d32/class_c_egon.html#ae2b2d53ffc64083f45f8ffb3bc62ea82" title="Creates the visual effects for the Egon weapon." alt="" coords="875,157,1015,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1089,140,1006,159,1005,154,1087,135"/>
+<area shape="rect" id="Node000009" href="$d7/db3/class_c_tripmine_grenade.html#ade51e8409b8576bc7d1bc08362d43611" title="Creates the beam for the tripmine grenade." alt="" coords="844,212,1046,239"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1134,145,1094,173,1047,198,1005,214,1003,209,1045,194,1091,168,1131,141"/>
+<area shape="rect" id="Node000014" href="$d5/da5/class_c_i_slave.html#a51b10bc8bf67a5fa8bc7d47cda6ecb35" title="Regenerates dead colleagues using a beam." alt="" coords="875,56,1015,83"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1087,105,1005,86,1006,81,1089,100"/>
+<area shape="rect" id="Node000015" href="$d5/da5/class_c_i_slave.html#aa4c57db62d0120725f29a0789f6f3aea" title="Creates a heavy damage beam directed forward." alt="" coords="881,107,1009,133"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="1078,123,1009,123,1009,117,1078,117"/>
+<area shape="rect" id="Node000003" href="$d5/da5/class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="606,56,781,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="865,37,764,58,763,53,864,32"/>
+<area shape="rect" id="Node000005" href="$de/d32/class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="622,153,765,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="860,172,765,170,765,165,860,167"/>
+<area shape="rect" id="Node000006" href="$de/d32/class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="406,153,496,180"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="607,169,497,169,497,164,607,164"/>
+<area shape="rect" id="Node000007" href="$de/d32/class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="205,153,311,180"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="390,169,312,169,312,164,390,164"/>
+<area shape="rect" id="Node000008" href="$de/d32/class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,153,157,180"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="189,169,157,169,157,164,189,164"/>
+<area shape="rect" id="Node000010" href="$d7/db3/class_c_tripmine_grenade.html#af562a1755804f7d0a7ba94691ea46a64" title="Handles the beam break state of the tripmine grenade." alt="" coords="591,204,796,247"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="828,237,796,237,796,232,828,232"/>
+<area shape="rect" id="Node000011" href="$d7/db3/class_c_tripmine_grenade.html#aaed0d096f0eb79fbb48d6928c07fedfa" title="Handles the power&#45;up state of the tripmine grenade." alt="" coords="600,271,787,313"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="877,246,777,273,776,267,876,241"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="811,214,843,214,843,219,811,219"/>
+<area shape="rect" id="Node000012" href="$d7/db3/class_c_tripmine_grenade.html#addce686623ef4ac3b4d6ee1239a0b82f" title="Spawns the tripmine grenade entity." alt="" coords="364,249,539,276"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="584,282,539,276,540,271,585,276"/>
+<area shape="rect" id="Node000013" href="$d7/db3/class_c_tripmine_grenade.html#a8d214ec0fa4cebddcc296ea1ffec11be" title="Handles the warning state of the tripmine grenade." alt="" coords="359,300,543,343"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="585,308,544,313,544,307,584,303"/>
+<area shape="poly" id="edge15_Node000014_Node000003" title=" " alt="" coords="859,72,781,72,781,67,859,67"/>
+<area shape="poly" id="edge17_Node000015_Node000003" title=" " alt="" coords="866,107,763,86,764,81,867,102"/>
+</map>

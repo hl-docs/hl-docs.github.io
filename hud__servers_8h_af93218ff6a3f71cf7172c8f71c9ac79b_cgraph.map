@@ -1,9 +1,0 @@
-<map id="ServerPlayers" name="ServerPlayers">
-<area shape="rect" id="Node000001" title="Requests the player list from a specified server using the global browser." alt="" coords="5,31,107,57"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#a803f7fd15ed3e85f7aebabc0e05e6de9" title="Sends a player list request to a specific server to retrieve current players." alt="" coords="155,31,339,57"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,41,139,41,139,47,107,47"/>
-<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#a0cf574be6e6cfb2849ded46f773a2d45" title="Returns a pointer to the server at the specified index." alt="" coords="410,5,571,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,32,394,26,394,31,340,37"/>
-<area shape="rect" id="Node000004" href="$class_c_hud_servers.html#a7384aa9de071c04fcd490249f22c38df" title="Handles player list response from a specific server." alt="" coords="387,56,593,83"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="340,51,372,54,371,60,339,56"/>
-</map>

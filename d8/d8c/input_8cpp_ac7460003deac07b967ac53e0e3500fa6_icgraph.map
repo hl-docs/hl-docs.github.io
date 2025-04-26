@@ -1,0 +1,13 @@
+<map id="CL_KeyState" name="CL_KeyState">
+<area shape="rect" id="Node000001" title="Returns the current state of a key as a float value." alt="" coords="421,56,520,83"/>
+<area shape="rect" id="Node000002" href="$dc/df5/in__camera_8cpp.html#af43e0af8eb6804de13d670591b167b7b" title="Main function that updates third&#45;person camera position and angles each frame." alt="" coords="104,5,192,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,54,373,47,276,32,192,24,193,19,277,27,374,41,408,49"/>
+<area shape="rect" id="Node000004" href="$d8/d8c/input_8cpp.html#ae972e4d08c2634f8d986933e19929a1c" title="Adjusts the player&#39;s view angles based on input keys." alt="" coords="252,56,373,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="406,72,374,72,374,67,406,67"/>
+<area shape="rect" id="Node000005" href="$d8/d8c/input_8cpp.html#a7217f060254148177c44d7243fc20ae6" title="Creates and sends a movement command to the server." alt="" coords="92,56,204,83"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="412,90,374,97,313,102,252,97,195,86,196,81,252,92,313,97,373,92,411,85"/>
+<area shape="rect" id="Node000003" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,31,44,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,33,45,43,44,38,88,28"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="236,72,205,72,205,67,236,67"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="76,57,44,50,45,45,77,52"/>
+</map>

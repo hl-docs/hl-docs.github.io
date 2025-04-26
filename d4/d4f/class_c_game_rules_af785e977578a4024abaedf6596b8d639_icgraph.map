@@ -1,0 +1,5 @@
+<map id="CGameRules::ShouldAutoAim" name="CGameRules::ShouldAutoAim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,13,386,40"/>
+<area shape="rect" id="Node000002" href="$d6/d16/class_c_half_life_teamplay.html#a542bfed5fa6047fa8ed955725cd9b402" title="Determines if auto&#45;aim should be applied to a target." alt="" coords="5,5,142,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
+</map>

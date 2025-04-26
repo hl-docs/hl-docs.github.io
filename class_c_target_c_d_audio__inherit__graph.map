@@ -1,7 +1,0 @@
-<map id="CTargetCDAudio" name="CTargetCDAudio">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,123,181"/>
-<area shape="rect" id="Node000002" href="$class_c_point_entity.html" title="Represents a point&#45;based entity in the game." alt="" coords="17,80,111,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,122,67,154,61,154,61,122"/>
-<area shape="rect" id="Node000003" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="17,5,111,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="67,48,67,80,61,80,61,48"/>
-</map>

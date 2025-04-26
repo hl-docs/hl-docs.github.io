@@ -1,5 +1,0 @@
-<map id="CSatchel::Precache" name="CSatchel::Precache">
-<area shape="rect" id="Node000001" title="Preloads the satchel charge models and associated entities." alt="" coords="175,5,312,32"/>
-<area shape="rect" id="Node000002" href="$class_c_satchel.html#a59106b198a7c41da4262103905760c54" title="Spawns the satchel charge entity." alt="" coords="5,5,127,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,21,127,21,127,16,159,16"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CTriggerChangeTarget" name="CTriggerChangeTarget">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,155,181"/>
-<area shape="rect" id="Node000002" href="$class_c_base_delay.html" title="Base class for entities with delayed actions." alt="" coords="33,80,127,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,122,83,154,77,154,77,122"/>
-<area shape="rect" id="Node000003" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="33,5,127,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,48,83,80,77,80,77,48"/>
-</map>

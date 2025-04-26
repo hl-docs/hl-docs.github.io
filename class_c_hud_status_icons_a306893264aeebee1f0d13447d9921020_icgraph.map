@@ -1,7 +1,0 @@
-<map id="CHudStatusIcons::DisableIcon" name="CHudStatusIcons::DisableIcon">
-<area shape="rect" id="Node000001" title="Removes a status icon from the active list." alt="" coords="238,35,435,61"/>
-<area shape="rect" id="Node000002" href="$class_c_hud.html#ae21a7ff16a65f742113fbaa48e51a922" title="Handles concussion effect messages." alt="" coords="11,5,184,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,37,184,32,185,27,223,31"/>
-<area shape="rect" id="Node000003" href="$class_c_hud_status_icons.html#a27c9cabd9d272d1a3f969f65e0863d1f" title="Handles the StatusIcon HUD message." alt="" coords="5,56,190,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,65,190,69,190,63,222,59"/>
-</map>

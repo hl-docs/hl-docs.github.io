@@ -1,5 +1,0 @@
-<map id="CItemAntidote::MyTouch" name="CItemAntidote::MyTouch">
-<area shape="rect" id="Node000001" title="Handles the interaction when a player touches the antidote item." alt="" coords="5,5,170,32"/>
-<area shape="rect" id="Node000002" href="$class_c_base_player.html#a8576397a590ec45c63d8470020a77c0a" title="Adds a suit update to the player&#39;s suit playlist." alt="" coords="218,5,407,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
-</map>

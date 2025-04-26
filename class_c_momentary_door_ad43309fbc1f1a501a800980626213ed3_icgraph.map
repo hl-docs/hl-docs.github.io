@@ -1,5 +1,0 @@
-<map id="CMomentaryDoor::DoorMoveDone" name="CMomentaryDoor::DoorMoveDone">
-<area shape="rect" id="Node000001" title="The door has reached the needed position." alt="" coords="207,5,424,32"/>
-<area shape="rect" id="Node000002" href="$class_c_momentary_door.html#a2acf6ba419587224d5a4a419c2edb851" title="Handles the use behavior for the momentary door." alt="" coords="5,5,159,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,21,159,21,159,16,191,16"/>
-</map>

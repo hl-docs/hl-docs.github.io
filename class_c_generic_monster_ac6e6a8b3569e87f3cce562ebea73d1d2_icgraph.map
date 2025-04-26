@@ -1,5 +1,0 @@
-<map id="CGenericMonster::Precache" name="CGenericMonster::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the generic monster." alt="" coords="223,5,408,32"/>
-<area shape="rect" id="Node000002" href="$class_c_generic_monster.html#abb3305ad35c01f526979d03c550f5935" title="Spawns the generic monster entity in the game." alt="" coords="5,5,175,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,21,175,21,175,16,207,16"/>
-</map>

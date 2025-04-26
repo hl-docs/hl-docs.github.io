@@ -1,0 +1,73 @@
+<map id="UTIL_AngleMod" name="UTIL_AngleMod">
+<area shape="rect" id="Node000001" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="1580,321,1692,348"/>
+<area shape="rect" id="Node000002" href="$d3/d1f/class_c_base_turret.html#aca75241a920a6e589920143208c8562c" title="Deploys the turret." alt="" coords="1379,220,1520,247"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1606,313,1571,286,1530,261,1503,250,1505,245,1533,256,1574,282,1610,309"/>
+<area shape="rect" id="Node000017" href="$d4/d30/class_c_ichthyosaur.html#aa430ef4853162b777874e2b9db37691f" title="Calculates the difference in pitch." alt="" coords="1367,321,1532,348"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="1564,337,1532,337,1532,332,1564,332"/>
+<area shape="rect" id="Node000018" href="$d4/d4d/class_c_sentry.html#a84122aefad5defeee907df85c429693f" title="Handles the death behavior of the sentry." alt="" coords="1375,271,1524,297"/>
+<area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="1569,319,1501,301,1502,295,1570,314"/>
+<area shape="rect" id="Node000019" href="$de/dde/class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="1381,372,1518,399"/>
+<area shape="poly" id="edge27_Node000001_Node000019" title=" " alt="" coords="1570,355,1502,374,1501,369,1569,350"/>
+<area shape="rect" id="Node000021" href="$dc/d44/dlls_2util_8cpp.html#adb352429eace4763f129f69fa6e3142f" title="Approaches an angle value at a specified speed." alt="" coords="1378,435,1521,461"/>
+<area shape="poly" id="edge29_Node000001_Node000021" title=" " alt="" coords="1608,360,1533,413,1486,436,1484,432,1530,408,1605,355"/>
+<area shape="rect" id="Node000003" href="$d3/d1f/class_c_base_turret.html#ac5d610d943c3839668ba12cf4529be10" title="Handles the auto&#45;search behavior of the turret." alt="" coords="1119,169,1319,196"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1370,219,1283,199,1284,194,1371,213"/>
+<area shape="rect" id="Node000013" href="$d3/d1f/class_c_base_turret.html#aab170b6bc93d774ec41e38e252234287" title="Handles the use behavior for the turret." alt="" coords="648,191,805,217"/>
+<area shape="poly" id="edge23_Node000002_Node000013" title=" " alt="" coords="1363,233,806,210,806,205,1363,227"/>
+<area shape="rect" id="Node000015" href="$d4/d4d/class_c_sentry.html#ad41a4a063ab7c1cef57d01e32bde0d5f" title="Handles damage taken by the sentry." alt="" coords="1143,271,1295,297"/>
+<area shape="poly" id="edge20_Node000002_Node000015" title=" " alt="" coords="1371,253,1284,273,1283,267,1370,248"/>
+<area shape="rect" id="Node000004" href="$d3/d1f/class_c_base_turret.html#a0c00f8f68597ffc6be41e1e7e880497b" title="Initializes the turret&#39;s state." alt="" coords="419,140,567,167"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1135,169,1071,160,931,151,792,149,567,153,567,147,792,143,932,146,1071,155,1136,163"/>
+<area shape="rect" id="Node000008" href="$d3/d1f/class_c_base_turret.html#a732fe94be3c994ac82fbed600ebdfcc4" title="Retires the turret." alt="" coords="904,169,1039,196"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1103,185,1040,185,1040,180,1103,180"/>
+<area shape="rect" id="Node000005" href="$da/d2c/class_c_mini_turret.html#a1e952284488c7dceb845b8c843f3ffe7" title="Spawns the mini turret entity." alt="" coords="205,140,340,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="403,156,340,156,340,151,403,151"/>
+<area shape="rect" id="Node000006" href="$d4/d4d/class_c_sentry.html#aec10a8f84bda6bb7f70e9f2554ef352c" title="Spawns the sentry entity." alt="" coords="215,241,330,268"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="415,176,405,181,391,193,382,205,373,219,357,232,331,244,329,239,355,227,369,215,378,202,387,189,403,176,413,171"/>
+<area shape="rect" id="Node000007" href="$db/d17/class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="217,191,328,217"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="417,173,329,194,327,189,416,168"/>
+<area shape="rect" id="Node000009" href="$d3/d1f/class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="640,68,813,95"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="922,165,760,98,762,93,924,161"/>
+<area shape="poly" id="edge15_Node000008_Node000013" title=" " alt="" coords="888,193,806,200,805,194,888,187"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="829,79,933,85,1057,97,1190,119,1256,135,1320,155,1383,185,1432,217,1429,222,1380,190,1318,160,1255,141,1189,125,1057,102,933,90,829,85"/>
+<area shape="rect" id="Node000010" href="$d3/d1f/class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="189,68,356,95"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="624,92,357,91,357,86,624,86"/>
+<area shape="rect" id="Node000012" href="$d3/d1f/class_c_base_turret.html#a0bf51cb491da64e2246751fd0460255c" title="Handles the damage behavior of the turret." alt="" coords="404,5,581,32"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="659,66,545,35,546,30,660,61"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="372,71,639,71,639,77,372,76"/>
+<area shape="rect" id="Node000011" href="$db/d17/class_c_turret.html#abbdf253e3a38f63841f6530a38e10ec1" title="Handles the spin&#45;up behavior of the turret." alt="" coords="5,68,141,95"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="173,84,141,84,141,79,173,79"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="429,39,323,70,321,65,428,34"/>
+<area shape="rect" id="Node000014" href="$d3/d1f/class_c_base_turret.html#a6ad46595be0146d679745f122dff6c8b" title="Spawns the base turret entity." alt="" coords="423,191,563,217"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="633,207,563,207,563,201,633,201"/>
+<area shape="poly" id="edge17_Node000014_Node000005" title=" " alt="" coords="416,189,333,170,334,165,417,184"/>
+<area shape="poly" id="edge18_Node000014_Node000006" title=" " alt="" coords="417,224,331,244,330,239,416,219"/>
+<area shape="poly" id="edge19_Node000014_Node000007" title=" " alt="" coords="407,207,328,207,328,201,407,201"/>
+<area shape="rect" id="Node000016" href="$d4/d4d/class_c_sentry.html#a39059cd1ff9888979c51b1a4fe4d7c28" title="Handles touch interactions for the sentry." alt="" coords="652,252,801,279"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="1127,283,802,271,802,265,1127,278"/>
+<area shape="poly" id="edge22_Node000016_Node000006" title=" " alt="" coords="636,266,330,259,330,253,636,261"/>
+<area shape="poly" id="edge26_Node000018_Node000015" title=" " alt="" coords="1360,287,1296,287,1296,281,1360,281"/>
+<area shape="rect" id="Node000020" href="$de/dde/class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="1163,347,1275,373"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="1366,379,1276,369,1276,364,1367,374"/>
+<area shape="rect" id="Node000022" href="$d5/da4/class_c_gargantua.html#af6d9fd34e26a27caf9bf550ca04e04cc" title="Controls the Gargantua&#39;s flame attack direction." alt="" coords="1128,397,1310,424"/>
+<area shape="poly" id="edge30_Node000021_Node000022" title=" " alt="" coords="1363,437,1305,427,1306,422,1364,431"/>
+<area shape="rect" id="Node000024" href="$d5/d0d/class_c_func_track_train.html#a84d3f5bb098a6ceb8fed7f43cbe3b51d" title="Moves the track train to the next position along its path." alt="" coords="1142,472,1296,499"/>
+<area shape="poly" id="edge32_Node000021_Node000024" title=" " alt="" coords="1364,465,1297,475,1296,470,1363,459"/>
+<area shape="rect" id="Node000031" href="$d4/d30/class_c_ichthyosaur.html#a18b594eb6441785ceb517044738281ff" title="Runs a specific task for the ichthyosaur." alt="" coords="1141,523,1297,549"/>
+<area shape="poly" id="edge40_Node000021_Node000031" title=" " alt="" coords="1411,471,1320,513,1284,525,1282,520,1318,508,1409,467"/>
+<area shape="rect" id="Node000023" href="$d5/da4/class_c_gargantua.html#ae93076998ee13769916c9736cc1a7058" title="Runs a task for the Gargantua." alt="" coords="897,384,1046,411"/>
+<area shape="poly" id="edge31_Node000022_Node000023" title=" " alt="" coords="1112,408,1046,404,1046,399,1112,402"/>
+<area shape="poly" id="edge36_Node000024_Node000024" title=" " alt="" coords="1259,460,1246,453,1219,451,1195,453,1182,457,1179,463,1185,470,1180,473,1173,463,1178,453,1194,447,1219,445,1247,448,1261,455"/>
+<area shape="rect" id="Node000025" href="$d5/d0d/class_c_func_track_train.html#add34b3b37ed17e3c50ef3344ee26197b" title="Finds the nearest path track for the track train." alt="" coords="895,536,1048,563"/>
+<area shape="poly" id="edge33_Node000024_Node000025" title=" " alt="" coords="1149,506,1120,513,1072,527,1028,538,1027,533,1070,521,1118,508,1148,500"/>
+<area shape="rect" id="Node000026" href="$d5/d0d/class_c_func_track_train.html#a6cc16b737db9d8a699f6205f63afd0ef" title="Finds the nearest path track for the track train." alt="" coords="872,435,1071,461"/>
+<area shape="poly" id="edge34_Node000024_Node000026" title=" " alt="" coords="1127,474,1064,465,1065,459,1127,469"/>
+<area shape="rect" id="Node000028" href="$d5/d0d/class_c_func_track_train.html#a6234b20c6bdc769de9248fab5ad29f29" title="Activates the track train based on the use type." alt="" coords="896,485,1047,512"/>
+<area shape="poly" id="edge37_Node000024_Node000028" title=" " alt="" coords="1127,493,1047,497,1047,492,1126,488"/>
+<area shape="rect" id="Node000027" href="$d5/d0d/class_c_func_track_train.html#a1ccfc5232aaf4050af606ea3ce819c2a" title="Resets the track train&#39;s state and prepares it for the next path." alt="" coords="639,419,814,461"/>
+<area shape="poly" id="edge35_Node000026_Node000027" title=" " alt="" coords="856,447,814,446,814,440,856,442"/>
+<area shape="rect" id="Node000029" href="$de/d87/class_c_func_track_auto.html#adcf4ffbcbf8076b2fbeb0dd46c9749d8" title="Updates the auto targets for the track change based on the current state." alt="" coords="629,485,824,528"/>
+<area shape="poly" id="edge38_Node000028_Node000029" title=" " alt="" coords="881,504,824,506,824,501,881,499"/>
+<area shape="rect" id="Node000030" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="418,493,567,520"/>
+<area shape="poly" id="edge39_Node000029_Node000030" title=" " alt="" coords="614,509,568,509,568,504,614,504"/>
+</map>

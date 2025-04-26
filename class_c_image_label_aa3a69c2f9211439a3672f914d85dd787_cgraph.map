@@ -1,7 +1,0 @@
-<map id="CImageLabel::CImageLabel" name="CImageLabel::CImageLabel">
-<area shape="rect" id="Node000001" title="Constructor with image and position." alt="" coords="5,5,185,32"/>
-<area shape="rect" id="Node000002" href="$vgui___custom_objects_8cpp.html#a31b49697e86e4a77e23aef4fba1011dd" title="Loads a TGA image based on resource name." alt="" coords="233,5,350,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,16,217,16,217,21,185,21"/>
-<area shape="rect" id="Node000003" href="$vgui___custom_objects_8cpp.html#a851d575c953a865371ef0212a6d3d32e" title="Returns the TGA file name based on resolution, excluding game directory." alt="" coords="398,5,542,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,16,382,16,382,21,350,21"/>
-</map>

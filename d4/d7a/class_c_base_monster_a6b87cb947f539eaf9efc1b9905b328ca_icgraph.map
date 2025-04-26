@@ -1,0 +1,16 @@
+<map id="CBaseMonster::Remember" name="CBaseMonster::Remember">
+<area shape="rect" id="Node000001" title=" " alt="" coords="433,107,611,133"/>
+<area shape="rect" id="Node000002" href="$dd/d0a/class_c_big_momma.html#abc6ff1af2cc3d5a0713af93cb6cce018" title="Activates the Big Momma entity." alt="" coords="224,5,375,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,100,438,73,384,46,353,35,354,30,386,42,440,68,488,96"/>
+<area shape="rect" id="Node000003" href="$dd/d0a/class_c_big_momma.html#a464e47b81c3dce11eda9db80fe36cfc1" title="Handles reaching a node in the sequence for the Big Momma entity." alt="" coords="214,56,385,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="445,105,361,86,362,81,446,100"/>
+<area shape="rect" id="Node000005" href="$dd/d0a/class_c_big_momma.html#aa931b8909e6f0d5525c2b38f3cc68cbd" title="Starts the node sequence for the Big Momma entity." alt="" coords="218,107,381,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="417,123,381,123,381,117,417,117"/>
+<area shape="rect" id="Node000006" href="$d0/d51/class_c_barney.html#a7b4f6de84eb885c40f9b8d509571efc6" title="Handles damage taken by the Barney entity." alt="" coords="222,157,377,184"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="446,140,362,159,361,154,445,135"/>
+<area shape="rect" id="Node000007" href="$dc/d29/class_c_scientist.html#aae526769eac1dfad245f95f261eb08ae" title="Handles damage taken by the scientist." alt="" coords="217,208,382,235"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="488,144,440,172,386,198,354,210,353,205,384,194,438,167,485,140"/>
+<area shape="rect" id="Node000004" href="$dd/d0a/class_c_big_momma.html#a5b08b3d01ea66e18ff8f58c974ff714c" title="Starts a task for Big Momma." alt="" coords="5,81,166,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,84,166,88,166,83,198,79"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="202,111,166,107,166,102,203,106"/>
+</map>

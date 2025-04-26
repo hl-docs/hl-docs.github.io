@@ -1,7 +1,0 @@
-<map id="CHudBattery::VidInit" name="CHudBattery::VidInit">
-<area shape="rect" id="Node000001" title="Initializes battery HUD sprites and dimensions." alt="" coords="5,31,145,57"/>
-<area shape="rect" id="Node000002" href="$class_c_hud.html#aee3124b4f58baa73eab23621cf8640d1" title=" " alt="" coords="193,5,340,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,32,177,28,177,33,145,37"/>
-<area shape="rect" id="Node000003" href="$class_c_hud.html#a1fe1369815e46a2edf526814e17e7c9f" title=" " alt="" coords="195,56,338,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,51,180,55,179,60,145,56"/>
-</map>

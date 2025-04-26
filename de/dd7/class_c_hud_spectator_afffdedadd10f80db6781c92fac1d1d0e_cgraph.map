@@ -1,0 +1,19 @@
+<map id="CHudSpectator::CheckSettings" name="CHudSpectator::CheckSettings">
+<area shape="rect" id="Node000001" title="Checks and enforces inset view settings for the spectator HUD." alt="" coords="5,97,208,124"/>
+<area shape="rect" id="Node000002" href="$d0/dcb/class_spectator_panel.html#af29c2f205166c456bd9101125ed4a1b1" title="Enables or disables the inset camera view in spectator mode." alt="" coords="256,97,470,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,108,240,108,240,113,208,113"/>
+<area shape="rect" id="Node000003" href="$df/de1/class_c_hud_text_message.html#ad31afd57614ff64021461d4dddd58cbb" title="Localizes a text message with a local static buffer." alt="" coords="518,5,704,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,94,530,51,532,56,406,99"/>
+<area shape="rect" id="Node000006" href="$da/d45/vgui___spectator_panel_8cpp.html#adb6d7433a1782a65a069fada7b393bc6" title="Returns the localized label text for a given spectator mode." alt="" coords="547,72,676,99"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="470,97,531,91,531,96,471,102"/>
+<area shape="rect" id="Node000007" href="$d5/dd3/class_command_button.html#a030a79a733862b5b8ff2108e3697abab" title="Sets the button display text." alt="" coords="527,123,696,149"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="471,119,511,123,511,128,470,124"/>
+<area shape="rect" id="Node000009" href="$d0/dcb/class_spectator_panel.html#a642cec1506e81c50c31572fb983126a3" title="Updates the positions and visibility of time, scores, and extra HUD info." alt="" coords="532,173,691,200"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="405,122,519,159,544,166,543,171,517,164,404,127"/>
+<area shape="rect" id="Node000004" href="$df/de1/class_c_hud_text_message.html#a847c99e126f98c009a2129b99307f88c" title="Localizes a text message by replacing any placeholder messages with actual text." alt="" coords="768,5,956,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="705,24,753,24,753,29,705,29"/>
+<area shape="rect" id="Node000005" href="$de/d3f/cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="1020,13,1140,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="956,24,1004,24,1004,29,956,29"/>
+<area shape="rect" id="Node000008" href="$d5/dd3/class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="752,123,972,149"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="696,133,737,133,737,139,696,139"/>
+</map>

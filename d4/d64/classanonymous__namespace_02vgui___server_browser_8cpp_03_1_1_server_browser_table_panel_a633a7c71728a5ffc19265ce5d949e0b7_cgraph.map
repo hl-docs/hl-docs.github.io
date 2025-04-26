@@ -1,0 +1,9 @@
+<map id="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoConnect" name="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoConnect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,215,80"/>
+<area shape="rect" id="Node000002" href="$d6/d3f/hud__servers_8cpp.html#ad250b90c094eb79101c986cc1ff75c9b" title="Retrieves information string for a server in the global server browser." alt="" coords="263,29,368,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,40,247,40,247,45,215,45"/>
+<area shape="rect" id="Node000003" href="$d1/d59/class_c_hud_servers.html#a6cc4f6b05dbafb306f38f4e8923ebe29" title="Gets the key/value info string of a specified server." alt="" coords="416,29,597,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,40,400,40,400,45,368,45"/>
+<area shape="rect" id="Node000004" href="$d1/d59/class_c_hud_servers.html#a0cf574be6e6cfb2849ded46f773a2d45" title="Returns a pointer to the server at the specified index." alt="" coords="645,29,807,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="597,40,630,40,630,45,597,45"/>
+</map>

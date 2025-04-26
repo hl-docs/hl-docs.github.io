@@ -1,0 +1,7 @@
+<map id="CIchthyosaur::GetSchedule" name="CIchthyosaur::GetSchedule">
+<area shape="rect" id="Node000001" title="Gets the current schedule for the ichthyosaur." alt="" coords="5,43,186,69"/>
+<area shape="rect" id="Node000002" href="$d4/d30/class_c_ichthyosaur.html#a3c33ede7a59346fa6d54c12b1e32b16a" title="Gets the schedule of a specific type for the ichthyosaur." alt="" coords="243,5,424,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,42,228,37,228,42,186,48"/>
+<area shape="rect" id="Node000003" href="$d4/d7a/class_c_base_monster.html#ad47e63eada724d17f05421fd73911cd1" title=" " alt="" coords="234,72,433,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,64,219,68,218,74,186,70"/>
+</map>

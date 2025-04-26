@@ -1,0 +1,5 @@
+<map id="CFrictionModifier::ChangeFriction" name="CFrictionModifier::ChangeFriction">
+<area shape="rect" id="Node000001" title="Changes the friction of the touching entity." alt="" coords="180,5,306,48"/>
+<area shape="rect" id="Node000002" href="$df/d0b/class_c_friction_modifier.html#a2266b3446c2b7ef47dc0bf3398e2334b" title="Initializes the friction modifier entity." alt="" coords="5,5,132,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,29,132,29,132,24,164,24"/>
+</map>

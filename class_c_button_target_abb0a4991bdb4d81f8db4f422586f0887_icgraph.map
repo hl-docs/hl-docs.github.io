@@ -1,5 +1,0 @@
-<map id="CButtonTarget::Use" name="CButtonTarget::Use">
-<area shape="rect" id="Node000001" title="Uses the button target entity." alt="" coords="242,5,377,32"/>
-<area shape="rect" id="Node000002" href="$class_c_button_target.html#a6ac5f92fb0d25a80aab1c352365ce337" title="Handles damage taken by the button target entity." alt="" coords="5,5,194,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,21,194,21,194,16,226,16"/>
-</map>

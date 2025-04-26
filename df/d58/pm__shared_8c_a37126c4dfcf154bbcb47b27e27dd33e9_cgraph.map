@@ -1,0 +1,16 @@
+<map id="PM_UpdateStepSound" name="PM_UpdateStepSound">
+<area shape="rect" id="Node000001" title="Updates the player&#39;s step sound state." alt="" coords="5,81,159,108"/>
+<area shape="rect" id="Node000002" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="496,107,556,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,88,276,85,406,92,482,106,481,111,406,97,276,91,159,93"/>
+<area shape="rect" id="Node000004" href="$df/d58/pm__shared_8c.html#a17811ffb2af302bac8dbd28a960e296e" title="Analyzes the texture under the player." alt="" coords="216,5,397,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,78,206,48,246,35,248,40,208,53,122,83"/>
+<area shape="rect" id="Node000006" href="$df/d58/pm__shared_8c.html#a4317b05094ba900560ebe20cd8266d0a" title="Maps texture types to step sound types." alt="" coords="207,107,406,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,101,192,104,191,110,159,106"/>
+<area shape="rect" id="Node000007" href="$df/d58/pm__shared_8c.html#aaa8cfe9f309b881e8a8e902e1c794627" title="Plays a footstep sound based on the surface type." alt="" coords="237,157,376,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="115,106,208,143,231,150,230,155,206,148,113,111"/>
+<area shape="rect" id="Node000003" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="646,107,690,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="557,117,631,117,631,123,557,123"/>
+<area shape="rect" id="Node000005" href="$df/d58/pm__shared_8c.html#ad69b0264310e1758470f45f9cb82488e" title="Finds the type of a texture by its name." alt="" coords="454,5,598,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="397,16,438,16,438,21,397,21"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="367,154,480,128,481,133,368,159"/>
+</map>

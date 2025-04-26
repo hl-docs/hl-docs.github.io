@@ -1,5 +1,0 @@
-<map id="TeamFortressViewport::DeathMsg" name="TeamFortressViewport::DeathMsg">
-<area shape="rect" id="Node000001" title="Handles death messages." alt="" coords="5,5,157,48"/>
-<area shape="rect" id="Node000002" href="$class_score_panel.html#acc36b2bc07c9b4cc9505cedc0401616d" title="Setup highlights for player names in scoreboard." alt="" coords="205,13,360,40"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,24,189,24,189,29,157,29"/>
-</map>

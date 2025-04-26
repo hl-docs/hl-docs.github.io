@@ -1,0 +1,27 @@
+var class_c_gauss =
+[
+    [ "AddToPlayer", "db/dab/class_c_gauss.html#a62579fe7b71a4833682a60dbe349f613", null ],
+    [ "Deploy", "db/dab/class_c_gauss.html#ae3a0b677d24814a7607df46385391e09", null ],
+    [ "Fire", "db/dab/class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726", null ],
+    [ "GetFullChargeTime", "db/dab/class_c_gauss.html#a9473074419a427924a9e9fd2795c0436", null ],
+    [ "GetItemInfo", "db/dab/class_c_gauss.html#af7b83f22820ec8f6b610e376d8293511", null ],
+    [ "Holster", "db/dab/class_c_gauss.html#a0df5feb378cf851acd1ddf62abfd1e87", null ],
+    [ "iItemSlot", "db/dab/class_c_gauss.html#a3d9171299dea749c20c23ce7e6ef8dba", null ],
+    [ "Precache", "db/dab/class_c_gauss.html#a6e601e00f1dcd84dfa135f2c4214dfff", null ],
+    [ "PrimaryAttack", "db/dab/class_c_gauss.html#a885e215da3bf2207e633b39d7d648d7c", null ],
+    [ "Restore", "db/dab/class_c_gauss.html#aca9ec7e246eb8bd203f494ec400b9ff7", null ],
+    [ "Save", "db/dab/class_c_gauss.html#a33d0fd279f7befd2ed21323f006cb10d", null ],
+    [ "SecondaryAttack", "db/dab/class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be", null ],
+    [ "Spawn", "db/dab/class_c_gauss.html#aba890fe183b5a6a6204661afde8480f3", null ],
+    [ "StartFire", "db/dab/class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21", null ],
+    [ "UseDecrement", "db/dab/class_c_gauss.html#a37b28738aca5d29ea06193d0685fdbab", null ],
+    [ "WeaponIdle", "db/dab/class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4", null ],
+    [ "m_fPrimaryFire", "db/dab/class_c_gauss.html#a7907fc14bb59158bfe6a0a302203c78b", null ],
+    [ "m_iBalls", "db/dab/class_c_gauss.html#a7c31e91b14a20f225ea01e9a71e6f3ba", null ],
+    [ "m_iBeam", "db/dab/class_c_gauss.html#a0021a03a20ee7098a721da94e607d9cd", null ],
+    [ "m_iGlow", "db/dab/class_c_gauss.html#a749bf67a0e9aa6b4fac15ef6345b8154", null ],
+    [ "m_iSoundState", "db/dab/class_c_gauss.html#adc52375f9fe2e6d7997b3fb90e691dfa", null ],
+    [ "m_SaveData", "db/dab/class_c_gauss.html#a5c986cd3c26c0a5cf95e2fdb7bc0c759", null ],
+    [ "m_usGaussFire", "db/dab/class_c_gauss.html#a4c7cb35b31e88c79023794103e378576", null ],
+    [ "m_usGaussSpin", "db/dab/class_c_gauss.html#a2859c87e41fdc25ad6d7902cc78da53d", null ]
+];

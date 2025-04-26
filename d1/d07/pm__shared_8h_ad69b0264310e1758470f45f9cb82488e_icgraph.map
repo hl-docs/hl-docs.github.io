@@ -1,0 +1,18 @@
+<map id="PM_FindTextureType" name="PM_FindTextureType">
+<area shape="rect" id="Node000001" title="Finds the type of a texture by its name." alt="" coords="1154,31,1298,57"/>
+<area shape="rect" id="Node000002" href="$df/d58/pm__shared_8c.html#a17811ffb2af302bac8dbd28a960e296e" title="Analyzes the texture under the player." alt="" coords="924,31,1106,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1138,47,1106,47,1106,41,1138,41"/>
+<area shape="rect" id="Node000003" href="$df/d58/pm__shared_8c.html#a37126c4dfcf154bbcb47b27e27dd33e9" title="Updates the player&#39;s step sound state." alt="" coords="723,31,876,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="909,47,876,47,876,41,909,41"/>
+<area shape="rect" id="Node000004" href="$df/d58/pm__shared_8c.html#a64304a9437fd5023183ce4502915929d" title="Checks if the player is falling and handles the effects of a fall." alt="" coords="552,5,675,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,34,675,30,676,24,708,29"/>
+<area shape="rect" id="Node000005" href="$df/d58/pm__shared_8c.html#a4af09a5ca8abcfc2d4e5d71a6f24848d" title="Returns with origin, angles, and velocity modified in place." alt="" coords="388,31,504,57"/>
+<area shape="poly" id="edge8_Node000003_Node000005" title=" " alt="" coords="708,47,504,47,504,41,708,41"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="537,33,505,38,504,33,536,28"/>
+<area shape="rect" id="Node000006" href="$df/d58/pm__shared_8c.html#a93976be26aeba051339105f9caa17b67" title="The main player physics update function." alt="" coords="262,31,340,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="373,47,341,47,341,41,373,41"/>
+<area shape="rect" id="Node000007" href="$d9/dbd/cdll__int_8cpp.html#ac1888150107edabbf964bc55a56f0403" title="Moves the player based on movement commands." alt="" coords="92,31,214,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="246,47,214,47,214,41,246,41"/>
+<area shape="rect" id="Node000008" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,31,44,57"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="76,47,44,47,44,41,76,41"/>
+</map>

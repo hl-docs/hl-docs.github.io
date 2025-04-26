@@ -1,0 +1,22 @@
+<map id="CFuncPlat::CallGoDown" name="CFuncPlat::CallGoDown">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1045,81,1206,108"/>
+<area shape="rect" id="Node000002" href="$de/db3/class_c_func_plat.html#ac80f16ab24fb998ee21824ae59cf7cb7" title="Handles the event when the platform hits the top." alt="" coords="870,81,997,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1029,97,997,97,997,92,1029,92"/>
+<area shape="rect" id="Node000003" href="$de/db3/class_c_func_plat.html#a722437afc87453bed9798172ffdafe6e" title=" " alt="" coords="672,56,822,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="854,87,822,82,823,77,855,81"/>
+<area shape="rect" id="Node000009" href="$dc/df8/class_c_func_plat_rot.html#a07b7eab26f39263bd957466cabebbea6" title="Handles the event when the platform hits the top." alt="" coords="673,107,821,133"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="855,108,821,113,820,107,854,103"/>
+<area shape="rect" id="Node000004" href="$de/db3/class_c_func_plat.html#a111348036d65c2b1d6b650cc5d843134" title="Moves the platform up." alt="" coords="473,5,596,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="672,54,593,35,594,30,673,49"/>
+<area shape="rect" id="Node000006" href="$d0/d93/class_c_func_track_change.html#a86a802569986a457166bf7aa2de3831c" title="Moves the track change entity up." alt="" coords="220,56,396,83"/>
+<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="657,72,397,72,397,67,657,67"/>
+<area shape="rect" id="Node000005" href="$dc/df8/class_c_func_plat_rot.html#a47f39237350e0e057996484d6f1177b4" title="Moves the platform up and initiates its rotation." alt="" coords="236,5,380,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="457,21,380,21,380,16,457,16"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="458,38,371,58,370,53,457,33"/>
+<area shape="rect" id="Node000007" href="$d0/d93/class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="5,31,172,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="204,60,172,56,172,51,205,55"/>
+<area shape="rect" id="Node000008" href="$de/d87/class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="14,81,163,108"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="205,84,164,89,163,83,204,79"/>
+<area shape="rect" id="Node000010" href="$d0/d93/class_c_func_track_change.html#af3884efbdd881f0f26835f16c80672fa" title="Handles the event when the track change entity hits the top." alt="" coords="444,107,624,133"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="658,123,625,123,625,117,658,117"/>
+</map>

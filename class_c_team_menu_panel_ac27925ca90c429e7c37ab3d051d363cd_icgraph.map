@@ -1,9 +1,0 @@
-<map id="CTeamMenuPanel::SlotInput" name="CTeamMenuPanel::SlotInput">
-<area shape="rect" id="Node000001" title="Handles slot key input (1&#45;6) from the user." alt="" coords="456,13,643,40"/>
-<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a9459e8b460b7deb3889648dfb5cbcb29" title="Handles direct key input and dispatches it to active menus or performs default behavior." alt="" coords="257,5,408,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,29,409,29,409,24,441,24"/>
-<area shape="rect" id="Node000003" href="$input_8cpp.html#acae0b9c23c657f3a85229c9d78d8adea" title="Handles keyboard input events for the HUD (Heads&#45;Up Display)." alt="" coords="92,13,209,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,29,209,29,209,24,241,24"/>
-<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,13,44,40"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,29,44,29,44,24,76,24"/>
-</map>

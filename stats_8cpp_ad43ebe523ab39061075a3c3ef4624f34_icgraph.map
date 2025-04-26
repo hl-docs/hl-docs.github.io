@@ -1,5 +1,0 @@
-<map id="AmmoDamage" name="AmmoDamage">
-<area shape="rect" id="Node000001" title="Retrieves the damage value for a given type of ammunition." alt="" coords="147,5,254,32"/>
-<area shape="rect" id="Node000002" href="$stats_8cpp.html#a0d540c820a29a88a73d2b0c5c0f19922" title="Updates the game statistics for a given player." alt="" coords="5,5,99,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,21,99,21,99,16,131,16"/>
-</map>

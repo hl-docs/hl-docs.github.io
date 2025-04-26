@@ -1,0 +1,5 @@
+<map id="CBaseTrigger::CounterUse" name="CBaseTrigger::CounterUse">
+<area shape="rect" id="Node000001" title="Handles the use action for the counting trigger." alt="" coords="215,5,390,32"/>
+<area shape="rect" id="Node000002" href="$d0/d13/class_c_trigger_counter.html#a2b601f9f14c72a39ee1109a70782187a" title="Initializes the counter trigger entity." alt="" coords="5,5,167,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,167,21,167,16,199,16"/>
+</map>

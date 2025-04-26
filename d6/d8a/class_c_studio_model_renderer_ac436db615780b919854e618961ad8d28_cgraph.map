@@ -1,0 +1,80 @@
+<map id="CStudioModelRenderer::StudioDrawPlayer" name="CStudioModelRenderer::StudioDrawPlayer">
+<area shape="rect" id="Node000001" title="Renders a player model in the studio." alt="" coords="5,291,160,333"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/class_c_studio_model_renderer.html#af2576ceef4b65ea1f0b89825cd60be0d" title="Calculates the attachment points for the current model." alt="" coords="208,21,374,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,289,133,201,166,147,206,97,236,71,239,75,210,101,171,150,138,203,95,292"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/class_c_studio_model_renderer.html#a8c62517ae5284df3d4a81e4dca87ad7a" title="Merges bone transformations from a sub&#45;model into the current model." alt="" coords="214,224,368,267"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,288,207,269,208,274,152,293"/>
+<area shape="rect" id="Node000020" href="$d6/d8a/class_c_studio_model_renderer.html#aa9c6d285932eb5c21432ef4ea47aa932" title="Processes the player&#39;s gait and adjusts the torso and animation parameters." alt="" coords="214,677,368,720"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="93,333,137,448,171,523,210,596,235,632,261,664,257,668,231,635,205,599,166,525,132,450,88,335"/>
+<area shape="rect" id="Node000025" href="$d6/d8a/class_c_studio_model_renderer.html#a8908f7e918305092f884a50259ff24e4" title="Renders the model for the current entity." alt="" coords="214,777,368,820"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="88,334,98,405,118,507,134,564,155,622,180,678,210,730,225,749,244,766,240,770,221,753,205,734,175,680,150,624,129,566,113,508,92,406,83,334"/>
+<area shape="rect" id="Node000029" href="$d6/d8a/class_c_studio_model_renderer.html#a7751b40e93d620b7e3fc7fca9a17854d" title="Saves the bone transformations for the studio model." alt="" coords="214,111,368,153"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="107,288,251,162,255,166,110,292"/>
+<area shape="rect" id="Node000030" href="$d6/d8a/class_c_studio_model_renderer.html#afdbf19623a68fbc4c6c9e63e9f590caf" title="Prepares the bone transformations (rotation and position) for rendering the model." alt="" coords="214,291,368,333"/>
+<area shape="poly" id="edge30_Node000001_Node000030" title=" " alt="" coords="160,309,198,309,198,315,160,315"/>
+<area shape="rect" id="Node000032" href="$d6/d8a/class_c_studio_model_renderer.html#aa0543469ff9a203585327efcb1a4a21c" title="Sets up the model transformation matrix for rendering the entity." alt="" coords="211,543,371,585"/>
+<area shape="poly" id="edge41_Node000001_Node000032" title=" " alt="" coords="104,332,264,529,260,532,100,336"/>
+<area shape="rect" id="Node000003" href="$dd/d2e/studio__util_8cpp.html#a8ce9ca21ed654193ca28c71fefd33e8a" title="Transforms a vector by a 3x4 matrix." alt="" coords="442,5,558,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,30,426,24,427,30,375,36"/>
+<area shape="rect" id="Node000005" href="$dd/d2e/studio__util_8cpp.html#a236632d897a70225249a71ff7eb1a914" title="Concatenates two 3x4 transformation matrices." alt="" coords="437,525,563,552"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="362,265,376,277,399,310,407,340,412,373,424,411,454,465,482,511,478,513,449,467,420,413,407,374,402,342,394,312,372,280,358,269"/>
+<area shape="rect" id="Node000006" href="$dd/d2e/studio__util_8cpp.html#a70d2bc65bdf53744c6d043da78a207c1" title="Copies a 3x4 matrix." alt="" coords="456,56,543,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="315,222,372,164,385,144,393,126,403,110,420,93,440,81,443,86,424,97,407,113,398,129,390,147,376,167,319,225"/>
+<area shape="rect" id="Node000007" href="$dd/d2e/studio__util_8cpp.html#a48f6f51ee0136467643515656f5b9e09" title="Converts a quaternion to a 4x4 transformation matrix." alt="" coords="440,107,560,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="314,221,361,182,421,143,433,137,436,142,423,148,364,186,317,226"/>
+<area shape="rect" id="Node000008" href="$d6/d8a/class_c_studio_model_renderer.html#a499bc27d01c46b0fcfe30dc5a5177a7d" title="Calculates bone rotations and positions for the current animation frame." alt="" coords="423,157,577,200"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="359,221,415,203,417,208,360,226"/>
+<area shape="rect" id="Node000016" href="$d6/d8a/class_c_studio_model_renderer.html#a5a62dc392df481914188524e96eef4da" title="Estimates the current animation frame based on time and interpolation settings." alt="" coords="422,224,577,267"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="368,243,406,243,406,248,368,248"/>
+<area shape="rect" id="Node000017" href="$d6/d8a/class_c_studio_model_renderer.html#afb8ece3694521684056c019a9c4f8403" title="Applies rendering effects like distortion or explosion to the transformation matrix." alt="" coords="423,291,577,333"/>
+<area shape="poly" id="edge16_Node000004_Node000017" title=" " alt="" coords="360,265,417,283,415,288,359,270"/>
+<area shape="rect" id="Node000019" href="$d6/d8a/class_c_studio_model_renderer.html#a0f8aab184efe5bd9e61bfc3f72e0fd1c" title="Retrieves the animation data pointer for the given sequence." alt="" coords="423,357,577,400"/>
+<area shape="poly" id="edge18_Node000004_Node000019" title=" " alt="" coords="358,265,376,277,392,294,400,311,409,327,424,343,428,347,425,351,420,347,404,330,396,313,387,297,372,281,355,269"/>
+<area shape="rect" id="Node000009" href="$d6/d8a/class_c_studio_model_renderer.html#ab3567f97a467114bba20445b7a3c9e36" title="Calculates bone controller adjustments for animation interpolation." alt="" coords="646,91,801,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="573,154,634,136,635,141,574,159"/>
+<area shape="rect" id="Node000010" href="$d6/d8a/class_c_studio_model_renderer.html#a6ccbb43956fd845275ed9a63f91c494c" title="Calculates the bone position for a given animation frame." alt="" coords="639,157,808,200"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="577,176,623,176,623,181,577,181"/>
+<area shape="rect" id="Node000011" href="$d6/d8a/class_c_studio_model_renderer.html#aa35b338a10d31cfd5f33fdab528c5c92" title="Calculates the bone orientation (quaternion) for a given animation frame." alt="" coords="634,224,813,267"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="574,198,635,216,634,222,573,203"/>
+<area shape="rect" id="Node000015" href="$d6/d8a/class_c_studio_model_renderer.html#a36a02e29c74dd7e3b8d7fd45d746a7f5" title="Estimates the interpolation factor for animation blending." alt="" coords="634,291,813,333"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="561,198,579,210,595,228,603,245,612,261,627,277,633,281,630,285,624,281,607,264,599,247,590,231,576,214,559,203"/>
+<area shape="rect" id="Node000012" href="$dd/d2e/studio__util_8cpp.html#a16042b88ad22f3297b1176f950366e2d" title="Converts Euler angles to a quaternion." alt="" coords="870,207,987,233"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="813,232,854,226,855,232,813,237"/>
+<area shape="rect" id="Node000013" href="$dd/d2e/studio__util_8cpp.html#ab621fbc786bcd3a0e31c5d3e6e2417bf" title="Performs spherical linear interpolation (SLERP) between two quaternions." alt="" coords="871,364,986,391"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="800,265,823,276,871,313,908,351,904,354,867,317,820,281,798,270"/>
+<area shape="rect" id="Node000014" href="$dd/d2e/studio__util_8cpp.html#a746b1664af98bddc08e0f1803a908282" title="Compares two 3D vectors for equality." alt="" coords="873,257,984,284"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="813,254,858,259,857,265,813,259"/>
+<area shape="rect" id="Node000018" href="$d2/d29/cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="677,357,770,384"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="578,330,626,343,663,352,662,358,625,348,577,335"/>
+<area shape="rect" id="Node000021" href="$d6/d8a/class_c_studio_model_renderer.html#ab997bf7e27d78746eb0224c76a577bf5" title="Estimates the gait (movement) of the player based on their velocity or the previous position." alt="" coords="423,744,577,787"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="360,718,417,736,415,741,359,723"/>
+<area shape="rect" id="Node000024" href="$d6/d8a/class_c_studio_model_renderer.html#a89b13f278f6b0de0063b4ffb2b5dabfe" title="Calculates blend value based on pitch angle for player animation blending." alt="" coords="423,677,577,720"/>
+<area shape="poly" id="edge23_Node000020_Node000024" title=" " alt="" coords="368,696,407,696,407,701,368,701"/>
+<area shape="rect" id="Node000022" href="$d2/d29/cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="693,752,754,779"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="577,763,678,763,678,768,577,768"/>
+<area shape="rect" id="Node000023" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="907,752,950,779"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="754,763,891,763,891,768,754,768"/>
+<area shape="rect" id="Node000026" href="$d6/d8a/class_c_studio_model_renderer.html#a3879c3190c694e5b94a392b7416b4a26" title="Finalizes the model rendering based on the current hardware or software mode." alt="" coords="423,811,577,853"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="369,808,408,815,407,820,368,814"/>
+<area shape="rect" id="Node000027" href="$d6/d8a/class_c_studio_model_renderer.html#a0fd694aa5803eb64a45390c47ad8ad14" title="Finalizes the model rendering in hardware mode." alt="" coords="625,873,822,916"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="578,851,631,866,629,871,576,856"/>
+<area shape="rect" id="Node000028" href="$d6/d8a/class_c_studio_model_renderer.html#a647f3476b32f089f68f8b3ea8ee3217b" title="Finalizes the model rendering in software mode." alt="" coords="627,807,820,849"/>
+<area shape="poly" id="edge27_Node000026_Node000028" title=" " alt="" coords="577,828,611,827,612,833,577,833"/>
+<area shape="poly" id="edge29_Node000029_Node000006" title=" " alt="" coords="363,108,440,84,442,89,365,113"/>
+<area shape="poly" id="edge31_Node000030_Node000005" title=" " alt="" coords="304,333,322,369,348,415,382,463,424,505,441,516,438,520,420,509,378,466,344,418,317,372,299,335"/>
+<area shape="poly" id="edge32_Node000030_Node000006" title=" " alt="" coords="359,288,372,277,387,254,394,231,395,186,395,140,403,116,420,93,440,79,443,83,424,97,408,119,401,141,400,186,400,232,392,256,376,280,363,292"/>
+<area shape="poly" id="edge33_Node000030_Node000007" title=" " alt="" coords="358,288,372,277,384,260,391,244,395,211,399,178,406,160,420,143,425,140,428,144,424,147,411,163,404,179,400,212,396,246,389,263,376,281,362,292"/>
+<area shape="poly" id="edge34_Node000030_Node000008" title=" " alt="" coords="355,288,372,277,387,260,396,244,404,227,420,210,425,206,428,211,424,214,409,230,400,247,392,263,376,281,358,292"/>
+<area shape="poly" id="edge36_Node000030_Node000015" title=" " alt="" coords="313,332,360,374,390,394,423,410,466,423,501,429,536,426,576,410,592,396,600,380,608,361,624,343,630,339,633,343,627,347,612,364,605,382,597,399,579,414,537,431,501,435,465,428,421,414,388,399,357,378,310,336"/>
+<area shape="poly" id="edge35_Node000030_Node000016" title=" " alt="" coords="359,288,415,269,417,274,360,293"/>
+<area shape="poly" id="edge37_Node000030_Node000017" title=" " alt="" coords="368,309,407,309,407,315,368,315"/>
+<area shape="poly" id="edge38_Node000030_Node000019" title=" " alt="" coords="360,331,417,350,415,355,359,336"/>
+<area shape="rect" id="Node000031" href="$d6/d8a/class_c_studio_model_renderer.html#ae1267e1e652fe0c0338f4b2ca77b92cd" title="Spherically interpolates bone rotations and linearly interpolates bone positions." alt="" coords="646,437,801,480"/>
+<area shape="poly" id="edge39_Node000030_Node000031" title=" " alt="" coords="309,332,355,387,387,415,423,436,474,454,528,463,581,467,631,466,631,471,581,472,528,468,473,459,421,441,384,419,351,391,305,335"/>
+<area shape="poly" id="edge40_Node000031_Node000013" title=" " alt="" coords="778,434,877,394,879,399,780,439"/>
+<area shape="poly" id="edge43_Node000032_Node000005" title=" " alt="" coords="370,552,421,545,422,551,371,557"/>
+<area shape="rect" id="Node000033" href="$dd/d2e/studio__util_8cpp.html#a372d6dd2f14c5053998d80e6dd0e6675" title="Converts an angle (in degrees) into a 4x4 transformation matrix." alt="" coords="455,627,545,653"/>
+<area shape="poly" id="edge42_Node000032_Node000033" title=" " alt="" coords="347,583,423,612,441,619,440,624,421,617,345,588"/>
+<area shape="rect" id="Node000034" href="$d2/d29/cl__dll_2util_8cpp.html#a25e0fa0a41af6ee0dc38542de4dd5683" title="Inverses the components of a vector." alt="" coords="450,576,549,603"/>
+<area shape="poly" id="edge44_Node000032_Node000034" title=" " alt="" coords="371,571,435,579,435,584,370,576"/>
+</map>

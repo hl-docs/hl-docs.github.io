@@ -1,0 +1,124 @@
+<map id="CBaseDelay::SUB_UseTargets" name="CBaseDelay::SUB_UseTargets">
+<area shape="rect" id="Node000001" title="Executes the targets associated with the delay entity." alt="" coords="1651,781,1852,808"/>
+<area shape="rect" id="Node000002" href="$d8/dd6/class_c_base_button.html#aca9cf4012a08dffe79128ab0bafa0fba" title="Handles the button returning to its start state." alt="" coords="1394,196,1602,222"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1743,766,1725,652,1694,495,1675,415,1652,343,1627,283,1601,243,1575,225,1578,221,1605,239,1632,281,1657,341,1680,414,1700,494,1731,651,1749,765"/>
+<area shape="rect" id="Node000004" href="$d8/dd6/class_c_base_button.html#a3bac76de72c1f4981ce1c5f021f0431b" title="Handles touch interactions with the button." alt="" coords="911,246,1090,273"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="1748,766,1744,678,1737,621,1725,559,1706,496,1680,434,1646,377,1601,329,1564,307,1511,291,1447,279,1374,270,1223,261,1091,260,1091,255,1223,256,1374,265,1447,273,1513,286,1566,302,1604,324,1650,374,1685,431,1711,494,1730,558,1742,620,1749,678,1753,765"/>
+<area shape="rect" id="Node000007" href="$d8/dd6/class_c_base_button.html#a26f3cfcfea37ef5c8b1143a1332d958e" title="Handles the button reaching the &quot;in/up&quot; position." alt="" coords="667,94,863,121"/>
+<area shape="poly" id="edge71_Node000001_Node000007" title=" " alt="" coords="1744,766,1729,640,1700,465,1681,376,1658,295,1631,229,1616,204,1601,186,1557,150,1510,120,1459,96,1406,78,1351,64,1294,55,1180,48,1070,53,969,65,882,81,816,96,815,91,881,76,968,60,1069,47,1180,43,1295,50,1352,59,1407,72,1461,91,1512,115,1561,145,1605,182,1621,201,1636,227,1663,293,1686,375,1706,464,1734,639,1750,765"/>
+<area shape="rect" id="Node000010" href="$d8/dd6/class_c_base_button.html#a64525735e7e495aa67a55953e08e75f0" title="Handles damage taken by the button entity." alt="" coords="199,44,381,70"/>
+<area shape="poly" id="edge62_Node000001_Node000010" title=" " alt="" coords="1745,766,1731,628,1703,432,1683,331,1660,239,1632,163,1617,134,1601,112,1560,73,1521,45,1482,26,1442,15,1400,10,1353,8,1243,9,764,9,658,13,551,22,372,46,372,41,551,17,657,7,764,4,1243,4,1354,3,1400,5,1443,10,1484,21,1523,40,1563,69,1605,109,1622,131,1637,161,1665,237,1689,330,1708,431,1736,627,1750,765"/>
+<area shape="rect" id="Node000011" href="$d7/da9/class_c_change_level.html#afd9334e5464c6d1c6064606cb3d7bd48" title="Changes the level immediately." alt="" coords="1393,338,1603,365"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="1746,766,1738,688,1715,584,1697,528,1672,473,1640,423,1601,379,1584,368,1587,363,1604,375,1645,420,1677,471,1702,526,1721,582,1743,687,1751,765"/>
+<area shape="rect" id="Node000015" href="$d9/dbc/class_c_base_delay.html#a087ae7dc5b9ccc9efbb8997d493b5271" title="Handles the delayed execution of targets." alt="" coords="1415,389,1581,416"/>
+<area shape="poly" id="edge23_Node000001_Node000015" title=" " alt="" coords="1743,766,1730,701,1704,616,1686,570,1662,526,1634,485,1601,449,1570,430,1535,419,1537,414,1572,425,1604,444,1638,481,1667,523,1690,568,1709,614,1735,700,1748,765"/>
+<area shape="rect" id="Node000016" href="$d3/d1f/class_c_base_turret.html#aca75241a920a6e589920143208c8562c" title="Deploys the turret." alt="" coords="1427,617,1569,644"/>
+<area shape="poly" id="edge25_Node000001_Node000016" title=" " alt="" coords="1719,774,1601,690,1525,647,1528,642,1604,686,1722,769"/>
+<area shape="rect" id="Node000022" href="$d3/d1f/class_c_base_turret.html#a732fe94be3c994ac82fbed600ebdfcc4" title="Retires the turret." alt="" coords="933,516,1068,542"/>
+<area shape="poly" id="edge59_Node000001_Node000022" title=" " alt="" coords="1735,768,1714,731,1684,687,1646,643,1601,607,1535,574,1463,549,1390,532,1316,522,1244,517,1178,517,1069,523,1068,518,1178,512,1244,512,1316,517,1391,527,1465,544,1537,569,1604,603,1650,640,1688,684,1718,728,1739,766"/>
+<area shape="rect" id="Node000026" href="$d3/d1f/class_c_base_turret.html#a0bf51cb491da64e2246751fd0460255c" title="Handles the damage behavior of the turret." alt="" coords="436,414,613,441"/>
+<area shape="poly" id="edge63_Node000001_Node000026" title=" " alt="" coords="1740,767,1722,719,1694,659,1654,600,1629,573,1601,551,1566,533,1522,516,1411,488,1278,466,1132,451,983,441,841,435,613,430,613,425,841,429,984,436,1133,446,1279,461,1412,482,1524,511,1569,528,1604,547,1633,570,1658,596,1698,657,1727,717,1745,766"/>
+<area shape="rect" id="Node000029" href="$d4/d4d/class_c_sentry.html#ad41a4a063ab7c1cef57d01e32bde0d5f" title="Handles damage taken by the sentry." alt="" coords="1166,668,1318,694"/>
+<area shape="poly" id="edge64_Node000001_Node000029" title=" " alt="" coords="1700,778,1602,746,1451,714,1318,693,1319,688,1452,709,1603,741,1702,773"/>
+<area shape="rect" id="Node000031" href="$d3/d9c/class_c_breakable.html#a7920746bea8c47175abe7162461a8a62" title="Handles the death of the breakable entity." alt="" coords="1440,756,1556,782"/>
+<area shape="poly" id="edge40_Node000001_Node000031" title=" " alt="" coords="1635,785,1556,778,1556,772,1635,780"/>
+<area shape="rect" id="Node000039" href="$de/d3b/class_c_base_door.html#a7a00193ddc527adee54032752b966b7c" title="The door has reached the &quot;down&quot; position." alt="" coords="1408,857,1588,884"/>
+<area shape="poly" id="edge46_Node000001_Node000039" title=" " alt="" coords="1690,815,1546,859,1545,854,1689,810"/>
+<area shape="rect" id="Node000044" href="$de/d3b/class_c_base_door.html#a347c41f04e7992149fd6cbd4a3cd6594" title="The door has reached the &quot;up&quot; position." alt="" coords="921,896,1080,922"/>
+<area shape="poly" id="edge50_Node000001_Node000044" title=" " alt="" coords="1636,813,1394,848,1081,898,1080,893,1393,842,1635,807"/>
+<area shape="rect" id="Node000049" href="$d2/dc7/class_c_trigger_camera.html#aa8a467fa056991dd8a4225f7784d6819" title="Follows the target entity." alt="" coords="1400,908,1596,934"/>
+<area shape="poly" id="edge51_Node000001_Node000049" title=" " alt="" coords="1724,820,1670,860,1604,898,1572,910,1570,905,1602,893,1667,856,1721,816"/>
+<area shape="rect" id="Node000051" href="$d1/d69/class_c_base_trigger.html#a93238453d1171487106746dc794b3f1c" title="Handles the touch event for the hurt trigger." alt="" coords="1415,958,1581,985"/>
+<area shape="poly" id="edge53_Node000001_Node000051" title=" " alt="" coords="1734,822,1681,886,1645,920,1604,949,1578,960,1576,955,1601,944,1641,916,1677,882,1730,819"/>
+<area shape="rect" id="Node000053" href="$d5/d27/class_c_xen_p_light.html#ac569d5f5819ecfe734c7e39be04bf76c" title="Turns the light off." alt="" coords="1428,1009,1568,1036"/>
+<area shape="poly" id="edge55_Node000001_Node000053" title=" " alt="" coords="1740,823,1720,863,1690,911,1651,959,1604,999,1569,1015,1567,1010,1601,995,1647,955,1685,908,1715,860,1735,821"/>
+<area shape="rect" id="Node000055" href="$d5/d27/class_c_xen_p_light.html#a255b8e3b1dea4cd6e9754bd8ce0b2672" title="Turns the light on." alt="" coords="1427,1060,1569,1086"/>
+<area shape="poly" id="edge57_Node000001_Node000055" title=" " alt="" coords="1744,823,1726,873,1698,934,1657,997,1632,1025,1604,1050,1570,1067,1568,1062,1601,1046,1629,1022,1653,994,1693,932,1722,871,1739,822"/>
+<area shape="rect" id="Node000056" href="$de/d02/class_c_scripted_sentence.html#a4d6b7118c26cf8d5431a1b91470e968b" title="Starts the scripted sentence for the target monster." alt="" coords="1427,1110,1569,1153"/>
+<area shape="poly" id="edge60_Node000001_Node000056" title=" " alt="" coords="1747,824,1731,881,1703,956,1685,995,1662,1033,1635,1069,1604,1101,1570,1120,1568,1116,1601,1096,1631,1066,1657,1030,1680,992,1699,954,1726,880,1742,822"/>
+<area shape="rect" id="Node000061" href="$d0/dc9/class_c_airtank.html#aeb94cd9a9fe7638931b776804c2bb6cc" title="Handles the airtank&#39;s think behavior." alt="" coords="1429,1177,1567,1204"/>
+<area shape="poly" id="edge65_Node000001_Node000061" title=" " alt="" coords="1750,824,1739,894,1714,987,1695,1036,1671,1084,1641,1128,1604,1167,1587,1178,1569,1186,1567,1181,1585,1174,1601,1163,1637,1125,1667,1081,1691,1034,1709,985,1734,893,1745,823"/>
+<area shape="rect" id="Node000063" href="$d0/dc9/class_c_airtank.html#ae3d00d0273e037628acdddd3befd5444" title="Handles the airtank&#39;s touch behavior with other entities." alt="" coords="1427,1228,1569,1254"/>
+<area shape="poly" id="edge67_Node000001_Node000063" title=" " alt="" coords="1752,823,1743,902,1721,1008,1702,1065,1677,1121,1645,1173,1604,1218,1588,1229,1571,1236,1569,1231,1586,1224,1601,1214,1641,1169,1673,1118,1697,1063,1716,1007,1738,901,1746,823"/>
+<area shape="rect" id="Node000064" href="$db/dd5/class_c_auto_trigger.html#ac3c0e113934449cc3508e6f893a52866" title="Executes the think function for the auto trigger." alt="" coords="1430,1278,1566,1305"/>
+<area shape="poly" id="edge69_Node000001_Node000064" title=" " alt="" coords="1753,823,1748,910,1740,968,1728,1030,1709,1095,1683,1158,1649,1217,1604,1268,1587,1281,1567,1288,1565,1283,1584,1276,1601,1264,1644,1214,1678,1156,1704,1093,1723,1029,1735,967,1742,910,1747,823"/>
+<area shape="rect" id="Node000065" href="$d3/d2f/class_c_fire_and_die.html#a68276db47965d455752ccb979a6df4bf" title="Executes the think function for the fire and die entity." alt="" coords="1431,1329,1565,1356"/>
+<area shape="poly" id="edge70_Node000001_Node000065" title=" " alt="" coords="1748,823,1730,932,1699,1081,1679,1156,1656,1225,1632,1281,1605,1319,1587,1332,1566,1340,1564,1335,1584,1327,1601,1315,1627,1278,1651,1223,1674,1155,1693,1080,1725,931,1743,822"/>
+<area shape="rect" id="Node000066" href="$da/d5a/class_c_trigger_relay.html#a5dd5659007d3f370ff72c44fb9ab0990" title="Activates the trigger relay." alt="" coords="1431,1380,1565,1406"/>
+<area shape="poly" id="edge72_Node000001_Node000066" title=" " alt="" coords="1749,824,1732,942,1702,1106,1682,1190,1659,1265,1633,1327,1605,1370,1586,1383,1566,1391,1564,1386,1584,1378,1601,1366,1629,1325,1654,1263,1677,1188,1697,1105,1727,942,1744,823"/>
+<area shape="rect" id="Node000003" href="$d8/dd6/class_c_base_button.html#a7c4ec672410f32f1f3008409fe777b89" title="Starts the button moving &quot;out/down&quot;." alt="" coords="1151,145,1333,172"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1411,195,1312,175,1313,170,1412,190"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1170,180,1139,193,1116,211,1091,230,1050,248,1048,243,1089,226,1112,207,1137,188,1168,175"/>
+<area shape="poly" id="edge16_Node000003_Node000007" title=" " alt="" coords="1135,152,910,129,863,123,864,118,911,124,1135,146"/>
+<area shape="rect" id="Node000009" href="$d8/dd6/class_c_base_button.html#a8fd92acf133124bddea1334d3e8be26f" title="Handles the use interaction with the button." alt="" coords="206,196,374,222"/>
+<area shape="poly" id="edge14_Node000003_Node000009" title=" " alt="" coords="1135,167,374,207,374,202,1135,161"/>
+<area shape="poly" id="edge15_Node000003_Node000010" title=" " alt="" coords="1180,143,1089,120,993,102,893,88,697,69,520,61,381,59,382,53,520,55,697,64,894,82,994,96,1091,115,1181,138"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="1105,242,1138,238,1393,214,1394,220,1138,244,1106,248"/>
+<area shape="rect" id="Node000005" href="$d6/d80/class_c_rot_button.html#a60fe287e0fee6141f73bd3d3f18a1767" title="Spawns the rotating button entity." alt="" coords="10,209,146,236"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="895,261,583,255,198,237,146,233,146,227,199,232,583,249,895,256"/>
+<area shape="rect" id="Node000006" href="$d8/dd6/class_c_base_button.html#a5eae01688c33be4ada622a6f7cd9d3ca" title="Spawns the button entity." alt="" coords="5,272,151,298"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="895,278,863,281,661,291,461,294,151,290,151,285,461,289,661,286,862,276,895,273"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="972,238,914,183,861,142,820,124,822,119,864,138,917,179,976,234"/>
+<area shape="rect" id="Node000008" href="$d8/dd6/class_c_base_button.html#a979524cd17dbdcfb1aa71817904b5bd7" title="Starts the button moving &quot;in/up&quot;." alt="" coords="429,120,619,146"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="652,122,620,126,620,120,652,117"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="593,148,948,243,946,248,592,154"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="467,154,335,198,333,193,465,149"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="465,117,333,74,335,69,467,112"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="191,218,146,221,146,216,191,213"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="237,231,119,274,117,269,235,226"/>
+<area shape="rect" id="Node000012" href="$d7/da9/class_c_change_level.html#ab5157ddf7f8ce4ef570f8c7615858317" title="Handles the touch event for the change level trigger." alt="" coords="1147,297,1337,340"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="1377,339,1337,334,1338,328,1378,334"/>
+<area shape="rect" id="Node000014" href="$d7/da9/class_c_change_level.html#a5f6126570a63a374908d9ab3d5504d7e" title="Activates the change level when triggered." alt="" coords="1138,364,1345,390"/>
+<area shape="poly" id="edge21_Node000011_Node000014" title=" " alt="" coords="1378,366,1346,369,1346,364,1378,361"/>
+<area shape="rect" id="Node000013" href="$d7/da9/class_c_change_level.html#a60485c813e292eba0270b8d78f68000c" title="Initializes the change level trigger entity." alt="" coords="925,334,1076,361"/>
+<area shape="poly" id="edge20_Node000012_Node000013" title=" " alt="" coords="1131,335,1076,341,1075,336,1131,329"/>
+<area shape="poly" id="edge22_Node000014_Node000013" title=" " alt="" coords="1122,365,1076,360,1076,354,1123,360"/>
+<area shape="poly" id="edge24_Node000015_Node000001" title=" " alt="" coords="1596,414,1604,421,1643,463,1674,513,1699,565,1718,619,1742,715,1752,780,1746,781,1737,716,1713,620,1694,567,1670,515,1639,467,1601,424,1592,418"/>
+<area shape="rect" id="Node000017" href="$d3/d1f/class_c_base_turret.html#ac5d610d943c3839668ba12cf4529be10" title="Handles the auto&#45;search behavior of the turret." alt="" coords="1142,566,1342,593"/>
+<area shape="poly" id="edge26_Node000016_Node000017" title=" " alt="" coords="1411,616,1312,596,1313,591,1412,611"/>
+<area shape="rect" id="Node000027" href="$d3/d1f/class_c_base_turret.html#aab170b6bc93d774ec41e38e252234287" title="Handles the use behavior for the turret." alt="" coords="686,578,844,605"/>
+<area shape="poly" id="edge39_Node000016_Node000027" title=" " alt="" coords="1411,631,1185,622,910,608,844,602,844,597,911,602,1185,617,1412,625"/>
+<area shape="poly" id="edge37_Node000016_Node000029" title=" " alt="" coords="1412,650,1313,670,1312,665,1411,645"/>
+<area shape="rect" id="Node000018" href="$d3/d1f/class_c_base_turret.html#a0c00f8f68597ffc6be41e1e7e880497b" title="Initializes the turret&#39;s state." alt="" coords="926,566,1075,593"/>
+<area shape="poly" id="edge27_Node000017_Node000018" title=" " alt="" coords="1126,582,1075,582,1075,577,1126,577"/>
+<area shape="poly" id="edge28_Node000017_Node000022" title=" " alt="" coords="1159,565,1067,546,1068,540,1160,560"/>
+<area shape="rect" id="Node000023" href="$d3/d1f/class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="678,477,852,504"/>
+<area shape="poly" id="edge29_Node000022_Node000023" title=" " alt="" coords="917,518,850,507,851,502,918,513"/>
+<area shape="poly" id="edge35_Node000022_Node000027" title=" " alt="" coords="934,550,819,580,818,575,932,544"/>
+<area shape="poly" id="edge32_Node000023_Node000016" title=" " alt="" coords="867,486,969,489,1091,498,1220,518,1284,533,1346,552,1418,583,1475,614,1473,619,1416,588,1344,557,1283,538,1219,524,1090,504,969,494,867,491"/>
+<area shape="rect" id="Node000024" href="$d3/d1f/class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="206,477,374,504"/>
+<area shape="poly" id="edge30_Node000023_Node000024" title=" " alt="" coords="663,501,374,500,374,495,663,495"/>
+<area shape="poly" id="edge33_Node000023_Node000026" title=" " alt="" coords="696,475,578,444,579,439,697,470"/>
+<area shape="poly" id="edge31_Node000024_Node000023" title=" " alt="" coords="389,480,678,481,678,486,389,486"/>
+<area shape="poly" id="edge34_Node000026_Node000024" title=" " alt="" coords="458,448,344,479,342,474,456,443"/>
+<area shape="rect" id="Node000028" href="$d3/d1f/class_c_base_turret.html#a6ad46595be0146d679745f122dff6c8b" title="Spawns the base turret entity." alt="" coords="454,578,594,605"/>
+<area shape="poly" id="edge36_Node000027_Node000028" title=" " alt="" coords="671,594,595,594,595,589,671,589"/>
+<area shape="rect" id="Node000030" href="$d4/d4d/class_c_sentry.html#a39059cd1ff9888979c51b1a4fe4d7c28" title="Handles touch interactions for the sentry." alt="" coords="926,668,1075,694"/>
+<area shape="poly" id="edge38_Node000029_Node000030" title=" " alt="" coords="1150,684,1075,684,1075,678,1150,678"/>
+<area shape="rect" id="Node000032" href="$d3/d9c/class_c_breakable.html#ac085211900af2e77d708383264bc2de9" title="Handles the touch event for the breakable entity." alt="" coords="918,769,1083,796"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="1440,790,1394,802,1346,810,1242,818,1138,810,1063,799,1064,794,1138,805,1242,813,1345,805,1393,796,1439,785"/>
+<area shape="rect" id="Node000035" href="$d3/d9c/class_c_breakable.html#adf5b94e0c19f1a449b894ddc982199c4" title="Handles damage taken by the breakable entity." alt="" coords="1156,718,1328,745"/>
+<area shape="poly" id="edge43_Node000031_Node000035" title=" " alt="" coords="1425,761,1328,747,1329,742,1425,756"/>
+<area shape="rect" id="Node000037" href="$d3/d9c/class_c_breakable.html#a1d067db7acedbf1c8c2d8fd86f8ccaf5" title="Breaks the breakable entity when triggered." alt="" coords="1182,769,1301,796"/>
+<area shape="poly" id="edge45_Node000031_Node000037" title=" " alt="" coords="1425,776,1302,782,1302,777,1425,770"/>
+<area shape="rect" id="Node000033" href="$d3/d9c/class_c_breakable.html#aa9ae6e72694530afcfe91852e1907af8" title="Spawns the breakable entity." alt="" coords="697,769,833,796"/>
+<area shape="poly" id="edge42_Node000032_Node000033" title=" " alt="" coords="902,785,833,785,833,780,902,780"/>
+<area shape="poly" id="edge44_Node000035_Node000032" title=" " alt="" coords="1160,752,1068,771,1067,766,1159,746"/>
+<area shape="rect" id="Node000040" href="$de/d3b/class_c_base_door.html#ade64a5c38a51efa02cec0e9b0cc34b9e" title="Starts the door going to its &quot;down&quot; position." alt="" coords="1156,921,1327,948"/>
+<area shape="poly" id="edge47_Node000039_Node000040" title=" " alt="" coords="1425,891,1394,898,1297,923,1296,918,1393,893,1424,885"/>
+<area shape="poly" id="edge48_Node000040_Node000044" title=" " alt="" coords="1140,927,1080,920,1081,915,1141,921"/>
+<area shape="rect" id="Node000045" href="$de/d3b/class_c_base_door.html#a6dd5e8bb0768e579f845d10a0a43dd28" title="Starts the door going to its &quot;up&quot; position." alt="" coords="687,896,843,922"/>
+<area shape="poly" id="edge49_Node000044_Node000045" title=" " alt="" coords="905,912,843,912,843,906,905,906"/>
+<area shape="rect" id="Node000050" href="$d2/dc7/class_c_trigger_camera.html#a1e79aa0cb1ea8697bb3d48299a216ce2" title="Activates the camera trigger." alt="" coords="1169,972,1314,998"/>
+<area shape="poly" id="edge52_Node000049_Node000050" title=" " alt="" coords="1424,941,1394,949,1346,962,1301,974,1300,969,1345,957,1393,944,1423,936"/>
+<area shape="rect" id="Node000052" href="$db/d21/class_c_trigger_hurt.html#ad0681a187bf8f4d377b366ee85a9a32b" title="Initializes the hurt trigger entity." alt="" coords="1172,1022,1312,1049"/>
+<area shape="poly" id="edge54_Node000051_Node000052" title=" " alt="" coords="1424,992,1394,1000,1346,1013,1301,1024,1300,1019,1345,1008,1393,995,1423,987"/>
+<area shape="rect" id="Node000054" href="$d5/d27/class_c_xen_p_light.html#a87057bb6dea4f1cef6aee879d4aec84d" title="Think function for the Xen plant light." alt="" coords="1178,1073,1305,1100"/>
+<area shape="poly" id="edge56_Node000053_Node000054" title=" " alt="" coords="1424,1043,1394,1050,1346,1064,1301,1075,1300,1070,1345,1059,1393,1045,1423,1037"/>
+<area shape="poly" id="edge58_Node000055_Node000054" title=" " alt="" coords="1412,1080,1306,1086,1306,1080,1412,1075"/>
+<area shape="rect" id="Node000057" href="$de/d02/class_c_scripted_sentence.html#a89cc8b3fcfe1175b282e72e549e5ead4" title="Think function to find a suitable entity to play the sentence." alt="" coords="1171,1124,1312,1166"/>
+<area shape="poly" id="edge61_Node000056_Node000057" title=" " alt="" coords="1412,1139,1313,1144,1313,1139,1412,1134"/>
+<area shape="rect" id="Node000062" href="$d0/dc9/class_c_airtank.html#aa0dd52579b35b6b82b346dfa44a805eb" title="Spawns the airtank entity in the game." alt="" coords="1183,1190,1301,1217"/>
+<area shape="poly" id="edge66_Node000061_Node000062" title=" " alt="" coords="1414,1197,1301,1203,1301,1198,1413,1192"/>
+<area shape="poly" id="edge68_Node000063_Node000062" title=" " alt="" coords="1411,1231,1301,1215,1302,1210,1412,1226"/>
+</map>

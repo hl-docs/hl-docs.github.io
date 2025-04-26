@@ -1,0 +1,9 @@
+<map id="UTIL_BloodDrips" name="UTIL_BloodDrips">
+<area shape="rect" id="Node000001" title="Emits blood drips at a specified origin and direction." alt="" coords="5,56,123,83"/>
+<area shape="rect" id="Node000002" href="$d4/d4f/class_c_game_rules.html#ad6ac4abfecc4f6ffde18b6232f1a4d9c" title=" " alt="" coords="171,5,350,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,53,190,34,192,39,119,58"/>
+<area shape="rect" id="Node000003" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="193,56,328,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,67,178,67,178,72,123,72"/>
+<area shape="rect" id="Node000004" href="$dc/d44/dlls_2util_8cpp.html#a7e962acd5dc76628b0a5aabf9c0fdfe2" title="Determines if blood should be shown based on the color." alt="" coords="181,107,340,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,81,192,100,190,105,118,86"/>
+</map>

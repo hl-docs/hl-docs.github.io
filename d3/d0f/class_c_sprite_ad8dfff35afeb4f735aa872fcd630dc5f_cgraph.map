@@ -1,0 +1,11 @@
+<map id="CSprite::AnimateUntilDead" name="CSprite::AnimateUntilDead">
+<area shape="rect" id="Node000001" title="Animates the sprite until it is removed." alt="" coords="5,31,182,57"/>
+<area shape="rect" id="Node000002" href="$d3/d0f/class_c_sprite.html#ac8cf5a109300050a48f5ab1f7c64ce7b" title="Think function for sprite animation." alt="" coords="230,5,381,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,31,214,27,215,32,183,36"/>
+<area shape="rect" id="Node000005" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="255,56,356,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,52,241,59,240,64,182,57"/>
+<area shape="rect" id="Node000003" href="$d3/d0f/class_c_sprite.html#a3b4a06d55a75cb8827c515d10f538d16" title="Animates the sprite." alt="" coords="429,5,549,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,16,414,16,414,21,381,21"/>
+<area shape="rect" id="Node000004" href="$d3/d0f/class_c_sprite.html#a1ceacbcb997d27b2d1cdc7f65cf98a8b" title="Turns off the sprite effect." alt="" coords="597,5,711,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="550,16,582,16,582,21,550,21"/>
+</map>

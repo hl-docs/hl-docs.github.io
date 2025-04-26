@@ -1,0 +1,13 @@
+<map id="ServerActivate" name="ServerActivate">
+<area shape="rect" id="Node000001" title="Activates the server and initializes entities." alt="" coords="5,56,109,83"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html#aaf4fc5bafb4b0d45ee5c8c24a216d447" title=" " alt="" coords="158,5,307,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,53,168,34,170,39,107,58"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="157,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,67,141,67,141,72,109,72"/>
+<area shape="rect" id="Node000006" href="$db/d80/player_8cpp.html#ac4965202e804d949e1d0a9e6aab2eba6" title="Registers user messages for the game." alt="" coords="166,107,299,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="107,81,170,99,168,104,105,86"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="388,31,434,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="308,56,371,47,372,52,309,61"/>
+<area shape="rect" id="Node000005" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="356,81,465,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="309,77,341,82,340,87,308,83"/>
+</map>

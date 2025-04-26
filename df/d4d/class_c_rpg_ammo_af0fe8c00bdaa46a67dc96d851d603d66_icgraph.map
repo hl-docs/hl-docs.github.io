@@ -1,0 +1,5 @@
+<map id="CRpgAmmo::Precache" name="CRpgAmmo::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches the resources needed for the RPG ammo." alt="" coords="192,5,346,32"/>
+<area shape="rect" id="Node000002" href="$df/d4d/class_c_rpg_ammo.html#a06463a444d8a66d7b5012bac7205fdac" title="Spawns the RPG ammo entity." alt="" coords="5,5,144,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,21,144,21,144,16,176,16"/>
+</map>

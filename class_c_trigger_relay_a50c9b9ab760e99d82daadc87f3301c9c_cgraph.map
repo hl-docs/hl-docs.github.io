@@ -1,7 +1,0 @@
-<map id="CTriggerRelay::KeyValue" name="CTriggerRelay::KeyValue">
-<area shape="rect" id="Node000001" title="Handles key&#45;value pairs for the trigger relay." alt="" coords="5,31,172,57"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="267,5,330,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,31,252,22,252,27,173,37"/>
-<area shape="rect" id="Node000003" href="$class_c_base_delay.html#a1674d768d18d41f701fc57735158c990" title="Handles key&#45;value pairs for the delay entity." alt="" coords="220,56,377,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,51,205,55,204,61,172,57"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CBasePlayer::SetCustomDecalFrames" name="CBasePlayer::SetCustomDecalFrames">
-<area shape="rect" id="Node000001" title="Sets the number of custom decal frames for the player." alt="" coords="195,23,398,65"/>
-<area shape="rect" id="Node000002" href="$client_8cpp.html#af33d5a5c62848a1bc073582e1906210a" title="Called each time a player is spawned." alt="" coords="16,5,136,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,33,136,28,137,23,180,28"/>
-<area shape="rect" id="Node000003" href="$client_8cpp.html#a271ecea28f549b42b54f0ef32372f02d" title="Registers player customization on the server." alt="" coords="5,56,147,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,60,147,64,147,59,179,55"/>
-</map>

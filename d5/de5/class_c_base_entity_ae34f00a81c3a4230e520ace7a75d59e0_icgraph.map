@@ -1,0 +1,66 @@
+<map id="CBaseEntity::SUB_DoNothing" name="CBaseEntity::SUB_DoNothing">
+<area shape="rect" id="Node000001" title="A placeholder function that does nothing." alt="" coords="1334,339,1531,365"/>
+<area shape="rect" id="Node000002" href="$d3/d1f/class_c_base_turret.html#a0c00f8f68597ffc6be41e1e7e880497b" title="Initializes the turret&#39;s state." alt="" coords="188,43,337,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1419,326,1400,280,1372,225,1333,167,1310,141,1285,118,1202,60,1165,40,1128,26,1091,17,1049,11,947,8,721,8,552,13,385,33,323,45,322,39,385,28,552,7,721,3,947,3,1049,6,1092,12,1130,21,1167,35,1204,55,1288,114,1314,137,1337,164,1376,222,1405,278,1424,324"/>
+<area shape="rect" id="Node000006" href="$da/d4f/class_c_recharge.html#a20548e1f8c7a0d315c2674c7280a87b2" title="Turns off the recharge entity and stops any sounds." alt="" coords="891,263,1000,289"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1405,330,1353,288,1320,268,1285,253,1247,244,1207,239,1127,240,1053,251,993,265,992,259,1052,246,1126,235,1207,234,1248,239,1287,248,1323,263,1356,283,1408,325"/>
+<area shape="rect" id="Node000008" href="$db/d84/class_c_wall_health.html#aa9451b70be2305f3aeb80df561f1a800" title="Turns off the wall health entity and stops any sounds." alt="" coords="887,364,1004,391"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1318,349,1203,348,1080,355,1004,367,1004,361,1080,349,1203,343,1318,344"/>
+<area shape="rect" id="Node000010" href="$da/d4f/class_c_recharge.html#a9a3af712b3a812c658179bc8d862b245" title="Resets the recharge entity to its initial state." alt="" coords="1109,263,1257,289"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1371,336,1229,293,1231,287,1373,331"/>
+<area shape="rect" id="Node000011" href="$db/d84/class_c_wall_health.html#a34ce92abe3df4dc082d222cc6de14522" title="Resets the wall health entity to its initial state." alt="" coords="1105,364,1261,391"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1319,366,1262,372,1262,367,1318,361"/>
+<area shape="rect" id="Node000012" href="$d7/d5c/class_c_multi_source.html#aa4fdd7df541213bd5dc6867405539d44" title="Registers the multi&#45;source entity." alt="" coords="1106,415,1261,441"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1381,374,1287,405,1245,417,1244,411,1286,400,1380,369"/>
+<area shape="rect" id="Node000014" href="$d3/d1f/class_c_base_turret.html#a732fe94be3c994ac82fbed600ebdfcc4" title="Retires the turret." alt="" coords="1116,128,1251,155"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="1407,329,1353,272,1285,209,1245,180,1208,158,1211,153,1248,176,1288,205,1357,268,1411,325"/>
+<area shape="rect" id="Node000025" href="$d9/df2/class_c_grenade.html#ae0ef7b8fe706328b74f8eb134495d042" title="Creates and shoots a satchel charge." alt="" coords="1080,465,1286,492"/>
+<area shape="poly" id="edge35_Node000001_Node000025" title=" " alt="" coords="1406,378,1353,418,1287,456,1256,467,1254,462,1285,451,1350,413,1402,374"/>
+<area shape="rect" id="Node000026" href="$df/ded/class_c_monster_maker.html#ae162cb9792bd9c49670b5b2a0d207e53" title="Spawns the monster maker in the game." alt="" coords="1103,516,1263,543"/>
+<area shape="poly" id="edge36_Node000001_Node000026" title=" " alt="" coords="1416,380,1364,444,1328,478,1288,506,1262,518,1260,513,1285,502,1324,473,1360,440,1412,376"/>
+<area shape="rect" id="Node000027" href="$da/d26/class_c_decal.html#a7d37765927e4fe272fcae4707e6d54ea" title="Spawns the decal entity." alt="" coords="1128,567,1238,593"/>
+<area shape="poly" id="edge37_Node000001_Node000027" title=" " alt="" coords="1422,381,1401,421,1372,468,1334,516,1288,557,1264,569,1240,576,1238,571,1262,564,1285,552,1330,513,1368,465,1397,418,1417,378"/>
+<area shape="rect" id="Node000003" href="$da/d2c/class_c_mini_turret.html#a1e952284488c7dceb845b8c843f3ffe7" title="Spawns the mini turret entity." alt="" coords="5,93,140,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,77,126,95,125,90,194,71"/>
+<area shape="rect" id="Node000004" href="$d4/d4d/class_c_sentry.html#aec10a8f84bda6bb7f70e9f2554ef352c" title="Spawns the sentry entity." alt="" coords="15,144,130,171"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,79,189,84,175,96,166,108,156,121,141,134,119,146,117,141,138,130,152,117,161,105,171,92,186,79,195,74"/>
+<area shape="rect" id="Node000005" href="$db/d17/class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="17,43,128,69"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="172,59,128,59,128,53,172,53"/>
+<area shape="rect" id="Node000007" href="$da/d4f/class_c_recharge.html#a452e86e01cf26a3c9d8cdf8a49c321a0" title="Activates the recharge process for the player." alt="" coords="664,320,780,347"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="877,296,778,322,776,317,875,291"/>
+<area shape="rect" id="Node000009" href="$db/d84/class_c_wall_health.html#ae8f4aae03978137857a906c675ef0ade" title="Activates the wall health entity for the player." alt="" coords="660,371,784,397"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="871,382,785,385,785,379,871,377"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="1094,279,1000,279,1000,273,1094,273"/>
+<area shape="poly" id="edge12_Node000011_Node000008" title=" " alt="" coords="1090,380,1004,380,1004,375,1090,375"/>
+<area shape="rect" id="Node000013" href="$d7/d5c/class_c_multi_source.html#ae2d5d8f0a8680a75547c45d3188bb611" title="Spawns the multi&#45;source entity." alt="" coords="872,415,1019,441"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1090,431,1019,431,1019,425,1090,425"/>
+<area shape="rect" id="Node000015" href="$d3/d1f/class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="859,207,1032,233"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1127,163,989,209,987,204,1125,157"/>
+<area shape="rect" id="Node000022" href="$d3/d1f/class_c_base_turret.html#aab170b6bc93d774ec41e38e252234287" title="Handles the use behavior for the turret." alt="" coords="407,93,564,120"/>
+<area shape="poly" id="edge34_Node000014_Node000022" title=" " alt="" coords="1100,140,564,113,564,108,1100,135"/>
+<area shape="rect" id="Node000016" href="$d3/d1f/class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="402,207,569,233"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="844,230,569,230,569,224,844,225"/>
+<area shape="rect" id="Node000018" href="$d3/d1f/class_c_base_turret.html#aca75241a920a6e589920143208c8562c" title="Deploys the turret." alt="" coords="651,144,793,171"/>
+<area shape="poly" id="edge20_Node000015_Node000018" title=" " alt="" coords="880,204,772,174,773,169,881,199"/>
+<area shape="rect" id="Node000024" href="$d3/d1f/class_c_base_turret.html#a0bf51cb491da64e2246751fd0460255c" title="Handles the damage behavior of the turret." alt="" coords="633,269,811,296"/>
+<area shape="poly" id="edge32_Node000015_Node000024" title=" " alt="" coords="881,241,773,271,772,266,880,236"/>
+<area shape="poly" id="edge18_Node000016_Node000015" title=" " alt="" coords="585,210,858,210,858,215,585,215"/>
+<area shape="rect" id="Node000017" href="$db/d17/class_c_turret.html#abbdf253e3a38f63841f6530a38e10ec1" title="Handles the spin&#45;up behavior of the turret." alt="" coords="195,207,330,233"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="386,223,331,223,331,217,386,217"/>
+<area shape="rect" id="Node000019" href="$d3/d1f/class_c_base_turret.html#ac5d610d943c3839668ba12cf4529be10" title="Handles the auto&#45;search behavior of the turret." alt="" coords="385,43,585,69"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="686,138,639,110,584,84,550,72,552,67,586,79,641,105,689,133"/>
+<area shape="rect" id="Node000020" href="$d4/d4d/class_c_sentry.html#ad41a4a063ab7c1cef57d01e32bde0d5f" title="Handles damage taken by the sentry." alt="" coords="409,144,561,171"/>
+<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="636,160,562,160,562,155,636,155"/>
+<area shape="poly" id="edge27_Node000018_Node000022" title=" " alt="" coords="640,143,550,123,551,118,642,138"/>
+<area shape="poly" id="edge22_Node000019_Node000002" title=" " alt="" coords="369,59,337,59,337,53,369,53"/>
+<area shape="poly" id="edge23_Node000019_Node000014" title=" " alt="" coords="601,62,803,81,1032,109,1118,125,1117,130,1032,115,802,86,601,67"/>
+<area shape="rect" id="Node000021" href="$d4/d4d/class_c_sentry.html#a39059cd1ff9888979c51b1a4fe4d7c28" title="Handles touch interactions for the sentry." alt="" coords="188,144,337,171"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="394,160,337,160,337,155,394,155"/>
+<area shape="poly" id="edge26_Node000021_Node000004" title=" " alt="" coords="172,160,131,160,131,155,172,155"/>
+<area shape="rect" id="Node000023" href="$d3/d1f/class_c_base_turret.html#a6ad46595be0146d679745f122dff6c8b" title="Spawns the base turret entity." alt="" coords="192,93,333,120"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="391,109,333,109,333,104,391,104"/>
+<area shape="poly" id="edge29_Node000023_Node000003" title=" " alt="" coords="177,109,140,109,140,104,177,104"/>
+<area shape="poly" id="edge30_Node000023_Node000004" title=" " alt="" coords="195,127,126,146,125,141,194,122"/>
+<area shape="poly" id="edge31_Node000023_Node000005" title=" " alt="" coords="194,91,125,73,126,67,195,86"/>
+<area shape="poly" id="edge33_Node000024_Node000016" title=" " alt="" coords="653,267,538,237,539,231,655,262"/>
+</map>

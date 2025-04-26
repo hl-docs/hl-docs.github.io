@@ -1,9 +1,0 @@
-<map id="CTentacle::Level" name="CTentacle::Level">
-<area shape="rect" id="Node000001" title="Determines the level based on the vertical distance." alt="" coords="511,5,628,32"/>
-<area shape="rect" id="Node000002" href="$class_c_tentacle.html#af67698f0d711df4b4a61eea30d52bca9" title="Main thinking function for the tentacle." alt="" coords="343,5,463,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,21,464,21,464,16,496,16"/>
-<area shape="rect" id="Node000003" href="$class_c_tentacle.html#af261785d07b904c9655d3fe4575033f7" title="Starts the tentacle&#39;s behavior." alt="" coords="180,5,295,32"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,21,296,21,296,16,327,16"/>
-<area shape="rect" id="Node000004" href="$class_c_tentacle.html#a7c7c3d9bb192e29e38c5792c09b54c5c" title="Spawns the tentacle entity." alt="" coords="5,5,132,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
-</map>

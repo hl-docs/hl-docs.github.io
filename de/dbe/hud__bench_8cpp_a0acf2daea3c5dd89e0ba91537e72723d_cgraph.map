@@ -1,0 +1,5 @@
+<map id="HUD_SetupBenchObjects" name="HUD_SetupBenchObjects">
+<area shape="rect" id="Node000001" title="Sets up benchmark dot objects (visual markers) in the world." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="Node000002" href="$de/dbe/hud__bench_8cpp.html#acf01c40ba8216dfa976031f1f37500d9" title="Normalizes a vector&#39;s angles to the range [&#45;180, 180]." alt="" coords="225,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,16,209,16,209,21,177,21"/>
+</map>

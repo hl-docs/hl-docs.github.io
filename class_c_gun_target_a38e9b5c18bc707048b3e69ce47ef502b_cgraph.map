@@ -1,7 +1,0 @@
-<map id="CGunTarget::Activate" name="CGunTarget::Activate">
-<area shape="rect" id="Node000001" title="Activates the gun target and sets its position." alt="" coords="5,31,150,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_entity.html#ac52839cc1ad59d4b41dd4014d10eba29" title="Retrieves the next target for the entity." alt="" coords="198,5,384,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,33,182,29,183,34,150,38"/>
-<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="237,56,345,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,50,221,58,221,64,150,55"/>
-</map>

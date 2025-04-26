@@ -1,9 +1,0 @@
-<map id="CGlock::Spawn" name="CGlock::Spawn">
-<area shape="rect" id="Node000001" title="Spawns the Glock weapon entity in the game." alt="" coords="5,56,117,83"/>
-<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="226,5,272,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,53,210,26,211,31,114,58"/>
-<area shape="rect" id="Node000003" href="$class_c_base_player_item.html#a991f3bdf1d8c7a8c199104f6312408e3" title="Initializes the fall behavior for a weapon." alt="" coords="165,56,333,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,67,149,67,149,72,117,72"/>
-<area shape="rect" id="Node000004" href="$class_c_glock.html#a3ca77f327ebd8f6a99ec1a002c0a6797" title="Preloads the resources needed for the Glock." alt="" coords="185,107,313,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,81,183,100,181,105,113,86"/>
-</map>

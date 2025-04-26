@@ -1,7 +1,0 @@
-<map id="CHudBenchmark::SetCompositeScore" name="CHudBenchmark::SetCompositeScore">
-<area shape="rect" id="Node000001" title="Computes the overall composite benchmark score based on weighted stage scores." alt="" coords="5,5,215,48"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_benchmark.html#a3ea9d82059baf555be2d5507fff9f39e" title="Calculates the score for a specific stage based on a raw performance value." alt="" coords="263,5,427,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,24,247,24,247,29,215,29"/>
-<area shape="rect" id="Node000003" href="$hud__bench_8cpp.html#a23ae11d0d6681b54fae5415c1a90e4d1" title="Checks if PowerPlay mode is currently active." alt="" coords="475,13,623,40"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,24,459,24,459,29,428,29"/>
-</map>

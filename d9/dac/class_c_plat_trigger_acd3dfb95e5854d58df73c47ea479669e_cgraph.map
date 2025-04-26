@@ -1,0 +1,5 @@
+<map id="CPlatTrigger::SpawnInsideTrigger" name="CPlatTrigger::SpawnInsideTrigger">
+<area shape="rect" id="Node000001" title="Sets up the trigger entity for the platform." alt="" coords="5,5,179,48"/>
+<area shape="rect" id="Node000002" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="227,13,327,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,24,211,24,211,29,179,29"/>
+</map>

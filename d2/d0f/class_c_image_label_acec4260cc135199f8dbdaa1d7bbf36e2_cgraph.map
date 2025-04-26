@@ -1,0 +1,7 @@
+<map id="CImageLabel::LoadImage" name="CImageLabel::LoadImage">
+<area shape="rect" id="Node000001" title="Loads a new TGA image into the label." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="Node000002" href="$dc/db0/vgui___custom_objects_8cpp.html#a31b49697e86e4a77e23aef4fba1011dd" title="Loads a TGA image based on resource name." alt="" coords="221,5,338,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,16,205,16,205,21,173,21"/>
+<area shape="rect" id="Node000003" href="$dc/db0/vgui___custom_objects_8cpp.html#a851d575c953a865371ef0212a6d3d32e" title="Returns the TGA file name based on resolution, excluding game directory." alt="" coords="386,5,530,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,16,370,16,370,21,338,21"/>
+</map>

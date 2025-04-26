@@ -1,5 +1,0 @@
-<map id="CHudServers::AddServer" name="CHudServers::AddServer">
-<area shape="rect" id="Node000001" title="Adds a server to the list in sorted order." alt="" coords="5,5,169,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#a2acbe6e7e89b5958b1a550424485ecca" title="Compares two servers primarily by ping and secondarily by hostname." alt="" coords="217,5,416,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,16,201,16,201,21,169,21"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ServersIsQuerying" name="ServersIsQuerying">
-<area shape="rect" id="Node000001" title="Checks if the global server browser instance is currently querying." alt="" coords="5,5,132,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#ac4bbea23ddc5ec12833dfe32d63acae4" title="Checks if the server browser is currently querying for servers." alt="" coords="180,5,346,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,16,164,16,164,21,132,21"/>
-</map>

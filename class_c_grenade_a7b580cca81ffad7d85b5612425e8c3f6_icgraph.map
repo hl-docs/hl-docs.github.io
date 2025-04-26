@@ -1,5 +1,0 @@
-<map id="CGrenade::ShootTimed" name="CGrenade::ShootTimed">
-<area shape="rect" id="Node000001" title=" " alt="" coords="239,5,395,32"/>
-<area shape="rect" id="Node000002" href="$class_c_hand_grenade.html#a461944ce47c7e9b0747e4099acc73658" title="Manages the idle state of the hand grenade." alt="" coords="5,5,191,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,21,191,21,191,16,223,16"/>
-</map>

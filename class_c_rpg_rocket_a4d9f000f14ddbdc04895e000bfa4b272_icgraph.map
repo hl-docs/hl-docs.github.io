@@ -1,5 +1,0 @@
-<map id="CRpgRocket::CreateRpgRocket" name="CRpgRocket::CreateRpgRocket">
-<area shape="rect" id="Node000001" title="Creates a new RPG rocket entity." alt="" coords="198,5,402,32"/>
-<area shape="rect" id="Node000002" href="$class_c_rpg.html#a953326b14bfe1e7acdf5d72ba8b3fd80" title="Handles the primary attack for the RPG weapon." alt="" coords="5,5,150,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,21,150,21,150,16,182,16"/>
-</map>

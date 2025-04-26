@@ -1,0 +1,7 @@
+<map id="CGrenade::DetonateUse" name="CGrenade::DetonateUse">
+<area shape="rect" id="Node000001" title="Sets up the grenade to detonate after a specified time." alt="" coords="260,31,422,57"/>
+<area shape="rect" id="Node000002" href="$d9/df2/class_c_grenade.html#ae0ef7b8fe706328b74f8eb134495d042" title="Creates and shoots a satchel charge." alt="" coords="5,5,212,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,36,212,33,213,27,244,31"/>
+<area shape="rect" id="Node000003" href="$d3/d87/class_c_satchel_charge.html#a6f1633725613bd8ec801217668bf2ef2" title="Spawns the satchel charge entity." alt="" coords="27,56,190,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,57,190,63,190,58,244,52"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="CAmbientGeneric" name="CAmbientGeneric">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,429,238,456"/>
+<area shape="rect" id="Node000002" href="$d5/de5/class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="129,304,223,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,347,179,429,173,429,173,347"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="224,300,242,305,250,317,246,327,236,333,208,334,208,329,234,328,242,324,245,318,239,309,223,305"/>
+<area shape="rect" id="Node000003" href="$d2/d88/structentvars__s.html" title=" " alt="" coords="365,16,441,43"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,55,356,71,318,117,292,156,268,197,234,247,188,305,184,302,230,244,264,194,288,154,314,114,352,68,371,51"/>
+<area shape="rect" id="Node000004" href="$db/d8e/structedict__s.html" title=" " alt="" coords="463,304,526,331"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="398,58,390,98,387,146,391,197,398,221,409,244,418,253,427,257,439,260,452,267,487,302,483,306,449,272,437,265,426,262,415,258,405,247,393,223,386,198,381,146,385,97,393,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="469,295,451,273,437,247,421,199,418,159,417,120,411,70,404,44,409,43,416,69,422,119,423,159,427,198,441,244,456,270,473,291"/>
+<area shape="rect" id="Node000005" href="$d5/de3/structlink__s.html" title=" " alt="" coords="519,16,574,43"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="547,58,538,143,520,246,502,305,497,303,515,245,533,142,542,58"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="569,5,580,3,591,6,598,15,601,30,597,47,585,55,570,55,555,45,558,41,572,50,584,50,592,44,596,29,593,18,588,11,580,8,570,10"/>
+<area shape="rect" id="Node000006" href="$d7/db8/struct_t_y_p_e_d_e_s_c_r_i_p_t_i_o_n.html" title=" " alt="" coords="5,16,147,43"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="66,57,43,116,22,196,17,239,18,283,26,325,43,364,60,386,82,403,131,427,128,431,79,408,56,389,38,367,21,326,12,283,12,239,17,195,38,115,61,55"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="88,57,174,303,169,305,83,59"/>
+<area shape="rect" id="Node000007" href="$d4/dfd/structdynpitchvol.html" title=" " alt="" coords="353,304,439,331"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="374,344,343,368,274,405,211,431,209,426,272,400,340,363,370,340"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBaseMonster::BarnacleVictimReleased" name="CBaseMonster::BarnacleVictimReleased">
+<area shape="rect" id="Node000001" title="Called when the monster is released from a barnacle." alt="" coords="175,5,378,48"/>
+<area shape="rect" id="Node000002" href="$de/d96/class_c_barnacle.html#aa49fa93203c6f67339485c3a67f2f0e3" title="Handles the death of the barnacle." alt="" coords="5,13,127,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,29,127,29,127,24,159,24"/>
+</map>

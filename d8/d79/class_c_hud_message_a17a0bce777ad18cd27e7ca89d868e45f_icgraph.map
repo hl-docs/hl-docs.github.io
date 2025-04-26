@@ -1,0 +1,8 @@
+<map id="CHudMessage::XPosition" name="CHudMessage::XPosition">
+<area shape="rect" id="Node000001" title="Calculates the horizontal position for a message on screen." alt="" coords="471,5,639,32"/>
+<area shape="rect" id="Node000002" href="$d8/d79/class_c_hud_message.html#aa50d164eed66799f2c71b912f1d49d80" title="Main draw function for HUD messages. Iterates over active messages and draws them." alt="" coords="5,5,149,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,21,149,21,149,16,456,16"/>
+<area shape="rect" id="Node000003" href="$d8/d79/class_c_hud_message.html#ac4f6211ad067ee182fb920aa9e8c5d5e" title="Draws a message line by line with scanning or fading effects." alt="" coords="197,31,423,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="456,32,424,35,423,30,455,26"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="181,33,149,29,150,24,181,27"/>
+</map>

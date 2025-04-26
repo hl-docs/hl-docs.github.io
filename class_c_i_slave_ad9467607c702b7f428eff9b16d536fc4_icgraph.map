@@ -1,5 +1,0 @@
-<map id="CISlave::GetScheduleOfType" name="CISlave::GetScheduleOfType">
-<area shape="rect" id="Node000001" title="Retrieves the schedule of a specific type for the CISlave entity." alt="" coords="201,5,389,32"/>
-<area shape="rect" id="Node000002" href="$class_c_i_slave.html#aa5699c34a6145e260f2216419df3a7e8" title="Retrieves the current schedule for the CISlave entity." alt="" coords="5,5,153,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,21,153,21,153,16,185,16"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="CMP5AmmoGrenade::Precache" name="CMP5AmmoGrenade::Precache">
-<area shape="rect" id="Node000001" title="Preloads the resources needed for the MP5 grenade." alt="" coords="245,5,452,32"/>
-<area shape="rect" id="Node000002" href="$class_c_m_p5_ammo_grenade.html#a0b643e23f5ccb3aa29b22f771b3758ec" title="Spawns the MP5 grenade in the game." alt="" coords="5,5,197,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,21,197,21,197,16,229,16"/>
-</map>

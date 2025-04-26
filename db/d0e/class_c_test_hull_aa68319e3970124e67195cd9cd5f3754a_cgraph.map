@@ -1,0 +1,93 @@
+<map id="CTestHull::Spawn" name="CTestHull::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the test hull entity." alt="" coords="5,923,130,949"/>
+<area shape="rect" id="Node000002" href="$db/d0e/class_c_test_hull.html#a6bd422d36cfba68700cb890f7c519f3e" title="Delays the spawning of the test hull." alt="" coords="178,752,323,779"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,920,222,787,226,791,85,924"/>
+<area shape="rect" id="Node000013" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1514,796,1561,823"/>
+<area shape="poly" id="edge50_Node000001_Node000013" title=" " alt="" coords="112,947,177,966,261,987,356,1003,453,1009,1159,1009,1215,1004,1268,989,1320,967,1369,941,1452,882,1510,832,1513,836,1455,887,1371,945,1322,972,1270,994,1215,1009,1160,1015,453,1015,356,1008,260,992,175,971,110,952"/>
+<area shape="rect" id="Node000034" href="$d5/de5/class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="823,897,1006,924"/>
+<area shape="poly" id="edge51_Node000001_Node000034" title=" " alt="" coords="130,931,808,911,808,916,130,937"/>
+<area shape="rect" id="Node000037" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="864,948,965,975"/>
+<area shape="poly" id="edge52_Node000001_Node000037" title=" " alt="" coords="130,935,849,957,849,962,130,940"/>
+<area shape="rect" id="Node000003" href="$db/d0e/class_c_test_hull.html#aad56faaf4b10648994e5650c397f76e4" title=" " alt="" coords="371,584,537,627"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,749,412,634,415,638,271,753"/>
+<area shape="rect" id="Node000021" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="1340,105,1398,132"/>
+<area shape="poly" id="edge49_Node000002_Node000021" title=" " alt="" coords="250,751,256,691,270,594,294,474,332,346,357,282,386,222,420,166,459,116,503,74,554,42,611,22,674,15,916,15,1012,9,1089,3,1126,4,1164,9,1206,20,1254,40,1270,52,1279,65,1288,78,1302,91,1327,104,1325,109,1299,95,1284,82,1275,68,1266,56,1251,45,1204,26,1163,14,1126,9,1090,8,1013,15,916,20,674,20,612,27,556,47,507,78,463,120,424,169,391,224,362,284,337,347,299,475,275,595,261,691,255,752"/>
+<area shape="rect" id="Node000036" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="860,847,969,873"/>
+<area shape="poly" id="edge48_Node000002_Node000036" title=" " alt="" coords="323,773,845,848,844,853,323,778"/>
+<area shape="rect" id="Node000004" href="$db/d0e/class_c_test_hull.html#ada9729155afdc4c607f39dcc387321b9" title="Builds the node graph by linking visible nodes." alt="" coords="585,527,765,553"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="528,581,611,556,613,561,530,586"/>
+<area shape="rect" id="Node000005" href="$d9/de7/class_c_graph.html#a62b42310154ef21c6b15b1c877e12c9f" title="Builds link lookups for efficient access." alt="" coords="827,577,1002,604"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="742,551,834,571,833,576,741,557"/>
+<area shape="rect" id="Node000008" href="$d9/de7/class_c_graph.html#a747a1023faa135071adb9fbb4706688d" title="Searches for a node pair in the hash table." alt="" coords="1086,687,1230,713"/>
+<area shape="poly" id="edge15_Node000004_Node000008" title=" " alt="" coords="699,552,750,583,814,613,1084,680,1083,685,812,618,747,587,696,556"/>
+<area shape="rect" id="Node000010" href="$d9/de7/class_c_graph.html#a4a8a07c2caefbc6acad56ee5e2c951b8" title="Builds region tables for node spatial organization." alt="" coords="824,745,1005,772"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="684,553,701,589,729,637,767,688,789,711,814,731,822,736,819,741,811,735,786,715,763,692,725,640,697,591,680,555"/>
+<area shape="rect" id="Node000012" href="$d9/de7/class_c_graph.html#a1859cb37c3b1a5abcfb83be4f47cc3f8" title="Computes static routing tables for nodes." alt="" coords="813,679,1016,721"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="691,552,742,602,777,632,814,658,836,670,834,674,811,662,773,636,739,606,687,556"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="682,553,694,600,719,664,736,697,758,730,784,758,814,782,839,794,871,803,951,817,1046,824,1150,826,1352,820,1498,810,1499,815,1352,826,1150,832,1046,830,950,823,869,809,837,799,811,786,780,762,754,733,732,700,714,666,689,601,677,554"/>
+<area shape="rect" id="Node000014" href="$d9/de7/class_c_graph.html#ab4a2547b398f464ef1b7363230eefba6" title="Saves the current node graph to disk." alt="" coords="842,71,987,97"/>
+<area shape="poly" id="edge14_Node000004_Node000014" title=" " alt="" coords="674,526,679,454,697,344,714,283,738,222,770,165,811,114,826,102,830,106,815,118,774,168,743,224,719,285,702,345,684,455,679,526"/>
+<area shape="rect" id="Node000015" href="$d9/de7/class_c_graph.html#aece62709a81d84d74a04e620ee3e8035" title=" " alt="" coords="1093,55,1223,81"/>
+<area shape="poly" id="edge16_Node000004_Node000015" title=" " alt="" coords="674,526,681,460,700,360,718,306,741,252,772,202,811,158,836,139,860,127,883,120,906,118,956,116,1015,107,1096,84,1098,89,1017,112,956,121,907,123,884,125,862,132,839,143,814,162,776,205,746,254,723,308,705,362,686,460,680,526"/>
+<area shape="rect" id="Node000018" href="$d9/de7/class_c_graph.html#aeb5eb0742b41e5891bc2da82c07acf00" title="Links all visible nodes in the graph." alt="" coords="828,223,1001,249"/>
+<area shape="poly" id="edge20_Node000004_Node000018" title=" " alt="" coords="677,526,690,477,715,407,755,332,781,297,811,266,829,254,832,258,814,270,785,300,759,334,720,409,695,478,682,527"/>
+<area shape="rect" id="Node000024" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="1103,281,1213,308"/>
+<area shape="poly" id="edge46_Node000004_Node000024" title=" " alt="" coords="677,526,691,482,716,422,734,390,756,359,782,332,811,310,845,293,880,281,954,270,1026,270,1088,277,1088,283,1025,276,954,275,881,287,847,298,814,314,785,336,760,363,739,393,721,424,696,484,682,527"/>
+<area shape="rect" id="Node000025" href="$d9/de7/class_c_graph.html#acb803b25c29206ac08645d67078ba7c9" title="Rejects inline links from a link pool based on visibility." alt="" coords="829,324,1000,351"/>
+<area shape="poly" id="edge30_Node000004_Node000025" title=" " alt="" coords="680,525,698,491,727,447,765,400,811,360,821,355,823,359,814,365,769,404,731,450,703,494,685,528"/>
+<area shape="rect" id="Node000030" href="$db/d0e/class_c_test_hull.html#a32e5a9e11f5839a6f2d64f2301c1e0ff" title="Displays a visual effect for a bad node." alt="" coords="829,527,1000,553"/>
+<area shape="poly" id="edge36_Node000004_Node000030" title=" " alt="" coords="765,537,814,537,814,543,765,543"/>
+<area shape="rect" id="Node000033" href="$d9/de7/class_c_graph.html#a86464223cf74be01ae5e0246c6709a79" title="Sorts nodes to group linked nodes together." alt="" coords="847,172,982,199"/>
+<area shape="poly" id="edge39_Node000004_Node000033" title=" " alt="" coords="675,526,684,467,707,382,724,335,747,289,776,246,811,209,831,196,834,200,814,213,780,249,752,291,729,337,712,383,689,468,680,527"/>
+<area shape="poly" id="edge41_Node000004_Node000034" title=" " alt="" coords="680,553,688,614,710,703,727,752,750,800,779,845,814,883,819,887,816,891,811,887,775,848,745,803,722,754,705,705,683,615,675,554"/>
+<area shape="rect" id="Node000035" href="$dc/d44/dlls_2util_8cpp.html#a168e867ce033654505b26655314ce1e3" title="Retrieves the contents at a specified point in the game world." alt="" coords="846,375,983,401"/>
+<area shape="poly" id="edge42_Node000004_Node000035" title=" " alt="" coords="685,524,735,469,771,438,811,411,830,402,833,407,814,416,775,442,739,473,689,528"/>
+<area shape="poly" id="edge43_Node000004_Node000036" title=" " alt="" coords="681,553,694,604,718,678,736,718,758,757,784,794,814,826,847,844,844,849,811,830,780,797,753,760,731,720,713,680,688,606,676,554"/>
+<area shape="poly" id="edge44_Node000004_Node000037" title=" " alt="" coords="679,553,685,622,704,724,721,781,744,837,775,889,814,934,831,945,850,953,848,958,828,950,811,938,771,892,739,839,716,783,698,726,679,622,674,554"/>
+<area shape="rect" id="Node000038" href="$dc/d44/dlls_2util_8cpp.html#af140262dc39fcaf8706ee5f956ae6892" title="Traces a hull between two points." alt="" coords="860,425,969,452"/>
+<area shape="poly" id="edge45_Node000004_Node000038" title=" " alt="" coords="696,524,747,493,812,461,844,451,846,456,814,466,750,497,699,528"/>
+<area shape="rect" id="Node000039" href="$dc/d44/dlls_2util_8cpp.html#a1e92dcf0a858a8ca61a31bcbfc168bff" title="Converts a vector to a yaw angle." alt="" coords="856,476,973,503"/>
+<area shape="poly" id="edge47_Node000004_Node000039" title=" " alt="" coords="741,523,840,502,842,507,742,529"/>
+<area shape="rect" id="Node000006" href="$d9/de7/class_c_graph.html#a8a0bf048a159f37570833cb07722e73a" title="Chooses a set of prime numbers for hash table spacing." alt="" coords="1064,585,1252,612"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1002,591,1048,592,1048,598,1002,596"/>
+<area shape="rect" id="Node000007" href="$d9/de7/class_c_graph.html#a495a77be9bcfb58aae49d03319c5a808" title="Inserts a node pair into the hash table." alt="" coords="1091,636,1226,663"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="973,602,1085,629,1084,634,972,607"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="978,602,1017,620,1033,634,1042,647,1051,660,1065,672,1076,678,1073,683,1063,677,1047,664,1038,650,1029,637,1015,625,976,607"/>
+<area shape="rect" id="Node000009" href="$d9/de7/class_c_graph.html#a66465b1201ae978a9353d49e4a796c0c" title=" " alt="" coords="1489,535,1586,561"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="1002,577,1064,571,1289,556,1473,547,1473,553,1290,561,1064,576,1003,582"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1215,683,1251,672,1386,617,1494,566,1496,571,1388,622,1253,677,1217,689"/>
+<area shape="rect" id="Node000011" href="$d9/d34/nodes_8cpp.html#a1e92fd83dc22dcb7f572b78bfd86a524" title="Converts a value from a specified range to a normalized range." alt="" coords="1104,745,1212,772"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1005,756,1088,756,1088,761,1005,761"/>
+<area shape="rect" id="Node000016" href="$d9/de7/class_c_graph.html#ad529d3734d366d86654981bf22113769" title=" " alt="" coords="1305,55,1433,81"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1224,65,1290,65,1290,71,1224,71"/>
+<area shape="poly" id="edge18_Node000016_Node000009" title=" " alt="" coords="1426,80,1440,91,1464,127,1477,159,1483,191,1484,222,1480,289,1482,327,1488,370,1530,519,1524,521,1483,371,1476,328,1475,289,1478,222,1478,191,1472,161,1459,129,1436,95,1422,84"/>
+<area shape="rect" id="Node000017" href="$d9/de7/class_c_graph.html#a73559756ea74d3f5daef7c05603ca551" title=" " alt="" coords="1486,55,1589,81"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="1433,65,1470,65,1470,71,1433,71"/>
+<area shape="rect" id="Node000019" href="$d8/d3c/util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="1106,156,1210,183"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="973,219,1015,208,1063,192,1091,184,1092,189,1065,197,1017,213,974,225"/>
+<area shape="poly" id="edge29_Node000018_Node000021" title=" " alt="" coords="993,220,1014,208,1030,193,1037,175,1045,157,1063,142,1095,126,1130,115,1202,104,1270,104,1325,109,1325,114,1270,109,1203,110,1132,121,1097,131,1065,146,1049,161,1042,177,1034,196,1018,213,995,224"/>
+<area shape="rect" id="Node000022" href="$db/d80/player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="1123,231,1194,257"/>
+<area shape="poly" id="edge24_Node000018_Node000022" title=" " alt="" coords="1001,236,1107,240,1107,245,1001,241"/>
+<area shape="poly" id="edge28_Node000018_Node000024" title=" " alt="" coords="973,247,1089,275,1087,280,972,252"/>
+<area shape="rect" id="Node000020" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="1338,156,1400,183"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="1211,167,1322,167,1322,172,1211,172"/>
+<area shape="poly" id="edge23_Node000019_Node000021" title=" " alt="" coords="1210,154,1325,126,1326,132,1212,159"/>
+<area shape="poly" id="edge27_Node000022_Node000022" title=" " alt="" coords="1122,232,1116,222,1120,212,1135,206,1158,204,1183,206,1197,213,1194,218,1182,212,1158,209,1136,211,1124,216,1121,221,1127,229"/>
+<area shape="rect" id="Node000023" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1304,256,1434,283"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1195,246,1288,257,1288,262,1194,251"/>
+<area shape="poly" id="edge26_Node000023_Node000013" title=" " alt="" coords="1399,281,1421,297,1440,318,1459,353,1470,384,1479,441,1480,500,1488,573,1532,780,1527,781,1483,574,1474,500,1473,441,1465,385,1454,355,1435,321,1417,301,1396,285"/>
+<area shape="rect" id="Node000026" href="$d9/d40/class_vector2_d.html#a725900b4f3acf28468be68f0e5924de6" title=" " alt="" coords="1308,332,1430,359"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="1000,336,1293,341,1292,347,1000,341"/>
+<area shape="rect" id="Node000028" href="$d9/d40/class_vector2_d.html#a60bb6900f4c98e49928099948b8b94b3" title=" " alt="" coords="1088,383,1229,409"/>
+<area shape="poly" id="edge33_Node000025_Node000028" title=" " alt="" coords="973,349,1085,376,1084,381,972,354"/>
+<area shape="rect" id="Node000027" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="1516,332,1559,359"/>
+<area shape="poly" id="edge32_Node000026_Node000027" title=" " alt="" coords="1431,343,1500,343,1500,348,1431,348"/>
+<area shape="poly" id="edge34_Node000028_Node000026" title=" " alt="" coords="1216,379,1295,360,1296,365,1218,385"/>
+<area shape="rect" id="Node000029" href="$d9/d40/class_vector2_d.html#a0cbd5dc90e04f8ffb665717ae503e781" title=" " alt="" coords="1300,383,1438,409"/>
+<area shape="poly" id="edge35_Node000028_Node000029" title=" " alt="" coords="1229,393,1285,393,1285,399,1229,399"/>
+<area shape="rect" id="Node000031" href="$d3/d55/hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="1093,484,1224,511"/>
+<area shape="poly" id="edge37_Node000030_Node000031" title=" " alt="" coords="994,523,1077,509,1078,514,995,529"/>
+<area shape="rect" id="Node000032" href="$dc/d44/dlls_2util_8cpp.html#ad81138abd87e8587fddc2b529e4d1833" title="Creates a particle effect at a specified origin and direction." alt="" coords="1093,433,1224,460"/>
+<area shape="poly" id="edge38_Node000030_Node000032" title=" " alt="" coords="987,524,1015,512,1029,502,1038,492,1048,480,1063,470,1076,463,1079,468,1065,474,1051,484,1042,495,1032,506,1017,517,989,528"/>
+<area shape="poly" id="edge40_Node000033_Node000015" title=" " alt="" coords="976,169,1015,151,1029,138,1038,125,1047,112,1062,98,1086,85,1089,90,1066,102,1051,115,1042,128,1033,142,1017,155,978,174"/>
+</map>

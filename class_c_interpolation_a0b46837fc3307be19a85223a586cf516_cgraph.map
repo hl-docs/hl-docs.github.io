@@ -1,9 +1,0 @@
-<map id="CInterpolation::Interpolate" name="CInterpolation::Interpolate">
-<area shape="rect" id="Node000001" title="Interpolates position, angle, and FOV based on time parameter t." alt="" coords="5,47,174,73"/>
-<area shape="rect" id="Node000002" href="$class_c_interpolation.html#a9e61a4e2be7c3c500e9ee3eb53ead3d2" title="Performs Bezier interpolation on the position using Bernstein polynomials." alt="" coords="222,5,427,48"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,45,206,41,207,46,174,51"/>
-<area shape="rect" id="Node000003" href="$class_c_interpolation.html#aff22757e65d294c15e0bdf2d0dd9bd99" title="Interpolates angles correctly by avoiding wrapping issues." alt="" coords="240,72,409,115"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,69,225,77,225,82,174,75"/>
-<area shape="rect" id="Node000004" href="$pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="475,80,594,107"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="409,91,460,91,460,96,409,96"/>
-</map>

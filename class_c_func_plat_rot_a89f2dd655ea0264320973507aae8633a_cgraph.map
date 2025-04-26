@@ -1,7 +1,0 @@
-<map id="CFuncPlatRot::SetupRotation" name="CFuncPlatRot::SetupRotation">
-<area shape="rect" id="Node000001" title="Sets up the rotation parameters for the platform." alt="" coords="5,31,198,57"/>
-<area shape="rect" id="Node000002" href="$class_c_base_toggle.html#ac2871d0e1e1daa9c627b56c8e066a1b8" title="Sets the movement direction based on spawn flags." alt="" coords="246,5,394,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,30,230,26,230,32,198,35"/>
-<area shape="rect" id="Node000003" href="$util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="277,56,363,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,53,262,60,261,65,198,58"/>
-</map>

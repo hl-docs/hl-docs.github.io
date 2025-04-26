@@ -1,0 +1,12 @@
+<map id="CGunTarget::Next" name="CGunTarget::Next">
+<area shape="rect" id="Node000001" title="Moves the gun target to the next position." alt="" coords="538,56,664,83"/>
+<area shape="rect" id="Node000002" href="$d6/d13/class_c_gun_target.html#a982c0a528722b78e1524ed335996e5bc" title="Activates the gun target based on user input." alt="" coords="367,5,488,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="537,54,475,35,477,30,539,48"/>
+<area shape="rect" id="Node000005" href="$d6/d13/class_c_gun_target.html#aeaed0a73b61760346108561c2d9e6868" title="Waits for a specified duration before proceeding." alt="" coords="365,56,490,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="523,81,491,81,491,75,523,76"/>
+<area shape="rect" id="Node000003" href="$d6/d13/class_c_gun_target.html#adcc4d0b590238328cb786d674f41c03d" title="Starts the gun target&#39;s operation." alt="" coords="191,5,317,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,21,318,21,318,16,351,16"/>
+<area shape="rect" id="Node000004" href="$d6/d13/class_c_gun_target.html#aec59ac077de4324c0e6ac4a67cc8afc7" title="Spawns the gun target entity and initializes its properties." alt="" coords="5,5,143,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="175,21,143,21,143,16,175,16"/>
+<area shape="poly" id="edge5_Node000005_Node000001" title=" " alt="" coords="506,58,538,58,538,63,506,63"/>
+</map>

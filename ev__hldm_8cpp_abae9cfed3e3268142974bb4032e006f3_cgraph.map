@@ -1,5 +1,0 @@
-<map id="EV_EgonStop" name="EV_EgonStop">
-<area shape="rect" id="Node000001" title="Stops the EGON weapon fire effect." alt="" coords="5,5,109,32"/>
-<area shape="rect" id="Node000002" href="$ev__common_8cpp.html#a8f60c02cea0ae9a964b3c3a4d04c3607" title="Checks if the entity index is the local player." alt="" coords="157,5,244,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,16,141,16,141,21,109,21"/>
-</map>

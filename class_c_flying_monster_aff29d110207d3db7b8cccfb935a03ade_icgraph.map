@@ -1,5 +1,0 @@
-<map id="CFlyingMonster::CheckLocalMove" name="CFlyingMonster::CheckLocalMove">
-<area shape="rect" id="Node000001" title="Checks if the flying monster can move from one point to another." alt="" coords="252,5,470,32"/>
-<area shape="rect" id="Node000002" href="$class_c_flying_monster.html#a26d74b7b4e6820298b8919c9cea88e87" title="Executes the movement of the flying monster." alt="" coords="5,5,204,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,21,204,21,204,16,236,16"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CHudAmmoSecondary::Init" name="CHudAmmoSecondary::Init">
-<area shape="rect" id="Node000001" title="Initializes the secondary ammo HUD element." alt="" coords="5,35,184,61"/>
-<area shape="rect" id="Node000002" href="$class_c_hud.html#aee3f9153b3045531340a6b60652db401" title="Adds a new HUD element to the list of HUD components." alt="" coords="244,5,381,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,33,228,27,229,33,184,39"/>
-<area shape="rect" id="Node000003" href="$class_c_hud_ammo_secondary.html#a0a60ee6c44d2d908c6bd93f04e39a4f3" title="Resets the fade timer for secondary ammo display." alt="" coords="232,56,393,99"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,57,217,62,216,67,184,63"/>
-</map>

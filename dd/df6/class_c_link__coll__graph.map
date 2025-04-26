@@ -1,0 +1,11 @@
+<map id="CLink" name="CLink">
+<area shape="rect" id="Node000001" title="Represents a connection between two navigation nodes." alt="" coords="5,269,60,296"/>
+<area shape="rect" id="Node000002" href="$d2/d88/structentvars__s.html" title=" " alt="" coords="98,16,175,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,44,64,55,47,71,33,96,25,123,20,180,24,232,32,269,26,270,19,232,14,180,20,122,29,94,43,68,61,51,82,40"/>
+<area shape="rect" id="Node000003" href="$db/d8e/structedict__s.html" title=" " alt="" coords="145,269,208,296"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="133,58,128,97,126,144,130,195,143,244,161,267,157,271,138,247,124,196,120,144,123,96,128,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,254,161,172,145,70,138,44,143,43,150,69,167,171,177,254"/>
+<area shape="rect" id="Node000004" href="$d5/de3/structlink__s.html" title=" " alt="" coords="253,16,308,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,58,290,98,288,148,277,200,267,224,253,247,233,265,210,276,208,271,230,261,249,244,262,222,272,198,282,147,284,99,282,59"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="303,5,314,3,325,6,332,15,335,30,330,47,319,55,304,55,289,45,292,41,305,50,317,50,326,44,330,29,327,18,322,11,314,8,304,10"/>
+</map>

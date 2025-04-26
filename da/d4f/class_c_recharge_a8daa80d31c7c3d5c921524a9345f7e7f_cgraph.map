@@ -1,0 +1,11 @@
+<map id="CRecharge::Spawn" name="CRecharge::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the recharge entity in the game." alt="" coords="5,81,138,108"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="237,5,283,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,78,185,42,221,28,223,33,187,46,103,83"/>
+<area shape="rect" id="Node000003" href="$da/d4f/class_c_recharge.html#a504d16e32a4c20d0beceb7f3081a5532" title="Preloads the resources needed for the recharge entity." alt="" coords="186,56,334,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,83,170,79,171,84,139,88"/>
+<area shape="rect" id="Node000004" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="206,107,314,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,101,190,108,190,113,138,106"/>
+<area shape="rect" id="Node000005" href="$d3/d55/hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="210,157,310,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="103,106,187,143,203,149,201,154,185,148,101,111"/>
+</map>

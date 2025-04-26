@@ -1,5 +1,0 @@
-<map id="SpawnBlood" name="SpawnBlood">
-<area shape="rect" id="Node000001" title="Spawns blood effects at a specified location." alt="" coords="5,5,99,32"/>
-<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a37f063f2d60e83d08932e8a34a461276" title=" " alt="" coords="147,5,264,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,16,131,16,131,21,99,21"/>
-</map>

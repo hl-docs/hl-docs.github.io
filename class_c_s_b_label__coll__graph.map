@@ -1,9 +1,0 @@
-<map id="CSBLabel" name="CSBLabel">
-<area shape="rect" id="Node000001" title=" " alt="" coords="13,204,93,231"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,97,58,124"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,139,53,203,48,204,34,140"/>
-<area shape="rect" id="Node000003" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html" title=" " alt="" coords="82,81,258,140"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,153,69,206,65,202,125,149"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="128,5,213,32"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,48,173,81,168,81,168,48"/>
-</map>

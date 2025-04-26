@@ -1,0 +1,11 @@
+<map id="CFlockingFlyer::SpreadFlock" name="CFlockingFlyer::SpreadFlock">
+<area shape="rect" id="Node000001" title="Spreads the flock to avoid collisions." alt="" coords="5,31,195,57"/>
+<area shape="rect" id="Node000002" href="$d5/db2/class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="243,31,368,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,41,227,41,227,47,195,47"/>
+<area shape="rect" id="Node000003" href="$d5/db2/class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="416,5,522,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,32,401,27,401,32,369,37"/>
+<area shape="rect" id="Node000005" href="$d5/db2/class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="417,56,522,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="369,51,401,56,401,61,368,56"/>
+<area shape="rect" id="Node000004" href="$d2/d29/cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="570,5,614,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="523,16,555,16,555,21,523,21"/>
+</map>

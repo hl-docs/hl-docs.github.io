@@ -1,0 +1,7 @@
+<map id="CRpg::AddToPlayer" name="CRpg::AddToPlayer">
+<area shape="rect" id="Node000001" title="Adds the RPG weapon to the specified player." alt="" coords="5,43,141,69"/>
+<area shape="rect" id="Node000002" href="$da/d7d/class_c_base_player_weapon.html#a9d00baf84f87d51863cf473d28373efe" title="Adds an item to a player." alt="" coords="189,5,342,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,43,173,38,173,43,142,48"/>
+<area shape="rect" id="Node000003" href="$dc/df4/enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="198,72,333,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,64,183,70,182,75,141,69"/>
+</map>

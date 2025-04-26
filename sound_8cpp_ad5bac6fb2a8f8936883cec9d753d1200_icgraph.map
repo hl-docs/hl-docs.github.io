@@ -1,5 +1,0 @@
-<map id="SENTENCEG_PlayRndI" name="SENTENCEG_PlayRndI">
-<area shape="rect" id="Node000001" title="Plays a random sentence from a group by index." alt="" coords="206,5,366,32"/>
-<area shape="rect" id="Node000002" href="$sound_8cpp.html#a39c6923a17066b5f2a3ab976caae1b1b" title="Plays a random sentence from a group over the HEV suit speaker." alt="" coords="5,5,158,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,21,158,21,158,16,190,16"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="CTriggerHurt::RadiationThink" name="CTriggerHurt::RadiationThink">
+<area shape="rect" id="Node000001" title="Handles the radiation damage logic for the hurt trigger." alt="" coords="194,5,380,32"/>
+<area shape="rect" id="Node000002" href="$db/d21/class_c_trigger_hurt.html#ad0681a187bf8f4d377b366ee85a9a32b" title="Initializes the hurt trigger entity." alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,21,146,21,146,16,178,16"/>
+</map>

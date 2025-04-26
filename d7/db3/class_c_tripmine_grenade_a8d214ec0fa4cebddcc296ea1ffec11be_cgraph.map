@@ -1,0 +1,74 @@
+<map id="CTripmineGrenade::WarningThink" name="CTripmineGrenade::WarningThink">
+<area shape="rect" id="Node000001" title="Handles the warning state of the tripmine grenade." alt="" coords="5,352,190,395"/>
+<area shape="rect" id="Node000002" href="$d7/db3/class_c_tripmine_grenade.html#aaed0d096f0eb79fbb48d6928c07fedfa" title="Handles the power&#45;up state of the tripmine grenade." alt="" coords="238,352,424,395"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,371,222,371,222,376,190,376"/>
+<area shape="rect" id="Node000003" href="$d5/de5/class_c_base_entity.html#a160eca0a1781985ff10e178f951efeac" title="Creates an entity." alt="" coords="503,5,643,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,351,343,290,367,206,385,161,408,118,436,77,470,42,488,31,490,35,474,46,440,81,413,120,390,164,372,208,349,291,337,352"/>
+<area shape="rect" id="Node000004" href="$d3/d55/hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="504,56,642,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="335,351,350,299,376,232,416,161,441,128,470,99,489,87,491,92,474,103,445,132,421,164,381,234,355,301,340,352"/>
+<area shape="rect" id="Node000005" href="$d8/d3c/util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1513,360,1560,387"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="360,349,437,299,548,239,613,212,681,189,752,174,823,168,1060,168,1156,162,1234,154,1270,155,1308,160,1349,172,1396,194,1418,215,1451,256,1518,346,1514,349,1447,259,1414,219,1393,198,1347,177,1307,165,1270,160,1234,160,1157,167,1060,173,823,173,753,179,683,194,615,217,550,244,439,304,363,354"/>
+<area shape="rect" id="Node000006" href="$d5/de5/class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="983,309,1135,336"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="419,349,560,319,722,295,824,288,927,295,984,303,984,309,926,300,824,293,723,300,561,324,420,354"/>
+<area shape="rect" id="Node000008" href="$d7/db3/class_c_tripmine_grenade.html#aae52016134c8b6f80e7496447e83d769" title="Kills the beam associated with the tripmine grenade." alt="" coords="1442,208,1631,235"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="344,350,394,284,430,248,471,216,561,165,600,147,638,135,719,121,823,117,1060,117,1155,118,1230,122,1303,133,1395,156,1450,175,1498,198,1496,203,1448,180,1394,161,1302,139,1229,127,1155,123,1060,123,823,123,720,126,639,140,602,152,563,170,473,221,433,252,398,288,348,353"/>
+<area shape="rect" id="Node000010" href="$d7/db3/class_c_tripmine_grenade.html#ade51e8409b8576bc7d1bc08362d43611" title="Creates the beam for the tripmine grenade." alt="" coords="472,461,674,488"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="385,393,526,452,524,457,383,398"/>
+<area shape="rect" id="Node000015" href="$d5/d93/hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="1481,655,1592,681"/>
+<area shape="poly" id="edge42_Node000002_Node000015" title=" " alt="" coords="348,393,411,481,460,538,518,597,585,652,659,698,698,716,738,730,780,738,823,741,1060,741,1173,735,1285,721,1386,702,1468,683,1469,688,1387,707,1286,726,1173,741,1060,747,823,747,780,744,737,735,696,721,656,703,582,657,514,601,456,542,407,484,344,396"/>
+<area shape="rect" id="Node000028" href="$d8/d3c/util_8h.html#a8a4601b94eb359b1b48670b4c5bc4e15" title=" " alt="" coords="1238,781,1347,808"/>
+<area shape="poly" id="edge38_Node000002_Node000028" title=" " alt="" coords="335,395,340,468,347,517,359,570,376,623,401,675,433,722,474,761,499,775,532,787,615,805,715,815,826,818,1048,812,1223,799,1223,804,1048,817,826,823,715,820,614,810,530,792,497,780,470,765,429,725,396,678,371,625,354,571,342,518,335,469,330,395"/>
+<area shape="rect" id="Node000029" href="$d5/de5/class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="482,832,664,859"/>
+<area shape="poly" id="edge40_Node000002_Node000029" title=" " alt="" coords="335,395,341,473,348,526,360,585,378,645,402,706,434,762,474,811,488,822,484,827,470,815,429,765,397,708,373,647,355,586,343,527,335,474,330,395"/>
+<area shape="rect" id="Node000030" href="$d3/d55/hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="519,883,627,909"/>
+<area shape="poly" id="edge41_Node000002_Node000030" title=" " alt="" coords="334,395,335,483,341,543,351,610,368,680,393,749,428,813,449,842,474,869,488,879,505,887,503,891,486,884,470,873,445,845,424,816,388,751,363,682,346,611,335,544,330,483,329,395"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="1135,326,1395,352,1498,365,1498,371,1394,357,1134,332"/>
+<area shape="rect" id="Node000007" href="$dc/df4/enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="1238,259,1347,285"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1123,306,1222,284,1223,290,1125,311"/>
+<area shape="rect" id="Node000009" href="$d3/d55/hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="1704,208,1804,235"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1631,219,1688,219,1688,224,1631,224"/>
+<area shape="poly" id="edge28_Node000010_Node000005" title=" " alt="" coords="642,486,723,497,826,511,871,511,926,497,940,490,949,481,959,471,973,462,1031,436,1079,421,1191,400,1276,387,1361,379,1497,372,1498,377,1362,384,1277,393,1191,405,1080,426,1033,441,976,466,962,475,953,485,943,495,928,503,871,516,826,516,722,503,641,491"/>
+<area shape="rect" id="Node000011" href="$d7/db3/class_c_tripmine_grenade.html#af562a1755804f7d0a7ba94691ea46a64" title="Handles the beam break state of the tripmine grenade." alt="" coords="722,563,927,605"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="590,486,648,519,723,554,724,554,722,559,721,558,645,523,587,491"/>
+<area shape="poly" id="edge37_Node000010_Node000015" title=" " alt="" coords="586,487,607,515,638,551,678,587,723,615,786,635,870,649,970,659,1079,665,1296,669,1466,667,1466,673,1296,675,1079,670,970,664,869,654,784,640,721,620,675,591,635,555,603,518,581,490"/>
+<area shape="rect" id="Node000020" href="$df/d67/class_c_beam.html#af6c800020a8f5f2c9caa6b853eb4b3ca" title="Creates a new beam entity." alt="" coords="752,680,897,707"/>
+<area shape="poly" id="edge27_Node000010_Node000020" title=" " alt="" coords="584,487,604,522,635,568,675,617,724,659,747,672,744,676,721,664,672,621,630,571,599,524,579,490"/>
+<area shape="rect" id="Node000021" href="$d5/de5/class_c_base_entity.html#a728556d45dd0907c57e1b1498c61ab32" title=" " alt="" coords="749,208,900,235"/>
+<area shape="poly" id="edge29_Node000010_Node000021" title=" " alt="" coords="582,459,638,386,677,340,721,295,788,242,791,246,724,299,681,344,642,390,586,462"/>
+<area shape="rect" id="Node000024" href="$df/d67/class_c_beam.html#a7973ed905d206b617e153596758adbd0" title="Initializes the beam with a start point and end entity." alt="" coords="755,309,894,336"/>
+<area shape="poly" id="edge33_Node000010_Node000024" title=" " alt="" coords="585,459,640,404,678,372,721,346,739,338,741,343,724,350,681,377,643,408,588,463"/>
+<area shape="rect" id="Node000025" href="$df/d67/class_c_beam.html#a748210777faa6527930615023e2c6c1b" title=" " alt="" coords="747,360,902,387"/>
+<area shape="poly" id="edge34_Node000010_Node000025" title=" " alt="" coords="596,459,652,428,721,396,743,389,745,394,723,401,654,432,599,463"/>
+<area shape="rect" id="Node000026" href="$df/d67/class_c_beam.html#a951e0fd315edc3ee8eb8271b9ceaeda9" title=" " alt="" coords="763,411,886,437"/>
+<area shape="poly" id="edge35_Node000010_Node000026" title=" " alt="" coords="643,458,747,437,748,442,644,463"/>
+<area shape="rect" id="Node000027" href="$df/d67/class_c_beam.html#a1165f4dee32038d2809ba34778362a74" title=" " alt="" coords="748,461,901,488"/>
+<area shape="poly" id="edge36_Node000010_Node000027" title=" " alt="" coords="675,472,733,472,733,477,675,477"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="887,560,925,542,949,523,973,506,1019,488,1080,469,1230,432,1497,378,1498,383,1232,437,1082,474,1021,493,976,510,952,528,928,546,890,565"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="857,560,891,532,925,498,940,474,949,452,957,430,972,404,1000,372,1028,344,1031,348,1004,375,977,407,962,432,954,454,945,476,929,502,895,536,860,564"/>
+<area shape="poly" id="edge24_Node000011_Node000010" title=" " alt="" coords="791,565,721,534,638,497,640,492,723,530,794,560"/>
+<area shape="rect" id="Node000012" href="$d7/db3/class_c_tripmine_grenade.html#a6bf59a330f1ce299d598b0795f338aa7" title="Handles the death of the tripmine grenade." alt="" coords="975,520,1143,547"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="926,559,978,548,980,553,927,565"/>
+<area shape="poly" id="edge25_Node000011_Node000015" title=" " alt="" coords="927,599,975,607,1247,639,1466,660,1466,665,1247,644,974,612,927,605"/>
+<area shape="rect" id="Node000019" href="$d8/d3c/util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="1030,571,1088,597"/>
+<area shape="poly" id="edge26_Node000011_Node000019" title=" " alt="" coords="927,581,1015,581,1015,587,927,587"/>
+<area shape="poly" id="edge23_Node000012_Node000005" title=" " alt="" coords="1113,517,1393,440,1449,416,1498,391,1501,396,1451,421,1395,445,1115,522"/>
+<area shape="rect" id="Node000013" href="$d7/db3/class_c_tripmine_grenade.html#adbf4f42729c04eb67c0b9e349b2e4fa2" title="Handles the delayed death of the tripmine grenade." alt="" coords="1191,512,1394,555"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="1144,531,1175,531,1175,536,1144,536"/>
+<area shape="rect" id="Node000016" href="$d8/d3c/util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="1241,579,1345,605"/>
+<area shape="poly" id="edge20_Node000012_Node000016" title=" " alt="" coords="1116,545,1192,564,1226,573,1225,578,1190,569,1114,550"/>
+<area shape="poly" id="edge16_Node000013_Node000005" title=" " alt="" coords="1357,509,1393,491,1458,443,1510,396,1513,400,1462,447,1396,496,1359,514"/>
+<area shape="poly" id="edge18_Node000013_Node000008" title=" " alt="" coords="1309,510,1513,246,1517,249,1313,513"/>
+<area shape="rect" id="Node000014" href="$d9/df2/class_c_grenade.html#a26b11375db7cf44d49526d15f1a23ed9" title="Handles the explosion of the grenade." alt="" coords="1469,520,1604,547"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="1395,531,1454,531,1454,536,1395,536"/>
+<area shape="poly" id="edge19_Node000013_Node000015" title=" " alt="" coords="1370,553,1396,564,1458,603,1509,642,1506,646,1455,607,1393,569,1367,558"/>
+<area shape="rect" id="Node000017" href="$d6/df1/sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="1467,756,1606,783"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="1315,604,1506,745,1503,749,1311,608"/>
+<area shape="rect" id="Node000018" href="$d6/df1/sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="1679,756,1829,783"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="1606,767,1663,767,1663,772,1606,772"/>
+<area shape="rect" id="Node000022" href="$d5/de5/class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1228,208,1358,235"/>
+<area shape="poly" id="edge30_Node000021_Node000022" title=" " alt="" coords="894,233,975,244,1059,249,1143,244,1212,235,1212,240,1143,249,1059,254,974,249,893,238"/>
+<area shape="rect" id="Node000023" href="$d8/d3c/util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="1017,208,1101,235"/>
+<area shape="poly" id="edge32_Node000021_Node000023" title=" " alt="" coords="900,219,1002,219,1002,224,900,224"/>
+<area shape="poly" id="edge31_Node000022_Node000005" title=" " alt="" coords="1359,230,1396,244,1432,267,1465,294,1516,346,1512,350,1461,298,1428,272,1393,249,1357,235"/>
+<area shape="poly" id="edge39_Node000028_Node000017" title=" " alt="" coords="1347,786,1452,775,1452,781,1348,792"/>
+</map>

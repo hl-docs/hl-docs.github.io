@@ -1,0 +1,30 @@
+<map id="CTalkMonster::EnumFriends" name="CTalkMonster::EnumFriends">
+<area shape="rect" id="Node000001" title="Enumerates friends of the talk monster." alt="" coords="719,107,906,133"/>
+<area shape="rect" id="Node000002" href="$da/d04/class_c_talk_monster.html#a00ee871010398e924a7681f582cafb4e" title="Alerts nearby friends of the talk monster." alt="" coords="484,56,663,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="731,105,639,86,641,81,732,100"/>
+<area shape="rect" id="Node000006" href="$da/d04/class_c_talk_monster.html#a00e1852d5fc02ebb132ded6e7377dfca" title="Limits the number of followers for the talk monster." alt="" coords="478,107,670,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="704,123,670,123,670,117,704,117"/>
+<area shape="rect" id="Node000010" href="$da/d04/class_c_talk_monster.html#a0089a9b4b7d952cc29450c00f2e37a35" title="Stops nearby friends from talking." alt="" coords="476,208,671,235"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="766,142,608,210,606,205,764,137"/>
+<area shape="rect" id="Node000003" href="$da/d04/class_c_talk_monster.html#a09f20f4407d2c7294a4ab9feb3e0a09b" title="Handles the death of the talk monster." alt="" coords="266,56,407,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,72,407,72,407,67,469,67"/>
+<area shape="rect" id="Node000004" href="$d0/d51/class_c_barney.html#a485e807682e97b90132aaca8a62b2af2" title="Handles the death of the Barney entity." alt="" coords="45,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,55,157,33,158,28,257,50"/>
+<area shape="rect" id="Node000005" href="$dc/d29/class_c_scientist.html#aaedf2fab34bc89a2056bc25c39d4b080" title="Handles the death of the scientist." alt="" coords="40,56,162,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="250,72,162,72,162,67,250,67"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="492,105,402,86,403,81,494,100"/>
+<area shape="rect" id="Node000007" href="$da/d04/class_c_talk_monster.html#a100840a7f1417df9e0630754fba12ceb" title="Handles the use interaction for the talk monster." alt="" coords="246,107,427,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="462,123,427,123,427,117,462,117"/>
+<area shape="rect" id="Node000008" href="$d0/d51/class_c_barney.html#abf46f736a42ef4e60fd853d9e86526d2" title="Spawns the Barney entity." alt="" coords="42,107,160,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="230,123,160,123,160,117,230,117"/>
+<area shape="rect" id="Node000009" href="$dc/d29/class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="37,157,165,184"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="257,140,166,160,165,154,256,135"/>
+<area shape="rect" id="Node000011" href="$da/d04/class_c_talk_monster.html#a1840de9c87c8db1c56c7467efedab615" title="Handles animation events for the talk monster." alt="" coords="247,200,426,243"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="461,224,426,224,426,219,461,219"/>
+<area shape="rect" id="Node000014" href="$da/d04/class_c_talk_monster.html#ac0cbe8947e4599879628b580fa9b1fe6" title="Plays a scripted sentence for the talk monster." alt="" coords="245,267,428,309"/>
+<area shape="poly" id="edge14_Node000010_Node000014" title=" " alt="" coords="509,242,416,269,414,263,508,237"/>
+<area shape="rect" id="Node000012" href="$d0/d51/class_c_barney.html#ad67727fb91de9879016a9f7778114c67" title="Handles animation events for the Barney entity." alt="" coords="10,208,192,235"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="231,224,192,224,192,219,231,219"/>
+<area shape="rect" id="Node000013" href="$dc/d29/class_c_scientist.html#ad4f79eea5fdff55654dea8edc8e590db" title="Handles animation events for the scientist." alt="" coords="5,259,197,285"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="232,246,167,261,166,255,231,241"/>
+</map>

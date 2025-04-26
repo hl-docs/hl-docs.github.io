@@ -1,0 +1,14 @@
+<map id="KB_Find" name="KB_Find">
+<area shape="rect" id="Node000001" title="Finds a key binding object (kbutton_t) by name." alt="" coords="555,17,626,44"/>
+<area shape="rect" id="Node000002" href="$d9/dbd/cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,17,44,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="539,25,455,14,359,8,244,8,187,10,130,16,44,30,43,25,129,11,186,5,244,3,359,3,456,8,540,19"/>
+<area shape="rect" id="Node000003" href="$d8/d8c/input_8cpp.html#ac36af357caf63717714e94d007b67565" title="Adds a key binding to the list of known key bindings." alt="" coords="438,43,507,69"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="540,44,508,51,507,46,539,39"/>
+<area shape="rect" id="Node000004" href="$d8/d8c/input_8cpp.html#a15ca56e042f4dd20717062c27fd8ab89" title="Initializes the key binding system with a few default inputs." alt="" coords="326,43,390,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,59,390,59,390,53,423,53"/>
+<area shape="rect" id="Node000005" href="$d8/d8c/input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="212,43,278,69"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,59,279,59,279,53,311,53"/>
+<area shape="rect" id="Node000006" href="$d9/dbd/cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="92,43,164,69"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="197,59,165,59,165,53,197,53"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="76,46,44,38,45,33,77,41"/>
+</map>

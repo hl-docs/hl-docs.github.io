@@ -1,5 +1,0 @@
-<map id="CHGrunt::SpeakSentence" name="CHGrunt::SpeakSentence">
-<area shape="rect" id="Node000001" title="Speaks a cued sentence for the grunt." alt="" coords="189,5,360,32"/>
-<area shape="rect" id="Node000002" href="$class_c_h_grunt.html#a489abde51cc63bb8147fa6a0e62284e6" title="Starts a task for the grunt." alt="" coords="5,5,141,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
-</map>

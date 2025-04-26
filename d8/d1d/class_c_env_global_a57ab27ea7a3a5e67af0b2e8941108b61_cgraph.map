@@ -1,0 +1,18 @@
+<map id="CEnvGlobal::Use" name="CEnvGlobal::Use">
+<area shape="rect" id="Node000001" title="Uses the global environment entity." alt="" coords="5,81,125,108"/>
+<area shape="rect" id="Node000002" href="$d6/d48/class_c_global_state.html#a525f4e67f4b2c6039bfa60f01a4e3242" title="Adds a new global entity to the list." alt="" coords="187,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,78,172,42,194,34,195,39,174,46,93,83"/>
+<area shape="rect" id="Node000005" href="$d6/d48/class_c_global_state.html#a4af6c93735dc5892d9eef662059fbeb0" title="Gets the state of a global entity." alt="" coords="173,56,365,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,85,157,81,158,86,125,90"/>
+<area shape="rect" id="Node000006" href="$d6/d48/class_c_global_state.html#ac42248e870fe4eca41037ca71bb1da40" title=" " alt="" coords="178,107,360,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="125,99,163,104,162,109,125,105"/>
+<area shape="rect" id="Node000007" href="$d6/d48/class_c_global_state.html#a7ab6ff1716b2bd7cb93b94f587d7830f" title="Sets the state of a global entity." alt="" coords="173,157,365,184"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="93,106,174,143,195,150,194,155,172,148,91,111"/>
+<area shape="rect" id="Node000003" href="$d6/d48/class_c_global_state.html#ac6fc345bb9caa58d1bd7e8478ae627e5" title="Finds a global entity by name." alt="" coords="413,81,544,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,30,366,41,437,72,435,77,364,47,328,35"/>
+<area shape="rect" id="Node000004" href="$d8/d3c/util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="592,81,655,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="545,92,577,92,577,97,545,97"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="366,78,398,82,397,88,365,84"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="360,106,397,102,398,107,360,112"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="328,154,364,143,435,113,437,118,366,148,329,159"/>
+</map>

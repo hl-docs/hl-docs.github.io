@@ -1,5 +1,0 @@
-<map id="CTentacleMaw::Precache" name="CTentacleMaw::Precache">
-<area shape="rect" id="Node000001" title="Preloads the tentacle maw&#39;s resources." alt="" coords="207,5,376,32"/>
-<area shape="rect" id="Node000002" href="$class_c_tentacle_maw.html#ae9c7664987186af4624962a52c185b3b" title="Spawns the tentacle maw entity." alt="" coords="5,5,159,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,21,159,21,159,16,191,16"/>
-</map>

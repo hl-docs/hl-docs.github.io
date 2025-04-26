@@ -1,0 +1,13 @@
+<map id="__CmdFunc_BenchMark" name="__CmdFunc_BenchMark">
+<area shape="rect" id="Node000001" title="Console command to start the benchmark." alt="" coords="5,35,170,61"/>
+<area shape="rect" id="Node000002" href="$d8/d13/class_c_hud_benchmark.html#afd707bb791e0362f0de978e6784026e9" title="Starts the benchmarking system." alt="" coords="218,35,387,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,45,202,45,202,51,170,51"/>
+<area shape="rect" id="Node000003" href="$de/dbe/hud__bench_8cpp.html#a7f37fe86eb47931b31870b598ea4a423" title="Sets the current benchmark stage." alt="" coords="467,5,586,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,34,450,26,451,31,388,40"/>
+<area shape="rect" id="Node000004" href="$d8/d13/class_c_hud_benchmark.html#ab8b1f9bc0b708f232eb4eb6671ef18be" title="Starts the next benchmarking section based on the given stage." alt="" coords="435,56,617,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="388,56,420,61,419,66,387,62"/>
+<area shape="rect" id="Node000005" href="$de/dbe/hud__bench_8cpp.html#a0d99927ba36b870455c56ebdc54f26cc" title="Gets the switch time for the current stage." alt="" coords="665,64,819,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="618,75,650,75,650,80,618,80"/>
+<area shape="rect" id="Node000006" href="$de/dbe/hud__bench_8cpp.html#a2acca70ba9541b59d8154ab2ca54d037" title="Retrieves the current benchmark stage." alt="" coords="867,64,987,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="819,75,851,75,851,80,819,80"/>
+</map>
