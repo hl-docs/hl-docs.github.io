@@ -1,0 +1,10 @@
+<map id="CBreakable::Precache" name="CBreakable::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches all resources needed by the breakable entity." alt="" coords="380,31,531,57"/>
+<area shape="rect" id="Node000002" href="$class_c_pushable.html#acff10e25dc7764ddb74a672001a0bd12" title="Pre&#45;caches sounds for the pushable entity." alt="" coords="185,5,332,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,35,332,31,333,26,365,30"/>
+<area shape="rect" id="Node000004" href="$class_c_breakable.html#aa9ae6e72694530afcfe91852e1907af8" title="Spawns the breakable entity." alt="" coords="191,56,326,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,58,327,63,326,58,364,53"/>
+<area shape="rect" id="Node000003" href="$class_c_pushable.html#a7dc12c6652e12e9faaa2b7c4ceda1c8d" title="Spawns the pushable entity." alt="" coords="5,31,137,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,33,137,38,137,32,169,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="175,61,137,56,137,50,176,56"/>
+</map>

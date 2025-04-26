@@ -1,0 +1,9 @@
+<map id="CSquadMonster::SquadEnemySplit" name="CSquadMonster::SquadEnemySplit">
+<area shape="rect" id="Node000001" title="Checks if all squad members are fighting the same enemy." alt="" coords="5,48,206,91"/>
+<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#abb12bdacefd969667874163644fa1515" title=" " alt="" coords="281,5,451,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,47,278,33,279,38,207,52"/>
+<area shape="rect" id="Node000003" href="$class_c_squad_monster.html#a8eecfa90882640b12b51daca63663e50" title=" " alt="" coords="258,56,474,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,67,242,67,242,72,206,72"/>
+<area shape="rect" id="Node000004" href="$class_c_squad_monster.html#a2b887c5d4e97c9b6bb0f7c59c8535cc3" title=" " alt="" coords="254,107,478,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,86,279,101,278,106,206,91"/>
+</map>

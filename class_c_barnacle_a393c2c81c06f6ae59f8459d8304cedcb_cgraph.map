@@ -1,0 +1,9 @@
+<map id="CBarnacle::WaitTillDead" name="CBarnacle::WaitTillDead">
+<area shape="rect" id="Node000001" title="Waits until the barnacle is dead." alt="" coords="5,72,168,99"/>
+<area shape="rect" id="Node000002" href="$class_c_base_animating.html#a4378161ed931f8a0da287ebe91408a44" title="Dispatches animation events for the current frame." alt="" coords="227,5,405,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,69,214,50,216,55,142,74"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#af89d9188934a12d16a2dc8fb7639f11d" title=" " alt="" coords="216,72,416,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,83,200,83,200,88,168,88"/>
+<area shape="rect" id="Node000004" href="$class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="216,123,416,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,97,216,116,214,121,141,102"/>
+</map>

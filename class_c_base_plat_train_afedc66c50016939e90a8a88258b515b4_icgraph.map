@@ -1,0 +1,9 @@
+<map id="CBasePlatTrain::Precache" name="CBasePlatTrain::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches sounds for the platform&#39;s movement and arrival." alt="" coords="386,31,560,57"/>
+<area shape="rect" id="Node000002" href="$class_c_func_plat.html#ab7056f829f095aba7609b44202965623" title="Pre&#45;caches sounds for the platform." alt="" coords="190,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="370,34,336,30,336,25,371,29"/>
+<area shape="rect" id="Node000003" href="$class_c_func_train.html#a1c1bfb171cbe93250605880e7a37defd" title="Pre&#45;caches sounds and other resources for the train." alt="" coords="188,56,338,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="371,59,339,63,338,58,370,54"/>
+<area shape="rect" id="Node000004" href="$class_c_func_train.html#a1c86e07ce6c7e009a38e883df28e727b" title="Spawns the train and initializes its properties." alt="" coords="5,56,140,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,72,140,72,140,67,172,67"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CPendulum::Touch" name="CPendulum::Touch">
+<area shape="rect" id="Node000001" title="Handles touch events for the pendulum." alt="" coords="5,31,137,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#aa8c66d085116b719beff9fb1c3d0e45d" title="Inflicts damage on the entity." alt="" coords="185,5,363,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,33,169,29,169,34,138,38"/>
+<area shape="rect" id="Node000003" href="$bmodels_8cpp.html#ae188671969a2ab14d622833f93364a19" title="Calculates the origin of a bounding model." alt="" coords="213,56,335,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,50,198,57,197,62,137,55"/>
+</map>

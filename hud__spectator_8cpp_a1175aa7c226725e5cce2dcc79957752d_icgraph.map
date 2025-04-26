@@ -1,0 +1,5 @@
+<map id="SpectatorHelp" name="SpectatorHelp">
+<area shape="rect" id="Node000001" title="Displays spectator help text or menu." alt="" coords="188,5,291,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a699359672bc053ee8c212523c63d3543" title="Initializes the HUD Spectator system and registers commands/variables." alt="" coords="5,5,140,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
+</map>

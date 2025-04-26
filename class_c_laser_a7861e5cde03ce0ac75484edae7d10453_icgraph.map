@@ -1,0 +1,5 @@
+<map id="CLaser::IsOn" name="CLaser::IsOn">
+<area shape="rect" id="Node000001" title="Checks if the laser is currently on." alt="" coords="147,5,244,32"/>
+<area shape="rect" id="Node000002" href="$class_c_laser.html#a0bc98c302393fc59bdf9343573c801de" title="Uses the laser effect." alt="" coords="5,5,99,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,21,99,21,99,16,131,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ReloadMapCycleFile" name="ReloadMapCycleFile">
+<area shape="rect" id="Node000001" title="Parses the mapcycle.txt file into a mapcycle_t structure." alt="" coords="178,13,318,40"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a091d83eba2664f0107cdef6547b371e7" title="Changes the server to a new level based on the map cycle." alt="" coords="5,5,130,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,29,130,29,130,24,162,24"/>
+</map>

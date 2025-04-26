@@ -1,0 +1,5 @@
+<map id="CWallHealth::Off" name="CWallHealth::Off">
+<area shape="rect" id="Node000001" title="Turns off the wall health entity and stops any sounds." alt="" coords="178,5,295,32"/>
+<area shape="rect" id="Node000002" href="$class_c_wall_health.html#ae8f4aae03978137857a906c675ef0ade" title="Activates the wall health entity for the player." alt="" coords="5,5,130,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,21,130,21,130,16,162,16"/>
+</map>

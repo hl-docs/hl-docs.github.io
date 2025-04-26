@@ -1,0 +1,19 @@
+<map id="CHudSpectator::SetCameraView" name="CHudSpectator::SetCameraView">
+<area shape="rect" id="Node000001" title="Sets the spectator camera view to a given position and angle." alt="" coords="800,56,1010,83"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a7221e8e6c110b91835118bee9c1d2dc8" title="Adds a waypoint for the camera to follow during a spectator replay." alt="" coords="556,5,752,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="820,55,723,35,724,30,821,50"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_spectator.html#a68d7dab5a05bf25c71781a8bd6e97625" title="Processes director messages to control the spectator mode." alt="" coords="293,56,508,83"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="784,72,509,72,509,67,784,67"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_spectator.html#af4bada00e85788412f5e3b166a451f70" title="Calculates the director camera view for the spectator." alt="" coords="562,107,746,149"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="831,89,747,109,746,104,830,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="569,38,472,58,470,53,568,33"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#a13f8b6e71ea4313e0b97d907191b27bf" title="Handles director messages." alt="" coords="92,57,245,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,73,245,73,245,68,277,67"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,84,44,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="79,90,45,96,44,91,78,85"/>
+<area shape="rect" id="Node000007" href="$view_8cpp.html#a40c60871c5337416492e52d53c480159" title="Calculates the spectator&#39;s view during different modes." alt="" coords="323,113,478,140"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="547,130,479,130,479,124,547,125"/>
+<area shape="rect" id="Node000008" href="$view_8cpp.html#a5101ada71cb8cbb94a50a8409280a993" title="Calculates the player&#39;s or spectator&#39;s view during the frame." alt="" coords="119,109,218,136"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="308,128,218,126,219,121,308,122"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="103,114,44,103,45,98,104,109"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CTFScrollButton" name="CTFScrollButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,279,390,305"/>
+<area shape="rect" id="Node000002" href="$class_command_button.html" title=" " alt="" coords="134,172,252,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,203,289,221,314,249,329,277,324,280,309,252,286,225,256,207"/>
+<area shape="rect" id="Node000004" href="$class_c_command_menu.html" title=" " alt="" coords="5,279,127,305"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="120,202,102,212,86,224,78,237,72,251,69,279,63,278,67,250,73,235,82,221,99,207,118,198"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="126,81,185,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,122,190,170,185,172,164,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="136,270,161,253,179,226,188,198,193,200,184,228,165,257,139,274"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="144,283,153,292,145,301,128,304,127,299,143,296,148,292,140,287"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="16,172,71,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="52,213,66,278,61,279,47,214"/>
+<area shape="rect" id="Node000006" href="$class_command_label.html" title=" " alt="" coords="209,81,320,108"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="247,122,205,173,201,170,243,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="239,5,291,32"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="267,47,267,81,262,81,262,47"/>
+</map>

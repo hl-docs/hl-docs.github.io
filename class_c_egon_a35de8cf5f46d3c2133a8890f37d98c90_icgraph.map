@@ -1,0 +1,11 @@
+<map id="CEgon::EndAttack" name="CEgon::EndAttack">
+<area shape="rect" id="Node000001" title="Ends the attack action for the Egon weapon." alt="" coords="389,56,518,83"/>
+<area shape="rect" id="Node000002" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="220,5,326,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,54,322,35,324,30,389,49"/>
+<area shape="rect" id="Node000004" href="$class_c_egon.html#a3744c6ce6e1384b9cdc68a1eee4e2beb" title="Holsters the Egon weapon." alt="" coords="218,56,328,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,72,328,72,328,67,373,67"/>
+<area shape="rect" id="Node000005" href="$class_c_egon.html#a846e9d63158bc388c93d70ab5963565e" title="Handles the idle state of the Egon weapon." alt="" coords="205,107,341,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="389,90,324,109,322,104,388,85"/>
+<area shape="rect" id="Node000003" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,21,157,21,157,16,204,16"/>
+</map>

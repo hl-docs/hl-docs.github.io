@@ -1,0 +1,5 @@
+<map id="CLeech::TakeDamage" name="CLeech::TakeDamage">
+<area shape="rect" id="Node000001" title="Handles damage taken by the leech." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#ad73a936a05befe9d5e6a419042e69a21" title="Reduces the monster&#39;s health by a specified amount." alt="" coords="203,5,394,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,16,187,16,187,21,155,21"/>
+</map>

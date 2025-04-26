@@ -1,0 +1,5 @@
+<map id="CTeamMenuPanel::SlotInput" name="CTeamMenuPanel::SlotInput">
+<area shape="rect" id="Node000001" title="Handles slot key input (1&#45;6) from the user." alt="" coords="5,13,192,40"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a88385bd58516650af76df9e7c2e3394b" title=" " alt="" coords="240,5,391,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,24,224,24,224,29,192,29"/>
+</map>

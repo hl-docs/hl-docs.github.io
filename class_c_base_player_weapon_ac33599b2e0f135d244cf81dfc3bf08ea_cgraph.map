@@ -1,0 +1,7 @@
+<map id="CBasePlayerWeapon::IsUseable" name="CBasePlayerWeapon::IsUseable">
+<area shape="rect" id="Node000001" title="Determines if a weapon is useable." alt="" coords="5,27,159,69"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_item.html#aaf655b98580ee225b568f4ca90e0de1d" title=" " alt="" coords="207,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,35,191,31,192,36,159,41"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_weapon.html#ae1181fcbf5b7c587b316bad26ab2fbbe" title="Returns the index of the primary ammo type." alt="" coords="232,56,385,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,55,217,63,216,68,159,61"/>
+</map>

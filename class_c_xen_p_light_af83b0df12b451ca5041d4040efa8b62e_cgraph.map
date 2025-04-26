@@ -1,0 +1,13 @@
+<map id="CXenPLight::Touch" name="CXenPLight::Touch">
+<area shape="rect" id="Node000001" title="Handles the touch event for the Xen plant light." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="Node000002" href="$class_c_act_animating.html#a4031a97a76b1a46efa282f01e5c9bc87" title=" " alt="" coords="185,5,364,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,53,203,34,204,39,128,58"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="200,56,349,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,67,184,67,184,72,137,72"/>
+<area shape="rect" id="Node000004" href="$class_c_act_animating.html#ab48161c68e3ad971d12ed180abbd4bc1" title="Sets the activity for the animating entity." alt="" coords="185,107,364,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,81,204,100,203,105,127,86"/>
+<area shape="rect" id="Node000005" href="$class_c_base_animating.html#a40a4e881deccdeced4714dde7868dc15" title="Looks up the activity index for a given activity." alt="" coords="426,81,636,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="364,109,410,104,411,109,364,114"/>
+<area shape="rect" id="Node000006" href="$class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="412,132,650,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="364,126,397,129,396,135,364,131"/>
+</map>

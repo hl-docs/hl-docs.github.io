@@ -1,0 +1,58 @@
+<map id="CTestEffect::TestThink" name="CTestEffect::TestThink">
+<area shape="rect" id="Node000001" title="Think function for the test effect." alt="" coords="5,259,158,285"/>
+<area shape="rect" id="Node000002" href="$class_c_beam.html#af6c800020a8f5f2c9caa6b853eb4b3ca" title="Creates a new beam entity." alt="" coords="211,5,355,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,258,97,216,121,158,156,96,178,67,204,42,209,38,213,42,207,46,182,71,160,99,125,160,102,218,89,259"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="260,56,306,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="86,257,102,224,128,180,162,133,204,93,223,81,244,74,245,79,226,86,207,97,166,137,132,183,107,226,91,259"/>
+<area shape="rect" id="Node000004" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="216,107,350,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,256,136,202,168,171,204,143,214,138,216,142,207,148,171,175,140,206,95,260"/>
+<area shape="rect" id="Node000005" href="$class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="220,157,346,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="101,256,147,225,204,194,219,187,221,192,207,198,150,230,104,260"/>
+<area shape="rect" id="Node000009" href="$class_c_beam.html#a52880e341224bcfbae725eea95c14d83" title="Initializes the beam with start and end points." alt="" coords="220,208,346,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="137,255,211,236,213,242,138,261"/>
+<area shape="rect" id="Node000023" href="$class_c_beam.html#a748210777faa6527930615023e2c6c1b" title=" " alt="" coords="206,259,360,285"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="158,269,190,269,190,275,158,275"/>
+<area shape="rect" id="Node000024" href="$class_c_beam.html#a951e0fd315edc3ee8eb8271b9ceaeda9" title=" " alt="" coords="222,309,344,336"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="138,283,213,302,211,308,137,289"/>
+<area shape="rect" id="Node000025" href="$class_c_beam.html#a1165f4dee32038d2809ba34778362a74" title=" " alt="" coords="207,360,359,387"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="104,284,150,314,207,346,221,352,219,357,204,350,147,319,101,288"/>
+<area shape="rect" id="Node000026" href="$class_c_beam.html#a7201afb4de74ed1dfb21adcf0e56287b" title=" " alt="" coords="220,411,346,437"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="95,284,140,338,171,369,207,396,216,402,214,406,204,401,168,373,136,342,91,288"/>
+<area shape="rect" id="Node000027" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="233,461,333,488"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="91,285,107,318,132,361,166,407,207,447,220,455,217,460,204,451,162,411,128,364,102,320,86,287"/>
+<area shape="rect" id="Node000028" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="228,512,338,539"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="89,285,102,326,125,384,160,445,182,473,207,498,215,504,212,508,204,502,178,477,156,448,121,386,97,328,84,286"/>
+<area shape="rect" id="Node000006" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="449,31,555,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="339,154,358,143,374,125,381,106,389,86,406,67,432,54,435,58,410,71,394,89,386,108,379,128,362,147,342,159"/>
+<area shape="rect" id="Node000008" href="$class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="449,81,554,108"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="329,154,359,143,407,118,433,109,435,114,409,122,361,148,331,159"/>
+<area shape="rect" id="Node000007" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="694,31,737,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="555,41,679,41,679,47,555,47"/>
+<area shape="rect" id="Node000010" href="$class_c_beam.html#a8f35c1f4f28639dfeea55495157863f0" title="Relinks the beam entity." alt="" coords="431,132,573,159"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="329,205,359,194,407,168,427,161,428,166,409,173,361,198,331,210"/>
+<area shape="rect" id="Node000018" href="$class_c_beam.html#a57e94a8f627db32d00ecbece51a11850" title=" " alt="" coords="411,183,593,209"/>
+<area shape="poly" id="edge18_Node000009_Node000018" title=" " alt="" coords="346,211,395,206,396,211,346,217"/>
+<area shape="rect" id="Node000019" href="$class_c_beam.html#aa422de83653c5dff52e7b3e9620890a2" title=" " alt="" coords="433,233,571,260"/>
+<area shape="poly" id="edge19_Node000009_Node000019" title=" " alt="" coords="346,226,417,234,416,240,346,231"/>
+<area shape="rect" id="Node000020" href="$class_c_beam.html#ab84757a1cb92ce7c8d90b3164d20ea42" title=" " alt="" coords="408,284,595,311"/>
+<area shape="poly" id="edge20_Node000009_Node000020" title=" " alt="" coords="331,233,361,244,409,270,428,276,427,281,407,274,359,249,329,238"/>
+<area shape="rect" id="Node000021" href="$class_c_beam.html#ac24cc4e5d062e14132700c552b31ba61" title=" " alt="" coords="430,335,573,361"/>
+<area shape="poly" id="edge21_Node000009_Node000021" title=" " alt="" coords="342,233,362,245,379,264,386,284,394,303,410,321,417,326,415,330,406,325,389,306,381,286,374,267,358,249,339,238"/>
+<area shape="rect" id="Node000022" href="$class_c_beam.html#a8ff0d6c0d2947a17cc1da69ad31d7b9b" title=" " alt="" coords="442,385,562,412"/>
+<area shape="poly" id="edge22_Node000009_Node000022" title=" " alt="" coords="345,233,362,245,375,261,382,278,386,310,390,342,397,357,410,371,429,384,426,388,406,375,393,359,385,343,381,311,377,279,370,264,358,249,342,237"/>
+<area shape="rect" id="Node000011" href="$class_c_beam.html#a34a675c6f2f84f896e8565b1c83af9f9" title="Gets the end position of the beam." alt="" coords="646,81,785,108"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="561,129,641,110,642,115,562,134"/>
+<area shape="rect" id="Node000014" href="$class_c_beam.html#acae4ffb01e69219b45cd95ed915a324d" title="Gets the start position of the beam." alt="" coords="643,132,788,159"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="573,143,628,143,628,148,573,148"/>
+<area shape="rect" id="Node000016" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="661,183,770,209"/>
+<area shape="poly" id="edge16_Node000010_Node000016" title=" " alt="" coords="562,157,647,177,645,182,561,162"/>
+<area shape="rect" id="Node000017" href="$hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="665,233,766,260"/>
+<area shape="poly" id="edge17_Node000010_Node000017" title=" " alt="" coords="572,157,597,168,612,181,622,194,631,207,645,219,653,224,650,229,642,223,627,210,617,197,608,185,594,173,570,162"/>
+<area shape="rect" id="Node000012" href="$class_c_beam.html#a9833b4276062463779d434cc7e4c4ea7" title=" " alt="" coords="838,56,989,83"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="785,83,822,78,823,84,786,88"/>
+<area shape="rect" id="Node000013" href="$class_c_beam.html#a912392c66da142851a6c87b31a54f534" title=" " alt="" coords="853,107,974,133"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="786,101,837,108,837,113,785,106"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="788,133,837,127,837,132,788,139"/>
+<area shape="rect" id="Node000015" href="$class_c_beam.html#ac2c5c42aa10f784e1b1da3c62082e405" title=" " alt="" coords="836,157,991,184"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="788,152,821,156,820,161,788,157"/>
+</map>

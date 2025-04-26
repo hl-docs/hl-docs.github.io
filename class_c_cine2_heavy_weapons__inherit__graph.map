@@ -1,0 +1,15 @@
+<map id="CCine2HeavyWeapons" name="CCine2HeavyWeapons">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,453,159,480"/>
+<area shape="rect" id="Node000002" href="$class_c_legacy_cine_monster.html" title=" " alt="" coords="9,379,155,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,421,85,453,79,453,79,421"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html" title=" " alt="" coords="28,304,136,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,346,85,378,79,378,79,346"/>
+<area shape="rect" id="Node000004" href="$class_c_base_toggle.html" title="Base class for toggleable entities." alt="" coords="33,229,131,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,272,85,304,79,304,79,272"/>
+<area shape="rect" id="Node000005" href="$class_c_base_animating.html" title="Base class for entities with animation capabilities." alt="" coords="23,155,141,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="85,197,85,229,79,229,79,197"/>
+<area shape="rect" id="Node000006" href="$class_c_base_delay.html" title="Base class for entities with delayed actions." alt="" coords="35,80,129,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="85,122,85,154,79,154,79,122"/>
+<area shape="rect" id="Node000007" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="35,5,129,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="85,48,85,80,79,80,79,48"/>
+</map>

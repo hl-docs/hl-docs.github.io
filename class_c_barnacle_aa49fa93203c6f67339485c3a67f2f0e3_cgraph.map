@@ -1,0 +1,28 @@
+<map id="CBarnacle::Killed" name="CBarnacle::Killed">
+<area shape="rect" id="Node000001" title="Handles the death of the barnacle." alt="" coords="5,199,127,225"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#af5e23cbe20271ef87d6d56681f898603" title="Called when the monster is released from a barnacle." alt="" coords="189,5,392,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,197,107,131,137,91,173,58,180,54,183,58,176,62,141,95,112,133,75,200"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="238,72,343,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,196,115,152,143,128,173,108,222,91,224,96,176,113,146,133,119,156,80,200"/>
+<area shape="rect" id="Node000006" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="267,123,314,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="92,196,130,177,174,159,252,139,253,145,175,164,132,182,94,200"/>
+<area shape="rect" id="Node000007" href="$class_c_base_entity.html#a50acf4d846cc583e41c17df62cc917c1" title=" " alt="" coords="186,173,395,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="127,202,170,198,171,203,128,208"/>
+<area shape="rect" id="Node000008" href="$class_c_base_monster.html#aff2100a3cb50d33a58240b540ff041b3" title="Sets the monster&#39;s activity to a new activity." alt="" coords="202,224,379,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="128,216,186,223,186,228,127,222"/>
+<area shape="rect" id="Node000009" href="$class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="175,275,406,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="94,224,132,242,176,260,201,268,199,273,174,265,130,247,92,228"/>
+<area shape="rect" id="Node000010" href="$class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="454,313,654,356"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="79,224,117,269,145,293,176,311,241,332,309,343,376,347,438,345,438,351,376,352,308,348,239,337,174,316,142,297,114,273,75,228"/>
+<area shape="rect" id="Node000011" href="$class_c_barnacle.html#a393c2c81c06f6ae59f8459d8304cedcb" title="Waits until the barnacle is dead." alt="" coords="209,380,372,407"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="76,225,113,287,142,324,176,355,207,372,205,377,173,360,138,328,108,290,71,227"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="485,72,623,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="343,83,470,83,470,88,343,88"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="702,72,853,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="624,83,687,83,687,88,624,88"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="353,377,440,357,441,363,354,382"/>
+<area shape="rect" id="Node000012" href="$class_c_base_animating.html#a4378161ed931f8a0da287ebe91408a44" title="Dispatches animation events for the current frame." alt="" coords="466,380,643,423"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="372,393,450,396,450,401,372,398"/>
+<area shape="rect" id="Node000013" href="$class_c_base_monster.html#af89d9188934a12d16a2dc8fb7639f11d" title=" " alt="" coords="454,447,654,473"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="347,405,484,440,483,445,346,410"/>
+</map>

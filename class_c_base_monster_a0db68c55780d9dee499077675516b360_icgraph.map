@@ -1,0 +1,7 @@
+<map id="CBaseMonster::IScheduleFlags" name="CBaseMonster::IScheduleFlags">
+<area shape="rect" id="Node000001" title="Returns the schedule flags." alt="" coords="255,31,459,57"/>
+<area shape="rect" id="Node000002" href="$class_c_bullsquid.html#ae7044f0690fd497f04b1319c40ed24c9" title="Determines the ideal state for the bullsquid." alt="" coords="21,5,191,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,35,191,30,192,25,239,29"/>
+<area shape="rect" id="Node000003" href="$class_c_squad_monster.html#a35efd3259d25ae761e62bd81b7c0d2ab" title="Gets the ideal state for the squad monster." alt="" coords="5,56,207,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,59,207,62,207,56,239,53"/>
+</map>

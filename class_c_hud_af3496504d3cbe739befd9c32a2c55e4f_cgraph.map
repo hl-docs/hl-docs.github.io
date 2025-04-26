@@ -1,0 +1,5 @@
+<map id="CHud::MsgFunc_ViewMode" name="CHud::MsgFunc_ViewMode">
+<area shape="rect" id="Node000001" title="Switches the camera to first&#45;person view mode." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="Node000002" href="$in__camera_8cpp.html#a218d3468ada40e7102d180773c249db3" title="Switches the camera back to first&#45;person mode." alt="" coords="236,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,21,188,21"/>
+</map>

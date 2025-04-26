@@ -1,0 +1,59 @@
+<map id="CBaseMonster::SetActivity" name="CBaseMonster::SetActivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="871,404,1048,431"/>
+<area shape="rect" id="Node000002" href="$class_c_barnacle.html#a4226dea19f1c30a28fed856cc5007484" title="The main think function for the barnacle." alt="" coords="651,50,823,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="951,390,938,329,914,251,897,210,876,169,851,131,821,97,793,79,796,75,824,93,855,128,881,166,902,207,919,249,944,328,956,389"/>
+<area shape="rect" id="Node000003" href="$class_c_barnacle.html#a7288eb00da0ada4f605b04dbc5aa3cf6" title="Spawns the barnacle entity." alt="" coords="448,38,576,64"/>
+<area shape="poly" id="edge16_Node000001_Node000003" title=" " alt="" coords="955,389,950,314,943,267,931,217,914,167,891,118,860,75,821,40,788,22,753,12,715,8,677,10,605,22,548,40,547,35,604,17,677,4,715,3,754,7,790,17,824,36,864,72,895,116,919,165,936,216,948,266,955,314,961,388"/>
+<area shape="rect" id="Node000004" href="$class_c_leech.html#a090ab01489b17151fcb8cb83d9a05866" title="Handles the leech&#39;s behavior when it is dead." alt="" coords="670,151,804,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="947,391,929,347,903,293,867,238,845,214,821,192,802,181,804,176,824,188,849,210,871,235,907,290,934,345,952,389"/>
+<area shape="rect" id="Node000005" href="$class_c_leech.html#a88389f129498ef695922f776bbd3adab" title="Handles the death of the leech." alt="" coords="459,114,564,140"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="951,390,939,334,915,265,898,229,877,196,851,166,821,141,791,125,758,114,724,108,689,105,622,108,565,117,565,111,622,102,689,100,725,103,759,109,793,120,824,137,855,162,881,193,903,227,920,263,944,333,956,388"/>
+<area shape="rect" id="Node000006" href="$class_c_barnacle.html#aa49fa93203c6f67339485c3a67f2f0e3" title="Handles the death of the barnacle." alt="" coords="676,202,798,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="942,392,922,358,895,317,861,277,821,243,797,230,799,225,824,238,865,273,899,314,927,355,947,389"/>
+<area shape="rect" id="Node000007" href="$class_c_osprey.html#a389b57dc23045f775a3fe8e3425c7615" title="Creates a grunt at the specified position." alt="" coords="665,252,809,279"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="936,395,887,343,855,316,821,293,796,282,799,277,824,289,859,312,890,339,940,391"/>
+<area shape="rect" id="Node000008" href="$class_c_roach.html#a87e55ea407a4508497c63e1783079c4e" title="Custom think function for the roach." alt="" coords="435,328,588,355"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="870,404,822,395,588,356,589,351,823,390,871,398"/>
+<area shape="rect" id="Node000009" href="$class_c_roach.html#a7dcd3c9d085a33e2f51aef11ab3f2a01" title="Moves the roach towards its current destination." alt="" coords="684,303,790,330"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="918,399,822,351,777,333,779,328,824,346,921,394"/>
+<area shape="rect" id="Node000010" href="$class_c_h_grunt_repel.html#a40eb21f2ff0f5ee1bd4f4426a4c7ca68" title="Handles the use action for the grunt repel entity." alt="" coords="653,404,821,431"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="855,420,822,420,822,415,855,415"/>
+<area shape="rect" id="Node000012" href="$class_c_controller.html#ae9b50b3862de6516289dd31fd9be46ba" title="Sets the activity for the controller monster." alt="" coords="659,455,815,482"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="883,438,799,457,798,452,882,433"/>
+<area shape="rect" id="Node000013" href="$class_c_talk_monster.html#aa10ed94cacaa5190f371ee9f161d7d52" title="Sets the activity for the talk monster." alt="" coords="651,506,823,532"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="925,442,878,470,824,496,792,508,790,503,822,491,875,465,923,437"/>
+<area shape="rect" id="Node000015" href="$class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="227,746,339,772"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="961,447,955,522,948,569,936,620,919,671,895,720,864,764,824,800,792,819,759,833,724,844,687,850,613,853,539,845,469,830,406,812,312,775,314,770,408,807,471,825,540,840,613,847,687,845,722,838,757,828,790,814,821,796,860,760,891,717,914,669,931,618,943,568,950,521,955,447"/>
+<area shape="rect" id="Node000016" href="$class_c_roach.html#a1396c5aa105e79178d2ae3b8113f64eb" title="Spawns the roach entity." alt="" coords="680,607,794,634"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="947,446,927,481,899,521,865,562,824,597,796,611,793,606,821,593,861,558,895,518,922,478,942,444"/>
+<area shape="rect" id="Node000017" href="$class_c_flocking_flyer.html#a2164b9da3b19156dadc544d0d9f27dda" title="Starts the flocking behavior for the boid." alt="" coords="665,556,809,583"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="940,445,890,496,859,523,824,547,799,558,796,553,821,542,855,519,887,492,936,441"/>
+<area shape="rect" id="Node000023" href="$class_c_bullsquid.html#ac136a8d433a80981ecc37d7e284db98d" title="Starts a task for the bullsquid." alt="" coords="663,708,811,735"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="955,447,940,500,915,568,877,638,853,670,824,698,806,710,803,705,821,694,849,667,873,635,910,566,935,498,950,445"/>
+<area shape="rect" id="Node000024" href="$class_c_ichthyosaur.html#af8a9e18391b2098fbbfca89996315cd6" title="Updates the ichthyosaur&#39;s swimming behavior." alt="" coords="668,759,806,786"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="957,447,945,509,922,590,905,633,883,675,856,715,824,749,807,761,804,756,821,745,852,711,878,673,900,631,917,589,940,508,952,446"/>
+<area shape="rect" id="Node000026" href="$class_c_leech.html#afc4932a50686ee9f41a87e29aebe8cc7" title="Updates the leech&#39;s motion based on its state." alt="" coords="660,658,814,684"/>
+<area shape="poly" id="edge28_Node000001_Node000026" title=" " alt="" coords="952,447,934,491,907,545,871,600,849,626,824,648,804,660,802,655,821,644,845,622,867,597,903,542,929,489,947,445"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="635,60,576,57,577,52,636,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="654,153,564,138,565,133,655,148"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="669,327,589,336,589,330,669,321"/>
+<area shape="rect" id="Node000011" href="$class_c_h_grunt_repel.html#a329f01876fad7b21476965a127efd09e" title="Spawns the grunt repel entity." alt="" coords="436,404,587,431"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="638,420,588,420,588,415,638,415"/>
+<area shape="rect" id="Node000014" href="$class_c_scientist.html#a9725ca5b586552a488fbabdd206c572e" title="Sets the activity for the scientist." alt="" coords="436,506,587,532"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="636,522,588,522,588,516,636,516"/>
+<area shape="rect" id="Node000018" href="$class_c_flocking_flyer.html#a08b5e239075d9e8144eae8963b89268c" title="Handles the idle behavior of the boid." alt="" coords="428,556,595,583"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="649,572,596,572,596,567,649,567"/>
+<area shape="rect" id="Node000019" href="$class_c_flocking_flyer.html#a8e33766d2b9f224339a2875b1fbc1a5c" title="Forms a flock from surrounding boids." alt="" coords="194,556,372,583"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="412,572,372,572,372,567,412,567"/>
+<area shape="rect" id="Node000020" href="$class_c_flocking_flyer.html#a92d57c05c9a89439bb0d652c58adff29" title="Spawns the individual boid." alt="" coords="205,607,361,634"/>
+<area shape="poly" id="edge22_Node000018_Node000020" title=" " alt="" coords="434,590,347,609,346,604,432,584"/>
+<area shape="rect" id="Node000021" href="$class_c_flocking_flyer_flock.html#a18af3413e29b762b9727e0c0db25f7ab" title="Spawns the individual boids in the flock." alt="" coords="213,490,353,532"/>
+<area shape="poly" id="edge23_Node000018_Node000021" title=" " alt="" coords="441,555,353,532,354,526,443,549"/>
+<area shape="rect" id="Node000022" href="$class_c_flocking_flyer_flock.html#aae9d16564fbe84c8e4ad035bf04be7a0" title="Spawns the flock entity." alt="" coords="5,490,146,532"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="197,514,146,514,146,508,197,508"/>
+<area shape="rect" id="Node000025" href="$class_c_ichthyosaur.html#ace8284a24b562b26adb3f46b6850ceb8" title="Handles the ichthyosaur&#39;s thinking logic." alt="" coords="420,759,603,786"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="653,775,604,775,604,770,653,770"/>
+<area shape="rect" id="Node000027" href="$class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="444,683,580,710"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="646,684,581,691,580,686,645,679"/>
+<area shape="poly" id="edge30_Node000027_Node000015" title=" " alt="" coords="446,717,335,748,334,743,445,712"/>
+</map>

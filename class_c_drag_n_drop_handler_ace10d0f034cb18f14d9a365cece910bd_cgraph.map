@@ -1,0 +1,5 @@
+<map id="CDragNDropHandler::mousePressed" name="CDragNDropHandler::mousePressed">
+<area shape="rect" id="Node000001" title="Called when the mouse button is pressed to begin dragging." alt="" coords="5,5,151,48"/>
+<area shape="rect" id="Node000002" href="$class_drag_n_drop_panel.html#a7e4bc03e6e7513e23b808bc9b4c04a0e" title=" " alt="" coords="199,13,390,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,24,183,24,183,29,151,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CHoundeye::WarnSound" name="CHoundeye::WarnSound">
+<area shape="rect" id="Node000001" title="Plays a warning sound for the Houndeye." alt="" coords="253,5,417,32"/>
+<area shape="rect" id="Node000002" href="$class_c_houndeye.html#a57b67d8ffebab11ba63d6313e9c83c30" title="Performs pre&#45;schedule thinking for the Houndeye." alt="" coords="5,5,205,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,21,205,21,205,16,237,16"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="CController::Killed" name="CController::Killed">
+<area shape="rect" id="Node000001" title="Handles the death of the controller monster." alt="" coords="5,162,131,189"/>
+<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#abfb04f274808596d6d79c7e68846527d" title="Handles the death of the squad monster." alt="" coords="209,111,363,138"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,159,210,140,211,145,129,164"/>
+<area shape="rect" id="Node000010" href="$class_c_base_entity.html#a39552fc60de295b550b0061ba527c832" title="Starts the fade&#45;out process for an entity." alt="" coords="179,187,393,214"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="131,180,163,184,163,189,131,185"/>
+<area shape="rect" id="Node000003" href="$class_c_squad_monster.html#abb12bdacefd969667874163644fa1515" title=" " alt="" coords="722,23,891,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,109,358,63,397,39,440,21,516,6,593,3,667,8,730,17,729,23,666,14,593,9,517,11,442,26,400,43,361,67,303,113"/>
+<area shape="rect" id="Node000004" href="$class_c_base_monster.html#a469904e35f6e6c8f4b271a98dc68a9e7" title="Handles the monster&#39;s death." alt="" coords="470,35,617,62"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="326,108,440,72,468,64,470,69,442,77,328,113"/>
+<area shape="rect" id="Node000005" href="$class_c_squad_monster.html#a8eecfa90882640b12b51daca63663e50" title=" " alt="" coords="698,111,915,138"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="364,122,683,122,683,127,364,127"/>
+<area shape="rect" id="Node000006" href="$class_c_squad_monster.html#a00bda933ae4bf40f93d2c9d38789c5a7" title="Removes a squad member from the squad." alt="" coords="441,187,646,214"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="335,136,481,180,480,185,333,141"/>
+<area shape="rect" id="Node000009" href="$class_c_squad_monster.html#a20d0103aeb9b33db9ba58b0e9d97f317" title="Vacates the slot occupied by the squad monster." alt="" coords="451,86,637,113"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="363,115,435,107,435,113,364,120"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="590,184,645,166,693,148,721,140,723,145,695,153,647,171,592,189"/>
+<area shape="rect" id="Node000007" href="$class_c_squad_monster.html#af6e53dc3a408babffcea2367c5695b01" title=" " alt="" coords="721,162,892,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="646,188,705,182,705,188,647,194"/>
+<area shape="rect" id="Node000008" href="$class_c_squad_monster.html#a2b887c5d4e97c9b6bb0f7c59c8535cc3" title=" " alt="" coords="694,213,919,239"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="647,208,679,211,679,216,646,213"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="602,83,732,52,733,57,603,88"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="638,106,683,110,682,115,637,111"/>
+<area shape="rect" id="Node000011" href="$class_c_base_entity.html#aa87861f918ff70eafd02569b2b3b49ed" title="Continues the fade&#45;out process for an entity." alt="" coords="451,238,637,265"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="358,212,458,232,457,237,357,217"/>
+<area shape="rect" id="Node000012" href="$class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="715,263,898,290"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="638,258,700,264,700,269,637,263"/>
+</map>

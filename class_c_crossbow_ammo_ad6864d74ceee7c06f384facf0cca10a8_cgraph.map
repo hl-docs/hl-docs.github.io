@@ -1,0 +1,9 @@
+<map id="CCrossbowAmmo::Spawn" name="CCrossbowAmmo::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the crossbow clip entity." alt="" coords="5,56,178,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="297,5,343,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,53,281,24,282,30,156,58"/>
+<area shape="rect" id="Node000003" href="$class_c_crossbow_ammo.html#a3540a88ad9cf6d21049e51500af585bd" title="Preloads the resources needed by the crossbow clip." alt="" coords="226,56,414,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,67,210,67,210,72,178,72"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player_ammo.html#a13402d91be00ef4937c8b9bf3a83024c" title="Spawns the ammo entity in the game world." alt="" coords="229,107,411,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,81,242,100,241,105,155,86"/>
+</map>

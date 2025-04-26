@@ -1,0 +1,5 @@
+<map id="PlatSpawnInsideTrigger" name="PlatSpawnInsideTrigger">
+<area shape="rect" id="Node000001" title="Creates a trigger entity for the platform." alt="" coords="199,5,355,32"/>
+<area shape="rect" id="Node000002" href="$class_c_func_plat.html#ab7056f829f095aba7609b44202965623" title="Pre&#45;caches sounds for the platform." alt="" coords="5,5,151,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,21,151,21,151,16,183,16"/>
+</map>

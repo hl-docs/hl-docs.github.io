@@ -1,0 +1,5 @@
+<map id="CSqueakGrenade::SuperBounceTouch" name="CSqueakGrenade::SuperBounceTouch">
+<area shape="rect" id="Node000001" title="Handles the touch behavior of the squeak grenade." alt="" coords="224,5,433,48"/>
+<area shape="rect" id="Node000002" href="$class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="5,13,176,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,29,176,29,176,24,208,24"/>
+</map>

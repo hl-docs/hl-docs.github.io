@@ -1,0 +1,5 @@
+<map id="VectorAngles" name="VectorAngles">
+<area shape="rect" id="Node000001" title="Converts a forward direction vector into a corresponding yaw and pitch (angles)." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="153,5,196,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,137,16,137,21,105,21"/>
+</map>

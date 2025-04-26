@@ -1,0 +1,5 @@
+<map id="CBaseMonster::SetSequenceByName" name="CBaseMonster::SetSequenceByName">
+<area shape="rect" id="Node000001" title="Sets the monster&#39;s animation sequence by name." alt="" coords="5,5,199,48"/>
+<area shape="rect" id="Node000002" href="$animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="247,13,368,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,24,231,24,231,29,199,29"/>
+</map>

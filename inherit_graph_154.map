@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,56,60,83"/>
+<area shape="rect" id="Node000001" href="$class_c_command_menu.html" title=" " alt="" coords="113,31,234,57"/>
+<area shape="poly" id="edge349_Node000000_Node000001" title=" " alt="" coords="74,59,112,52,113,58,75,64"/>
+<area shape="rect" id="Node000002" href="$class_c_transparent_panel.html" title=" " alt="" coords="108,81,239,108"/>
+<area shape="poly" id="edge350_Node000000_Node000002" title=" " alt="" coords="75,74,108,80,107,85,74,79"/>
+<area shape="rect" id="Node000003" href="$class_c_menu_panel.html" title=" " alt="" coords="292,56,387,83"/>
+<area shape="poly" id="edge351_Node000002_Node000003" title=" " alt="" coords="254,80,291,74,292,79,255,85"/>
+<area shape="rect" id="Node000007" href="$class_server_browser.html" title=" " alt="" coords="287,107,391,133"/>
+<area shape="poly" id="edge355_Node000002_Node000007" title=" " alt="" coords="255,104,287,109,286,115,254,110"/>
+<area shape="rect" id="Node000004" href="$class_c_class_menu_panel.html" title=" " alt="" coords="456,5,585,32"/>
+<area shape="poly" id="edge352_Node000003_Node000004" title=" " alt="" coords="401,49,469,30,471,35,402,55"/>
+<area shape="rect" id="Node000005" href="$class_c_message_window_panel.html" title=" " alt="" coords="439,56,602,83"/>
+<area shape="poly" id="edge353_Node000003_Node000005" title=" " alt="" coords="403,67,439,67,439,72,403,72"/>
+<area shape="rect" id="Node000006" href="$class_c_team_menu_panel.html" title=" " alt="" coords="457,107,584,133"/>
+<area shape="poly" id="edge354_Node000003_Node000006" title=" " alt="" coords="402,84,471,104,469,109,401,89"/>
+</map>

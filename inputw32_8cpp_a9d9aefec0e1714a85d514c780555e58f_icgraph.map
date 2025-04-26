@@ -1,0 +1,12 @@
+<map id="IN_DeactivateMouse" name="IN_DeactivateMouse">
+<area shape="rect" id="Node000001" title="Deactivates mouse input, disabling it temporarily (e.g., in menus)." alt="" coords="552,5,691,32"/>
+<area shape="rect" id="Node000002" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,21,44,21,44,16,536,16"/>
+<area shape="rect" id="Node000003" href="$inputw32_8cpp.html#a781003199e06bab03bde6ff7051bdcbe" title="Cleans up mouse input and threads before shutting down." alt="" coords="406,31,504,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="537,34,504,39,504,34,536,29"/>
+<area shape="rect" id="Node000004" href="$input_8cpp.html#a008e70499ad7bf8a7daba5914d0806fc" title="Shuts down the input system cleanly." alt="" coords="252,31,358,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,47,359,47,359,41,391,41"/>
+<area shape="rect" id="Node000005" href="$input_8cpp.html#a2b966138947a3f9a63a35774f5cc126c" title="Called by the engine when the client is shutting down." alt="" coords="92,31,204,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="236,47,205,47,205,41,236,41"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="76,32,44,25,45,20,77,27"/>
+</map>

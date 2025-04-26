@@ -1,0 +1,39 @@
+<map id="CBaseEntity::Create" name="CBaseEntity::Create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="472,300,612,327"/>
+<area shape="rect" id="Node000002" href="$class_c_grenade.html#adaceb7895d45068459bb81694064b96d" title="Handles the explosion logic based on a trace result." alt="" coords="264,5,398,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,285,523,234,502,169,469,103,448,72,422,46,397,32,400,27,426,42,452,69,474,100,507,167,528,232,539,284"/>
+<area shape="rect" id="Node000003" href="$explode_8cpp.html#a2419eeedf16d6cd6301d47ccd7cae140" title="Creates an explosion at a specified location." alt="" coords="273,56,389,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="531,286,517,244,495,192,464,141,444,117,422,97,406,87,389,80,390,75,409,82,426,93,448,114,468,138,500,190,522,242,536,284"/>
+<area shape="rect" id="Node000004" href="$class_c_func_mortar_field.html#a92248dcf3add21da8b045c63ade674e2" title="Activates the mortar field to drop bombs." alt="" coords="239,107,423,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="527,287,510,255,487,217,458,179,422,148,401,136,404,132,426,143,462,176,492,214,515,252,532,285"/>
+<area shape="rect" id="Node000006" href="$class_c_tripmine_grenade.html#aaed0d096f0eb79fbb48d6928c07fedfa" title="Handles the power&#45;up state of the tripmine grenade." alt="" coords="238,157,424,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="516,291,474,252,423,214,400,203,402,198,425,210,478,248,520,287"/>
+<area shape="rect" id="Node000009" href="$class_c_world.html#a3369fa629e2fa36ce93e3a37680d08aa" title="Preloads resources and initializes game settings." alt="" coords="267,224,395,251"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="497,296,423,265,387,254,388,249,425,260,499,291"/>
+<area shape="rect" id="Node000011" href="$class_c_hgun.html#a76ef24cbc9b3a13c4b278a4243385514" title="Handles the primary attack for the hornet gun." alt="" coords="255,275,407,301"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="456,306,407,300,407,294,457,300"/>
+<area shape="rect" id="Node000012" href="$class_c_tripmine.html#aa66048a319901285c507f02df65c037f" title="Handles the primary attack of the tripmine weapon." alt="" coords="246,325,416,352"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="457,326,417,331,416,326,456,321"/>
+<area shape="rect" id="Node000013" href="$class_c_squeak.html#aab1d5bba9733a843bb02c7334957f06e" title="Handles the primary attack for the squeak weapon." alt="" coords="248,376,414,403"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="499,336,425,367,388,378,387,373,423,361,497,331"/>
+<area shape="rect" id="Node000014" href="$class_c_hgun.html#a44f0904cf31dffc656d0149266fd452d" title="Handles the secondary attack for the hornet gun." alt="" coords="247,427,415,453"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="521,340,479,379,425,417,398,429,396,424,423,412,475,375,517,336"/>
+<area shape="rect" id="Node000015" href="$class_c_world_item.html#aa93fe334a0eb8e22fdcaaeadbad67d5f" title="Spawns the world item in the game." alt="" coords="263,477,399,504"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="529,342,489,405,460,439,425,468,401,480,398,475,423,463,456,435,484,402,525,339"/>
+<area shape="rect" id="Node000016" href="$class_c_satchel.html#aceef64912876786e92707fff9479b80f" title="Throws the satchel charge." alt="" coords="273,528,389,555"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="535,342,520,382,497,429,466,477,426,518,390,535,388,531,422,514,462,474,493,427,515,380,530,340"/>
+<area shape="rect" id="Node000019" href="$class_c_env_explosion.html#ae7a3d7b1e4d75c8e03df502497ae2853" title="Activates the env_explosion entity." alt="" coords="261,579,401,605"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="538,343,526,392,505,453,472,515,451,544,426,569,402,583,399,578,422,565,447,540,467,512,500,451,521,390,533,342"/>
+<area shape="rect" id="Node000005" href="$class_c_func_mortar_field.html#a24cd63eac1b2dd8ac58a1883e38d2c48" title="Spawns the mortar field in the game." alt="" coords="12,81,183,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,111,184,107,184,101,224,106"/>
+<area shape="rect" id="Node000007" href="$class_c_tripmine_grenade.html#addce686623ef4ac3b4d6ee1239a0b82f" title="Spawns the tripmine grenade entity." alt="" coords="10,132,185,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="222,166,185,161,186,155,223,161"/>
+<area shape="rect" id="Node000008" href="$class_c_tripmine_grenade.html#a8d214ec0fa4cebddcc296ea1ffec11be" title="Handles the warning state of the tripmine grenade." alt="" coords="5,183,190,225"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="222,193,191,197,190,191,222,188"/>
+<area shape="rect" id="Node000010" href="$class_c_world.html#a8f48bd2b218222fa98bfc43afd7f62f0" title="Spawns the world entity." alt="" coords="42,249,153,276"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="252,248,154,259,153,254,252,243"/>
+<area shape="rect" id="Node000017" href="$class_c_satchel.html#ac4ccb1ad1565293be1a94865467af971" title="Handles the primary attack action of the satchel charge." alt="" coords="15,503,180,529"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="257,536,180,528,181,522,258,531"/>
+<area shape="rect" id="Node000018" href="$class_c_satchel.html#a595c21e8d7f8eb494fa9f293240ce62f" title="Handles the secondary attack action of the satchel charge." alt="" coords="6,553,189,580"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="258,552,190,559,189,554,257,547"/>
+</map>

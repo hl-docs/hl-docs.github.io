@@ -1,0 +1,9 @@
+<map id="CHudAmmo::MsgFunc_AmmoX" name="CHudAmmo::MsgFunc_AmmoX">
+<area shape="rect" id="Node000001" title="Handles the AmmoX message, updating the ammo count for a specific ammo type." alt="" coords="5,56,211,83"/>
+<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="305,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,53,289,30,290,35,178,58"/>
+<area shape="rect" id="Node000003" href="$parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="308,56,407,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,67,292,67,292,72,211,72"/>
+<area shape="rect" id="Node000004" href="$class_weapons_resource.html#a0621f283344be4ecc9a2bba284c7eb69" title=" " alt="" coords="259,107,456,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,81,274,100,273,106,177,86"/>
+</map>

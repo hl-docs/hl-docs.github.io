@@ -1,0 +1,5 @@
+<map id="CBasePlayerItem::UpdateClientData" name="CBasePlayerItem::UpdateClientData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,13,438,40"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a7e93afdf65f94a4b9121b11c3ffe2b8b" title="Updates client data for a player weapon." alt="" coords="5,5,159,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,29,159,29,159,24,191,24"/>
+</map>

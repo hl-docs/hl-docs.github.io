@@ -1,0 +1,7 @@
+<map id="CCyclerSprite::Animate" name="CCyclerSprite::Animate">
+<area shape="rect" id="Node000001" title="Animates the cycler sprite." alt="" coords="239,31,396,57"/>
+<area shape="rect" id="Node000002" href="$class_c_cycler_sprite.html#a7ec6573627309e12debb1483092b0ab7" title="Handles damage taken by the cycler sprite." alt="" coords="5,5,191,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,36,191,32,191,27,224,31"/>
+<area shape="rect" id="Node000003" href="$class_c_cycler_sprite.html#ae87b67e9ae83450a27c02046a8bf4672" title="Think function for the cycler sprite." alt="" coords="28,56,168,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,58,169,64,168,59,223,52"/>
+</map>

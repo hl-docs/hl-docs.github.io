@@ -1,0 +1,7 @@
+<map id="PM_PlayStepSound" name="PM_PlayStepSound">
+<area shape="rect" id="Node000001" title="Plays a footstep sound based on the surface type." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="192,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,16,176,16,176,21,144,21"/>
+<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="300,5,343,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,16,284,16,284,21,252,21"/>
+</map>

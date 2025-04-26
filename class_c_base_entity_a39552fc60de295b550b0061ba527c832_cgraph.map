@@ -1,0 +1,7 @@
+<map id="CBaseEntity::SUB_StartFadeOut" name="CBaseEntity::SUB_StartFadeOut">
+<area shape="rect" id="Node000001" title="Starts the fade&#45;out process for an entity." alt="" coords="5,5,220,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#aa87861f918ff70eafd02569b2b3b49ed" title="Continues the fade&#45;out process for an entity." alt="" coords="268,5,454,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,16,252,16,252,21,220,21"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="502,5,684,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,16,486,16,486,21,454,21"/>
+</map>

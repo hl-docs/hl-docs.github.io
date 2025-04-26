@@ -1,0 +1,9 @@
+<map id="CBaseMonster::MonsterInitDead" name="CBaseMonster::MonsterInitDead">
+<area shape="rect" id="Node000001" title="Initializes the monster&#39;s state when it is dead." alt="" coords="212,56,421,83"/>
+<area shape="rect" id="Node000002" href="$class_c_dead_barney.html#aeca68133aa71b8665e2a08b9918f6c7b" title="Spawns the dead Barney entity." alt="" coords="10,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,55,148,35,149,30,238,50"/>
+<area shape="rect" id="Node000003" href="$class_c_dead_h_grunt.html#ad41eaaf835d9407192475da7d8dd831d" title="Spawns the dead grunt entity." alt="" coords="10,56,159,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,72,159,72,159,67,196,67"/>
+<area shape="rect" id="Node000004" href="$class_c_dead_scientist.html#aa7873f7bcbe1a72f4061b2930d0088d5" title="Spawns the dead scientist entity." alt="" coords="5,107,164,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,89,149,109,148,103,237,84"/>
+</map>

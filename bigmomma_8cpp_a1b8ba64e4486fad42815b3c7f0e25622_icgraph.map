@@ -1,0 +1,12 @@
+<map id="MortarSpray" name="MortarSpray">
+<area shape="rect" id="Node000001" title="Creates a mortar spray effect." alt="" coords="583,56,676,83"/>
+<area shape="rect" id="Node000002" href="$class_c_b_mortar.html#a66597fd99c837909d56cffc9f45a55cd" title="Animates the CBMortar entity." alt="" coords="403,5,535,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,53,513,35,515,30,571,48"/>
+<area shape="rect" id="Node000004" href="$class_c_big_momma.html#a4713bc0b6ed281c81a6fb6292fb88825" title="Launches a mortar from the Big Momma entity." alt="" coords="5,31,189,57"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="568,69,189,51,189,46,568,64"/>
+<area shape="rect" id="Node000005" href="$class_c_b_mortar.html#a5515a9059d1b09ad9632e6d6e328fe93" title="Handles touch interactions for the CBMortar entity." alt="" coords="410,107,529,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="571,91,515,109,513,104,569,85"/>
+<area shape="rect" id="Node000003" href="$class_c_b_mortar.html#ad33141dc5ae3bfe436f36caf01bf4938" title="Shoots a CBMortar entity." alt="" coords="237,5,355,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,21,356,21,356,16,387,16"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,31,189,35,189,30,221,25"/>
+</map>

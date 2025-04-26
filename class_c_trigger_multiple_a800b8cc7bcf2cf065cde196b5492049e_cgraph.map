@@ -1,0 +1,13 @@
+<map id="CTriggerMultiple::Spawn" name="CTriggerMultiple::Spawn">
+<area shape="rect" id="Node000001" title="Initializes the multiple trigger entity." alt="" coords="5,56,167,83"/>
+<area shape="rect" id="Node000002" href="$class_c_base_trigger.html#a75c5939236f246fadc4e25d0d75f1d87" title="Handles the touch event for the multiple trigger." alt="" coords="215,56,385,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,67,199,67,199,72,167,72"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="447,31,551,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,56,431,50,431,55,386,61"/>
+<area shape="rect" id="Node000006" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="433,81,564,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="386,78,418,82,417,87,385,83"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="612,5,675,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="551,32,597,24,598,29,552,37"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="615,56,672,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="552,51,600,59,599,64,551,56"/>
+</map>

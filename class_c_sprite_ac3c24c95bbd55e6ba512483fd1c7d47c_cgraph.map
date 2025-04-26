@@ -1,0 +1,20 @@
+<map id="CSprite::Spawn" name="CSprite::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the sprite effect entity." alt="" coords="5,81,117,108"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="205,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,78,164,42,190,30,192,35,166,46,90,83"/>
+<area shape="rect" id="Node000003" href="$class_c_sprite.html#a0af0240f9715b771f27b4117def745bf" title="Precaches the sprite effect resources." alt="" coords="165,56,292,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,84,149,79,150,84,118,89"/>
+<area shape="rect" id="Node000006" href="$class_c_sprite.html#a1ceacbcb997d27b2d1cdc7f65cf98a8b" title="Turns off the sprite effect." alt="" coords="716,132,829,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="117,96,700,138,700,143,117,101"/>
+<area shape="rect" id="Node000007" href="$class_c_sprite.html#a30f4a630078c8e0b7eb8abd7dc2f0271" title="Turns on the sprite effect." alt="" coords="171,157,286,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="94,106,184,148,182,153,91,111"/>
+<area shape="rect" id="Node000004" href="$class_c_sprite.html#a5e8b21c29076b5a77bd68387a093f2b7" title=" " alt="" coords="340,56,499,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,67,324,67,324,72,292,72"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="566,56,649,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="500,67,550,67,550,72,500,72"/>
+<area shape="rect" id="Node000008" href="$class_c_sprite.html#ac8cf5a109300050a48f5ab1f7c64ce7b" title="Think function for sprite animation." alt="" coords="344,157,495,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="286,168,329,168,329,173,286,173"/>
+<area shape="rect" id="Node000009" href="$class_c_sprite.html#a3b4a06d55a75cb8827c515d10f538d16" title="Animates the sprite." alt="" coords="547,157,668,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="496,168,532,168,532,173,496,173"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="668,159,700,154,701,159,669,164"/>
+</map>

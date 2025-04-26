@@ -1,0 +1,16 @@
+<map id="CHornet::DieTouch" name="CHornet::DieTouch">
+<area shape="rect" id="Node000001" title="Handles the hornet&#39;s death behavior when it touches a target." alt="" coords="597,56,728,83"/>
+<area shape="rect" id="Node000002" href="$class_c_hornet.html#a03c064390f8a974f64994a490138c919" title="Handles the hornet&#39;s touch behavior when it darts." alt="" coords="410,5,545,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,54,528,35,530,30,597,49"/>
+<area shape="rect" id="Node000005" href="$class_c_hornet.html#a7d03243e49c6325891e6d9884450fa29" title="Spawns the hornet entity." alt="" coords="32,81,147,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="582,76,148,95,148,89,582,70"/>
+<area shape="rect" id="Node000006" href="$class_c_hornet.html#a74bc9c0e170b93d1f862d03902c50564" title="Handles the hornet&#39;s touch behavior when it hits a target." alt="" coords="406,107,549,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="597,90,530,109,528,103,596,85"/>
+<area shape="rect" id="Node000003" href="$class_c_hornet.html#ae5eacb6072204adf03e4c16b05563171" title="Starts the hornet flying straight." alt="" coords="226,5,354,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,21,354,21,354,16,394,16"/>
+<area shape="rect" id="Node000004" href="$class_c_hgun.html#a44f0904cf31dffc656d0149266fd452d" title="Handles the secondary attack for the hornet gun." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="210,21,174,21,174,16,210,16"/>
+<area shape="rect" id="Node000007" href="$class_c_hornet.html#a0845e7a20faeace07303c47c670c431b" title="Starts tracking the target for the hornet." alt="" coords="222,107,358,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="391,123,358,123,358,117,391,117"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="206,112,147,105,148,99,206,107"/>
+</map>

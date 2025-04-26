@@ -1,0 +1,5 @@
+<map id="CHalfLifeMultiplay::SendMOTDToClient" name="CHalfLifeMultiplay::SendMOTDToClient">
+<area shape="rect" id="Node000001" title="Sends the Message of the Day (MOTD) to a client." alt="" coords="5,5,149,48"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="197,13,331,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,24,181,24,181,29,149,29"/>
+</map>

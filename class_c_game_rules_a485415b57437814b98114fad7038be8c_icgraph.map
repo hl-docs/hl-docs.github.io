@@ -1,0 +1,11 @@
+<map id="CGameRules::GetTeamIndex" name="CGameRules::GetTeamIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="422,76,612,103"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#a6b4bb423766802d950226b7867bfcce9" title="Changes the team of a specified player." alt="" coords="222,39,358,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,78,358,71,359,66,407,72"/>
+<area shape="rect" id="Node000005" href="$class_c_game_team_master.html#a85aba10b728ccebb2edf9103e18162c3" title="Activates the game team master entity." alt="" coords="206,105,374,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="407,106,375,110,374,105,407,101"/>
+<area shape="rect" id="Node000003" href="$class_c_half_life_teamplay.html#ac0fc8aaae964ae8985007b82acafe5ff" title="Handles changes to a player&#39;s user info." alt="" coords="5,5,158,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,49,158,42,159,36,207,44"/>
+<area shape="rect" id="Node000004" href="$class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="13,72,150,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="207,76,151,85,150,80,206,71"/>
+</map>

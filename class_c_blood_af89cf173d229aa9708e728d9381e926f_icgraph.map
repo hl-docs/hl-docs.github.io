@@ -1,0 +1,5 @@
+<map id="CBlood::Direction" name="CBlood::Direction">
+<area shape="rect" id="Node000001" title="Determines the direction of the blood effect." alt="" coords="148,5,270,32"/>
+<area shape="rect" id="Node000002" href="$class_c_blood.html#a3df236bc814cda7e6740fc70859b27de" title="Uses the blood effect." alt="" coords="5,5,100,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,21,100,21,100,16,132,16"/>
+</map>

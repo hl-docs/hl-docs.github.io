@@ -1,0 +1,17 @@
+<map id="CBasePlayerItem::Kill" name="CBasePlayerItem::Kill">
+<area shape="rect" id="Node000001" title="Kills a player item." alt="" coords="460,81,608,108"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#a94b1094383a8e96f968894127e9105dd" title="Adds a player item to the player&#39;s inventory." alt="" coords="217,31,407,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,80,373,61,374,55,458,75"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player_item.html#af9c05aa29a389bfdc1c796539b0db517" title="Destroys a player item." alt="" coords="212,107,412,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="445,107,413,111,412,106,444,102"/>
+<area shape="rect" id="Node000003" href="$class_c_weapon_box.html#a05b62b15425330cf3357ea7bd7d13b3d" title="Handles the touch interaction for the weapon box." alt="" coords="12,5,157,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,34,157,29,158,24,202,29"/>
+<area shape="rect" id="Node000005" href="$class_c_hand_grenade.html#abd2f32bc99e789f8fe4b13535fbc9853" title="Holsters the hand grenade." alt="" coords="5,56,164,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,105,147,86,148,81,234,100"/>
+<area shape="rect" id="Node000006" href="$class_c_satchel.html#a8e0678f579516de5f198b5ebe055480a" title="Holsters the satchel charge." alt="" coords="23,107,146,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="196,123,146,123,146,117,196,117"/>
+<area shape="rect" id="Node000007" href="$class_c_tripmine.html#acda0dde1519c7c4a26c8caa2645ac1aa" title="Holsters the tripmine weapon." alt="" coords="20,157,149,184"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="234,140,148,159,147,154,233,135"/>
+<area shape="rect" id="Node000008" href="$class_c_squeak.html#a30f6ac6b5a4b6702394759fe14ee4afa" title="Holsters the squeak weapon." alt="" coords="23,208,146,235"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="275,144,223,171,165,198,134,210,132,205,163,194,221,166,272,139"/>
+</map>

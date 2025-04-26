@@ -1,0 +1,11 @@
+<map id="CSatchel::Spawn" name="CSatchel::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the satchel charge entity." alt="" coords="5,56,127,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="236,5,282,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,53,220,26,222,31,120,58"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_item.html#a991f3bdf1d8c7a8c199104f6312408e3" title="Initializes the fall behavior for a weapon." alt="" coords="175,56,343,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,67,159,67,159,72,127,72"/>
+<area shape="rect" id="Node000004" href="$class_c_satchel.html#a309cfa0075a96216480d72f5240cbb32" title="Preloads the satchel charge models and associated entities." alt="" coords="190,107,328,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,81,191,100,190,105,119,86"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#ab86625fdeef115046e288fecc38018c7" title=" " alt="" coords="391,107,532,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="328,117,376,117,376,123,328,123"/>
+</map>

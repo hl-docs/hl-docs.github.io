@@ -1,0 +1,34 @@
+<map id="CCineBlood::BloodGush" name="CCineBlood::BloodGush">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,196,167,223"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="897,19,944,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,194,140,138,174,106,213,81,305,45,401,22,499,8,594,3,684,4,764,9,882,23,881,28,764,14,684,9,594,9,499,14,402,27,306,50,216,85,177,110,144,141,98,198"/>
+<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#a9c52d234cf02ae5c4ca04c90527b2c6c" title="Applies a blood decal at the location of a trace hit." alt="" coords="225,95,378,122"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,194,153,163,214,131,230,125,232,130,216,136,156,167,108,198"/>
+<area shape="rect" id="Node000011" href="$hl__baseentity_8cpp.html#a37f063f2d60e83d08932e8a34a461276" title=" " alt="" coords="243,146,360,172"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="145,193,227,174,228,179,147,198"/>
+<area shape="rect" id="Node000012" href="$dlls_2util_8cpp.html#a985de7ebb63e2f3055d2bd8005bdfd41" title="Emits a blood stream effect at a specified origin and direction." alt="" coords="237,196,366,223"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="167,207,221,207,221,212,167,212"/>
+<area shape="rect" id="Node000013" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="236,247,367,274"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="147,221,227,240,226,245,145,226"/>
+<area shape="rect" id="Node000014" href="$dlls_2util_8cpp.html#a515164bd1bea171a6ef8207548f9a93c" title="Generates a random direction vector for blood effects." alt="" coords="215,298,388,324"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="108,221,156,252,216,283,232,290,230,295,214,288,153,256,105,226"/>
+<area shape="rect" id="Node000015" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="246,348,357,375"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="99,222,146,276,179,307,216,334,233,342,231,347,213,339,176,311,142,280,95,225"/>
+<area shape="rect" id="Node000004" href="$dlls_2util_8cpp.html#a18786675baabf4a1e8605b2959d06e8a" title="Applies a decal at the location of a trace hit." alt="" coords="456,95,575,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="378,106,441,106,441,111,378,111"/>
+<area shape="rect" id="Node000010" href="$dlls_2util_8cpp.html#a7e962acd5dc76628b0a5aabf9c0fdfe2" title="Determines if blood should be shown based on the color." alt="" coords="436,146,595,172"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="362,120,442,139,441,144,360,125"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="689,44,772,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="575,92,673,68,674,74,576,97"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="655,95,806,122"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="576,106,640,106,640,111,576,111"/>
+<area shape="rect" id="Node000008" href="$class_c_base_entity.html#a17c4661ca7f9f14b07f28fb105f62599" title=" " alt="" coords="643,146,818,172"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="576,120,657,139,656,144,575,125"/>
+<area shape="rect" id="Node000009" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="663,196,798,223"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="573,120,597,131,612,144,621,158,630,170,645,182,655,188,652,192,642,187,626,174,617,161,608,148,594,136,571,125"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="784,92,817,81,882,50,884,55,819,85,785,97"/>
+<area shape="rect" id="Node000007" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="866,95,975,122"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="806,106,850,106,850,111,806,111"/>
+<area shape="poly" id="edge13_Node000012_Node000009" title=" " alt="" coords="367,207,648,207,648,212,367,212"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="360,193,441,174,442,179,362,198"/>
+</map>

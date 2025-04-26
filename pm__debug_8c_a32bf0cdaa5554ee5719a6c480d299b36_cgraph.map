@@ -1,0 +1,13 @@
+<map id="PM_DrawPhysEntBBox" name="PM_DrawPhysEntBBox">
+<area shape="rect" id="Node000001" title="Draws a bounding box around a physical entity." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="Node000002" href="$pm__math_8c.html#aef9e9ab67f5a2257bc44234b741a0280" title="Converts angles into a transposed matrix of direction vectors." alt="" coords="213,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,32,197,28,198,33,165,37"/>
+<area shape="rect" id="Node000003" href="$pm__debug_8c.html#a9e5cae88b924534137c2dd1185f396d9" title="Draws a rectangle in 3D space using particle lines." alt="" coords="225,56,360,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,51,210,57,209,62,165,56"/>
+<area shape="rect" id="Node000004" href="$pm__debug_8c.html#a39075b178771fb0fc6801066c39eed5a" title="Draws a particle line between two points in 3D space." alt="" coords="420,56,536,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,67,405,67,405,72,360,72"/>
+<area shape="rect" id="Node000005" href="$cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="584,56,702,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="537,67,569,67,569,72,537,72"/>
+<area shape="rect" id="Node000006" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="750,56,793,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="702,67,734,67,734,72,702,72"/>
+</map>

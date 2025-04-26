@@ -1,0 +1,5 @@
+<map id="DrawBar" name="DrawBar">
+<area shape="rect" id="Node000001" title="Draws an individual ammo bar on the HUD." alt="" coords="5,5,76,32"/>
+<area shape="rect" id="Node000002" href="$cl__util_8h.html#a52eca3975d4d34bc8146918a0d62c1dc" title="Unpacks a RGB value (in hex format) into separate red, green, and blue components." alt="" coords="124,5,217,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,16,108,16,108,21,76,21"/>
+</map>

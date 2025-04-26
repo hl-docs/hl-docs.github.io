@@ -1,0 +1,9 @@
+<map id="Vector::Length2D" name="Vector::Length2D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="460,31,582,57"/>
+<area shape="rect" id="Node000002" href="$class_c_func_track_change.html#a181d12e6aa45f00ff42f032983174be5" title="Evaluates the current state of the train in relation to the track." alt="" coords="220,23,412,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,47,412,47,412,41,444,41"/>
+<area shape="rect" id="Node000003" href="$class_c_func_track_change.html#adacc4c11f171d71e0a1841f4e32996d8" title="Activates the track change entity based on user input." alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,34,172,31,172,25,204,29"/>
+<area shape="rect" id="Node000004" href="$class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="14,56,163,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="205,59,164,64,163,58,204,54"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CBullsquid::PainSound" name="CBullsquid::PainSound">
+<area shape="rect" id="Node000001" title="Plays a pain sound for the bullsquid." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="208,5,346,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,31,192,27,193,32,160,37"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="254,56,300,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,51,239,62,238,67,160,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CMP5::AddToPlayer" name="CMP5::AddToPlayer">
+<area shape="rect" id="Node000001" title="Adds the MP5 weapon to a player." alt="" coords="5,43,145,69"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a9d00baf84f87d51863cf473d28373efe" title="Adds an item to a player." alt="" coords="193,5,346,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,43,177,38,177,43,145,48"/>
+<area shape="rect" id="Node000003" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="202,72,337,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,64,187,70,186,76,145,69"/>
+</map>

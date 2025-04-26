@@ -1,0 +1,5 @@
+<map id="CBasePlayer::Killed" name="CBasePlayer::Killed">
+<area shape="rect" id="Node000001" title="Handles the monster&#39;s death." alt="" coords="126,5,263,32"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#a01bb3d0e374fc1885d67a3e4269a235a" title="Handles the player&#39;s suicide command." alt="" coords="5,5,78,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,21,78,21,78,16,110,16"/>
+</map>

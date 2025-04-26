@@ -1,0 +1,5 @@
+<map id="CIchthyosaur::FlPitchDiff" name="CIchthyosaur::FlPitchDiff">
+<area shape="rect" id="Node000001" title="Calculates the difference in pitch." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$dlls_2util_8cpp.html#a9c3ac10a492f4e794c77e49a05af0d03" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="218,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
+</map>

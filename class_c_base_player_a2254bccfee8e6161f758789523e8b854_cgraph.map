@@ -1,0 +1,28 @@
+<map id="CBasePlayer::SetAnimation" name="CBasePlayer::SetAnimation">
+<area shape="rect" id="Node000001" title="Sets the player&#39;s animation based on the current state." alt="" coords="5,183,189,209"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a753a9dcde160db1f8d4324f7760bf552" title="Determines the best death animation to play." alt="" coords="250,81,462,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,180,304,112,306,117,134,185"/>
+<area shape="rect" id="Node000006" href="$class_c_base_animating.html#a40a4e881deccdeced4714dde7868dc15" title="Looks up the activity index for a given activity." alt="" coords="251,157,461,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,184,235,180,236,185,189,190"/>
+<area shape="rect" id="Node000008" href="$class_c_base_animating.html#a48b692e6ced2770a3f5e2fe4705c5ba9" title="Looks up the sequence index for a given label." alt="" coords="243,208,469,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="189,202,228,206,227,211,189,208"/>
+<area shape="rect" id="Node000009" href="$class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="237,288,475,315"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="133,208,308,279,306,284,131,212"/>
+<area shape="rect" id="Node000003" href="$animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="573,5,678,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,78,522,41,557,32,559,37,524,47,401,83"/>
+<area shape="rect" id="Node000004" href="$util_8cpp.html#ab05f77512c119287424cb3a712bf6364" title="Makes vectors based on the provided angles." alt="" coords="560,56,691,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="462,82,544,74,545,80,463,87"/>
+<area shape="rect" id="Node000005" href="$util_8cpp.html#af140262dc39fcaf8706ee5f956ae6892" title="Traces a hull between two points." alt="" coords="572,107,680,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="463,102,556,111,556,116,462,107"/>
+<area shape="rect" id="Node000007" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="776,233,823,260"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="462,174,590,189,660,201,729,216,763,228,761,233,728,221,659,206,589,194,461,180"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="470,225,761,242,761,247,469,230"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="469,285,761,249,761,254,470,290"/>
+<area shape="rect" id="Node000010" href="$class_c_base_animating.html#ab125a2df4c440eb5e48d2cd9286df7c5" title="Retrieves the sequence flags for the current animation." alt="" coords="523,309,728,352"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="476,312,507,315,507,320,475,317"/>
+<area shape="rect" id="Node000011" href="$animation_8cpp.html#a1271526afa3c5a79165e55bd2a3fa362" title="Retrieves the frame rate and ground speed for a specific sequence." alt="" coords="566,376,686,403"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="391,313,524,361,551,369,550,375,522,367,390,318"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="687,306,727,288,765,266,767,271,730,293,689,311"/>
+<area shape="rect" id="Node000012" href="$pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="778,376,821,403"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="686,387,762,387,762,392,686,392"/>
+</map>

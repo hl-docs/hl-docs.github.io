@@ -1,0 +1,13 @@
+<map id="CBullsquid::GetIdealState" name="CBullsquid::GetIdealState">
+<area shape="rect" id="Node000001" title="Determines the ideal state for the bullsquid." alt="" coords="5,81,176,108"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="274,31,378,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,78,258,56,259,61,157,83"/>
+<area shape="rect" id="Node000005" href="$class_c_base_monster.html#a8bb2cae4dbfa3b3d18fd0c3ce5014204" title="Determines the ideal state for the monster based on conditions." alt="" coords="229,81,423,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="176,92,213,92,213,97,176,97"/>
+<area shape="rect" id="Node000006" href="$class_c_base_monster.html#a0db68c55780d9dee499077675516b360" title="Returns the schedule flags." alt="" coords="224,132,428,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="157,106,246,126,245,131,155,111"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="476,5,538,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,34,460,22,461,28,379,39"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="479,56,536,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="379,49,463,61,462,66,378,54"/>
+</map>

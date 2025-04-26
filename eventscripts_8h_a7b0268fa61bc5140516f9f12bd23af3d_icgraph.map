@@ -1,0 +1,38 @@
+<map id="EV_CreateTracer" name="EV_CreateTracer">
+<area shape="rect" id="Node000001" title="Creates a tracer effect between two points." alt="" coords="1599,132,1720,159"/>
+<area shape="rect" id="Node000002" href="$ev__hldm_8cpp.html#a585e65506f016156fe670b2b8c4d2f1b" title="Conditionally spawns a tracer effect for a bullet." alt="" coords="1389,132,1551,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1584,148,1552,148,1552,143,1584,143"/>
+<area shape="rect" id="Node000003" href="$ev__hldm_8cpp.html#a000d400a5b412d336be5b8de4b7ef5ea" title="Fires multiple bullets from a weapon, handling spread, tracers, and decals." alt="" coords="1190,132,1341,159"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1373,148,1342,148,1342,143,1373,143"/>
+<area shape="rect" id="Node000004" href="$ev__hldm_8cpp.html#a21c93d63c5d0d8e89aea9fa6c2154620" title="Handles the Glock&#39;s single fire mode (semi&#45;automatic)." alt="" coords="1007,5,1117,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1238,123,1195,84,1140,46,1115,35,1117,30,1143,42,1198,80,1242,119"/>
+<area shape="rect" id="Node000012" href="$ev__hldm_8cpp.html#a70311c8c2a370dd0f9eefdee409fe1b7" title="Handles the Glock&#39;s rapid&#45;fire mode (burst or auto fire)." alt="" coords="1007,56,1117,83"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1218,128,1141,97,1108,86,1110,81,1143,92,1220,123"/>
+<area shape="rect" id="Node000013" href="$ev__hldm_8cpp.html#ae716600d9c50334f70ce7fc959b02a45" title="Handles MP5 primary fire event." alt="" coords="1014,107,1110,133"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="1174,137,1110,129,1110,123,1174,131"/>
+<area shape="rect" id="Node000014" href="$ev__hldm_8cpp.html#ad2144a0911dc3f313390423f41f8bdc1" title="Handles Python (Colt .357) revolver fire event." alt="" coords="1007,157,1117,184"/>
+<area shape="poly" id="edge15_Node000003_Node000014" title=" " alt="" coords="1175,159,1117,167,1116,161,1174,154"/>
+<area shape="rect" id="Node000015" href="$ev__hldm_8cpp.html#aa18dc2730daa195e5c30fdbadbab097d" title="Handles double&#45;barrel shotgun fire event." alt="" coords="982,208,1142,235"/>
+<area shape="poly" id="edge17_Node000003_Node000015" title=" " alt="" coords="1220,167,1143,198,1110,210,1108,205,1141,194,1218,162"/>
+<area shape="rect" id="Node000016" href="$ev__hldm_8cpp.html#aec3242158ebeb3a0571467ebe3593fb5" title="Handles single&#45;barrel shotgun fire event." alt="" coords="984,259,1140,285"/>
+<area shape="poly" id="edge19_Node000003_Node000016" title=" " alt="" coords="1242,172,1198,211,1143,249,1117,260,1115,256,1140,244,1195,207,1238,168"/>
+<area shape="rect" id="Node000005" href="$hl__events_8cpp.html#a734d5ac9aca6b8c67eef95bc2a0c38ad" title=" " alt="" coords="802,132,934,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="994,41,984,46,953,67,925,91,883,133,879,130,921,87,950,63,981,42,992,36"/>
+<area shape="rect" id="Node000006" href="$events_8cpp.html#a9b5bafd2c45065b0660abb4a24cee384" title=" " alt="" coords="639,132,754,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="786,148,755,148,755,143,786,143"/>
+<area shape="rect" id="Node000007" href="$cdll__int_8cpp.html#a9dad23cec464e2325631a7834cf32d01" title="Initializes the client&#45;side engine interface." alt="" coords="522,132,591,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="623,148,591,148,591,143,623,143"/>
+<area shape="rect" id="Node000008" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="388,107,426,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="506,140,426,126,427,121,507,134"/>
+<area shape="rect" id="Node000009" href="$class_c_sound_ent.html#af78efae8144250b1d078ebae79501fc3" title="Spawns the sound entity in the game." alt="" coords="340,157,474,184"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="507,156,475,162,474,157,506,151"/>
+<area shape="rect" id="Node000010" href="$class_c_world.html#a3369fa629e2fa36ce93e3a37680d08aa" title="Preloads resources and initializes game settings." alt="" coords="165,157,292,184"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="325,173,293,173,293,168,325,168"/>
+<area shape="rect" id="Node000011" href="$class_c_world.html#a8f48bd2b218222fa98bfc43afd7f62f0" title="Spawns the world entity." alt="" coords="5,157,117,184"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="149,173,117,173,117,168,149,168"/>
+<area shape="poly" id="edge12_Node000012_Node000005" title=" " alt="" coords="1001,91,983,97,899,134,897,129,981,92,1000,86"/>
+<area shape="poly" id="edge14_Node000013_Node000005" title=" " alt="" coords="999,131,935,139,935,134,998,126"/>
+<area shape="poly" id="edge16_Node000014_Node000005" title=" " alt="" coords="991,164,934,157,935,151,992,159"/>
+<area shape="poly" id="edge18_Node000015_Node000005" title=" " alt="" coords="1000,205,981,198,897,162,899,157,983,194,1001,200"/>
+<area shape="poly" id="edge20_Node000016_Node000005" title=" " alt="" coords="992,255,981,249,950,228,921,204,879,161,883,157,925,200,953,224,984,244,994,250"/>
+</map>

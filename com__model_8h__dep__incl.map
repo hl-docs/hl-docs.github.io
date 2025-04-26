@@ -1,0 +1,19 @@
+<map id="common/com_model.h" name="common/com_model.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="806,5,959,32"/>
+<area shape="rect" id="Node000002" href="$_game_studio_model_renderer_8cpp.html" title=" " alt="" coords="5,88,245,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,30,549,51,257,83,204,90,203,85,257,77,548,46,790,25"/>
+<area shape="rect" id="Node000003" href="$_game_studio_model_renderer___sample_8cpp.html" title=" " alt="" coords="269,80,483,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="791,36,495,83,483,84,483,79,494,77,790,31"/>
+<area shape="rect" id="Node000004" href="$_studio_model_renderer_8cpp.html" title=" " alt="" coords="507,88,711,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="826,39,653,90,651,85,824,34"/>
+<area shape="rect" id="Node000005" href="$ev__hldm_8cpp.html" title=" " alt="" coords="735,88,862,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="860,45,813,90,809,86,857,41"/>
+<area shape="rect" id="Node000006" href="$hud__spectator_8cpp.html" title=" " alt="" coords="887,88,1049,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="908,41,957,86,953,90,905,45"/>
+<area shape="rect" id="Node000007" href="$overview_8cpp.html" title=" " alt="" coords="1073,88,1201,115"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="937,34,1098,85,1096,90,936,40"/>
+<area shape="rect" id="Node000008" href="$studio__util_8cpp.html" title=" " alt="" coords="1225,88,1364,115"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="975,33,1214,77,1246,85,1244,90,1212,83,974,38"/>
+<area shape="rect" id="Node000009" href="$view_8cpp.html" title=" " alt="" coords="1388,88,1492,115"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="975,24,1161,42,1269,58,1376,77,1404,85,1403,90,1375,83,1268,63,1160,48,974,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="UTIL_ApproachAngle" name="UTIL_ApproachAngle">
+<area shape="rect" id="Node000001" title="Approaches an angle value at a specified speed." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="Node000002" href="$util_8cpp.html#a9c3ac10a492f4e794c77e49a05af0d03" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="196,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,16,180,16,180,21,148,21"/>
+</map>

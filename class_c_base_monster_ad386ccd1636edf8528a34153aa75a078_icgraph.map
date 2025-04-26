@@ -1,0 +1,9 @@
+<map id="CBaseMonster::SetSequenceByName" name="CBaseMonster::SetSequenceByName">
+<area shape="rect" id="Node000001" title="Sets the monster&#39;s animation sequence by name." alt="" coords="401,23,594,65"/>
+<area shape="rect" id="Node000002" href="$class_c_barnacle.html#a4226dea19f1c30a28fed856cc5007484" title="The main think function for the barnacle." alt="" coords="182,5,353,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,34,353,31,354,25,386,29"/>
+<area shape="rect" id="Node000004" href="$class_c_ichthyosaur.html#aa1dea0a8814626113618e17ea8923e05" title="Starts a specific task for the ichthyosaur." alt="" coords="187,56,348,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="386,59,349,63,348,58,385,54"/>
+<area shape="rect" id="Node000003" href="$class_c_barnacle.html#a7288eb00da0ada4f605b04dbc5aa3cf6" title="Spawns the barnacle entity." alt="" coords="5,5,134,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,21,134,21,134,16,166,16"/>
+</map>

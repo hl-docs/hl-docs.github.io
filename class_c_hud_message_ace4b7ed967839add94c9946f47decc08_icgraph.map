@@ -1,0 +1,7 @@
+<map id="CHudMessage::MessageScanNextChar" name="CHudMessage::MessageScanNextChar">
+<area shape="rect" id="Node000001" title="Processes the next character in a message for color blending and visual effects." alt="" coords="471,5,668,48"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_message.html#ac4f6211ad067ee182fb920aa9e8c5d5e" title="Draws a message line by line with scanning or fading effects." alt="" coords="197,13,423,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,29,423,29,423,24,455,24"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_message.html#aa50d164eed66799f2c71b912f1d49d80" title="Main draw function for HUD messages. Iterates over active messages and draws them." alt="" coords="5,13,149,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,29,149,29,149,24,181,24"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CSqueak::Precache" name="CSqueak::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches the resources needed for the squeak weapon." alt="" coords="175,5,312,32"/>
+<area shape="rect" id="Node000002" href="$class_c_squeak.html#af7e2d49c5f8a316ab223b42d6162f78b" title="Spawns the squeak weapon." alt="" coords="5,5,127,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,21,127,21,127,16,159,16"/>
+</map>

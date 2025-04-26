@@ -1,0 +1,33 @@
+<map id="CBaseMonster::FInViewCone" name="CBaseMonster::FInViewCone">
+<area shape="rect" id="Node000001" title="Checks if an entity is within the monster&#39;s view cone." alt="" coords="1093,192,1284,219"/>
+<area shape="rect" id="Node000002" href="$class_c_talk_monster.html#a2b595cc5a75a165134fc688e5b267353" title="Attempts to greet the player for the first time they are seen." alt="" coords="864,128,1030,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1120,190,1000,158,1001,153,1122,185"/>
+<area shape="rect" id="Node000009" href="$class_c_flocking_flyer.html#a7a0dbdc8429f9c73445821529c81986b" title="Handles the follower boid&#39;s behavior." alt="" coords="849,184,1045,227"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1077,208,1046,208,1046,203,1077,203"/>
+<area shape="rect" id="Node000016" href="$class_c_bullsquid.html#af10f35cb1f44373b59e1efb77ac0d31c" title="Determines the appropriate schedule for the bullsquid." alt="" coords="864,251,1030,277"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1117,225,1005,253,1004,248,1115,220"/>
+<area shape="rect" id="Node000003" href="$class_c_talk_monster.html#a73cd9db7d1bd90bad36b49a739c07709" title="Runs a task for the talk monster." alt="" coords="638,56,798,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="887,125,762,86,764,81,888,120"/>
+<area shape="rect" id="Node000006" href="$class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="635,128,801,155"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="848,144,801,144,801,139,848,139"/>
+<area shape="rect" id="Node000004" href="$class_c_barney.html#ac4774636a01edd847b7b0da86c6b8b88" title="Runs a task for the Barney entity." alt="" coords="439,5,569,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="643,54,563,35,564,30,644,49"/>
+<area shape="rect" id="Node000005" href="$class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="434,56,574,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="622,72,574,72,574,67,622,67"/>
+<area shape="rect" id="Node000007" href="$class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="436,107,571,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="620,134,572,129,572,124,620,129"/>
+<area shape="rect" id="Node000008" href="$class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="431,157,576,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="620,157,577,163,577,158,620,152"/>
+<area shape="rect" id="Node000010" href="$class_c_flocking_flyer.html#a2164b9da3b19156dadc544d0d9f27dda" title="Starts the flocking behavior for the boid." alt="" coords="646,203,790,229"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="833,213,791,215,790,210,833,208"/>
+<area shape="rect" id="Node000011" href="$class_c_flocking_flyer.html#a08b5e239075d9e8144eae8963b89268c" title="Handles the idle behavior of the boid." alt="" coords="420,208,587,235"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="631,221,588,222,588,217,631,216"/>
+<area shape="rect" id="Node000012" href="$class_c_flocking_flyer.html#a8e33766d2b9f224339a2875b1fbc1a5c" title="Forms a flock from surrounding boids." alt="" coords="194,157,372,184"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="427,207,344,187,345,182,428,201"/>
+<area shape="rect" id="Node000013" href="$class_c_flocking_flyer.html#a92d57c05c9a89439bb0d652c58adff29" title="Spawns the individual boid." alt="" coords="205,208,361,235"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="405,224,361,224,361,219,405,219"/>
+<area shape="rect" id="Node000014" href="$class_c_flocking_flyer_flock.html#a18af3413e29b762b9727e0c0db25f7ab" title="Spawns the individual boids in the flock." alt="" coords="213,259,353,301"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="437,242,354,264,353,259,435,237"/>
+<area shape="rect" id="Node000015" href="$class_c_flocking_flyer_flock.html#aae9d16564fbe84c8e4ad035bf04be7a0" title="Spawns the flock entity." alt="" coords="5,259,146,301"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="197,283,146,283,146,277,197,277"/>
+</map>

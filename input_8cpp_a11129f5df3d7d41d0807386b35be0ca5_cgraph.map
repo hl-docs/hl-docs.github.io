@@ -1,0 +1,7 @@
+<map id="IN_MoveleftUp" name="IN_MoveleftUp">
+<area shape="rect" id="Node000001" title="Called when the move left key is released." alt="" coords="5,31,109,57"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a9df8cb1377a4c2b9d715fcfbd8727072" title="Handles the release of spectator input buttons." alt="" coords="157,5,375,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,35,141,31,141,37,110,40"/>
+<area shape="rect" id="Node000003" href="$input_8cpp.html#a4d4954f7bc20bbdcee21bea11b60ca74" title="Handles a key up event for a specific key binding (kbutton_t)." alt="" coords="236,56,296,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,48,221,61,220,67,109,53"/>
+</map>

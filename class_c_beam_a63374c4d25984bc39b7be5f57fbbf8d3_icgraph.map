@@ -1,0 +1,17 @@
+<map id="CBeam::SetFlags" name="CBeam::SetFlags">
+<area shape="rect" id="Node000001" title=" " alt="" coords="928,31,1052,57"/>
+<area shape="rect" id="Node000002" href="$class_c_lightning.html#ab55f81ab9ad5a6c6a74943ed85562539" title="Updates the beam variables for the lightning effect." alt="" coords="688,5,880,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="912,37,880,33,881,28,913,32"/>
+<area shape="rect" id="Node000004" href="$class_c_egon.html#ae2b2d53ffc64083f45f8ffb3bc62ea82" title="Creates the visual effects for the Egon weapon." alt="" coords="714,56,854,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="913,56,854,63,854,58,912,51"/>
+<area shape="rect" id="Node000003" href="$class_c_lightning.html#ad1e95029a213e0d7faccb62f7cf38d3a" title="Activates the lightning effect." alt="" coords="500,5,637,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="672,21,637,21,637,16,672,16"/>
+<area shape="rect" id="Node000005" href="$class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="497,56,640,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="699,72,640,72,640,67,699,67"/>
+<area shape="rect" id="Node000006" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="359,56,449,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="482,72,450,72,450,67,482,67"/>
+<area shape="rect" id="Node000007" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="205,56,311,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="343,72,312,72,312,67,343,67"/>
+<area shape="rect" id="Node000008" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,56,157,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="189,72,157,72,157,67,189,67"/>
+</map>

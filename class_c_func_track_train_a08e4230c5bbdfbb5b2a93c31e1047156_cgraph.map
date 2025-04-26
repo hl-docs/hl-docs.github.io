@@ -1,0 +1,11 @@
+<map id="CFuncTrackTrain::SetTrack" name="CFuncTrackTrain::SetTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,185,57"/>
+<area shape="rect" id="Node000002" href="$class_c_path_track.html#a6309d49441997076efe40ad41b80f78e" title="Finds the nearest path track to a given position." alt="" coords="233,31,375,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,41,218,41,218,47,185,47"/>
+<area shape="rect" id="Node000003" href="$class_c_path_track.html#a7c88acc042e1fbbca05de3d1d871c88e" title="Retrieves the next path track in the sequence." alt="" coords="423,5,568,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,32,407,28,408,33,376,37"/>
+<area shape="rect" id="Node000004" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="443,56,549,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="376,51,428,58,427,63,375,56"/>
+<area shape="rect" id="Node000005" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="616,56,660,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="549,67,601,67,601,72,549,72"/>
+</map>

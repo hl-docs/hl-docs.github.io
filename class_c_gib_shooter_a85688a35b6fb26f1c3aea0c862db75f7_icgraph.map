@@ -1,0 +1,5 @@
+<map id="CGibShooter::KeyValue" name="CGibShooter::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value data for the gib shooter entity." alt="" coords="214,5,373,32"/>
+<area shape="rect" id="Node000002" href="$class_c_env_shooter.html#a66a6cb5dc42ceacd551326d7f02587db" title="Handles key&#45;value data for the environment shooter entity." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,166,21,166,16,198,16"/>
+</map>

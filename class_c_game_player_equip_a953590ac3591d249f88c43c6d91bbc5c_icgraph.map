@@ -1,0 +1,7 @@
+<map id="CGamePlayerEquip::EquipPlayer" name="CGamePlayerEquip::EquipPlayer">
+<area shape="rect" id="Node000001" title="Equips the specified player with weapons." alt="" coords="232,31,445,57"/>
+<area shape="rect" id="Node000002" href="$class_c_game_player_equip.html#a1fc8762d1dbc69b35c6ebb1f97415b28" title="Handles the touch event for the game player equip entity." alt="" coords="5,5,184,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,34,184,31,184,25,216,29"/>
+<area shape="rect" id="Node000003" href="$class_c_game_player_equip.html#a6c19dc2688ff6292a05d484cfd975ff7" title="Activates the game player equip entity." alt="" coords="11,56,178,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,59,179,63,178,58,216,54"/>
+</map>

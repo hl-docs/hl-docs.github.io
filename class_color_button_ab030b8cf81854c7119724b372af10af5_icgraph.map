@@ -1,0 +1,9 @@
+<map id="ColorButton::setUnArmedBorderColor" name="ColorButton::setUnArmedBorderColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="629,5,837,48"/>
+<area shape="rect" id="Node000002" href="$class_spectator_panel.html#ae1b6c9699296d40927d313a863869055" title="Initializes all components and UI elements in the spectator panel." alt="" coords="416,13,581,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="614,29,582,29,582,24,614,24"/>
+<area shape="rect" id="Node000003" href="$class_team_fortress_viewport.html#a2ad5fd14e74065e2a56b1214ea9a3c05" title="Creates and initializes the spectator information panel." alt="" coords="213,5,368,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,29,369,29,369,24,400,24"/>
+<area shape="rect" id="Node000004" href="$class_team_fortress_viewport.html#aacf8ea3f9311effbcb873b677272d989" title="Constructor for the TeamFortressViewport class." alt="" coords="5,5,165,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,29,165,29,165,24,197,24"/>
+</map>

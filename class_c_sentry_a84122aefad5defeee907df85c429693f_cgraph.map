@@ -1,0 +1,37 @@
+<map id="CSentry::SentryDeath" name="CSentry::SentryDeath">
+<area shape="rect" id="Node000001" title="Handles the death behavior of the sentry." alt="" coords="5,284,154,311"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="265,5,370,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,283,91,237,112,171,128,136,148,101,172,69,200,42,223,28,249,20,251,26,225,33,203,46,176,73,152,104,133,138,117,173,96,238,86,284"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="248,56,387,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,282,96,244,119,192,154,138,176,114,200,92,232,77,235,81,203,97,179,117,158,141,124,195,101,246,87,284"/>
+<area shape="rect" id="Node000006" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="294,107,341,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="85,282,102,253,127,215,160,176,200,143,239,127,278,119,279,125,241,132,203,148,164,180,131,218,106,255,90,285"/>
+<area shape="rect" id="Node000007" href="$class_c_base_turret.html#a5dc8562f836fb099b48b028f3275dffc" title="Turns the turret&#39;s eye glow off." alt="" coords="247,157,388,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="91,282,136,238,167,214,200,194,232,182,233,187,203,198,170,218,140,242,95,285"/>
+<area shape="rect" id="Node000009" href="$class_c_base_turret.html#ae04de7ce251f1980123b3240f4efb7a3" title="Turns the turret&#39;s eye glow on." alt="" coords="247,208,388,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="109,281,201,244,231,236,232,241,203,249,111,286"/>
+<area shape="rect" id="Node000010" href="$class_c_base_animating.html#a50a621b4c3ea026cbe77976e22407040" title="Retrieves the position and angles of a specified attachment." alt="" coords="210,259,425,285"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="154,287,194,282,195,288,154,292"/>
+<area shape="rect" id="Node000011" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="533,487,667,513"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="85,311,94,359,114,426,129,461,149,494,173,524,203,548,247,569,295,579,345,580,395,573,443,562,487,548,559,518,561,523,489,553,444,567,395,579,345,585,295,584,246,574,200,553,170,528,144,498,124,463,109,428,89,360,80,312"/>
+<area shape="rect" id="Node000012" href="$class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="202,360,433,387"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="111,309,203,345,230,353,229,358,201,351,109,314"/>
+<area shape="rect" id="Node000013" href="$class_c_base_turret.html#a400a671b3ad7cd0b3c8c171920718f99" title="Sets the turret&#39;s animation." alt="" coords="225,309,410,336"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="154,303,210,309,209,314,154,308"/>
+<area shape="rect" id="Node000015" href="$_game_studio_model_renderer___sample_8cpp.html#a18d6229942e256d2883e19bf2dabf3cd" title="Advances the animation frame based on the specified time interval." alt="" coords="245,461,390,488"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="90,310,106,339,131,377,164,415,203,447,231,460,229,465,200,452,160,419,127,380,102,342,85,313"/>
+<area shape="rect" id="Node000016" href="$dlls_2util_8cpp.html#a9c3ac10a492f4e794c77e49a05af0d03" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="261,512,374,539"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="87,310,101,348,124,400,158,453,179,477,203,498,224,509,247,517,245,522,222,514,200,502,176,481,154,456,119,402,96,350,82,312"/>
+<area shape="rect" id="Node000017" href="$dlls_2util_8cpp.html#a98b7dd5c6b2ea38ab577a0ea282b5a22" title="Emits sparks at a specified position." alt="" coords="270,411,365,437"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="95,309,140,353,170,376,203,396,255,413,253,418,201,401,167,381,136,357,91,313"/>
+<area shape="rect" id="Node000003" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="531,5,669,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,16,515,16,515,21,370,21"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="767,5,918,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="670,16,752,16,752,21,670,21"/>
+<area shape="rect" id="Node000008" href="$class_c_sprite.html#a9b08724159d3ef5d536048a517d5ee9e" title=" " alt="" coords="523,183,677,209"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="388,174,508,185,507,190,388,180"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="388,212,507,202,508,207,389,218"/>
+<area shape="rect" id="Node000014" href="$class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="481,309,719,336"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="410,320,466,320,466,325,410,325"/>
+<area shape="poly" id="edge18_Node000017_Node000011" title=" " alt="" coords="366,431,434,447,543,479,541,484,432,452,365,436"/>
+</map>

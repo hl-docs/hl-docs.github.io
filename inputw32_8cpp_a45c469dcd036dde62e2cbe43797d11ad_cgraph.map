@@ -1,0 +1,5 @@
+<map id="IN_Commands" name="IN_Commands">
+<area shape="rect" id="Node000001" title="Handles joystick button and POV (Point&#45;of&#45;View) events." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="Node000002" href="$inputw32_8cpp.html#aa42f7edae2cd2a891a491e6bbae8f463" title="Returns the raw SDL axis value for a given joystick axis." alt="" coords="160,5,280,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,16,144,16,144,21,112,21"/>
+</map>

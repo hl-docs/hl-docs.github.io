@@ -1,0 +1,123 @@
+<map id="IN_JumpDown" name="IN_JumpDown">
+<area shape="rect" id="Node000001" title="Called when the jump key is pressed." alt="" coords="5,620,109,647"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#ad7203888c3889b037e61853f34a97483" title="Handles spectator input buttons that are currently being held down." alt="" coords="157,595,391,621"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,625,141,621,142,626,109,630"/>
+<area shape="rect" id="Node000065" href="$input_8cpp.html#a4b3bad5f852a07e61e1c9b3d5781fe79" title="Handles a key down event for a specific key binding (kbutton_t)." alt="" coords="236,645,312,672"/>
+<area shape="poly" id="edge71_Node000001_Node000065" title=" " alt="" coords="109,637,221,650,220,655,109,642"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_spectator.html#a001f0e6c1674572ac4f958fe7d172311" title="Finds the next player to spectate, based on the current observer mode and direction." alt="" coords="670,109,877,136"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,593,338,487,384,417,437,349,494,285,542,239,596,199,669,155,704,139,706,144,672,160,599,203,546,243,498,289,441,352,389,420,343,490,284,595"/>
+<area shape="rect" id="Node000007" href="$class_c_hud_spectator.html#a75afd7d7417db578dbc10361de2e23ab" title="Sets the current spectator main and inset modes." alt="" coords="443,363,619,389"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="289,592,502,397,506,401,292,596"/>
+<area shape="rect" id="Node000038" href="$class_spectator_panel.html#afb878948b966364bfada314319adb7fc" title="Toggles the visibility of the spectator menu." alt="" coords="935,788,1117,815"/>
+<area shape="poly" id="edge69_Node000002_Node000038" title=" " alt="" coords="345,619,392,631,471,656,532,678,592,701,671,725,805,758,929,782,928,787,804,763,670,731,590,706,530,683,469,661,390,636,344,624"/>
+<area shape="rect" id="Node000064" href="$class_c_hud_spectator.html#a685795356c8348e1d22fa0355fe21388" title="Toggles to the next available inset view mode." alt="" coords="439,797,622,824"/>
+<area shape="poly" id="edge70_Node000002_Node000064" title=" " alt="" coords="376,620,393,631,408,649,416,668,419,705,421,741,428,759,441,777,455,788,451,792,437,781,423,762,416,742,413,705,411,669,403,652,389,635,373,624"/>
+<area shape="rect" id="Node000004" href="$class_team_fortress_viewport.html#a581a2504cd06f12a1dded0202d998e4c" title="Retrieves information about all players from the engine." alt="" coords="950,5,1102,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="805,106,924,58,942,51,943,56,926,62,807,111"/>
+<area shape="rect" id="Node000005" href="$class_c_hud_spectator.html#a0b5731784e3b1196d0c52c5d4dea8a5c" title="Determines if a given entity is an active player that can be spectated." alt="" coords="926,72,1126,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="868,106,915,99,916,104,869,111"/>
+<area shape="rect" id="Node000006" href="$class_team_fortress_viewport.html#a385a039565e8364d11f5d95ef7419d98" title="Resets the screen fade effect." alt="" coords="949,123,1103,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="877,129,934,134,933,139,877,134"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="541,361,578,314,620,252,633,224,639,199,649,176,669,153,686,141,689,145,672,157,653,179,644,201,638,226,625,255,582,317,546,364"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="540,361,609,270,645,225,669,201,697,185,724,176,771,169,819,164,846,158,875,146,889,137,899,127,909,118,923,108,939,102,941,106,926,113,912,122,903,131,893,141,878,150,847,163,820,170,772,174,725,181,700,190,672,205,649,229,613,274,544,364"/>
+<area shape="poly" id="edge12_Node000007_Node000006" title=" " alt="" coords="541,360,592,306,629,274,669,247,724,222,770,211,817,203,876,189,944,168,945,173,877,195,818,209,771,216,726,227,672,252,632,278,596,309,545,364"/>
+<area shape="rect" id="Node000008" href="$class_c_hud_text_message.html#ad31afd57614ff64021461d4dddd58cbb" title="Localizes a text message with a local static buffer." alt="" coords="1446,489,1633,532"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="548,388,600,436,634,463,672,487,739,524,793,548,850,565,925,580,996,589,1069,591,1142,589,1213,582,1345,560,1451,534,1452,539,1346,565,1214,587,1142,594,1069,597,996,594,924,585,849,570,791,553,736,529,669,492,631,467,596,440,544,392"/>
+<area shape="rect" id="Node000011" href="$class_c_hud_text_message.html#ae4f4c6911397b70240516c705ffbaafb" title="Message handler for displaying text messages in the game." alt="" coords="1186,751,1379,793"/>
+<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="536,389,547,444,570,522,588,565,610,606,638,644,672,675,697,686,742,698,873,721,1170,758,1170,763,872,726,741,703,695,691,669,680,634,647,606,609,583,567,565,524,541,445,531,390"/>
+<area shape="rect" id="Node000030" href="$class_team_fortress_viewport.html#a8d2ef332bdcfc615c3d92badfc78b46e" title="Updates the spectator panel based on current spectator settings." alt="" coords="694,435,853,477"/>
+<area shape="poly" id="edge38_Node000007_Node000030" title=" " alt="" coords="575,387,693,427,691,432,573,392"/>
+<area shape="rect" id="Node000051" href="$view_8cpp.html#a80a49e33e9108a906762415a7c28d8dc" title="Calculates the camera position and orientation for a chase cam following a specific target." alt="" coords="714,261,833,288"/>
+<area shape="poly" id="edge64_Node000007_Node000051" title=" " alt="" coords="564,360,724,292,727,297,566,365"/>
+<area shape="rect" id="Node000009" href="$class_c_hud_text_message.html#a847c99e126f98c009a2129b99307f88c" title="Localizes a text message by replacing any placeholder messages with actual text." alt="" coords="1706,388,1893,431"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1583,486,1689,440,1707,434,1709,439,1691,445,1586,491"/>
+<area shape="rect" id="Node000010" href="$cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="1981,451,2101,477"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1894,428,1967,445,1965,450,1893,433"/>
+<area shape="rect" id="Node000012" href="$class_team_fortress_viewport.html#a19c8e48550ed1a7ba3ea643b81f105fc" title="Determines if the HUD is allowed to print text messages." alt="" coords="1724,901,1875,944"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1376,792,1391,803,1405,822,1412,842,1414,880,1416,916,1424,932,1439,947,1473,966,1510,977,1549,982,1589,981,1667,968,1734,948,1735,953,1668,974,1590,987,1549,988,1509,983,1471,971,1436,951,1419,935,1411,918,1408,880,1407,843,1401,825,1387,807,1373,796"/>
+<area shape="rect" id="Node000014" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="1487,809,1592,836"/>
+<area shape="poly" id="edge16_Node000011_Node000014" title=" " alt="" coords="1380,788,1473,807,1472,812,1379,794"/>
+<area shape="rect" id="Node000015" href="$cl__util_8h.html#a343f95fd90d348c99adbc1754cba1544" title="Centers a string on the screen." alt="" coords="1496,860,1583,887"/>
+<area shape="poly" id="edge17_Node000011_Node000015" title=" " alt="" coords="1366,791,1391,803,1406,814,1415,825,1424,836,1439,846,1482,861,1480,866,1436,850,1421,840,1411,829,1402,818,1388,808,1364,796"/>
+<area shape="rect" id="Node000016" href="$cl__util_8h.html#a9072906225158c6461f1bbd3afeca0b9" title="Prints a string to the console." alt="" coords="2173,685,2269,712"/>
+<area shape="poly" id="edge18_Node000011_Node000016" title=" " alt="" coords="1379,751,1437,744,1541,730,1587,730,1643,744,1658,754,1668,765,1677,776,1691,784,1749,800,1797,801,1909,784,1980,771,2051,753,2168,715,2170,720,2052,758,1981,776,1909,789,1798,807,1749,805,1689,789,1673,780,1664,768,1655,758,1641,749,1586,735,1542,735,1438,749,1380,756"/>
+<area shape="rect" id="Node000017" href="$text__message_8cpp.html#ae4ca2ecaa1da99fd79f80d6b3ef60702" title="Converts all carriage return characters (&#39;\r&#39;) to newline characters (&#39; &#39;)." alt="" coords="1485,911,1594,937"/>
+<area shape="poly" id="edge19_Node000011_Node000017" title=" " alt="" coords="1374,792,1391,803,1409,827,1416,852,1422,875,1439,897,1471,913,1469,918,1436,901,1417,877,1410,853,1404,830,1387,807,1371,796"/>
+<area shape="rect" id="Node000018" href="$class_c_hud_text_message.html#a4cd8758ca083f8e7f88de37b56e9cd11" title="Simplified version of LocaliseTextString, assumes the message is a single word." alt="" coords="1692,505,1907,532"/>
+<area shape="poly" id="edge20_Node000011_Node000018" title=" " alt="" coords="1357,748,1387,726,1400,710,1406,693,1409,659,1413,626,1421,609,1436,592,1471,578,1535,562,1694,533,1695,538,1537,567,1473,583,1439,597,1426,612,1418,627,1414,660,1411,694,1404,712,1391,730,1360,752"/>
+<area shape="rect" id="Node000019" href="$parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="1490,1012,1589,1039"/>
+<area shape="poly" id="edge22_Node000011_Node000019" title=" " alt="" coords="1377,792,1391,804,1408,828,1416,852,1418,876,1416,899,1414,923,1416,946,1423,969,1439,991,1456,1005,1476,1013,1474,1018,1453,1009,1435,995,1418,971,1411,947,1409,923,1411,899,1412,876,1411,853,1404,830,1387,807,1374,796"/>
+<area shape="rect" id="Node000020" href="$parsemsg_8h.html#ac44883481899652b5b22699b772ff57f" title=" " alt="" coords="1484,1063,1595,1089"/>
+<area shape="poly" id="edge23_Node000011_Node000020" title=" " alt="" coords="1378,792,1391,804,1412,835,1420,867,1420,898,1415,929,1411,960,1411,990,1419,1019,1439,1049,1453,1060,1470,1067,1468,1072,1450,1064,1435,1052,1414,1022,1405,990,1405,959,1410,928,1414,898,1415,868,1407,837,1387,807,1375,796"/>
+<area shape="rect" id="Node000021" href="$cl__util_8h.html#ad4e44a511a4030bed513894baa2e67d4" title="Safely formats a string and copies it to the destination buffer." alt="" coords="1496,1113,1583,1140"/>
+<area shape="poly" id="edge24_Node000011_Node000021" title=" " alt="" coords="1378,792,1391,804,1415,842,1424,880,1422,918,1415,955,1408,991,1407,1028,1415,1063,1439,1099,1458,1113,1481,1121,1479,1126,1456,1118,1435,1103,1411,1066,1401,1028,1403,991,1410,954,1416,917,1418,881,1410,844,1387,807,1375,796"/>
+<area shape="rect" id="Node000022" href="$cl__util_8h.html#ab4f98635af3e5146cd924dcff403ebbd" title="Safely copies a string from source to destination with length limitation." alt="" coords="1495,607,1584,633"/>
+<area shape="poly" id="edge25_Node000011_Node000022" title=" " alt="" coords="1353,748,1388,726,1403,706,1410,685,1418,664,1436,643,1457,631,1479,624,1481,629,1459,636,1439,647,1422,666,1415,687,1408,708,1391,730,1356,752"/>
+<area shape="rect" id="Node000023" href="$class_c_hud_say_text.html#af63c6c752c97b58a98da35bd87058768" title="Prints the say text message to the buffer." alt="" coords="1447,657,1632,684"/>
+<area shape="poly" id="edge26_Node000011_Node000023" title=" " alt="" coords="1338,748,1388,726,1436,700,1473,687,1475,692,1438,705,1390,730,1340,753"/>
+<area shape="rect" id="Node000029" href="$text__message_8cpp.html#a215cf1234e2d5621b5e85b311e401ef0" title="Strips the newline character (&#39; &#39; or &#39;\r&#39;) from the end of a string." alt="" coords="1449,759,1630,785"/>
+<area shape="poly" id="edge37_Node000011_Node000029" title=" " alt="" coords="1379,769,1434,769,1434,775,1379,775"/>
+<area shape="rect" id="Node000013" href="$class_c_menu_panel.html#a528f8164358f2a99dd5f27e49a1e0cb6" title=" " alt="" coords="1957,909,2125,936"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="1875,920,1941,920,1941,925,1875,925"/>
+<area shape="poly" id="edge21_Node000018_Node000010" title=" " alt="" coords="1861,502,1965,478,1966,484,1862,507"/>
+<area shape="poly" id="edge27_Node000023_Node000012" title=" " alt="" coords="1563,682,1601,710,1643,745,1716,820,1774,888,1770,891,1712,823,1640,749,1598,714,1560,687"/>
+<area shape="poly" id="edge28_Node000023_Node000016" title=" " alt="" coords="1604,654,1641,643,1664,631,1689,620,1811,598,1862,595,1909,596,1956,602,2006,612,2126,647,2158,659,2187,675,2184,679,2156,664,2124,652,2005,617,1956,607,1909,601,1862,600,1812,603,1690,625,1667,635,1643,648,1605,659"/>
+<area shape="rect" id="Node000024" href="$class_c_hud_say_text.html#a3404663baf7a9909223f7b4036f0b070" title="Ensures the text fits within one line and wraps if necessary." alt="" coords="1701,732,1898,775"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="1586,682,1642,700,1717,724,1715,729,1641,705,1584,687"/>
+<area shape="rect" id="Node000026" href="$saytext_8cpp.html#a8ecb17481b5dd5041209001d58873b3f" title="Scrolls the text in the line buffer upwards." alt="" coords="1994,685,2089,712"/>
+<area shape="poly" id="edge36_Node000023_Node000026" title=" " alt="" coords="1602,654,1666,643,1743,635,1827,634,1910,643,1958,657,2002,676,2000,681,1956,662,1908,648,1826,639,1743,640,1666,649,1602,659"/>
+<area shape="rect" id="Node000027" href="$death_8cpp.html#aa520d1289fab66699f197640abe8a46c" title="Returns the team color associated with a client index." alt="" coords="1747,455,1852,481"/>
+<area shape="poly" id="edge34_Node000023_Node000027" title=" " alt="" coords="1624,655,1640,643,1654,626,1661,607,1663,569,1665,530,1672,510,1688,491,1708,478,1730,470,1732,475,1710,483,1691,495,1677,513,1670,531,1668,569,1666,608,1659,628,1643,647,1627,659"/>
+<area shape="rect" id="Node000028" href="$cl__util_8h.html#a94e0b3cb3acf2d4519928b6e70cbacfc" title="Plays a sound by its name with the specified volume." alt="" coords="1757,657,1842,684"/>
+<area shape="poly" id="edge35_Node000023_Node000028" title=" " alt="" coords="1632,668,1742,668,1742,673,1632,673"/>
+<area shape="poly" id="edge30_Node000024_Node000024" title=" " alt="" coords="1754,732,1752,722,1759,713,1775,707,1799,705,1825,708,1841,714,1839,719,1824,713,1799,711,1776,713,1762,717,1757,723,1759,731"/>
+<area shape="poly" id="edge31_Node000024_Node000026" title=" " alt="" coords="1896,729,1978,710,1979,715,1898,734"/>
+<area shape="poly" id="edge32_Node000026_Node000016" title=" " alt="" coords="2089,696,2158,696,2158,701,2089,701"/>
+<area shape="poly" id="edge33_Node000026_Node000026" title=" " alt="" coords="2010,686,2005,677,2009,667,2021,661,2041,659,2063,661,2074,668,2072,672,2061,666,2041,664,2023,666,2013,671,2010,676,2015,684"/>
+<area shape="poly" id="edge39_Node000030_Node000008" title=" " alt="" coords="854,464,925,472,1198,492,1431,504,1431,509,1198,497,924,477,853,469"/>
+<area shape="poly" id="edge48_Node000030_Node000011" title=" " alt="" coords="799,476,855,526,926,580,1227,741,1225,745,923,585,852,530,796,480"/>
+<area shape="poly" id="edge47_Node000030_Node000027" title=" " alt="" coords="853,454,1731,465,1731,470,853,460"/>
+<area shape="rect" id="Node000031" href="$class_c_hud_spectator.html#afffdedadd10f80db6781c92fac1d1d0e" title="Checks and enforces inset view settings for the spectator HUD." alt="" coords="925,392,1127,419"/>
+<area shape="poly" id="edge40_Node000030_Node000031" title=" " alt="" coords="853,437,940,420,941,425,854,443"/>
+<area shape="rect" id="Node000034" href="$class_command_button.html#a030a79a733862b5b8ff2108e3697abab" title="Sets the button display text." alt="" coords="1455,341,1624,368"/>
+<area shape="poly" id="edge49_Node000030_Node000034" title=" " alt="" coords="806,432,860,402,924,377,992,362,1062,351,1202,340,1332,339,1440,343,1439,349,1332,344,1202,345,1063,357,993,368,925,383,862,407,809,436"/>
+<area shape="rect" id="Node000036" href="$class_spectator_panel.html#a642cec1506e81c50c31572fb983126a3" title="Updates the positions and visibility of time, scores, and extra HUD info." alt="" coords="1460,291,1619,317"/>
+<area shape="poly" id="edge63_Node000030_Node000036" title=" " alt="" coords="794,432,849,385,885,362,924,343,991,321,1062,306,1133,295,1203,289,1336,286,1444,291,1444,297,1335,291,1204,294,1133,300,1063,311,993,326,926,348,888,366,852,390,798,436"/>
+<area shape="rect" id="Node000037" href="$hud_8cpp.html#a73dbfbd112bc147678f3d8489b8cb5bc" title="Extracts the base name of a file, removing directory and extension." alt="" coords="971,544,1081,571"/>
+<area shape="poly" id="edge46_Node000030_Node000037" title=" " alt="" coords="819,475,926,523,963,536,961,541,924,528,817,480"/>
+<area shape="poly" id="edge50_Node000030_Node000038" title=" " alt="" coords="793,476,1008,773,1003,777,788,479"/>
+<area shape="rect" id="Node000032" href="$class_spectator_panel.html#af29c2f205166c456bd9101125ed4a1b1" title="Enables or disables the inset camera view in spectator mode." alt="" coords="1175,392,1389,419"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="1127,403,1160,403,1160,408,1127,408"/>
+<area shape="poly" id="edge42_Node000032_Node000008" title=" " alt="" coords="1318,417,1472,480,1470,485,1316,422"/>
+<area shape="poly" id="edge43_Node000032_Node000034" title=" " alt="" coords="1353,389,1453,369,1454,374,1354,394"/>
+<area shape="poly" id="edge45_Node000032_Node000036" title=" " alt="" coords="1306,389,1364,358,1436,327,1459,319,1460,325,1438,332,1367,363,1309,394"/>
+<area shape="rect" id="Node000035" href="$class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="1690,337,1909,364"/>
+<area shape="poly" id="edge44_Node000034_Node000035" title=" " alt="" coords="1625,351,1674,350,1674,355,1625,356"/>
+<area shape="poly" id="edge51_Node000038_Node000008" title=" " alt="" coords="1056,785,1174,736,1207,727,1237,722,1290,718,1314,715,1337,708,1362,696,1387,675,1400,661,1407,646,1412,615,1416,583,1423,567,1435,550,1450,538,1453,542,1439,554,1427,569,1421,585,1417,616,1412,648,1405,664,1391,679,1364,700,1339,713,1315,720,1290,723,1238,727,1209,732,1176,741,1058,790"/>
+<area shape="poly" id="edge59_Node000038_Node000011" title=" " alt="" coords="1117,788,1170,782,1171,787,1118,794"/>
+<area shape="rect" id="Node000039" href="$class_team_fortress_viewport.html#ad9fcc35f44452924983aa174266d0369" title="Hides the current command menu and resets the armed states of its buttons." alt="" coords="1207,1209,1358,1252"/>
+<area shape="poly" id="edge52_Node000038_Node000039" title=" " alt="" coords="1038,814,1263,1195,1258,1197,1033,816"/>
+<area shape="rect" id="Node000045" href="$class_team_fortress_viewport.html#a3eed3123a3dcc44d7dba06104691bbb4" title="Updates the state and visibility of the mouse cursor." alt="" coords="1464,1164,1615,1207"/>
+<area shape="poly" id="edge62_Node000038_Node000045" title=" " alt="" coords="1062,813,1176,853,1209,861,1239,863,1292,863,1317,864,1341,870,1366,883,1391,905,1413,936,1422,967,1422,998,1417,1028,1413,1059,1412,1089,1420,1120,1439,1150,1452,1161,1448,1165,1435,1154,1415,1122,1407,1090,1408,1059,1412,1028,1416,997,1416,967,1408,938,1387,908,1363,888,1339,875,1316,870,1292,868,1238,869,1208,866,1174,859,1060,818"/>
+<area shape="rect" id="Node000049" href="$class_drop_down_button.html#ac26916773d4d6b5c0deb62b884696baa" title=" " alt="" coords="1191,919,1374,945"/>
+<area shape="poly" id="edge60_Node000038_Node000049" title=" " alt="" coords="1046,813,1102,854,1176,898,1210,911,1208,916,1174,902,1099,859,1043,817"/>
+<area shape="rect" id="Node000050" href="$class_c_image_button.html#a23e98580cc6271feb08893485f0788bb" title=" " alt="" coords="1198,817,1366,844"/>
+<area shape="poly" id="edge61_Node000038_Node000050" title=" " alt="" coords="1118,809,1183,817,1183,822,1117,814"/>
+<area shape="rect" id="Node000040" href="$class_c_command_menu.html#a7816c9c115b2d4bd0d5a30a6f81e1a70" title="Clears all buttons of their armed (highlighted) state." alt="" coords="1437,1255,1642,1297"/>
+<area shape="poly" id="edge53_Node000039_Node000040" title=" " alt="" coords="1359,1241,1423,1253,1422,1258,1358,1247"/>
+<area shape="rect" id="Node000043" href="$class_team_fortress_viewport.html#a2ec7d2d99d1041391910b9cb74799a27" title="Sets the current command menu to the provided menu." alt="" coords="1448,1321,1631,1364"/>
+<area shape="poly" id="edge55_Node000039_Node000043" title=" " alt="" coords="1323,1250,1377,1278,1438,1307,1454,1313,1452,1318,1436,1312,1375,1283,1321,1255"/>
+<area shape="poly" id="edge56_Node000039_Node000045" title=" " alt="" coords="1358,1215,1448,1199,1449,1204,1359,1220"/>
+<area shape="poly" id="edge54_Node000040_Node000040" title=" " alt="" coords="1491,1255,1489,1245,1497,1236,1514,1230,1540,1228,1567,1230,1583,1237,1581,1242,1566,1236,1539,1233,1515,1235,1500,1240,1494,1246,1496,1253"/>
+<area shape="rect" id="Node000046" href="$voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="1734,1197,1865,1224"/>
+<area shape="poly" id="edge57_Node000045_Node000046" title=" " alt="" coords="1616,1190,1719,1200,1718,1205,1615,1195"/>
+<area shape="rect" id="Node000047" href="$inputw32_8cpp.html#ad4c638a7e3ecee100b6da72b6c3a08c2" title="Resets the mouse cursor position to the center of the screen." alt="" coords="1743,1147,1856,1173"/>
+<area shape="poly" id="edge58_Node000045_Node000047" title=" " alt="" coords="1615,1175,1727,1164,1728,1170,1616,1181"/>
+<area shape="rect" id="Node000052" href="$view_8cpp.html#a01e35c70a3631fc45948099bc7a30a21" title="Calculates the camera&#39;s origin based on a target&#39;s position and view angles." alt="" coords="1218,215,1347,241"/>
+<area shape="poly" id="edge65_Node000051_Node000052" title=" " alt="" coords="818,258,924,225,998,218,1072,215,1203,219,1202,224,1072,220,998,223,925,231,820,263"/>
+<area shape="rect" id="Node000057" href="$view_8cpp.html#a0d567998e70ed2cc91007b19aa270888" title="Determines the camera position when following a directed chase." alt="" coords="931,240,1121,267"/>
+<area shape="poly" id="edge67_Node000051_Node000057" title=" " alt="" coords="833,267,915,260,915,265,833,272"/>
+<area shape="rect" id="Node000053" href="$view_8cpp.html#a090efc998653bf944c811540e03257ba" title=" " alt="" coords="1503,215,1576,241"/>
+<area shape="poly" id="edge66_Node000052_Node000053" title=" " alt="" coords="1347,225,1488,225,1488,231,1347,231"/>
+<area shape="poly" id="edge68_Node000057_Node000052" title=" " alt="" coords="1121,241,1202,233,1202,239,1122,247"/>
+</map>

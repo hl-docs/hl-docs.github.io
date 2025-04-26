@@ -1,0 +1,13 @@
+<map id="CFuncConveyor::Spawn" name="CFuncConveyor::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the func_conveyor entity." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="Node000002" href="$subs_8cpp.html#a63f7e85057f56715c4afed473f2e8ea1" title="Sets the movement direction based on angles." alt="" coords="269,5,355,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,53,253,29,255,34,149,58"/>
+<area shape="rect" id="Node000004" href="$class_c_func_wall.html#a5dcbd2db254e09466512bc8070e06e14" title="Spawns the func_wall entity." alt="" coords="246,56,378,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,67,230,67,230,72,165,72"/>
+<area shape="rect" id="Node000006" href="$class_c_func_conveyor.html#a68a736c4d61b1374cdabffd1480c5c18" title="Updates the speed of the conveyor." alt="" coords="213,107,411,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="149,81,235,100,234,105,148,86"/>
+<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="459,5,590,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,16,444,16,444,21,355,21"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="502,56,548,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="379,67,486,67,486,72,379,72"/>
+</map>

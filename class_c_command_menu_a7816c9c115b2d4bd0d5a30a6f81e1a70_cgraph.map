@@ -1,0 +1,8 @@
+<map id="CCommandMenu::ClearButtonsOfArmedState" name="CCommandMenu::ClearButtonsOfArmedState">
+<area shape="rect" id="Node000001" title="Clears all buttons of their armed (highlighted) state." alt="" coords="5,29,210,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="58,29,56,19,65,10,82,5,108,3,135,5,152,11,150,16,134,10,107,8,83,10,67,15,61,21,63,28"/>
+<area shape="rect" id="Node000002" href="$class_c_command_menu.html#acd640eeda24dfb8914b187e614bd23b8" title=" " alt="" coords="258,12,480,39"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="210,38,242,35,243,40,211,43"/>
+<area shape="rect" id="Node000003" href="$class_command_button.html#a38816dbe2213fb5d0579d399d41e42c2" title=" " alt="" coords="268,63,470,89"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="211,58,252,62,252,67,210,63"/>
+</map>

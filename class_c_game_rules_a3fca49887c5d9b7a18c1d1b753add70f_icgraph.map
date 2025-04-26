@@ -1,0 +1,17 @@
+<map id="CGameRules::FAllowFlashlight" name="CGameRules::FAllowFlashlight">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1139,31,1340,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#a690bb3e31e5f6b43d2cfa45d65272f0e" title="Turns the flashlight on for the player." alt="" coords="888,5,1091,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1123,35,1091,32,1092,26,1124,30"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player.html#aafd0f877042347e2beec7a9df50d0da9" title="Handles the player&#39;s pre&#45;think logic." alt="" coords="911,56,1068,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1124,58,1068,64,1068,59,1123,53"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#a5beb9665d986eed23a0cc5614ad4ceb3" title="Handles impulse commands from the player." alt="" coords="623,5,840,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="872,21,840,21,840,16,872,16"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a5955eb567a5fdb38a2debe6b5de3be29" title="Finalizes the player&#39;s items for the current frame." alt="" coords="381,5,575,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="608,21,576,21,576,16,608,16"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#a70caf2bd9eb6b169f0adbdea94f9e987" title="Handles the player&#39;s post&#45;think logic." alt="" coords="170,5,333,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="365,21,333,21,333,16,365,16"/>
+<area shape="rect" id="Node000006" href="$client_8cpp.html#ab04e2fadfb0c84166a0fc589d6f430e1" title="Called after the physics simulation for a player." alt="" coords="5,5,122,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
+<area shape="rect" id="Node000008" href="$client_8cpp.html#ab81b2e9b14840f5ce8a46d369746af2a" title="Called before the physics simulation for a player." alt="" coords="677,56,786,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="895,72,787,72,787,67,895,67"/>
+</map>

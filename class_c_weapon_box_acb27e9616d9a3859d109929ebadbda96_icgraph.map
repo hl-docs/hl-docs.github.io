@@ -1,0 +1,5 @@
+<map id="CWeaponBox::Precache" name="CWeaponBox::Precache">
+<area shape="rect" id="Node000001" title="Precaches the weapon box model." alt="" coords="202,5,366,32"/>
+<area shape="rect" id="Node000002" href="$class_c_weapon_box.html#a37869b2531abc0dad27576ec6b576f63" title="Spawns the weapon box in the game world." alt="" coords="5,5,154,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,21,154,21,154,16,186,16"/>
+</map>

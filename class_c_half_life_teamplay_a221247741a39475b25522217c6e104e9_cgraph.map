@@ -1,0 +1,11 @@
+<map id="CHalfLifeTeamplay::IPointsForKill" name="CHalfLifeTeamplay::IPointsForKill">
+<area shape="rect" id="Node000001" title="Determines the points awarded for a kill." alt="" coords="5,35,142,77"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#aac3b84e95c79e8cfce7a1c6e565a839a" title="Determines the relationship between two players." alt="" coords="190,35,326,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,53,174,53,174,59,142,59"/>
+<area shape="rect" id="Node000003" href="$class_c_half_life_teamplay.html#a6be6ef68f85c1e0d5ef5dd23fb86d0ab" title="Retrieves the team ID for a specified entity." alt="" coords="381,5,517,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="326,43,365,37,366,42,327,48"/>
+<area shape="rect" id="Node000005" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="374,72,523,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="327,64,359,69,358,74,326,69"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#acdd61dd12f1226cebaa6ed4c0443f165" title=" " alt="" coords="571,13,718,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="517,24,556,24,556,29,517,29"/>
+</map>

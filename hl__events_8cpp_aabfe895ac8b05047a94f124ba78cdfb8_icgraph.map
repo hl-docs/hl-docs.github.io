@@ -1,0 +1,17 @@
+<map id="EV_FireShotGunSingle" name="EV_FireShotGunSingle">
+<area shape="rect" id="Node000001" title="Handles single&#45;barrel shotgun fire event." alt="" coords="982,31,1138,57"/>
+<area shape="rect" id="Node000002" href="$hl__events_8cpp.html#a734d5ac9aca6b8c67eef95bc2a0c38ad" title=" " alt="" coords="802,31,934,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="967,47,935,47,935,41,967,41"/>
+<area shape="rect" id="Node000003" href="$events_8cpp.html#a9b5bafd2c45065b0660abb4a24cee384" title=" " alt="" coords="639,31,754,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="786,47,755,47,755,41,786,41"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#a9dad23cec464e2325631a7834cf32d01" title="Initializes the client&#45;side engine interface." alt="" coords="522,31,591,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="623,47,591,47,591,41,623,41"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="388,5,426,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="506,38,426,24,427,19,507,33"/>
+<area shape="rect" id="Node000006" href="$class_c_sound_ent.html#af78efae8144250b1d078ebae79501fc3" title="Spawns the sound entity in the game." alt="" coords="340,56,474,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="507,55,475,61,474,55,506,50"/>
+<area shape="rect" id="Node000007" href="$class_c_world.html#a3369fa629e2fa36ce93e3a37680d08aa" title="Preloads resources and initializes game settings." alt="" coords="165,56,292,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="325,72,293,72,293,67,325,67"/>
+<area shape="rect" id="Node000008" href="$class_c_world.html#a8f48bd2b218222fa98bfc43afd7f62f0" title="Spawns the world entity." alt="" coords="5,56,117,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="149,72,117,72,117,67,149,67"/>
+</map>

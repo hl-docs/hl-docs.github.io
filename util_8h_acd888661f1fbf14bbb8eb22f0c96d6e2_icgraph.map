@@ -1,0 +1,67 @@
+<map id="UTIL_FindEntityInSphere" name="UTIL_FindEntityInSphere">
+<area shape="rect" id="Node000001" title="Finds an entity within a sphere defined by a center and radius." alt="" coords="1002,333,1166,360"/>
+<area shape="rect" id="Node000002" href="$player_8cpp.html#af4e30b65cb5287444e22a6ddfc16f2df" title="Selects a spawn point for a player." alt="" coords="533,243,680,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1072,320,1056,278,1032,229,997,182,976,162,952,146,901,124,856,120,810,128,754,146,713,166,675,193,622,244,618,240,672,189,710,162,752,142,809,123,856,114,902,119,955,142,980,158,1001,179,1036,227,1061,276,1077,318"/>
+<area shape="rect" id="Node000006" href="$class_c_scripted_sentence.html#ab7929aad214f2d8fb92bfd205b4a6496" title="Finds a suitable monster entity to play the sentence." alt="" coords="783,39,924,81"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1072,319,1057,273,1032,215,997,155,976,127,952,102,923,83,926,79,955,98,980,123,1001,152,1037,212,1062,271,1077,318"/>
+<area shape="rect" id="Node000011" href="$class_c_cine_monster.html#a5aca305f7ced606869ced6a4a25ab3a4" title="Finds a viable entity for the cinematic sequence." alt="" coords="768,156,939,183"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1065,321,1020,258,988,225,952,197,929,186,931,181,955,192,992,221,1024,255,1069,318"/>
+<area shape="rect" id="Node000012" href="$class_c_gargantua.html#a7267dc2632f1e44de89bb701f336bd2d" title="Applies flame damage to entities within a specified range." alt="" coords="762,207,945,233"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1056,324,1010,285,952,248,923,236,925,231,955,243,1013,281,1060,320"/>
+<area shape="rect" id="Node000013" href="$class_c_flocking_flyer.html#a8e33766d2b9f224339a2875b1fbc1a5c" title="Forms a flock from surrounding boids." alt="" coords="764,257,943,284"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1036,330,953,299,913,287,915,282,955,293,1038,325"/>
+<area shape="rect" id="Node000014" href="$player_8cpp.html#a8dd84f1e06e9d0bcf41a5bb0a92d7a71" title="Checks if a spawn point is valid for a player." alt="" coords="789,308,918,335"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="986,339,918,331,919,326,987,333"/>
+<area shape="rect" id="Node000015" href="$class_c_roach.html#a2756a7074fd08df235c6fac0655d3f2f" title="Overrides the look function for the roach, allowing it to see 360 degrees." alt="" coords="802,359,905,385"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="987,360,906,369,905,364,986,355"/>
+<area shape="rect" id="Node000017" href="$class_c_func_track_train.html#a6cc16b737db9d8a699f6205f63afd0ef" title="Finds the nearest path track for the track train." alt="" coords="754,409,953,436"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="1038,369,955,400,915,411,913,406,953,395,1036,364"/>
+<area shape="rect" id="Node000019" href="$class_c_satchel.html#ac4ccb1ad1565293be1a94865467af971" title="Handles the primary attack action of the satchel charge." alt="" coords="771,460,936,487"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="1060,373,1013,413,955,450,925,462,923,457,952,446,1010,409,1056,369"/>
+<area shape="rect" id="Node000020" href="$combat_8cpp.html#a3a20dd1e4e2f4832037c6797d4ffef37" title="Inflicts damage to entities within a certain radius." alt="" coords="799,511,908,537"/>
+<area shape="poly" id="edge21_Node000001_Node000020" title=" " alt="" coords="1069,375,1024,439,992,472,955,501,933,512,909,519,908,514,931,507,952,496,988,468,1020,435,1065,372"/>
+<area shape="rect" id="Node000029" href="$class_c_houndeye.html#a1c0bfee38159262d7d05492ee9766d32" title="Performs a sonic attack." alt="" coords="770,561,937,588"/>
+<area shape="poly" id="edge30_Node000001_Node000029" title=" " alt="" coords="1075,376,1058,416,1032,463,998,511,955,551,934,563,932,558,952,547,994,507,1028,460,1053,413,1070,374"/>
+<area shape="rect" id="Node000031" href="$class_c_squad_monster.html#add4bf353f68eb5e56308658744d7d10c" title="Recruits squad members of the same classification." alt="" coords="753,612,954,639"/>
+<area shape="poly" id="edge32_Node000001_Node000031" title=" " alt="" coords="1079,376,1065,425,1040,486,1004,549,982,577,955,602,936,614,934,609,952,598,978,574,1000,546,1035,484,1059,423,1074,374"/>
+<area shape="rect" id="Node000003" href="$class_c_game_rules.html#aeabf3c58c138d64a55882daac35ad25f" title="Gets the spawn spot for the player." alt="" coords="230,243,460,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,259,461,259,461,253,517,253"/>
+<area shape="rect" id="Node000004" href="$client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="37,243,150,269"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,259,151,259,151,253,215,253"/>
+<area shape="rect" id="Node000005" href="$class_c_half_life_multiplay.html#a43be8fa1c2a21add19f77e43f3450ac4" title="Retrieves the spawn spot for a player." alt="" coords="17,293,170,336"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="270,276,171,299,170,294,269,271"/>
+<area shape="rect" id="Node000007" href="$class_c_scripted_sentence.html#a89cc8b3fcfe1175b282e72e549e5ead4" title="Think function to find a suitable entity to play the sentence." alt="" coords="536,39,677,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="767,63,678,63,678,57,767,57"/>
+<area shape="rect" id="Node000008" href="$class_c_scripted_sentence.html#a92371e6ec9b7bd360b69eaa0cc0f7386" title="Think function to delay the next sentence activation." alt="" coords="274,5,416,48"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="520,60,416,46,416,41,521,55"/>
+<area shape="rect" id="Node000009" href="$class_c_scripted_sentence.html#ad3eb2e1e459741ef3a4c1f85ce1c3d03" title="Spawns the scripted sentence." alt="" coords="274,72,416,115"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="521,74,416,87,416,82,520,68"/>
+<area shape="rect" id="Node000010" href="$class_c_scripted_sentence.html#af0577b840f16efa228fafaf79c0cc2d6" title="Activates the scripted sentence." alt="" coords="263,139,427,165"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="551,91,461,129,420,141,419,135,459,124,549,86"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="432,26,536,40,535,46,431,32"/>
+<area shape="poly" id="edge15_Node000014_Node000002" title=" " alt="" coords="782,306,753,299,657,272,658,267,754,293,783,301"/>
+<area shape="rect" id="Node000016" href="$class_c_roach.html#a87e55ea407a4508497c63e1783079c4e" title="Custom think function for the roach." alt="" coords="530,347,683,373"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="786,371,683,366,684,361,787,366"/>
+<area shape="rect" id="Node000018" href="$class_c_func_track_train.html#a1ccfc5232aaf4050af606ea3ce819c2a" title="Resets the track train&#39;s state and prepares it for the next path." alt="" coords="520,397,694,440"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="738,423,694,423,694,417,738,418"/>
+<area shape="rect" id="Node000021" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="562,464,652,491"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="783,514,652,488,653,483,784,508"/>
+<area shape="rect" id="Node000024" href="$class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="558,515,656,541"/>
+<area shape="poly" id="edge25_Node000020_Node000024" title=" " alt="" coords="784,528,657,530,656,525,784,522"/>
+<area shape="rect" id="Node000022" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="292,439,398,465"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="546,474,398,460,399,454,547,469"/>
+<area shape="rect" id="Node000023" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="18,413,169,440"/>
+<area shape="poly" id="edge24_Node000022_Node000023" title=" " alt="" coords="276,448,169,437,170,432,277,442"/>
+<area shape="rect" id="Node000025" href="$class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21" title="Initiates the firing process for the Gauss weapon." alt="" coords="282,515,408,541"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="542,531,408,531,408,525,542,525"/>
+<area shape="rect" id="Node000026" href="$class_c_gauss.html#a885e215da3bf2207e633b39d7d648d7c" title="Handles the primary attack for the Gauss weapon." alt="" coords="14,464,173,491"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="266,515,163,494,164,489,267,510"/>
+<area shape="rect" id="Node000027" href="$class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="5,515,182,541"/>
+<area shape="poly" id="edge28_Node000025_Node000027" title=" " alt="" coords="266,531,182,531,182,525,266,525"/>
+<area shape="rect" id="Node000028" href="$class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="21,565,166,592"/>
+<area shape="poly" id="edge29_Node000025_Node000028" title=" " alt="" coords="267,546,164,567,163,562,266,541"/>
+<area shape="rect" id="Node000030" href="$class_c_houndeye.html#a0d9231f867a7904885d0362fe5a1794c" title="Runs a task for the Houndeye." alt="" coords="533,565,680,592"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="754,579,681,580,681,575,754,574"/>
+<area shape="rect" id="Node000032" href="$class_c_squad_monster.html#a8387f3a0bc6b767e7a565034ff67b1f7" title="Starts the monster&#39;s behavior." alt="" coords="508,616,705,643"/>
+<area shape="poly" id="edge33_Node000031_Node000032" title=" " alt="" coords="738,630,706,630,706,625,738,625"/>
+</map>

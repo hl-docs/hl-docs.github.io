@@ -1,0 +1,11 @@
+<map id="CCrossbow::Spawn" name="CCrossbow::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the crossbow weapon." alt="" coords="5,56,140,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="249,5,295,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,53,233,26,234,31,129,58"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_item.html#a991f3bdf1d8c7a8c199104f6312408e3" title="Initializes the fall behavior for a weapon." alt="" coords="188,56,356,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,67,172,67,172,72,140,72"/>
+<area shape="rect" id="Node000004" href="$class_c_crossbow.html#a7e4b2802c67033b4d2365757d15a70a5" title="Preloads the resources needed by the crossbow weapon." alt="" coords="197,107,347,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,81,202,100,201,105,127,86"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#ab86625fdeef115046e288fecc38018c7" title=" " alt="" coords="404,107,545,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="347,117,388,117,388,123,347,123"/>
+</map>

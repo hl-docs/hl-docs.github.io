@@ -1,0 +1,5 @@
+<map id="CXenPLight::LightOff" name="CXenPLight::LightOff">
+<area shape="rect" id="Node000001" title="Turns the light off." alt="" coords="181,5,321,32"/>
+<area shape="rect" id="Node000002" href="$class_c_xen_p_light.html#a87057bb6dea4f1cef6aee879d4aec84d" title="Think function for the Xen plant light." alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,21,133,21,133,16,165,16"/>
+</map>

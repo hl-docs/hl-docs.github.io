@@ -1,0 +1,7 @@
+<map id="SequencePrecache" name="SequencePrecache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches the sounds associated with a specific animation sequence." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="Node000002" href="$animation_8cpp.html#a4e35df18f2102276315f7f826eca3df2" title="Checks if the event number corresponds to a sound event." alt="" coords="198,5,299,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,32,182,25,183,31,141,37"/>
+<area shape="rect" id="Node000003" href="$animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="188,56,309,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,51,173,56,172,61,140,56"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="CBaseEntity::SUB_DoNothing" name="CBaseEntity::SUB_DoNothing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="597,112,794,139"/>
+<area shape="rect" id="Node000002" href="$class_c_recharge.html#a20548e1f8c7a0d315c2674c7280a87b2" title="Turns off the recharge entity and stops any sounds." alt="" coords="182,11,291,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="668,103,616,61,583,41,549,26,481,12,412,8,347,11,292,17,291,12,346,5,412,3,482,7,550,21,586,36,619,56,671,99"/>
+<area shape="rect" id="Node000004" href="$class_c_wall_health.html#aa9451b70be2305f3aeb80df561f1a800" title="Turns off the wall health entity and stops any sounds." alt="" coords="178,112,295,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="582,128,295,128,295,123,582,123"/>
+<area shape="rect" id="Node000006" href="$class_c_recharge.html#a9a3af712b3a812c658179bc8d862b245" title="Resets the recharge entity to its initial state." alt="" coords="372,36,520,63"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="634,109,492,66,494,61,636,104"/>
+<area shape="rect" id="Node000007" href="$class_c_wall_health.html#a34ce92abe3df4dc082d222cc6de14522" title="Resets the wall health entity to its initial state." alt="" coords="368,137,524,164"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="582,139,525,145,525,140,581,134"/>
+<area shape="rect" id="Node000008" href="$class_c_grenade.html#ae0ef7b8fe706328b74f8eb134495d042" title="Creates and shoots a satchel charge." alt="" coords="343,188,549,215"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="644,147,550,178,508,190,507,185,549,173,643,142"/>
+<area shape="rect" id="Node000009" href="$class_c_monster_maker.html#ae162cb9792bd9c49670b5b2a0d207e53" title="Spawns the monster maker in the game." alt="" coords="366,239,526,265"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="669,151,616,191,550,229,519,241,517,236,548,224,613,187,665,147"/>
+<area shape="rect" id="Node000003" href="$class_c_recharge.html#a452e86e01cf26a3c9d8cdf8a49c321a0" title="Activates the recharge process for the player." alt="" coords="9,11,126,37"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,27,126,27,126,21,166,21"/>
+<area shape="rect" id="Node000005" href="$class_c_wall_health.html#ae8f4aae03978137857a906c675ef0ade" title="Activates the wall health entity for the player." alt="" coords="5,112,130,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="162,128,130,128,130,123,162,123"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="356,41,291,33,291,28,357,36"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="353,142,295,135,296,130,353,137"/>
+</map>

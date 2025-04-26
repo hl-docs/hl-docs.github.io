@@ -1,0 +1,5 @@
+<map id="CFlockingFlyerFlock::Precache" name="CFlockingFlyerFlock::Precache">
+<area shape="rect" id="Node000001" title="Preloads the flock&#39;s resources." alt="" coords="5,5,146,48"/>
+<area shape="rect" id="Node000002" href="$class_c_flocking_flyer_flock.html#a09a1dcbfe94636103a1fe923474b02a8" title="Preloads the sounds used by the flock." alt="" coords="194,5,354,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,24,178,24,178,29,146,29"/>
+</map>

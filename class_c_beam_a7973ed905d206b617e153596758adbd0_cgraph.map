@@ -1,0 +1,33 @@
+<map id="CBeam::PointEntInit" name="CBeam::PointEntInit">
+<area shape="rect" id="Node000001" title="Initializes the beam with a start point and end entity." alt="" coords="5,233,145,260"/>
+<area shape="rect" id="Node000002" href="$class_c_beam.html#a8f35c1f4f28639dfeea55495157863f0" title="Relinks the beam entity." alt="" coords="215,107,358,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,231,130,188,159,164,191,143,205,137,207,141,194,148,162,168,133,192,90,235"/>
+<area shape="rect" id="Node000011" href="$class_c_beam.html#a57e94a8f627db32d00ecbece51a11850" title=" " alt="" coords="195,157,378,184"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="104,230,192,194,214,186,215,191,194,198,106,235"/>
+<area shape="rect" id="Node000012" href="$class_c_beam.html#a7876de5e9998abf12b44bee5cb269ccb" title="Sets the end entity for the beam." alt="" coords="212,208,361,235"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="145,236,196,229,197,235,146,241"/>
+<area shape="rect" id="Node000013" href="$class_c_beam.html#ab84757a1cb92ce7c8d90b3164d20ea42" title=" " alt="" coords="193,259,380,285"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="146,252,178,256,177,262,145,258"/>
+<area shape="rect" id="Node000014" href="$class_c_beam.html#ac24cc4e5d062e14132700c552b31ba61" title=" " alt="" coords="215,309,358,336"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="106,258,194,295,215,302,214,307,192,300,104,263"/>
+<area shape="rect" id="Node000015" href="$class_c_beam.html#a8ff0d6c0d2947a17cc1da69ad31d7b9b" title=" " alt="" coords="226,360,347,387"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="90,258,133,302,162,325,194,346,213,354,210,359,191,350,159,330,130,306,86,262"/>
+<area shape="rect" id="Node000003" href="$class_c_beam.html#a34a675c6f2f84f896e8565b1c83af9f9" title="Gets the end position of the beam." alt="" coords="431,31,570,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,104,427,67,445,61,446,66,429,72,327,109"/>
+<area shape="rect" id="Node000006" href="$class_c_beam.html#acae4ffb01e69219b45cd95ed915a324d" title="Gets the start position of the beam." alt="" coords="428,81,572,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="358,109,412,102,413,108,358,114"/>
+<area shape="rect" id="Node000008" href="$util_8cpp.html#a07c8f2bf4c6bbe075fb965e15e00b203" title="Sets the origin of an entity." alt="" coords="446,132,554,159"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="358,126,431,135,430,140,358,131"/>
+<area shape="rect" id="Node000010" href="$util_8cpp.html#ab9f593697c96282971d0db5494d5a833" title="Sets the size of an entity." alt="" coords="450,183,550,209"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="347,131,381,143,429,168,444,174,442,179,427,173,379,148,345,136"/>
+<area shape="rect" id="Node000004" href="$class_c_beam.html#a9833b4276062463779d434cc7e4c4ea7" title=" " alt="" coords="623,5,773,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="570,32,607,28,608,33,571,38"/>
+<area shape="rect" id="Node000005" href="$class_c_beam.html#a912392c66da142851a6c87b31a54f534" title=" " alt="" coords="637,56,759,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="571,50,622,57,621,62,570,56"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="572,83,621,76,622,82,573,88"/>
+<area shape="rect" id="Node000007" href="$class_c_beam.html#ac2c5c42aa10f784e1b1da3c62082e405" title=" " alt="" coords="620,107,776,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="573,101,606,105,605,111,572,107"/>
+<area shape="rect" id="Node000009" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="675,169,721,196"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="555,153,660,173,659,178,554,158"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="551,190,659,183,659,188,551,195"/>
+</map>

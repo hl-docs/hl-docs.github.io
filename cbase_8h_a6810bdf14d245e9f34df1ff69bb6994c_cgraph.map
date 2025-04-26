@@ -1,0 +1,7 @@
+<map id="ResetGlobalState" name="ResetGlobalState">
+<area shape="rect" id="Node000001" title="Resets the global state." alt="" coords="5,5,129,32"/>
+<area shape="rect" id="Node000002" href="$class_c_global_state.html#a43ed737377589a289f764c33ac5aab15" title="Clears all global states and frees memory." alt="" coords="177,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,16,161,16,161,21,129,21"/>
+<area shape="rect" id="Node000003" href="$class_c_global_state.html#a361557c32c167f27d1601701613c4142" title="Resets the global state." alt="" coords="399,5,539,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,16,384,16,384,21,351,21"/>
+</map>

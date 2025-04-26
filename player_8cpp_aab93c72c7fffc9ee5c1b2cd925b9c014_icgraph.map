@@ -1,0 +1,17 @@
+<map id="TrainSpeed" name="TrainSpeed">
+<area shape="rect" id="Node000001" title="Determines the train speed category based on speed and maximum speed." alt="" coords="1101,31,1187,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#a1732bf6fd8e17d0e3290a38f589c2bec" title="Handles the player&#39;s use keypress." alt="" coords="888,5,1053,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1085,38,1053,33,1054,28,1086,33"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player.html#aafd0f877042347e2beec7a9df50d0da9" title="Handles the player&#39;s pre&#45;think logic." alt="" coords="892,56,1049,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1086,55,1049,61,1048,55,1085,50"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#a5beb9665d986eed23a0cc5614ad4ceb3" title="Handles impulse commands from the player." alt="" coords="623,5,840,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="872,21,840,21,840,16,872,16"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a5955eb567a5fdb38a2debe6b5de3be29" title="Finalizes the player&#39;s items for the current frame." alt="" coords="381,5,575,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="608,21,576,21,576,16,608,16"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#a70caf2bd9eb6b169f0adbdea94f9e987" title="Handles the player&#39;s post&#45;think logic." alt="" coords="170,5,333,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="365,21,333,21,333,16,365,16"/>
+<area shape="rect" id="Node000006" href="$client_8cpp.html#ab04e2fadfb0c84166a0fc589d6f430e1" title="Called after the physics simulation for a player." alt="" coords="5,5,122,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
+<area shape="rect" id="Node000008" href="$client_8cpp.html#ab81b2e9b14840f5ce8a46d369746af2a" title="Called before the physics simulation for a player." alt="" coords="677,56,786,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="877,72,787,72,787,67,877,67"/>
+</map>

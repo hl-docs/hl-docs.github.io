@@ -1,0 +1,15 @@
+<map id="CSprite::SetScale" name="CSprite::SetScale">
+<area shape="rect" id="Node000001" title=" " alt="" coords="382,107,507,133"/>
+<area shape="rect" id="Node000002" href="$class_c_func_tank.html#ac221b3b78619f24277ef52412ddf9210" title="Fire the tank&#39;s weapon." alt="" coords="217,107,334,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,123,334,123,334,117,367,117"/>
+<area shape="rect" id="Node000003" href="$class_c_func_tank_gun.html#ab0bcc8917ab233e04ac5e627567e1b60" title="Fire the tank&#39;s gun." alt="" coords="16,5,158,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,99,209,72,167,46,140,35,142,30,170,42,212,67,248,94"/>
+<area shape="rect" id="Node000004" href="$class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="12,56,162,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="208,105,139,86,140,81,209,99"/>
+<area shape="rect" id="Node000005" href="$class_c_func_tank_rocket.html#a7ee02fc1025b230754266887ee2e8eee" title="Fires the RPG rocket entity." alt="" coords="8,107,166,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="201,123,167,123,167,117,201,117"/>
+<area shape="rect" id="Node000006" href="$class_c_func_tank_mortar.html#a9f01f781cbd963cbab65deedb79ce3cd" title="Fires the mortar&#39;s cannon." alt="" coords="10,157,164,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="209,141,140,159,139,154,208,135"/>
+<area shape="rect" id="Node000007" href="$class_c_func_tank.html#a40ca7f35fc5b4fdbce00945b716c245b" title="Tracks and aims the tank at a target." alt="" coords="5,208,169,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="248,146,212,173,170,198,142,210,140,205,167,194,209,168,245,141"/>
+</map>

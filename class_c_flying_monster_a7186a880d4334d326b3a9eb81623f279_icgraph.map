@@ -1,0 +1,5 @@
+<map id="CFlyingMonster::HandleAnimEvent" name="CFlyingMonster::HandleAnimEvent">
+<area shape="rect" id="Node000001" title="Handles animation events for the flying monster." alt="" coords="229,5,419,48"/>
+<area shape="rect" id="Node000002" href="$class_c_ichthyosaur.html#a39bd2b60f055a6de092f0e0279a1cea4" title="Handles animation events for the ichthyosaur." alt="" coords="5,5,181,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,29,181,29,181,24,213,24"/>
+</map>

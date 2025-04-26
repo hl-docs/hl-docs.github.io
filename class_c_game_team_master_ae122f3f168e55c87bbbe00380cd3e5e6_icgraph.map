@@ -1,0 +1,9 @@
+<map id="CGameTeamMaster::AnyTeam" name="CGameTeamMaster::AnyTeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="523,31,723,57"/>
+<area shape="rect" id="Node000002" href="$class_c_game_team_master.html#a6a8cc5c761303c5fcd4d5ab30441d2c3" title="Checks if the activator&#39;s team matches the team conditions." alt="" coords="262,31,475,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,47,476,47,476,41,507,41"/>
+<area shape="rect" id="Node000003" href="$class_c_game_team_master.html#ae7e98ace3a557fbf5396e3440b78dedc" title="Checks if the game team master entity is triggered by the activator." alt="" coords="5,5,214,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,35,214,32,214,26,247,29"/>
+<area shape="rect" id="Node000004" href="$class_c_game_team_master.html#a85aba10b728ccebb2edf9103e18162c3" title="Activates the game team master entity." alt="" coords="25,56,194,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="247,59,194,64,194,58,246,53"/>
+</map>

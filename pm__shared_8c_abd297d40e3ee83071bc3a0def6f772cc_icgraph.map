@@ -1,0 +1,25 @@
+<map id="PM_ClipVelocity" name="PM_ClipVelocity">
+<area shape="rect" id="Node000001" title="Adjusts velocity when hitting a surface." alt="" coords="891,157,1009,184"/>
+<area shape="rect" id="Node000002" href="$pm__shared_8c.html#aa1c56bb275cd735559053b988b2efbe7" title="Handles flying movement mode." alt="" coords="730,107,826,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="887,155,825,136,827,131,888,150"/>
+<area shape="rect" id="Node000010" href="$pm__shared_8c.html#a1c0d4283af40d624cb63f7f9550c8d8b" title="Handles physics for entities in a toss motion." alt="" coords="713,183,843,209"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="877,184,844,189,844,184,876,179"/>
+<area shape="rect" id="Node000003" href="$pm__shared_8c.html#a6106b5a209788312b2b32ab754c7652a" title="Handles movement while in the air." alt="" coords="561,5,656,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="741,101,664,53,633,35,635,30,666,48,744,96"/>
+<area shape="rect" id="Node000004" href="$pm__shared_8c.html#a4af09a5ca8abcfc2d4e5d71a6f24848d" title="Returns with origin, angles, and velocity modified in place." alt="" coords="388,107,504,133"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="714,106,665,97,608,93,552,97,495,109,494,103,551,92,608,88,665,92,715,101"/>
+<area shape="rect" id="Node000008" href="$pm__shared_8c.html#a24c79215f9e832d9ae899b101e106f6c" title="Handles walking movement on the ground." alt="" coords="554,107,663,133"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="714,123,663,123,663,117,714,117"/>
+<area shape="rect" id="Node000009" href="$pm__shared_8c.html#ab21bc511cc58597b54ecdfc8b27958cc" title="Handles movement while in water." alt="" coords="552,157,665,184"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="717,141,656,159,655,154,716,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,42,553,53,469,108,466,104,550,48,568,38"/>
+<area shape="rect" id="Node000005" href="$pm__shared_8c.html#a93976be26aeba051339105f9caa17b67" title="The main player physics update function." alt="" coords="262,107,340,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,123,341,123,341,117,373,117"/>
+<area shape="rect" id="Node000006" href="$cdll__int_8cpp.html#ac1888150107edabbf964bc55a56f0403" title="Moves the player based on movement commands." alt="" coords="92,107,214,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="246,123,214,123,214,117,246,117"/>
+<area shape="rect" id="Node000007" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,107,44,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="76,123,44,123,44,117,76,117"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="539,123,504,123,504,117,539,117"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="548,155,491,136,492,131,550,150"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="698,210,626,212,588,207,551,199,523,186,497,169,458,135,462,131,500,165,525,181,553,193,589,202,626,206,698,205"/>
+</map>

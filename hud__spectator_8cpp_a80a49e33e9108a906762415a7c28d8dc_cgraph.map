@@ -1,0 +1,32 @@
+<map id="V_GetChasePos" name="V_GetChasePos">
+<area shape="rect" id="Node000001" title="Calculates the camera position and orientation for a chase cam following a specific target." alt="" coords="5,183,124,209"/>
+<area shape="rect" id="Node000002" href="$view_8cpp.html#a01e35c70a3631fc45948099bc7a30a21" title="Calculates the camera&#39;s origin based on a target&#39;s position and view angles." alt="" coords="653,157,782,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,191,637,171,638,176,124,196"/>
+<area shape="rect" id="Node000007" href="$view_8cpp.html#a0d567998e70ed2cc91007b19aa270888" title="Determines the camera position when following a directed chase." alt="" coords="172,132,362,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="120,179,195,160,196,166,122,185"/>
+<area shape="rect" id="Node000003" href="$view_8cpp.html#a090efc998653bf944c811540e03257ba" title=" " alt="" coords="890,183,963,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="783,176,875,187,874,192,782,181"/>
+<area shape="rect" id="Node000004" href="$pm__shared_8c.html#a08012c7e6a6dacc3d6c8480e6c70eaf6" title="Retrieves the information of a physics entity." alt="" coords="857,233,996,260"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="758,182,874,225,872,230,756,187"/>
+<area shape="rect" id="Node000005" href="$cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="887,81,966,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="774,154,808,143,856,118,871,111,873,116,858,122,810,148,776,159"/>
+<area shape="rect" id="Node000006" href="$cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="880,132,973,159"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="782,160,864,150,865,155,783,166"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="363,148,637,164,637,169,362,153"/>
+<area shape="rect" id="Node000008" href="$view_8cpp.html#a435c7f92ff9e4d360b1e009785e32b97" title="Calculates the camera&#39;s angle and position when following two targets." alt="" coords="410,56,578,83"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="304,129,409,92,430,85,432,90,411,97,306,134"/>
+<area shape="rect" id="Node000013" href="$view_8cpp.html#a3b343908e50d1e77b816e2e67d101a83" title="Calculates the camera&#39;s angle and position when following a single target." alt="" coords="416,107,573,133"/>
+<area shape="poly" id="edge15_Node000007_Node000013" title=" " alt="" coords="362,132,400,128,400,133,362,137"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="556,81,580,92,595,105,604,119,613,131,628,143,640,149,637,154,625,148,609,135,600,122,591,109,577,97,553,86"/>
+<area shape="rect" id="Node000009" href="$view_8cpp.html#abc0ed954b32eb2991a4b26f8001406b3" title="Calculates the maximum angle difference between two angles." alt="" coords="633,5,802,32"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="556,53,640,33,641,39,557,58"/>
+<area shape="rect" id="Node000011" href="$view_8cpp.html#a61708c8c8b9293bcfb0deda4087e7c26" title="Smoothly interpolates between two angles based on the specified speed." alt="" coords="626,107,809,133"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="557,81,641,100,640,105,556,86"/>
+<area shape="rect" id="Node000012" href="$cl__dll_2util_8cpp.html#a01a447b0daa5f1359936ce1b96a472ef" title="Converts a forward direction vector into a corresponding yaw and pitch (angles)." alt="" coords="668,56,767,83"/>
+<area shape="poly" id="edge14_Node000008_Node000012" title=" " alt="" coords="579,67,652,67,652,72,579,72"/>
+<area shape="rect" id="Node000010" href="$pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="867,19,986,45"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="803,21,852,25,851,30,803,27"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="775,104,808,92,885,51,888,55,810,97,776,109"/>
+<area shape="poly" id="edge16_Node000013_Node000002" title=" " alt="" coords="557,131,641,151,640,156,556,137"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="573,117,611,117,611,123,573,123"/>
+</map>

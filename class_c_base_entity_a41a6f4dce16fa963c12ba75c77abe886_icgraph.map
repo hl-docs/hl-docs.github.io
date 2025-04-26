@@ -1,0 +1,28 @@
+<map id="CBaseEntity::TakeDamage" name="CBaseEntity::TakeDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="840,157,1018,184"/>
+<area shape="rect" id="Node000002" href="$class_c_hornet.html#a193cf7aad076379e9cc625bf335cad7f" title="Handles the hornet&#39;s death behavior when it touches a target." alt="" coords="633,56,764,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="892,151,845,123,791,97,757,86,759,81,793,92,848,119,895,146"/>
+<area shape="rect" id="Node000009" href="$class_c_leech.html#a7e9fc3a93162c2366abdd17e24cb4947" title="Handles animation events for the leech." alt="" coords="611,107,786,133"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="849,156,762,137,763,131,850,151"/>
+<area shape="rect" id="Node000010" href="$class_c_xen_tree.html#a9dcee1f5a8bff45c7797a8d496010f0c" title="Handles animation events for the Xen tree." alt="" coords="605,157,792,184"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="824,173,792,173,792,168,824,168"/>
+<area shape="rect" id="Node000011" href="$class_c_head_crab.html#a02dcd3f87db2dda0f2c983b7b1fc8609" title="Handles the touch event for the headcrab when it is in the air." alt="" coords="619,208,778,235"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="850,191,763,210,762,205,849,185"/>
+<area shape="rect" id="Node000013" href="$class_c_game_player_hurt.html#aada0bd6c34d5a7607bdf719efab662d1" title="Activates the game player hurt entity." alt="" coords="620,259,777,285"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="895,195,848,223,793,249,759,261,757,256,791,244,845,218,892,190"/>
+<area shape="rect" id="Node000003" href="$class_c_hornet.html#a03c064390f8a974f64994a490138c919" title="Handles the hornet&#39;s touch behavior when it darts." alt="" coords="414,5,549,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="623,54,541,35,543,30,624,49"/>
+<area shape="rect" id="Node000006" href="$class_c_hornet.html#a7d03243e49c6325891e6d9884450fa29" title="Spawns the hornet entity." alt="" coords="32,81,147,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="618,75,148,95,148,90,617,70"/>
+<area shape="rect" id="Node000007" href="$class_c_hornet.html#a74bc9c0e170b93d1f862d03902c50564" title="Handles the hornet&#39;s touch behavior when it hits a target." alt="" coords="410,107,553,133"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="624,89,543,109,541,103,623,84"/>
+<area shape="rect" id="Node000004" href="$class_c_hornet.html#ae5eacb6072204adf03e4c16b05563171" title="Starts the hornet flying straight." alt="" coords="226,5,354,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="398,21,354,21,354,16,398,16"/>
+<area shape="rect" id="Node000005" href="$class_c_hgun.html#a44f0904cf31dffc656d0149266fd452d" title="Handles the secondary attack for the hornet gun." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="210,21,174,21,174,16,210,16"/>
+<area shape="rect" id="Node000008" href="$class_c_hornet.html#a0845e7a20faeace07303c47c670c431b" title="Starts tracking the target for the hornet." alt="" coords="222,107,358,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="394,123,358,123,358,117,394,117"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="206,112,147,105,148,99,206,107"/>
+<area shape="rect" id="Node000012" href="$class_c_head_crab.html#a54cf7f81b28c2cffab8f20eb229f3362" title="Starts the specified task for the headcrab." alt="" coords="406,208,557,235"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="604,224,558,224,558,219,604,219"/>
+</map>

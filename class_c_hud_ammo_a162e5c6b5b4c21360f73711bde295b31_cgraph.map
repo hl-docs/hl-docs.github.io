@@ -1,0 +1,5 @@
+<map id="CHudAmmo::UserCmd_Close" name="CHudAmmo::UserCmd_Close">
+<area shape="rect" id="Node000001" title="Command handler for closing the weapon selection menu." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="Node000002" href="$cl__util_8h.html#a94e0b3cb3acf2d4519928b6e70cbacfc" title="Plays a sound by its name with the specified volume." alt="" coords="247,5,331,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,16,231,16,231,21,199,21"/>
+</map>

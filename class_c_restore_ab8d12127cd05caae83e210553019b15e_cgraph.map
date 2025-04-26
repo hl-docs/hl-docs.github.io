@@ -1,0 +1,40 @@
+<map id="CRestore::ReadFields" name="CRestore::ReadFields">
+<area shape="rect" id="Node000001" title="Reads fields from the save data into a base data structure." alt="" coords="5,195,154,221"/>
+<area shape="rect" id="Node000002" href="$class_c_restore.html#ac5e8c2a08a079cd8c3a076d3d89e90fd" title="Reads the header for a field from the save data." alt="" coords="202,56,389,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,192,136,147,167,122,200,99,227,86,229,91,203,104,170,126,140,151,95,196"/>
+<area shape="rect" id="Node000007" href="$class_c_restore.html#ac620277bfcebb0ee17b5e38b9a4b2adb" title="Reads a short integer from the save data." alt="" coords="453,107,597,133"/>
+<area shape="poly" id="edge19_Node000001_Node000007" title=" " alt="" coords="100,192,145,166,201,143,262,129,324,121,437,115,437,120,324,126,262,134,202,148,147,171,102,197"/>
+<area shape="rect" id="Node000008" href="$class_c_save_restore_buffer.html#a57f3d27d3038b36b8c45639fdfcca83d" title="Rewinds the buffer by a specified size." alt="" coords="227,157,364,200"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="154,195,211,187,212,193,155,201"/>
+<area shape="rect" id="Node000009" href="$class_c_restore.html#aa67216b07c3e7ca8dc94cc2f4a656578" title="Reads a field from the save data into the specified base data structure." alt="" coords="225,275,366,301"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="109,219,203,260,224,267,223,272,201,265,107,224"/>
+<area shape="rect" id="Node000017" href="$class_c_restore.html#ab131f6e7f7ab97a45716464d31fd0ac1" title="Reads an integer from the save data." alt="" coords="232,224,359,251"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="155,215,216,224,216,229,154,221"/>
+<area shape="rect" id="Node000018" href="$class_c_save_restore_buffer.html#a098019eb14408b1b4e9a4dfae27889fb" title="Computes a token hash for a given string." alt="" coords="227,325,364,368"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="95,220,140,264,171,289,203,311,214,317,211,322,200,316,167,293,137,268,91,224"/>
+<area shape="rect" id="Node000003" href="$class_c_restore.html#a496d349556bd63c40648e6a16f37adf8" title="Retrieves the current buffer pointer." alt="" coords="447,56,604,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,67,431,67,431,72,389,72"/>
+<area shape="rect" id="Node000004" href="$class_c_restore.html#a73f594ebe43fba44b2c0f4a9deae3ed2" title="Skips a specified number of bytes in the save data buffer." alt="" coords="437,5,613,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="359,53,446,33,447,39,360,58"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="360,81,447,100,446,105,359,86"/>
+<area shape="rect" id="Node000005" href="$class_c_restore.html#ad8fc064d5ba599de4f41faa5f257d37d" title="Reads a specified number of bytes from the save data buffer." alt="" coords="661,107,842,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="582,30,614,42,669,68,717,96,714,100,667,73,612,46,580,35"/>
+<area shape="rect" id="Node000006" href="$class_c_restore.html#ae755356c8043ae64d33d0973113763f6" title=" " alt="" coords="890,107,1011,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="842,117,874,117,874,123,842,123"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="598,117,646,117,646,123,598,123"/>
+<area shape="rect" id="Node000010" href="$class_c_save_restore_buffer.html#a3bbfbb983daeff68482f61c30e4db0c4" title="Retrieves an edict from the entity index." alt="" coords="457,360,593,403"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="360,299,390,311,415,328,438,346,448,351,446,356,436,350,412,332,388,316,358,304"/>
+<area shape="rect" id="Node000011" href="$util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="483,208,568,235"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="349,271,388,260,436,244,467,235,468,240,438,249,390,265,350,277"/>
+<area shape="rect" id="Node000012" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="450,427,601,453"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="368,298,391,311,403,324,410,337,416,363,421,389,428,401,439,413,444,417,441,421,435,417,423,404,416,391,410,364,405,339,398,327,387,315,365,302"/>
+<area shape="rect" id="Node000015" href="$util_8h.html#a29cb36c71f5afcd63a582f660cb1a7e5" title=" " alt="" coords="489,259,561,285"/>
+<area shape="poly" id="edge15_Node000009_Node000015" title=" " alt="" coords="366,280,473,273,474,278,366,286"/>
+<area shape="rect" id="Node000016" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="497,309,554,336"/>
+<area shape="poly" id="edge16_Node000009_Node000016" title=" " alt="" coords="366,296,482,314,481,319,366,301"/>
+<area shape="rect" id="Node000013" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="728,452,775,479"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="601,446,714,458,713,464,601,451"/>
+<area shape="rect" id="Node000014" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="697,401,806,428"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="601,429,681,420,682,425,601,434"/>
+<area shape="poly" id="edge18_Node000017_Node000005" title=" " alt="" coords="349,221,388,209,436,193,559,161,671,135,672,140,561,166,438,199,390,215,350,226"/>
+</map>

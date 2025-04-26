@@ -1,0 +1,11 @@
+<map id="GetSequenceInfo" name="GetSequenceInfo">
+<area shape="rect" id="Node000001" title="Retrieves the frame rate and ground speed for a specific animation sequence." alt="" coords="668,47,789,73"/>
+<area shape="rect" id="Node000002" href="$class_c_weapon_cycler.html#ad492f835e22435267a979f4f8daf0645" title="Handles the secondary attack action." alt="" coords="433,5,618,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="653,50,619,45,619,39,654,45"/>
+<area shape="rect" id="Node000003" href="$class_c_game_studio_model_renderer.html#a6f2c0fa022013d8bf4c454bae5dd95c0" title="Sets up the animation state for the client player." alt="" coords="431,72,620,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="654,75,621,80,620,75,653,70"/>
+<area shape="rect" id="Node000004" href="$class_c_game_studio_model_renderer.html#a63196fe886f28fdfdedf4e0b24c8211c" title="Draws the player model on the screen." alt="" coords="194,72,383,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,96,384,96,384,91,415,91"/>
+<area shape="rect" id="Node000005" href="$_game_studio_model_renderer_8cpp.html#ab59c170be1e5f319fdf78e61e00188c1" title="Draws a player model using the studio renderer." alt="" coords="5,80,146,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,96,146,96,146,91,179,91"/>
+</map>

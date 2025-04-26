@@ -1,0 +1,18 @@
+<map id="CSaveRestoreBuffer" name="CSaveRestoreBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,533,237,560"/>
+<area shape="rect" id="Node000002" href="$structsaverestore__s.html" title=" " alt="" coords="119,443,220,469"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,485,172,533,167,533,167,485"/>
+<area shape="rect" id="Node000003" href="$struct_e_n_t_i_t_y_t_a_b_l_e.html" title=" " alt="" coords="5,352,112,379"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,386,155,440,152,444,84,391"/>
+<area shape="rect" id="Node000004" href="$structedict__s.html" title=" " alt="" coords="152,101,216,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,124,108,134,83,154,69,178,59,205,51,262,53,314,58,351,53,352,47,315,45,261,54,203,64,175,80,150,105,130,136,119"/>
+<area shape="rect" id="Node000006" href="$structentvars__s.html" title=" " alt="" coords="136,352,213,379"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="143,139,131,153,120,189,117,240,121,290,131,327,140,339,152,349,149,353,136,343,126,329,116,291,112,240,115,189,126,151,139,135"/>
+<area shape="rect" id="Node000007" href="$struct_l_e_v_e_l_l_i_s_t.html" title=" " alt="" coords="237,352,325,379"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="227,135,242,150,257,177,268,205,281,263,285,315,285,352,279,352,280,315,275,264,263,206,252,179,238,154,223,139"/>
+<area shape="rect" id="Node000005" href="$structlink__s.html" title=" " alt="" coords="156,8,212,35"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,50,187,101,181,101,181,50"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="228,11,235,15,238,22,230,31,212,33,212,28,227,26,233,21,231,19,226,16"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="197,339,204,327,219,280,222,241,217,201,204,153,192,130,197,127,209,151,222,200,228,241,224,281,209,329,202,341"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="255,391,187,444,184,440,252,386"/>
+</map>

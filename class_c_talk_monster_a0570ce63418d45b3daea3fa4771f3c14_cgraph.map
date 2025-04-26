@@ -1,0 +1,5 @@
+<map id="CTalkMonster::TargetDistance" name="CTalkMonster::TargetDistance">
+<area shape="rect" id="Node000001" title="Calculates the distance to the target entity." alt="" coords="5,5,202,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a2a3645fbec4962b2ec7020a0bf84f8f1" title=" " alt="" coords="250,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,16,234,16,234,21,202,21"/>
+</map>

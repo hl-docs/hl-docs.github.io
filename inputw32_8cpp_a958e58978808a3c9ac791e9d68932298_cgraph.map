@@ -1,0 +1,16 @@
+<map id="IN_MouseMove" name="IN_MouseMove">
+<area shape="rect" id="Node000001" title="Processes mouse movement and updates view angles or movement commands accordingly." alt="" coords="5,81,115,108"/>
+<area shape="rect" id="Node000002" href="$inputw32_8cpp.html#ad4c638a7e3ecee100b6da72b6c3a08c2" title="Resets the mouse cursor position to the center of the screen." alt="" coords="165,5,278,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,78,176,37,179,41,92,83"/>
+<area shape="rect" id="Node000003" href="$inputw32_8cpp.html#aa5217af39cdd520ec88085d8bb46f9ad" title="Atomically exchanges the value of a variable." alt="" coords="328,31,509,57"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="115,84,312,56,313,62,115,90"/>
+<area shape="rect" id="Node000004" href="$inputw32_8cpp.html#a77d97790440c9a91b247809a000d1d8f" title=" " alt="" coords="165,107,278,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,101,150,106,149,111,115,106"/>
+<area shape="rect" id="Node000007" href="$view_8cpp.html#a7afe0173f4fdd0d111d7f250437775fd" title="Stops the pitch drift effect." alt="" coords="163,157,280,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="89,106,164,143,175,148,173,153,162,148,87,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,23,313,28,312,33,278,29"/>
+<area shape="rect" id="Node000005" href="$class_c_hud.html#ac1037bffa140abd71efd359593e0c571" title="Returns the current mouse sensitivity value." alt="" coords="348,107,489,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,117,332,117,332,123,278,123"/>
+<area shape="rect" id="Node000006" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="397,157,440,184"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="277,131,383,159,382,164,276,137"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CScientist::CanHeal" name="CScientist::CanHeal">
+<area shape="rect" id="Node000001" title="Checks if the scientist can heal." alt="" coords="457,31,595,57"/>
+<area shape="rect" id="Node000002" href="$class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="245,5,409,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,36,409,32,410,26,442,31"/>
+<area shape="rect" id="Node000003" href="$class_c_scientist.html#ae5b8d24994c5215ed7bec5695695fd7b" title="Heals the scientist&#39;s target." alt="" coords="269,56,385,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="442,57,385,65,384,59,441,52"/>
+<area shape="rect" id="Node000004" href="$class_c_scientist.html#ad4f79eea5fdff55654dea8edc8e590db" title="Handles animation events for the scientist." alt="" coords="5,56,197,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="253,72,197,72,197,67,253,67"/>
+</map>

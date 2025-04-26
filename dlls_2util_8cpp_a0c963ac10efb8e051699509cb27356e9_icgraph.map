@@ -1,0 +1,24 @@
+<map id="UTIL_ScreenShake" name="UTIL_ScreenShake">
+<area shape="rect" id="Node000001" title="Shakes the screen of all clients within a specified radius." alt="" coords="694,157,827,184"/>
+<area shape="rect" id="Node000002" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="505,5,595,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="740,146,701,95,674,68,645,46,620,35,595,27,596,22,622,30,648,42,678,64,705,91,745,142"/>
+<area shape="rect" id="Node000005" href="$class_c_bullsquid.html#a6631c371599184dc93b7209f1809e110" title="Handles animation events for the bullsquid." alt="" coords="453,56,646,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="726,150,688,127,645,104,598,86,600,81,647,99,690,122,728,146"/>
+<area shape="rect" id="Node000006" href="$class_c_gargantua.html#a813428a67ee9bb342a2cd0fb2ab1b4f1" title="Handles animation events specific to the Gargantua." alt="" coords="205,132,405,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="693,156,646,148,521,141,406,142,405,137,521,135,647,143,694,151"/>
+<area shape="rect" id="Node000007" href="$class_c_mortar.html#a4c5d81b2f0e837dca5290eac704015f3" title="Handles the explosion of the mortar." alt="" coords="470,208,629,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="688,191,609,210,608,205,686,186"/>
+<area shape="rect" id="Node000009" href="$class_c_gargantua.html#a96fe5dbe4098470c3e7f813cda7001d2" title="Executes the Gargantua&#39;s stomp attack." alt="" coords="463,157,637,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="679,173,637,173,637,168,679,168"/>
+<area shape="rect" id="Node000010" href="$class_c_shake.html#a9abc407493be9c816f3e19e387ac4d93" title="Uses the shake effect." alt="" coords="501,259,599,285"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="732,196,693,223,647,249,600,265,598,260,645,244,691,219,729,191"/>
+<area shape="rect" id="Node000011" href="$dlls_2util_8cpp.html#a4a0e84dd78df29fdf9709ede4019849c" title="Shakes the screen of all clients." alt="" coords="476,309,623,336"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="745,199,705,250,678,277,648,300,623,311,621,306,645,295,674,273,701,247,740,196"/>
+<area shape="rect" id="Node000003" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="252,5,358,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,21,358,21,358,16,489,16"/>
+<area shape="rect" id="Node000004" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,21,157,21,157,16,236,16"/>
+<area shape="rect" id="Node000008" href="$class_c_mortar.html#a54c8ec80d0835beac93026ded850653f" title="Spawns the mortar entity in the game." alt="" coords="248,208,362,235"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="454,224,362,224,362,219,454,219"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="446,163,405,158,406,153,447,157"/>
+</map>

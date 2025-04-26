@@ -1,0 +1,11 @@
+<map id="SENTENCEG_PlayRndI" name="SENTENCEG_PlayRndI">
+<area shape="rect" id="Node000001" title="Plays a random sentence from a group by index." alt="" coords="5,31,166,57"/>
+<area shape="rect" id="Node000002" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="216,5,355,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,31,200,27,201,32,166,36"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#aae0ad5b2266f4050c68b37d8477281fd" title="Picks a random sentence from a group using the LRU list." alt="" coords="214,56,357,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,52,199,56,198,61,166,57"/>
+<area shape="rect" id="Node000003" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="410,5,560,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,16,394,16,394,21,355,21"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="405,56,564,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="357,67,389,67,389,72,357,72"/>
+</map>

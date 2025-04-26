@@ -1,0 +1,5 @@
+<map id="CHudMessage::VidInit" name="CHudMessage::VidInit">
+<area shape="rect" id="Node000001" title="Initializes video&#45;dependent resources for the HUD message system." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud.html#aee3124b4f58baa73eab23621cf8640d1" title=" " alt="" coords="204,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,16,188,16,188,21,156,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CHeadCrab::Spawn" name="CHeadCrab::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the headcrab entity." alt="" coords="188,5,322,32"/>
+<area shape="rect" id="Node000002" href="$class_c_baby_crab.html#a60c6e674a3423c6c2527d1ae29284182" title="Spawns the baby headcrab entity." alt="" coords="5,5,140,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
+</map>

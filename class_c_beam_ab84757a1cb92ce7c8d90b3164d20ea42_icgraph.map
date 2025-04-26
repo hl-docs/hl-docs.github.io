@@ -1,0 +1,15 @@
+<map id="CBeam::SetStartAttachment" name="CBeam::SetStartAttachment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="547,56,735,83"/>
+<area shape="rect" id="Node000002" href="$class_c_beam.html#ab10b4f82b0a30980d03e45b730a96ee0" title="Initializes the beam with start and end entities." alt="" coords="378,5,494,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,54,492,35,494,30,570,49"/>
+<area shape="rect" id="Node000003" href="$class_c_beam.html#a80e1166fe55e68e4b81a6b6f75b1533d" title="Initializes the beam as a hose." alt="" coords="377,56,496,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="532,72,496,72,496,67,532,67"/>
+<area shape="rect" id="Node000004" href="$class_c_beam.html#a52880e341224bcfbae725eea95c14d83" title="Initializes the beam with start and end points." alt="" coords="373,107,499,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="570,90,494,109,492,103,569,84"/>
+<area shape="rect" id="Node000005" href="$class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="194,81,304,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="357,112,303,105,304,99,358,107"/>
+<area shape="rect" id="Node000006" href="$class_c_test_effect.html#a0f7cbe0c8417444d53120efc376ec062" title="Think function for the test effect." alt="" coords="173,132,325,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="358,133,326,138,325,132,357,128"/>
+<area shape="rect" id="Node000007" href="$class_c_test_effect.html#a47a9ec960b1e1d9ac185511e1c0e89c2" title="Uses the test effect." alt="" coords="5,132,125,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="157,148,125,148,125,143,157,143"/>
+</map>

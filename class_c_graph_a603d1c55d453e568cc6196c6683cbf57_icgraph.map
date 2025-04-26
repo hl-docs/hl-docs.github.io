@@ -1,0 +1,9 @@
+<map id="CGraph::FSetGraphPointers" name="CGraph::FSetGraphPointers">
+<area shape="rect" id="Node000001" title="Sets the graph pointers after loading from disk." alt="" coords="574,5,759,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#a88ff500197e2f813cd129d70fd2123a4" title="Prepares the player entity by precaching necessary resources." alt="" coords="366,5,526,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="559,21,527,21,527,16,559,16"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#a3b8e70ac52dfbe0eb3841f7b7fa8fbf7" title="Initializes the player entity upon spawning." alt="" coords="174,5,318,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,21,318,21,318,16,350,16"/>
+<area shape="rect" id="Node000004" href="$client_8cpp.html#af33d5a5c62848a1bc073582e1906210a" title="Called each time a player is spawned." alt="" coords="5,5,126,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,21,126,21,126,16,158,16"/>
+</map>

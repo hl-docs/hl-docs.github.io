@@ -1,0 +1,7 @@
+<map id="UTIL_MoveToOrigin" name="UTIL_MoveToOrigin">
+<area shape="rect" id="Node000001" title="Moves an entity to a specified origin." alt="" coords="252,31,384,57"/>
+<area shape="rect" id="Node000002" href="$class_c_controller.html#a785c37b7963a6f24ea7a4e4b6615c956" title="Executes a move for the controller monster." alt="" coords="19,5,190,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,37,190,32,191,26,237,32"/>
+<area shape="rect" id="Node000003" href="$class_c_flying_monster.html#a26d74b7b4e6820298b8919c9cea88e87" title="Executes the movement of the flying monster." alt="" coords="5,56,204,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,56,205,60,204,55,236,51"/>
+</map>

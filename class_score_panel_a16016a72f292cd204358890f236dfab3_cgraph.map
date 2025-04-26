@@ -1,0 +1,65 @@
+<map id="ScorePanel::RebuildTeams" name="ScorePanel::RebuildTeams">
+<area shape="rect" id="Node000001" title="Rebuilds the list of teams based on current player data." alt="" coords="5,487,184,513"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a581a2504cd06f12a1dded0202d998e4c" title="Retrieves information about all players from the engine." alt="" coords="421,445,572,488"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,490,406,471,406,477,184,495"/>
+<area shape="rect" id="Node000003" href="$class_score_panel.html#a40aed1578252231c4699d1bf45534f79" title="Updates the scoreboard with current player and team data." alt="" coords="232,512,369,539"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,508,217,512,216,518,183,514"/>
+<area shape="poly" id="edge31_Node000003_Node000002" title=" " alt="" coords="347,509,408,490,409,496,348,514"/>
+<area shape="rect" id="Node000004" href="$class_score_panel.html#a01df76de111ed790841081e5ea4f5a83" title="Fills the grid with player and team information for the scoreboard." alt="" coords="428,512,565,539"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="369,523,413,523,413,528,369,528"/>
+<area shape="rect" id="Node000028" href="$class_score_panel.html#a06b97f45bea9b47d4ccdb4ed188e145b" title="Sorts players either globally or within a specific team." alt="" coords="643,912,808,939"/>
+<area shape="poly" id="edge32_Node000003_Node000028" title=" " alt="" coords="320,537,369,578,436,640,510,717,579,801,593,829,599,854,607,876,626,898,631,902,628,906,623,902,603,879,594,855,588,831,574,804,506,720,432,644,365,582,317,541"/>
+<area shape="rect" id="Node000029" href="$class_score_panel.html#a7c9858bbd82bc9eaffc5ae9f6d67b4a9" title="Sorts all teams based on frags (kills) and deaths." alt="" coords="417,815,576,841"/>
+<area shape="poly" id="edge33_Node000003_Node000029" title=" " alt="" coords="313,538,481,800,476,803,308,541"/>
+<area shape="rect" id="Node000005" href="$class_c_hud_text_message.html#ad31afd57614ff64021461d4dddd58cbb" title="Localizes a text message with a local static buffer." alt="" coords="632,5,819,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="561,509,574,498,593,471,606,444,614,417,616,391,612,338,600,285,587,232,582,178,584,151,591,123,603,94,622,65,631,55,635,59,626,68,608,97,596,124,589,151,587,178,593,232,605,284,617,337,622,391,619,418,611,446,598,473,578,502,565,513"/>
+<area shape="rect" id="Node000008" href="$class_score_panel.html#abfe604a6281affdd1d6b975f51cedd1b" title="Handles mouse movement over a scoreboard cell." alt="" coords="641,123,810,149"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="561,509,574,498,590,477,600,456,608,414,605,372,596,330,588,288,585,245,595,203,606,181,622,160,627,155,630,159,626,163,610,184,600,205,590,246,593,287,602,329,610,371,614,414,605,458,594,480,578,502,564,514"/>
+<area shape="rect" id="Node000009" href="$voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="924,72,1054,99"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="561,509,574,498,591,473,603,449,609,424,610,399,604,350,592,301,580,252,576,203,580,179,588,155,602,132,623,109,643,96,671,87,745,77,829,74,908,77,908,82,829,80,746,82,673,92,645,101,626,113,606,135,593,157,585,180,582,203,585,251,597,299,610,349,616,399,614,425,608,450,596,476,578,502,564,514"/>
+<area shape="rect" id="Node000011" href="$ev__hldm_8cpp.html#a01d4c92278c9e117ef3b7cc13cbe8527" title="Checks if two teams are allies in the Team Fortress Classic game mode." alt="" coords="655,173,796,200"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="561,509,574,498,597,462,605,427,603,391,597,355,590,319,589,283,598,247,622,210,639,197,642,202,626,214,603,249,594,284,596,319,602,354,608,391,610,427,602,464,578,502,564,513"/>
+<area shape="rect" id="Node000012" href="$class_c_scheme_manager.html#a2ffe5e05ead7fd9e3d9710d3d065e303" title="Returns the font associated with a scheme." alt="" coords="635,224,816,251"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="560,509,574,498,593,469,601,440,601,410,597,381,593,351,593,321,601,291,622,261,625,258,629,262,626,264,606,293,598,322,598,351,602,380,606,410,606,440,598,471,578,502,564,514"/>
+<area shape="rect" id="Node000014" href="$class_c_scheme_manager.html#a28ecc848cd276de7ad05be1259c854b0" title="Finds a scheme in the list by name." alt="" coords="624,275,827,317"/>
+<area shape="poly" id="edge14_Node000004_Node000014" title=" " alt="" coords="559,509,574,498,589,477,597,457,598,415,599,372,607,349,622,328,624,325,628,329,626,331,611,352,604,373,603,415,602,458,594,480,578,502,562,514"/>
+<area shape="rect" id="Node000015" href="$class_team_fortress_viewport.html#a93678dffc743bee0017ecc65cc18d805" title=" " alt="" coords="650,341,801,384"/>
+<area shape="poly" id="edge15_Node000004_Node000015" title=" " alt="" coords="557,509,575,498,586,486,592,473,598,447,604,421,611,407,623,394,635,385,638,389,626,398,615,410,609,423,603,449,597,475,590,489,578,502,560,514"/>
+<area shape="rect" id="Node000016" href="$class_team_fortress_viewport.html#ad15b736c9cdd789f8ab67941d233cb69" title=" " alt="" coords="650,408,801,451"/>
+<area shape="poly" id="edge16_Node000004_Node000016" title=" " alt="" coords="549,509,575,498,599,479,623,460,634,455,637,460,626,465,602,483,578,502,551,514"/>
+<area shape="rect" id="Node000017" href="$class_team_fortress_viewport.html#a86de1013232de4022c62305f514adaae" title=" " alt="" coords="650,475,801,517"/>
+<area shape="poly" id="edge17_Node000004_Node000017" title=" " alt="" coords="566,514,634,505,635,510,566,519"/>
+<area shape="rect" id="Node000018" href="$class_c_label_header.html#aca596a9a57b2e1b2959852d99e6419ad" title=" " alt="" coords="639,541,812,568"/>
+<area shape="poly" id="edge18_Node000004_Node000018" title=" " alt="" coords="566,531,624,539,623,544,566,537"/>
+<area shape="rect" id="Node000021" href="$class_c_label_header.html#a40f833fc8a0edf4364784b8fcbbcfd4e" title=" " alt="" coords="648,592,803,619"/>
+<area shape="poly" id="edge21_Node000004_Node000021" title=" " alt="" coords="528,537,625,577,649,585,648,590,623,583,526,542"/>
+<area shape="rect" id="Node000023" href="$class_c_label_header.html#a6f733fb7f867a3bac8b40ecb9825eafc" title=" " alt="" coords="645,643,806,669"/>
+<area shape="poly" id="edge23_Node000004_Node000023" title=" " alt="" coords="512,537,559,582,591,607,626,628,640,635,638,640,623,633,588,612,556,586,509,541"/>
+<area shape="rect" id="Node000024" href="$class_c_label_header.html#a401401432e31af803685429aa9658a19" title=" " alt="" coords="649,693,802,720"/>
+<area shape="poly" id="edge25_Node000004_Node000024" title=" " alt="" coords="511,537,626,679,636,685,633,689,623,683,507,541"/>
+<area shape="rect" id="Node000025" href="$class_c_label_header.html#a086130dc1a7ee8e3d01f1892a374c960" title=" " alt="" coords="645,744,806,771"/>
+<area shape="poly" id="edge27_Node000004_Node000025" title=" " alt="" coords="513,537,545,575,579,623,592,654,598,681,606,706,626,730,633,735,630,740,622,734,601,708,593,683,587,656,574,625,540,578,509,541"/>
+<area shape="rect" id="Node000026" href="$class_c_label_header.html#ae9eec3f00e994c5deb56600c2ae4cb25" title=" " alt="" coords="632,795,819,821"/>
+<area shape="poly" id="edge29_Node000004_Node000026" title=" " alt="" coords="514,537,546,574,579,623,589,647,593,669,596,708,602,745,611,762,626,781,630,784,626,788,622,785,606,765,597,746,591,709,588,670,583,648,574,625,542,577,510,541"/>
+<area shape="rect" id="Node000027" href="$class_c_voice_status.html#ac143338090280a6bd7020db3e9f64417" title=" " alt="" coords="626,845,825,888"/>
+<area shape="poly" id="edge30_Node000004_Node000027" title=" " alt="" coords="514,538,547,574,579,623,590,654,595,683,594,734,595,759,598,782,608,806,626,832,628,833,624,837,622,835,603,809,593,784,589,759,589,734,590,683,585,655,574,625,543,577,511,541"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_text_message.html#a847c99e126f98c009a2129b99307f88c" title="Localizes a text message by replacing any placeholder messages with actual text." alt="" coords="895,5,1083,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="819,24,880,24,880,29,819,29"/>
+<area shape="rect" id="Node000007" href="$cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="1151,13,1271,40"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1083,24,1135,24,1135,29,1083,29"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="798,119,908,98,909,103,799,125"/>
+<area shape="rect" id="Node000010" href="$class_score_panel.html#a40df238d6a9b2ad838aafdd2d2d8210b" title="Handles mouse movement over a specific scoreboard cell." alt="" coords="897,123,1081,149"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="811,133,881,133,881,139,811,139"/>
+<area shape="rect" id="Node000013" href="$class_c_scheme_manager.html#a5cc92793b3dcfb701d74281fea7d4c77" title="Always returns a valid scheme, even if the handle is invalid." alt="" coords="875,224,1103,251"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="816,235,859,235,859,240,816,240"/>
+<area shape="rect" id="Node000019" href="$class_c_text_image2.html#a19e83c440b906912079b6c11ba9bd72f" title=" " alt="" coords="912,516,1066,543"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="812,544,897,535,897,541,813,549"/>
+<area shape="rect" id="Node000020" href="$class_c_text_image2.html#a4b881e77a9f7e6ba6a002f0c64e2d09b" title=" " alt="" coords="909,567,1069,593"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="813,560,893,568,893,573,812,566"/>
+<area shape="rect" id="Node000022" href="$class_c_text_image2.html#ac2509450b8736fdcb0d159c9d22f467a" title=" " alt="" coords="908,668,1070,695"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="785,617,827,628,932,660,930,665,826,633,783,622"/>
+<area shape="poly" id="edge24_Node000023_Node000022" title=" " alt="" coords="807,661,893,669,892,675,807,666"/>
+<area shape="poly" id="edge26_Node000024_Node000022" title=" " alt="" coords="802,697,892,688,893,693,803,702"/>
+<area shape="poly" id="edge28_Node000025_Node000022" title=" " alt="" coords="783,741,826,729,930,697,932,703,827,735,785,746"/>
+<area shape="poly" id="edge34_Node000029_Node000028" title=" " alt="" coords="520,839,567,869,625,898,646,905,644,910,623,902,564,873,517,844"/>
+</map>

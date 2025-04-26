@@ -1,0 +1,5 @@
+<map id="IsFacing" name="IsFacing">
+<area shape="rect" id="Node000001" title="Checks if an entity is facing a specific reference point." alt="" coords="209,5,279,32"/>
+<area shape="rect" id="Node000002" href="$class_c_barney.html#a7b4f6de84eb885c40f9b8d509571efc6" title="Handles damage taken by the Barney entity." alt="" coords="5,5,161,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,21,161,21,161,16,193,16"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CFlockingFlyerFlock::PrecacheFlockSounds" name="CFlockingFlyerFlock::PrecacheFlockSounds">
+<area shape="rect" id="Node000001" title="Preloads the sounds used by the flock." alt="" coords="428,35,588,77"/>
+<area shape="rect" id="Node000002" href="$class_c_flocking_flyer_flock.html#a5bd19fb0d335a86c9d4bbda1153fdacb" title="Preloads the flock&#39;s resources." alt="" coords="224,5,365,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,46,365,39,365,34,413,40"/>
+<area shape="rect" id="Node000004" href="$class_c_flocking_flyer.html#a7c998f932148a1358cd38cce3e327e7c" title="Preloads the boid&#39;s resources." alt="" coords="209,72,380,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,72,381,76,380,71,412,66"/>
+<area shape="rect" id="Node000003" href="$class_c_flocking_flyer_flock.html#aae9d16564fbe84c8e4ad035bf04be7a0" title="Spawns the flock entity." alt="" coords="13,5,153,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,29,154,29,154,24,208,24"/>
+<area shape="rect" id="Node000005" href="$class_c_flocking_flyer.html#a92d57c05c9a89439bb0d652c58adff29" title="Spawns the individual boid." alt="" coords="5,72,161,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,88,161,88,161,83,193,83"/>
+</map>

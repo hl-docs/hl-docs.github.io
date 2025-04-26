@@ -1,0 +1,54 @@
+<map id="CBaseEntity::IsNetClient" name="CBaseEntity::IsNetClient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="889,215,1054,241"/>
+<area shape="rect" id="Node000002" href="$class_c_trigger_end_section.html#ae4f1a53966bd537256b3bc5d4623787a" title="Handles the touch event for the end section trigger." alt="" coords="695,5,831,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="953,203,907,134,875,96,839,62,821,51,824,46,842,58,879,92,911,130,957,200"/>
+<area shape="rect" id="Node000004" href="$class_c_trigger_end_section.html#a77fdc734e6ff32126cfb0b0b560e82f7" title="Handles the use event for the end section trigger." alt="" coords="695,72,831,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="942,206,895,168,839,129,818,118,820,113,842,124,899,163,945,202"/>
+<area shape="rect" id="Node000005" href="$class_c_fade.html#af2b633031bf922e8b1f91a69eac33f01" title="Uses the fade effect." alt="" coords="266,189,357,216"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="873,227,357,207,357,202,873,222"/>
+<area shape="rect" id="Node000006" href="$class_c_game_text.html#a7f9fce5855479583cb9c8032debc3f30" title="Activates the game text entity." alt="" coords="251,459,372,485"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="937,252,842,306,742,358,638,399,496,438,373,464,372,459,495,433,636,393,740,353,839,302,934,248"/>
+<area shape="rect" id="Node000007" href="$dlls_2util_8cpp.html#ad1b3d7095d7ca2fd69eb5fc68dfcd363" title="Displays a HUD message to a specific entity." alt="" coords="698,459,828,485"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="962,257,944,297,918,346,884,397,842,442,812,460,809,456,839,438,880,394,914,344,940,295,957,255"/>
+<area shape="rect" id="Node000009" href="$dlls_2util_8cpp.html#a732441c91d3fa4b89184643ffc4b6a95" title="Sends a text message to a specific entity." alt="" coords="712,568,814,595"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="962,257,916,366,882,433,843,499,811,538,781,569,777,566,807,535,838,496,877,431,911,364,957,255"/>
+<area shape="rect" id="Node000012" href="$dlls_2util_8cpp.html#aa729042423745ed3fc0f67e182d0e912" title="Writes a screen fade effect to a specific entity." alt="" coords="685,139,841,165"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="917,211,801,168,803,163,919,206"/>
+<area shape="rect" id="Node000017" href="$dlls_2util_8cpp.html#a5e8aa57f34b8d24abddba4fa64790979" title="Shows a message to a specific entity." alt="" coords="693,265,833,292"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="899,248,822,267,820,262,898,243"/>
+<area shape="rect" id="Node000003" href="$class_c_trigger_end_section.html#afce27047c492aabbecfcfa3b4702ee46" title="Initializes the end section trigger entity." alt="" coords="479,13,615,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="680,32,615,35,615,29,679,27"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="679,74,614,56,616,51,681,68"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="683,475,373,475,373,469,683,469"/>
+<area shape="rect" id="Node000008" href="$dlls_2util_8cpp.html#a9530e833f9072bdf01dd0b8e4ef86d62" title="Displays a HUD message to all players." alt="" coords="474,509,619,536"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="689,492,607,511,606,506,687,487"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="466,508,372,488,373,482,467,503"/>
+<area shape="rect" id="Node000010" href="$class_c_half_life_teamplay.html#ac0fc8aaae964ae8985007b82acafe5ff" title="Handles changes to a player&#39;s user info." alt="" coords="471,560,623,603"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="697,584,623,584,623,579,697,579"/>
+<area shape="rect" id="Node000011" href="$class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="479,627,615,669"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="703,602,616,629,615,624,702,597"/>
+<area shape="rect" id="Node000013" href="$dlls_2util_8cpp.html#a3c51afca76039084f1ebff709d9d3289" title="Fades the screen for a specific entity." alt="" coords="485,88,609,115"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="687,137,606,118,607,113,689,132"/>
+<area shape="rect" id="Node000015" href="$dlls_2util_8cpp.html#a3ab3a10eabd4eb9ffcbb1c503061a137" title="Fades the screen for all players." alt="" coords="477,139,616,165"/>
+<area shape="poly" id="edge18_Node000012_Node000015" title=" " alt="" coords="670,155,617,155,617,149,670,149"/>
+<area shape="poly" id="edge17_Node000013_Node000005" title=" " alt="" coords="476,122,457,129,391,161,337,191,334,186,388,156,455,124,474,117"/>
+<area shape="rect" id="Node000014" href="$class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="223,88,400,115"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="469,104,400,104,400,99,469,99"/>
+<area shape="poly" id="edge19_Node000015_Node000005" title=" " alt="" coords="467,172,358,196,357,190,466,167"/>
+<area shape="rect" id="Node000016" href="$class_c_revert_saved.html#a5ca27e9679a041de5dd4d53d1eb65e84" title="Activates the revert saved entity." alt="" coords="20,189,152,216"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="462,158,345,166,215,180,150,191,149,186,214,175,344,161,461,153"/>
+<area shape="rect" id="Node000018" href="$class_c_base_trigger.html#aed8cf166c0e003ae6bf00f47b8cd8928" title="Activates the multiple trigger." alt="" coords="456,341,637,384"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="713,301,605,343,603,338,711,296"/>
+<area shape="rect" id="Node000021" href="$class_c_message.html#a474acfbc942a011f5d4cb427ed35d72d" title="Uses the message effect." alt="" coords="254,291,369,317"/>
+<area shape="poly" id="edge25_Node000017_Node000021" title=" " alt="" coords="678,286,369,303,369,298,678,281"/>
+<area shape="rect" id="Node000022" href="$dlls_2util_8cpp.html#abe2b763f857c82858212698337332e92" title="Shows a message to all players." alt="" coords="470,240,624,267"/>
+<area shape="poly" id="edge26_Node000017_Node000022" title=" " alt="" coords="677,271,624,265,625,260,678,266"/>
+<area shape="rect" id="Node000019" href="$class_c_base_trigger.html#abb716e997f98c7205d84f85c48cae5bf" title="Handles the use action for the counting trigger." alt="" coords="224,349,399,376"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="440,365,399,365,399,360,440,360"/>
+<area shape="rect" id="Node000020" href="$class_c_trigger_counter.html#a2b601f9f14c72a39ee1109a70782187a" title="Initializes the counter trigger entity." alt="" coords="5,349,167,376"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="208,365,167,365,167,360,208,360"/>
+<area shape="poly" id="edge29_Node000022_Node000021" title=" " alt="" coords="467,273,370,294,369,289,466,268"/>
+<area shape="rect" id="Node000023" href="$class_c_revert_saved.html#a1450bbf6de2eb5000579c06a8fbbcd02" title="Handles the message display logic." alt="" coords="215,240,408,267"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="454,256,409,256,409,251,454,251"/>
+<area shape="poly" id="edge28_Node000023_Node000016" title=" " alt="" coords="233,239,148,219,149,214,235,233"/>
+</map>

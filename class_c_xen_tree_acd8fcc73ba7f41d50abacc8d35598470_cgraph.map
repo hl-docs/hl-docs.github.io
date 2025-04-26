@@ -1,0 +1,11 @@
+<map id="CXenTree::Attack" name="CXenTree::Attack">
+<area shape="rect" id="Node000001" title="Executes the attack action of the Xen tree." alt="" coords="5,31,128,57"/>
+<area shape="rect" id="Node000002" href="$class_c_act_animating.html#a4031a97a76b1a46efa282f01e5c9bc87" title=" " alt="" coords="176,5,355,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,34,160,29,161,35,129,39"/>
+<area shape="rect" id="Node000003" href="$class_c_act_animating.html#ab48161c68e3ad971d12ed180abbd4bc1" title="Sets the activity for the animating entity." alt="" coords="176,56,355,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,49,161,53,160,59,128,54"/>
+<area shape="rect" id="Node000004" href="$class_c_base_animating.html#a40a4e881deccdeced4714dde7868dc15" title="Looks up the activity index for a given activity." alt="" coords="417,31,627,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="355,58,401,53,402,59,355,63"/>
+<area shape="rect" id="Node000005" href="$class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="403,81,641,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="355,75,388,79,387,84,355,81"/>
+</map>

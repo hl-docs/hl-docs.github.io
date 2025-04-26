@@ -1,0 +1,5 @@
+<map id="CPathTrack::Link" name="CPathTrack::Link">
+<area shape="rect" id="Node000001" title="Links the path track to its next and alternate paths." alt="" coords="197,5,318,32"/>
+<area shape="rect" id="Node000002" href="$class_c_path_track.html#a1e0b1bd71d5fd7480863671de1afd276" title="Activates the path track and links it to the next path." alt="" coords="5,5,149,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,21,149,21,149,16,181,16"/>
+</map>

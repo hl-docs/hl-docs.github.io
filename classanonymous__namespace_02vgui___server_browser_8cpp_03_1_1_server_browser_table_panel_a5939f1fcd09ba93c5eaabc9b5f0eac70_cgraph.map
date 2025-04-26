@@ -1,0 +1,7 @@
+<map id="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoStop" name="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoStop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,215,80"/>
+<area shape="rect" id="Node000002" href="$hud__servers_8cpp.html#a8c0babcc8d63128e7e0e50961f1fc2d9" title="Cancels any ongoing requests in the global server browser." alt="" coords="263,29,367,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,40,247,40,247,45,215,45"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#ae559a8408e1bda121e2c54560d895b45" title="Cancels all server requests and stops the querying process." alt="" coords="415,29,607,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,40,399,40,399,45,368,45"/>
+</map>

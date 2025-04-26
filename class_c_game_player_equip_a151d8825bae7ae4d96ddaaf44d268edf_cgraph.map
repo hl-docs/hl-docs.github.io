@@ -1,0 +1,7 @@
+<map id="CGamePlayerEquip::KeyValue" name="CGamePlayerEquip::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the game player equip entity." alt="" coords="5,31,205,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="253,5,411,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,30,237,27,237,32,206,35"/>
+<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#affc4a7dd0f0efdc504080ed1ce265938" title="Strips redundant tokens from a key string." alt="" coords="274,56,390,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,53,258,59,258,64,205,58"/>
+</map>

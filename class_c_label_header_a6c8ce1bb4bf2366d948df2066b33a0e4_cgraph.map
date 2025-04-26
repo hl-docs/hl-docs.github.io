@@ -1,0 +1,5 @@
+<map id="CLabelHeader::paintBackground" name="CLabelHeader::paintBackground">
+<area shape="rect" id="Node000001" title="Paints the background of the label in the scoreboard." alt="" coords="5,13,213,40"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a57415b3354bc1c11b3d25d2be088288c" title=" " alt="" coords="261,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,24,245,24,245,29,213,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MaxAngleBetweenAngles" name="MaxAngleBetweenAngles">
+<area shape="rect" id="Node000001" title="Calculates the maximum angle difference between two angles." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="Node000002" href="$pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="223,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,16,207,16,207,21,175,21"/>
+</map>

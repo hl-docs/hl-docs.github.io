@@ -1,0 +1,25 @@
+<map id="ToggleCommandButton" name="ToggleCommandButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="332,295,488,321"/>
+<area shape="rect" id="Node000002" href="$class_command_button.html" title=" " alt="" coords="123,185,241,212"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,216,278,236,299,253,321,268,373,292,371,297,318,273,296,257,275,241,232,220"/>
+<area shape="rect" id="Node000004" href="$class_c_command_menu.html" title=" " alt="" coords="16,295,137,321"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="109,215,90,225,75,240,70,253,69,267,74,294,69,295,64,267,65,252,71,237,87,221,107,210"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="102,81,161,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,121,163,157,177,184,172,186,158,160,141,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="129,285,151,269,168,240,177,212,182,213,173,242,154,272,132,289"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="154,299,164,308,156,317,138,320,137,315,153,312,159,308,151,303"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,185,60,212"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="40,226,54,270,68,293,64,295,49,272,35,228"/>
+<area shape="rect" id="Node000006" href="$class_command_label.html" title=" " alt="" coords="185,81,296,108"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="205,120,193,133,185,160,183,185,178,185,179,159,189,131,201,116"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="261,5,313,32"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="274,46,251,82,246,80,269,43"/>
+<area shape="rect" id="Node000010" href="$class_c_image_label.html" title=" " alt="" coords="286,132,382,159"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="300,45,332,130,327,132,295,47"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="417,185,502,212"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="450,227,418,295,413,293,445,225"/>
+<area shape="rect" id="Node000009" href="$structcvar__s.html" title=" " alt="" coords="526,185,584,212"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="527,224,429,296,425,292,524,219"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="601,188,608,192,611,199,603,209,585,211,584,206,600,204,606,198,604,195,598,192"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="339,173,349,214,374,259,401,293,397,296,370,262,344,216,334,175"/>
+</map>

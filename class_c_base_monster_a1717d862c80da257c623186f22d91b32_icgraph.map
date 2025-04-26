@@ -1,0 +1,31 @@
+<map id="CBaseMonster::ChangeSchedule" name="CBaseMonster::ChangeSchedule">
+<area shape="rect" id="Node000001" title="Changes the monster&#39;s schedule." alt="" coords="907,97,1120,124"/>
+<area shape="rect" id="Node000002" href="$class_c_cine_a_i.html#a8fbcc9cdfd9a149a37c74ae2df9d4a44" title="Fixes the monster&#39;s schedule after an AI scripted sequence." alt="" coords="659,5,834,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="956,94,858,63,821,51,823,46,859,57,957,89"/>
+<area shape="rect" id="Node000003" href="$class_c_cine_a_i.html#ae04d30265d62327173aec404b5335888" title="Possesses the target entity for the cinematic sequence." alt="" coords="666,72,827,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="891,102,827,96,828,90,892,96"/>
+<area shape="rect" id="Node000004" href="$class_c_talk_monster.html#a95d210e8d0cb8469e0c5eb470e869b53" title="Prepares the talk monster to answer a question." alt="" coords="634,123,859,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="891,125,859,128,859,123,891,120"/>
+<area shape="rect" id="Node000013" href="$class_c_talk_monster.html#a05e5cae94116f04682a70233979012d3" title="Handles damage taken by the talk monster." alt="" coords="654,173,839,200"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="960,132,859,164,814,175,813,170,858,159,958,127"/>
+<area shape="rect" id="Node000005" href="$class_c_sitting_scientist.html#a18ee2d8fd7389fdd2336a6fa464c2597" title="Handles idle speaking behavior for the sitting scientist." alt="" coords="436,56,562,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="668,121,634,113,562,96,563,91,635,108,669,116"/>
+<area shape="rect" id="Node000006" href="$class_c_talk_monster.html#a4c3d998262953f633db307b6c196a903" title="Attempts to start a conversation or make a statement." alt="" coords="412,123,586,149"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="619,139,587,139,587,133,619,133"/>
+<area shape="rect" id="Node000007" href="$class_c_talk_monster.html#a73cd9db7d1bd90bad36b49a739c07709" title="Runs a task for the talk monster." alt="" coords="201,97,362,124"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="396,127,362,123,362,117,397,121"/>
+<area shape="rect" id="Node000010" href="$class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="199,148,364,175"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="397,151,365,154,364,149,396,145"/>
+<area shape="rect" id="Node000008" href="$class_c_barney.html#ac4774636a01edd847b7b0da86c6b8b88" title="Runs a task for the Barney entity." alt="" coords="13,47,143,73"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="209,96,134,77,135,71,211,90"/>
+<area shape="rect" id="Node000009" href="$class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="8,97,148,124"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="186,113,148,113,148,108,186,108"/>
+<area shape="rect" id="Node000011" href="$class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="10,148,146,175"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="183,164,146,164,146,159,183,159"/>
+<area shape="rect" id="Node000012" href="$class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="5,199,151,225"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="211,182,135,201,134,195,209,176"/>
+<area shape="rect" id="Node000014" href="$class_c_barney.html#a7b4f6de84eb885c40f9b8d509571efc6" title="Handles damage taken by the Barney entity." alt="" coords="422,173,577,200"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="638,189,577,189,577,184,638,184"/>
+<area shape="rect" id="Node000015" href="$class_c_scientist.html#aae526769eac1dfad245f95f261eb08ae" title="Handles damage taken by the scientist." alt="" coords="417,224,582,251"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="663,206,568,226,567,221,662,201"/>
+</map>

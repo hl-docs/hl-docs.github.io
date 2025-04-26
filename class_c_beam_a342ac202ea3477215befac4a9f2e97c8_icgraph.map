@@ -1,0 +1,19 @@
+<map id="CBeam::SetStartEntity" name="CBeam::SetStartEntity">
+<area shape="rect" id="Node000001" title="Sets the start entity for the beam." alt="" coords="797,56,951,83"/>
+<area shape="rect" id="Node000002" href="$class_c_lightning.html#ab55f81ab9ad5a6c6a74943ed85562539" title="Updates the beam variables for the lightning effect." alt="" coords="556,5,749,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="797,55,713,35,715,30,798,49"/>
+<area shape="rect" id="Node000004" href="$class_c_beam.html#ab10b4f82b0a30980d03e45b730a96ee0" title="Initializes the beam with start and end entities." alt="" coords="594,56,711,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="781,72,711,72,711,67,781,67"/>
+<area shape="rect" id="Node000005" href="$class_c_beam.html#a59ae7bc3bf47da6c478e47f80c98f4eb" title="Precaches the beam entity." alt="" coords="589,107,716,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="798,89,715,109,713,103,797,84"/>
+<area shape="rect" id="Node000003" href="$class_c_lightning.html#ad1e95029a213e0d7faccb62f7cf38d3a" title="Activates the lightning effect." alt="" coords="368,5,504,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="541,21,504,21,504,16,541,16"/>
+<area shape="rect" id="Node000006" href="$class_c_lightning.html#a676571d5b8e2a426497482168e38f0d3" title="Precaches the lightning effect resources." alt="" coords="363,81,508,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="573,113,508,106,509,100,574,108"/>
+<area shape="rect" id="Node000009" href="$class_c_beam.html#a5431f6ad7a349116865f18281c4a3c07" title="Spawns the beam entity." alt="" coords="380,132,491,159"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="574,132,492,141,492,136,573,127"/>
+<area shape="rect" id="Node000007" href="$class_c_lightning.html#ae60d76702c9a62a7c700bbd864c0adc2" title="Spawns the lightning effect entity." alt="" coords="186,81,315,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="347,97,315,97,315,92,347,92"/>
+<area shape="rect" id="Node000008" href="$class_c_trip_beam.html#a8e3d6f75ea13fae6608eefbaa3b3742f" title="Spawns the lightning effect entity." alt="" coords="5,81,138,108"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="170,97,138,97,138,92,170,92"/>
+</map>

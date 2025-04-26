@@ -1,0 +1,14 @@
+<map id="PM_FixupGravityVelocity" name="PM_FixupGravityVelocity">
+<area shape="rect" id="Node000001" title="Fixes gravity&#45;related velocity issues." alt="" coords="679,31,846,57"/>
+<area shape="rect" id="Node000002" href="$pm__shared_8c.html#acfdce1dbd6b255192ab1895c88ea6b95" title="Handles jumping." alt="" coords="552,5,631,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="663,32,631,27,632,22,664,27"/>
+<area shape="rect" id="Node000003" href="$pm__shared_8c.html#a4af09a5ca8abcfc2d4e5d71a6f24848d" title="Returns with origin, angles, and velocity modified in place." alt="" coords="388,31,504,57"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="663,47,504,47,504,41,663,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="537,31,504,37,504,31,536,26"/>
+<area shape="rect" id="Node000004" href="$pm__shared_8c.html#a93976be26aeba051339105f9caa17b67" title="The main player physics update function." alt="" coords="262,31,340,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,47,341,47,341,41,373,41"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#ac1888150107edabbf964bc55a56f0403" title="Moves the player based on movement commands." alt="" coords="92,31,214,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="246,47,214,47,214,41,246,41"/>
+<area shape="rect" id="Node000006" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,31,44,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="76,47,44,47,44,41,76,41"/>
+</map>

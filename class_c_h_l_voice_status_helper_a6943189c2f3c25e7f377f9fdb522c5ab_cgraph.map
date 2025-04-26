@@ -1,0 +1,11 @@
+<map id="CHLVoiceStatusHelper::UpdateCursorState" name="CHLVoiceStatusHelper::UpdateCursorState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,160,65"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a3eed3123a3dcc44d7dba06104691bbb4" title="Updates the state and visibility of the mouse cursor." alt="" coords="208,23,359,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,41,192,41,192,47,160,47"/>
+<area shape="rect" id="Node000003" href="$voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="407,5,537,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,31,391,27,392,32,360,36"/>
+<area shape="rect" id="Node000004" href="$inputw32_8cpp.html#ad4c638a7e3ecee100b6da72b6c3a08c2" title="Resets the mouse cursor position to the center of the screen." alt="" coords="416,56,529,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="360,52,401,57,400,62,359,57"/>
+<area shape="rect" id="Node000005" href="$inputw32_8cpp.html#aa5217af39cdd520ec88085d8bb46f9ad" title="Atomically exchanges the value of a variable." alt="" coords="585,56,767,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="529,67,570,67,570,72,529,72"/>
+</map>

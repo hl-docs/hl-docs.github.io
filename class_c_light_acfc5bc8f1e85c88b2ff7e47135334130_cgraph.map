@@ -1,0 +1,5 @@
+<map id="CLight::Use" name="CLight::Use">
+<area shape="rect" id="Node000001" title="Toggles the light on or off based on the activator&#39;s action." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a207d6bda0f1e022be3a575efa69fbfe8" title="Checks if the entity should toggle." alt="" coords="143,5,323,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,16,127,16,127,21,95,21"/>
+</map>

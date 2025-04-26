@@ -1,0 +1,5 @@
+<map id="CBullsquid::CheckRangeAttack1" name="CBullsquid::CheckRangeAttack1">
+<area shape="rect" id="Node000001" title="Checks if the bullsquid can perform a ranged attack." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a28d259391ad3ce9a213cf9fc38ff0cda" title=" " alt="" coords="264,5,429,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,16,248,16,248,21,216,21"/>
+</map>

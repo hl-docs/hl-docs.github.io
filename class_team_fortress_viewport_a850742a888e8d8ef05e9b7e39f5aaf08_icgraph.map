@@ -1,0 +1,9 @@
+<map id="TeamFortressViewport::IsScoreBoardVisible" name="TeamFortressViewport::IsScoreBoardVisible">
+<area shape="rect" id="Node000001" title="Checks if the scoreboard is currently visible." alt="" coords="358,23,509,65"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_menu.html#a49d054e6c71b81840c281c5a83d6659e" title="Draws the current HUD menu on screen." alt="" coords="188,5,310,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,34,310,30,311,24,343,29"/>
+<area shape="rect" id="Node000003" href="$hud__spectator_8cpp.html#af8c199aa73fdcead9a483b4778e58e1c" title="Toggles the visibility of the scoreboard." alt="" coords="199,56,299,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="343,59,300,65,299,60,342,54"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_spectator.html#a699359672bc053ee8c212523c63d3543" title="Initializes the HUD Spectator system and registers commands/variables." alt="" coords="5,56,140,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,72,140,72,140,67,183,67"/>
+</map>

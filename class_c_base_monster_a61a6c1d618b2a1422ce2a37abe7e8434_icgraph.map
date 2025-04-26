@@ -1,0 +1,5 @@
+<map id="CBaseMonster::FacingIdeal" name="CBaseMonster::FacingIdeal">
+<area shape="rect" id="Node000001" title="Checks if the monster is facing its ideal yaw." alt="" coords="184,5,365,32"/>
+<area shape="rect" id="Node000002" href="$class_c_h_grunt.html#afb7814f43451c176920bfb2bc0627c7a" title="Runs the current task for the grunt." alt="" coords="5,5,136,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,21,136,21,136,16,168,16"/>
+</map>

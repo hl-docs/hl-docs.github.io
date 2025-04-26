@@ -1,0 +1,9 @@
+<map id="CBasePlayer::SetSuitUpdate" name="CBasePlayer::SetSuitUpdate">
+<area shape="rect" id="Node000001" title="Adds a suit update to the player&#39;s suit playlist." alt="" coords="5,56,195,83"/>
+<area shape="rect" id="Node000002" href="$class_c_game_rules.html#ad6ac4abfecc4f6ffde18b6232f1a4d9c" title=" " alt="" coords="243,5,422,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,53,253,33,254,38,165,58"/>
+<area shape="rect" id="Node000003" href="$sound_8cpp.html#a3fe80c53eaa2f42deeb7a14a10ee5533" title="Gets the index of a sentence group by name." alt="" coords="252,56,413,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,67,236,67,236,72,195,72"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="257,107,408,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,81,254,100,253,105,164,86"/>
+</map>

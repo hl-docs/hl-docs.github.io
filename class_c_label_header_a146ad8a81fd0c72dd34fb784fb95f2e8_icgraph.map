@@ -1,0 +1,5 @@
+<map id="CLabelHeader::calcAlignment" name="CLabelHeader::calcAlignment">
+<area shape="rect" id="Node000001" title="Calculates the alignment of the label content based on the provided alignment settings." alt="" coords="192,5,384,32"/>
+<area shape="rect" id="Node000002" href="$class_c_label_header.html#aa31c342e399e4a7eded4666b594b9560" title="Paints the content of the label in the scoreboard." alt="" coords="5,5,144,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,21,144,21,144,16,176,16"/>
+</map>

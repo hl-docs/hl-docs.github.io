@@ -1,0 +1,26 @@
+<map id="CGameRules::FPlayerCanTakeDamage" name="CGameRules::FPlayerCanTakeDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="852,189,1054,232"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#aa99c3ca53cc8d1a7edd38d238d869006" title="Handles the damage taken by the player." alt="" coords="622,197,804,224"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="836,213,804,213,804,208,836,208"/>
+<area shape="rect" id="Node000003" href="$class_c_half_life_teamplay.html#a6b4bb423766802d950226b7867bfcce9" title="Changes the team of a specified player." alt="" coords="403,72,539,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="679,191,630,159,573,129,538,115,540,110,575,124,633,155,681,186"/>
+<area shape="rect" id="Node000006" href="$class_c_base_player.html#a28a13ea8b6131bf97b2730c40a13693a" title="Checks and processes time&#45;based damage effects on the player." alt="" coords="367,189,574,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="607,213,575,213,575,208,607,208"/>
+<area shape="rect" id="Node000009" href="$class_c_base_player.html#a70caf2bd9eb6b169f0adbdea94f9e987" title="Handles the player&#39;s post&#45;think logic." alt="" coords="389,139,552,165"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="639,196,528,168,529,163,641,191"/>
+<area shape="rect" id="Node000011" href="$class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="383,256,559,283"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="641,231,529,258,528,253,639,226"/>
+<area shape="rect" id="Node000012" href="$class_c_base_player.html#a434532592af698ad275b7411d1936491" title="Handles the player&#39;s movement while in water." alt="" coords="386,307,556,333"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="682,236,633,267,575,297,542,309,540,304,573,292,631,263,679,231"/>
+<area shape="rect" id="Node000004" href="$class_c_half_life_teamplay.html#ac0fc8aaae964ae8985007b82acafe5ff" title="Handles changes to a player&#39;s user info." alt="" coords="165,5,317,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="387,72,316,51,318,46,389,67"/>
+<area shape="rect" id="Node000005" href="$class_c_half_life_teamplay.html#a0664d09bb5fbdc4131d6c20c01679c5a" title="Initializes the HUD for the specified player." alt="" coords="173,72,309,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="387,96,309,96,309,91,387,91"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player.html#aafd0f877042347e2beec7a9df50d0da9" title="Handles the player&#39;s pre&#45;think logic." alt="" coords="163,252,319,279"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="365,239,301,254,300,249,363,233"/>
+<area shape="rect" id="Node000008" href="$client_8cpp.html#ab81b2e9b14840f5ce8a46d369746af2a" title="Called before the physics simulation for a player." alt="" coords="5,252,115,279"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="147,268,115,268,115,263,147,263"/>
+<area shape="rect" id="Node000010" href="$client_8cpp.html#ab04e2fadfb0c84166a0fc589d6f430e1" title="Called after the physics simulation for a player." alt="" coords="183,139,299,165"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="374,155,299,155,299,149,374,149"/>
+<area shape="poly" id="edge12_Node000012_Node000007" title=" " alt="" coords="396,305,299,282,301,277,397,300"/>
+</map>

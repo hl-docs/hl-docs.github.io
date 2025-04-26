@@ -1,0 +1,5 @@
+<map id="CPushable::Precache" name="CPushable::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches sounds for the pushable entity." alt="" coords="185,5,332,32"/>
+<area shape="rect" id="Node000002" href="$class_c_pushable.html#a7dc12c6652e12e9faaa2b7c4ceda1c8d" title="Spawns the pushable entity." alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,21,137,21,137,16,169,16"/>
+</map>

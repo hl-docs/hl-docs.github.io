@@ -1,0 +1,10 @@
+<map id="CPendulum::PendulumUse" name="CPendulum::PendulumUse">
+<area shape="rect" id="Node000001" title="Handles the use action for the pendulum." alt="" coords="5,22,183,48"/>
+<area shape="rect" id="Node000002" href="$class_c_base_toggle.html#a87cafaacad61e3f421270350f7da68ae" title="Calculates the difference between two angles based on flags." alt="" coords="410,22,572,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,18,230,7,296,3,362,7,418,15,417,21,362,12,296,8,231,12,157,24"/>
+<area shape="rect" id="Node000003" href="$class_c_pendulum.html#add4bbd9d13b151f374e56809fa7b3e61" title="Stops the pendulum and resets its position." alt="" coords="235,22,358,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,32,219,32,219,38,183,38"/>
+<area shape="rect" id="Node000004" href="$class_c_pendulum.html#a68047877666ee5268fa4831181882fd0" title="Handles the swinging motion of the pendulum." alt="" coords="231,72,362,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,46,226,65,225,70,150,51"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="350,69,422,50,423,55,351,74"/>
+</map>

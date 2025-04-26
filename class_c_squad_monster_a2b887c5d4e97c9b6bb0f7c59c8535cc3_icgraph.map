@@ -1,0 +1,39 @@
+<map id="CSquadMonster::MySquadMember" name="CSquadMonster::MySquadMember">
+<area shape="rect" id="Node000001" title=" " alt="" coords="728,187,953,213"/>
+<area shape="rect" id="Node000002" href="$class_c_houndeye.html#ae29d71fe3c16311ba8119f4c14dc9550" title="Determines if the Houndeye can perform an active idle." alt="" coords="486,5,668,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="818,176,761,111,722,76,679,46,653,35,655,30,682,42,725,71,765,107,822,173"/>
+<area shape="rect" id="Node000003" href="$class_c_squad_monster.html#a98c837906ad17c13ce0292888cc88a7e" title="Checks for the possibility of friendly fire." alt="" coords="474,56,680,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="809,179,751,137,679,97,647,86,649,81,681,92,754,133,812,175"/>
+<area shape="rect" id="Node000006" href="$class_c_houndeye.html#a57b67d8ffebab11ba63d6313e9c83c30" title="Performs pre&#45;schedule thinking for the Houndeye." alt="" coords="478,107,677,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="786,183,680,148,638,137,639,131,681,143,788,178"/>
+<area shape="rect" id="Node000007" href="$class_c_squad_monster.html#a6ce6a089b23ad40eeca23cf75e00a6b6" title="Counts the number of members in the squad." alt="" coords="481,157,674,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="712,188,674,184,675,179,713,183"/>
+<area shape="rect" id="Node000008" href="$class_c_squad_monster.html#a55854375a3cbddbb3b2dc00577392dd6" title="Checks if all squad members are fighting the same enemy." alt="" coords="477,208,677,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="713,217,678,221,678,215,713,212"/>
+<area shape="rect" id="Node000012" href="$class_c_squad_monster.html#ad3f3d4a9e52985a9c64a9b0246d6ae0b" title="Makes all squad members angry at the same enemy." alt="" coords="482,275,673,317"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="793,222,681,265,648,277,646,272,679,260,791,217"/>
+<area shape="rect" id="Node000014" href="$class_c_squad_monster.html#a3b7eb1984e002803ddee926b7a01c065" title="Checks if a squad member is within a specified range." alt="" coords="474,341,680,384"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="817,226,758,279,721,307,682,332,657,343,655,338,679,327,718,303,755,275,813,222"/>
+<area shape="rect" id="Node000016" href="$class_c_squad_monster.html#a00bda933ae4bf40f93d2c9d38789c5a7" title="Removes a squad member from the squad." alt="" coords="475,408,680,435"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="827,229,804,267,771,313,730,359,682,398,658,410,656,405,679,394,726,355,767,310,799,264,822,226"/>
+<area shape="rect" id="Node000004" href="$class_c_a_grunt.html#af4314f91038ec3fa59b8202e8de3a2ca" title="Checks if the Alien Grunt can perform a ranged attack." alt="" coords="226,31,425,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,60,425,57,425,51,459,55"/>
+<area shape="rect" id="Node000005" href="$class_c_h_grunt.html#a489abde51cc63bb8147fa6a0e62284e6" title="Starts a task for the grunt." alt="" coords="258,81,393,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="459,84,394,91,393,85,458,79"/>
+<area shape="rect" id="Node000009" href="$class_c_squad_monster.html#ad6c623c1bb2d1212675fd7d26f8ac9df" title="Occupies a slot for the squad monster." alt="" coords="230,216,421,243"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="461,232,421,232,421,227,461,227"/>
+<area shape="rect" id="Node000010" href="$class_c_a_grunt.html#a480baa02288a0031f727bf2f94a996dd" title="Retrieves the current schedule for the Alien Grunt." alt="" coords="14,191,168,217"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="215,220,168,215,169,210,215,215"/>
+<area shape="rect" id="Node000011" href="$class_c_houndeye.html#a30498cea7548a29ba46dc6659906aee4" title="Retrieves the current schedule for the Houndeye." alt="" coords="5,241,177,268"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="215,244,177,248,177,243,214,239"/>
+<area shape="rect" id="Node000013" href="$class_c_squad_monster.html#a35efd3259d25ae761e62bd81b7c0d2ab" title="Gets the ideal state for the squad monster." alt="" coords="225,283,426,309"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="466,299,426,299,426,293,466,293"/>
+<area shape="rect" id="Node000015" href="$class_c_squad_monster.html#a838ec44c0d87b7bc1d83602d51482d23" title="Validates whether the chosen cover location is suitable." alt="" coords="237,341,414,384"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="458,365,414,365,414,360,458,360"/>
+<area shape="rect" id="Node000017" href="$class_c_squad_monster.html#abfb04f274808596d6d79c7e68846527d" title="Handles the death of the squad monster." alt="" coords="248,408,403,435"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="459,424,403,424,403,419,459,419"/>
+<area shape="rect" id="Node000018" href="$class_c_controller.html#adce6c769c1ef72326fcb43808a06da7c" title="Handles the death of the controller monster." alt="" coords="28,383,154,409"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="232,414,154,405,154,400,233,409"/>
+<area shape="rect" id="Node000019" href="$class_c_i_slave.html#ae446ca8401c03125b6e9dbced39bae59" title="Handles the death of the CISlave entity." alt="" coords="39,433,143,460"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="233,434,144,444,143,438,232,429"/>
+</map>

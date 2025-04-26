@@ -1,0 +1,16 @@
+<map id="CHeadCrab::HandleAnimEvent" name="CHeadCrab::HandleAnimEvent">
+<area shape="rect" id="Node000001" title="Handles animation events specific to the headcrab." alt="" coords="5,148,203,175"/>
+<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="274,5,413,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,146,171,95,209,66,249,42,263,35,266,40,252,46,212,71,175,99,120,150"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#a39aef199e5a7d7558f2fdac85ee6c30a" title="Handles animation events for the monster." alt="" coords="251,56,436,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,145,265,102,267,107,145,150"/>
+<area shape="rect" id="Node000004" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="290,123,397,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,148,275,141,275,146,204,153"/>
+<area shape="rect" id="Node000005" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="484,148,527,175"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="203,159,468,159,468,164,203,164"/>
+<area shape="rect" id="Node000006" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="278,224,409,251"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="150,173,285,216,283,221,148,178"/>
+<area shape="rect" id="Node000007" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="289,275,398,301"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="123,173,178,216,214,240,252,260,275,270,273,274,250,265,211,244,175,220,120,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="397,142,469,153,468,158,397,147"/>
+</map>

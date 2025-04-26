@@ -1,0 +1,41 @@
+<map id="HUD_CreateEntities" name="HUD_CreateEntities">
+<area shape="rect" id="Node000001" title="Adds custom entities to the render list." alt="" coords="5,264,143,291"/>
+<area shape="rect" id="Node000002" href="$hud__bench_8cpp.html#a0b38730b07d42542696b28634ddfce73" title="Adds the benchmark dot entities if required during the benchmark." alt="" coords="220,132,353,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,261,249,165,252,169,99,266"/>
+<area shape="rect" id="Node000015" href="$class_c_voice_status.html#a5cd8fbb526f2ef63d014a12bef035dd0" title=" " alt="" coords="191,239,382,265"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="143,267,175,263,175,268,143,272"/>
+<area shape="rect" id="Node000016" href="$hl__objects_8cpp.html#a54ad99a9e0f851268fbb3d5fd0c1bfc4" title="Adds client&#45;side game objects such as beam effects." alt="" coords="221,289,352,316"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="143,283,206,290,205,296,143,288"/>
+<area shape="rect" id="Node000019" href="$voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="221,340,352,367"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="105,289,192,326,214,333,212,338,190,330,103,294"/>
+<area shape="rect" id="Node000003" href="$hud__bench_8cpp.html#ae1126cd1ba8fae1490cb0de510c1bd0f" title="Checks if a benchmark tracking dot has been added." alt="" coords="446,5,589,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,129,356,87,391,63,429,42,444,35,446,40,431,46,394,67,359,91,305,134"/>
+<area shape="rect" id="Node000004" href="$hud__bench_8cpp.html#a37ca253a64aa8ad227c52a694b634a40" title="Checks if the benchmark is currently in the specified stage." alt="" coords="463,56,572,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="324,129,429,92,452,85,453,90,431,97,326,134"/>
+<area shape="rect" id="Node000006" href="$hud__bench_8cpp.html#ad9f2c5eedd761267109fe5eafab4cdb0" title="Sets a flag indicating whether a benchmark tracking dot has been added." alt="" coords="447,107,589,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="353,135,430,127,431,132,353,141"/>
+<area shape="rect" id="Node000007" href="$hud__bench_8cpp.html#a833a4f1715aaad07dbcb17274919b577" title="Calculates the user&#39;s score based on the distance between the target and the user&#39;s tracking dot." alt="" coords="448,157,587,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="353,150,433,159,432,164,353,155"/>
+<area shape="rect" id="Node000009" href="$hud__bench_8cpp.html#a96e0a2350e3d51dd31841462f1cb857f" title="Updates and renders benchmark dot objects every frame." alt="" coords="430,220,605,247"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="325,157,467,212,465,217,323,162"/>
+<area shape="rect" id="Node000005" href="$hud__bench_8cpp.html#a2acca70ba9541b59d8154ab2ca54d037" title="Retrieves the current benchmark stage." alt="" coords="690,43,810,69"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="573,64,674,58,674,63,573,69"/>
+<area shape="rect" id="Node000008" href="$class_c_hud_benchmark.html#a40cd401a9ae7fc6b467c4c7adee0f857" title="Sets the current tracking score used during the tracking benchmark stage." alt="" coords="659,93,841,120"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="565,154,653,129,680,122,682,127,654,135,567,159"/>
+<area shape="rect" id="Node000010" href="$hud__bench_8cpp.html#a23ae11d0d6681b54fae5415c1a90e4d1" title="Checks if PowerPlay mode is currently active." alt="" coords="676,144,824,171"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="552,217,652,180,677,173,678,178,654,185,554,222"/>
+<area shape="rect" id="Node000011" href="$class_c_hud_benchmark.html#a07cd118090c511e10f0ca54ac5b68531" title=" " alt="" coords="653,195,847,221"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="606,221,637,218,638,223,606,226"/>
+<area shape="rect" id="Node000012" href="$hud__bench_8cpp.html#a0acf2daea3c5dd89e0ba91537e72723d" title="Sets up benchmark dot objects (visual markers) in the world." alt="" coords="664,245,836,272"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="606,240,649,245,649,250,606,246"/>
+<area shape="rect" id="Node000013" href="$hud__bench_8cpp.html#acf01c40ba8216dfa976031f1f37500d9" title="Normalizes a vector&#39;s angles to the range [&#45;180, 180]." alt="" coords="895,271,1012,297"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="548,245,597,265,654,281,712,289,772,292,879,289,879,294,772,297,712,294,653,287,595,270,546,250"/>
+<area shape="rect" id="Node000014" href="$cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="710,347,790,373"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="537,245,588,284,655,326,697,343,695,348,652,330,585,289,534,249"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="836,267,880,272,879,277,836,272"/>
+<area shape="rect" id="Node000017" href="$hl__objects_8cpp.html#aaedc26d16500e52428868f44d76b7d13" title="Updates the positions and lifetimes of the client&#45;side beam effects." alt="" coords="466,347,569,373"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="344,314,451,341,450,346,342,319"/>
+<area shape="poly" id="edge19_Node000017_Node000014" title=" " alt="" coords="570,357,695,357,695,363,570,363"/>
+<area shape="rect" id="Node000018" href="$hl__weapons_8cpp.html#aa2dc68495163aa09554d94ad05cac13a" title="Retrieves the last known predicted position of the Egon beam." alt="" coords="689,397,811,424"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="571,369,674,392,673,397,569,374"/>
+</map>

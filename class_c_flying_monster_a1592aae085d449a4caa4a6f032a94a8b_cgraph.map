@@ -1,0 +1,5 @@
+<map id="CFlyingMonster::FloorZ" name="CFlyingMonster::FloorZ">
+<area shape="rect" id="Node000001" title="Gets the floor height at a specified position." alt="" coords="5,5,162,32"/>
+<area shape="rect" id="Node000002" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="210,5,320,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,16,194,16,194,21,162,21"/>
+</map>

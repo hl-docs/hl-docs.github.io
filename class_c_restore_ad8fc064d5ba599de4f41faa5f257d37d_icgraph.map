@@ -1,0 +1,32 @@
+<map id="CRestore::BufferReadBytes" name="CRestore::BufferReadBytes">
+<area shape="rect" id="Node000001" title="Reads a specified number of bytes from the save data buffer." alt="" coords="1092,107,1272,133"/>
+<area shape="rect" id="Node000002" href="$class_c_restore.html#a73f594ebe43fba44b2c0f4a9deae3ed2" title="Skips a specified number of bytes in the save data buffer." alt="" coords="868,56,1044,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1104,105,1018,86,1019,81,1105,100"/>
+<area shape="rect" id="Node000013" href="$class_c_restore.html#ab131f6e7f7ab97a45716464d31fd0ac1" title="Reads an integer from the save data." alt="" coords="662,157,790,184"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1099,139,1044,148,908,162,790,170,790,165,908,157,1044,143,1098,134"/>
+<area shape="rect" id="Node000014" href="$class_c_restore.html#ac620277bfcebb0ee17b5e38b9a4b2adb" title="Reads a short integer from the save data." alt="" coords="884,107,1028,133"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1077,123,1028,123,1028,117,1077,117"/>
+<area shape="rect" id="Node000003" href="$class_c_restore.html#ac5e8c2a08a079cd8c3a076d3d89e90fd" title="Reads the header for a field from the save data." alt="" coords="632,56,820,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="852,72,820,72,820,67,852,67"/>
+<area shape="rect" id="Node000012" href="$class_c_restore.html#a149042e400c8fffd0dbd7123b2300209" title="Skips a null&#45;terminated string in the save data buffer." alt="" coords="634,5,818,32"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="876,55,789,35,790,30,877,49"/>
+<area shape="rect" id="Node000004" href="$class_c_restore.html#ab8d12127cd05caae83e210553019b15e" title="Reads fields from the save data into a base data structure." alt="" coords="416,107,564,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="646,89,556,109,555,103,645,84"/>
+<area shape="rect" id="Node000010" href="$class_c_restore.html#a12a70bf6128bc6ffb8ea3668e15f36d4" title="Reads a named integer from the save data." alt="" coords="406,56,574,83"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="617,72,575,72,575,67,617,67"/>
+<area shape="rect" id="Node000011" href="$class_c_restore.html#a831d98b85629dd3dff4904297a4aad9d" title="Reads a named string from the save data." alt="" coords="396,5,584,32"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="645,55,555,35,556,30,646,50"/>
+<area shape="rect" id="Node000005" href="$class_c_restore.html#aef5a181ead9d72ff58383e3382e7a78b" title="Reads entity variables from the save data." alt="" coords="188,56,348,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="413,105,329,86,330,81,414,100"/>
+<area shape="rect" id="Node000007" href="$class_c_global_state.html#aa37d73463332f2982963c814e83bb5f7" title="Restores the global state from a save file." alt="" coords="192,107,344,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="401,123,344,123,344,117,401,117"/>
+<area shape="rect" id="Node000009" href="$cbase_8cpp.html#abef62dd3552d92763186a8bc825a94eb" title="Reads fields from the save data." alt="" coords="211,157,325,184"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="414,140,326,160,325,155,413,135"/>
+<area shape="rect" id="Node000006" href="$cbase_8cpp.html#a28d62ac92a1ba4cfb587a60c412d6926" title="Restores the state of an entity from saved data." alt="" coords="14,56,131,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="172,72,131,72,131,67,172,67"/>
+<area shape="rect" id="Node000008" href="$world_8cpp.html#a00fbf02202736175c440598f46abdb6b" title="Restores the global state using the provided save data." alt="" coords="5,107,140,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="177,123,140,123,140,117,177,117"/>
+<area shape="poly" id="edge13_Node000013_Node000004" title=" " alt="" coords="647,157,555,137,556,131,648,151"/>
+<area shape="poly" id="edge15_Node000014_Node000003" title=" " alt="" coords="876,105,789,86,790,81,877,100"/>
+<area shape="poly" id="edge16_Node000014_Node000004" title=" " alt="" coords="868,123,565,123,565,117,868,117"/>
+</map>

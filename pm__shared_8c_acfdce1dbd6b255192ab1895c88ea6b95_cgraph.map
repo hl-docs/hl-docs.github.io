@@ -1,0 +1,22 @@
+<map id="PM_Jump" name="PM_Jump">
+<area shape="rect" id="Node000001" title="Handles jumping." alt="" coords="5,141,85,168"/>
+<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="425,167,485,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,149,200,146,271,147,341,152,410,165,409,170,341,157,270,152,200,151,85,155"/>
+<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="569,91,613,117"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="51,139,81,94,104,69,131,51,187,28,236,13,281,5,324,3,368,8,414,18,522,51,546,63,567,78,564,82,543,67,520,56,413,23,367,13,324,9,282,10,237,18,189,33,134,56,107,74,85,97,55,142"/>
+<area shape="rect" id="Node000004" href="$pm__shared_8c.html#abcbcdfd7f607802cc526c07d7caec8bc" title="Fixes gravity&#45;related velocity issues." alt="" coords="153,65,321,92"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="70,138,132,108,169,95,171,100,134,113,72,143"/>
+<area shape="rect" id="Node000006" href="$pm__shared_8c.html#a4317b05094ba900560ebe20cd8266d0a" title="Maps texture types to step sound types." alt="" coords="137,167,337,193"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="85,157,122,162,121,167,85,163"/>
+<area shape="rect" id="Node000007" href="$pm__shared_8c.html#aaa8cfe9f309b881e8a8e902e1c794627" title="Plays a footstep sound based on the surface type." alt="" coords="168,217,306,244"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="67,166,98,185,134,203,154,210,152,215,132,208,95,190,65,171"/>
+<area shape="rect" id="Node000008" href="$pm__shared_8c.html#a6d492af09bedfe81006e6427a6b23dc2" title="Corrects bunny jumping." alt="" coords="133,268,341,295"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="56,167,87,210,109,234,134,254,144,259,142,264,131,258,105,238,83,214,52,170"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,164,555,121,557,126,482,168"/>
+<area shape="rect" id="Node000005" href="$pm__shared_8c.html#a1931c0696cebc5f958a352c6c705535d" title="Ensures player velocity stays within safe limits." alt="" coords="389,65,521,92"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,76,373,76,373,81,321,81"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="297,214,409,188,411,193,298,219"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="308,265,340,254,385,228,424,201,427,205,388,233,342,258,310,270"/>
+<area shape="rect" id="Node000009" href="$cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="409,268,501,295"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="342,279,394,279,394,284,342,284"/>
+</map>

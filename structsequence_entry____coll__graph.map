@@ -1,0 +1,9 @@
+<map id="sequenceEntry_" name="sequenceEntry_">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,187,147,213"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="163,191,173,200,165,208,147,211,147,206,163,203,168,200,160,196"/>
+<area shape="rect" id="Node000002" href="$structsequence_command_line__.html" title=" " alt="" coords="5,96,173,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,138,92,186,86,186,86,138"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="189,101,199,109,191,117,173,120,173,115,189,112,194,109,187,106"/>
+<area shape="rect" id="Node000003" href="$structclient__textmessage__s.html" title=" " alt="" coords="15,5,163,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,48,92,95,86,95,86,48"/>
+</map>

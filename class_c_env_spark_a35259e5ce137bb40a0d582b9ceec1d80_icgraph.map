@@ -1,0 +1,12 @@
+<map id="CEnvSpark::SparkThink" name="CEnvSpark::SparkThink">
+<area shape="rect" id="Node000001" title="Think function for the spark environment entity." alt="" coords="591,81,750,108"/>
+<area shape="rect" id="Node000002" href="$class_c_env_spark.html#a2bbab778a02b2ffa134ad3ae83aad490" title="Starts the spark effect for the spark environment entity." alt="" coords="388,31,543,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="598,80,522,61,523,55,599,74"/>
+<area shape="rect" id="Node000004" href="$class_c_env_spark.html#a347606543b1028f6c91a6a8c64938795" title="Spawns the spark environment entity." alt="" coords="5,56,138,83"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="576,93,138,75,138,69,576,88"/>
+<area shape="rect" id="Node000003" href="$class_c_env_spark.html#ab71f692b3c075a7fed13712d1509abeb" title="Stops the spark effect for the spark environment entity." alt="" coords="186,5,340,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,44,312,35,313,30,373,39"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="373,53,138,68,138,62,372,47"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="356,19,416,27,415,33,355,24"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="195,39,125,58,124,53,194,34"/>
+</map>

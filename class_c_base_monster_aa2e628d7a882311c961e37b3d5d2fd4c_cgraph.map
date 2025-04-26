@@ -1,0 +1,13 @@
+<map id="CBaseMonster::FInViewCone" name="CBaseMonster::FInViewCone">
+<area shape="rect" id="Node000001" title="Checks if an entity is within the monster&#39;s view cone." alt="" coords="5,56,197,83"/>
+<area shape="rect" id="Node000002" href="$class_vector2_d.html#a60bb6900f4c98e49928099948b8b94b3" title=" " alt="" coords="245,31,386,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,55,229,52,229,57,197,61"/>
+<area shape="rect" id="Node000006" href="$util_8cpp.html#ab05f77512c119287424cb3a712bf6364" title="Makes vectors based on the provided angles." alt="" coords="250,81,381,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="197,78,234,82,234,88,197,83"/>
+<area shape="rect" id="Node000003" href="$class_vector2_d.html#a725900b4f3acf28468be68f0e5924de6" title=" " alt="" coords="442,5,564,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,32,426,26,426,32,387,37"/>
+<area shape="rect" id="Node000005" href="$class_vector2_d.html#a0cbd5dc90e04f8ffb665717ae503e781" title=" " alt="" coords="434,56,571,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="387,51,419,55,418,61,386,56"/>
+<area shape="rect" id="Node000004" href="$pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="619,5,663,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="564,16,604,16,604,21,564,21"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="CGraph::HullIndex" name="CGraph::HullIndex">
+<area shape="rect" id="Node000001" title="Determines the hull index for a given entity based on its properties." alt="" coords="725,72,852,99"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a48ba3c175fb98f7b1b824b6553190060" title="Builds the nearest route to a specified threat." alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,71,677,63,547,48,416,38,195,30,195,25,416,33,547,42,678,57,721,65"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#a1120348215e49b77aad02f8b1bd84b9a" title="Finds a node route to a specified destination." alt="" coords="469,72,677,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="710,88,678,88,678,83,710,83"/>
+<area shape="rect" id="Node000007" href="$class_c_base_monster.html#a4c7e04db8d90a4e3030238abe8bb8593" title="Finds cover for the monster from a specified threat." alt="" coords="487,148,659,175"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="735,107,615,150,613,145,733,102"/>
+<area shape="rect" id="Node000004" href="$class_c_base_monster.html#afcbb5ee692729f28d1985fac676d178f" title="Builds a route to a specified goal." alt="" coords="243,72,421,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="453,88,422,88,422,83,453,83"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="261,70,186,51,188,46,262,65"/>
+<area shape="rect" id="Node000005" href="$class_c_a_grunt.html#ae44b4283116ed1bc311f24b11ece2659" title="Starts a task for the Alien Grunt." alt="" coords="32,72,168,99"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="227,88,168,88,168,83,227,83"/>
+<area shape="rect" id="Node000006" href="$class_c_bullsquid.html#ac136a8d433a80981ecc37d7e284db98d" title="Starts a task for the bullsquid." alt="" coords="26,123,174,149"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="253,105,165,125,164,119,252,100"/>
+<area shape="rect" id="Node000008" href="$class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="249,173,415,200"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="472,175,415,181,415,175,471,169"/>
+<area shape="rect" id="Node000009" href="$class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="32,173,168,200"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="234,189,168,189,168,184,234,184"/>
+<area shape="rect" id="Node000010" href="$class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="27,224,173,251"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="253,206,165,226,164,221,252,201"/>
+</map>

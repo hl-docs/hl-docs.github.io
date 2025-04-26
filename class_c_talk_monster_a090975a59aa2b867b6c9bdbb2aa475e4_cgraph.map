@@ -1,0 +1,11 @@
+<map id="CTalkMonster::CanFollow" name="CTalkMonster::CanFollow">
+<area shape="rect" id="Node000001" title="Checks if the talk monster can follow a target." alt="" coords="5,56,175,83"/>
+<area shape="rect" id="Node000002" href="$class_c_cine_monster.html#a1da60b20543300d340eed9043b37db2a" title="Checks if the cinematic sequence can be interrupted." alt="" coords="223,5,404,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,53,236,33,237,39,153,58"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#a26789222385186bbdcf23cea1d8396f2" title=" " alt="" coords="237,56,390,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,67,222,67,222,72,175,72"/>
+<area shape="rect" id="Node000004" href="$class_c_talk_monster.html#a50e09b76203d8516a5bc61e971c99429" title=" " alt="" coords="227,107,400,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,81,237,100,236,105,152,86"/>
+<area shape="rect" id="Node000005" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="452,107,601,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="400,117,437,117,437,123,400,123"/>
+</map>

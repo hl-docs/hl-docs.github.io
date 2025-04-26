@@ -1,0 +1,18 @@
+<map id="CGunTarget::Stop" name="CGunTarget::Stop">
+<area shape="rect" id="Node000001" title="Stops the gun target&#39;s movement." alt="" coords="761,81,886,108"/>
+<area shape="rect" id="Node000002" href="$class_c_gun_target.html#adc7769185a2d6280e0e0588f26ddfac5" title="Moves the gun target to the next position." alt="" coords="563,56,688,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="745,87,688,80,689,75,746,82"/>
+<area shape="rect" id="Node000003" href="$class_c_gun_target.html#a982c0a528722b78e1524ed335996e5bc" title="Activates the gun target based on user input." alt="" coords="367,5,488,32"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="784,76,749,60,712,47,654,34,594,26,489,21,489,15,594,21,654,29,713,41,751,55,786,71"/>
+<area shape="rect" id="Node000006" href="$class_c_gun_target.html#aeaed0a73b61760346108561c2d9e6868" title="Waits for a specified duration before proceeding." alt="" coords="365,56,490,83"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="745,102,646,104,538,97,478,86,479,81,539,92,647,98,745,97"/>
+<area shape="rect" id="Node000007" href="$class_c_gun_target.html#af508022b50d34011c4dac84c1e8131d8" title="Handles damage taken by the gun target." alt="" coords="538,157,713,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="775,117,714,141,666,159,664,154,712,136,773,112"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,54,482,35,483,30,556,49"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="548,81,491,80,491,75,548,75"/>
+<area shape="rect" id="Node000004" href="$class_c_gun_target.html#adcc4d0b590238328cb786d674f41c03d" title="Starts the gun target&#39;s operation." alt="" coords="191,5,317,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="351,21,318,21,318,16,351,16"/>
+<area shape="rect" id="Node000005" href="$class_c_gun_target.html#aec59ac077de4324c0e6ac4a67cc8afc7" title="Spawns the gun target entity and initializes its properties." alt="" coords="5,5,143,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="175,21,143,21,143,16,175,16"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="506,58,562,58,562,64,506,63"/>
+</map>

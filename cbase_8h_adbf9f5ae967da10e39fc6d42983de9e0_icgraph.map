@@ -1,0 +1,18 @@
+<map id="ButtonSound" name="ButtonSound">
+<area shape="rect" id="Node000001" title="Determines the sound associated with a button." alt="" coords="408,107,504,133"/>
+<area shape="rect" id="Node000002" href="$class_c_base_button.html#adbb7812fd5072d7d7b6cb778315d5eef" title=" " alt="" coords="199,5,360,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,99,359,53,320,35,322,30,361,48,429,95"/>
+<area shape="rect" id="Node000003" href="$class_c_base_button.html#a5eae01688c33be4ada622a6f7cd9d3ca" title="Spawns the button entity." alt="" coords="5,19,151,45"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="392,106,359,97,145,49,146,43,361,92,394,101"/>
+<area shape="rect" id="Node000004" href="$class_c_base_door.html#aa890e4af95c913864242f0aafea622f0" title="Preloads all resources needed by the door." alt="" coords="204,107,355,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="393,123,355,123,355,117,393,117"/>
+<area shape="rect" id="Node000007" href="$class_c_rot_button.html#a60fe287e0fee6141f73bd3d3f18a1767" title="Spawns the rotating button entity." alt="" coords="212,157,347,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="394,140,329,159,328,154,393,135"/>
+<area shape="rect" id="Node000008" href="$class_c_momentary_rot_button.html#adad7e9d6f4dd03440cc2f36b0152f4e0" title="Spawns the momentary rotating button entity." alt="" coords="203,208,356,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="431,146,399,173,361,198,339,210,337,205,359,194,395,168,427,142"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,28,151,30,151,25,183,22"/>
+<area shape="rect" id="Node000005" href="$class_c_base_door.html#a7c17bb171f186b0bfe3b12bb5f8b44b7" title="Spawns the door entity." alt="" coords="11,81,145,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="189,111,145,106,146,100,189,106"/>
+<area shape="rect" id="Node000006" href="$class_c_rot_door.html#afea049164a038d09ea1a2bf4f77b746d" title="Spawns the rotating door entity." alt="" coords="16,132,140,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="189,134,141,140,140,135,189,129"/>
+</map>

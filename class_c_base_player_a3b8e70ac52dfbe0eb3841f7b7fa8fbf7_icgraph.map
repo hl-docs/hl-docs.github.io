@@ -1,0 +1,11 @@
+<map id="CBasePlayer::Spawn" name="CBasePlayer::Spawn">
+<area shape="rect" id="Node000001" title="Called when the player spawns." alt="" coords="488,31,633,57"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#af33d5a5c62848a1bc073582e1906210a" title="Called each time a player is spawned." alt="" coords="296,5,416,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,36,416,29,417,23,473,31"/>
+<area shape="rect" id="Node000003" href="$hl__weapons_8cpp.html#a7f536b4e474cf3eafb01428429fc7bbe" title="Runs the weapon logic on the client&#45;side during prediction." alt="" coords="272,56,440,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="473,57,441,62,440,56,473,52"/>
+<area shape="rect" id="Node000004" href="$hl__weapons_8cpp.html#a1b6fe5f64f2a0a1dc0e3ee9749c4eddb" title="Called after player movement prediction is done on the client." alt="" coords="92,56,224,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,72,225,72,225,67,257,67"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,56,44,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,72,44,72,44,67,76,67"/>
+</map>

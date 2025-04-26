@@ -1,0 +1,7 @@
+<map id="ScorePanel" name="ScorePanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,80,165,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,90,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,41,110,78,106,82,69,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="113,5,278,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,45,136,82,132,78,170,41"/>
+</map>

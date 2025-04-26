@@ -1,0 +1,5 @@
+<map id="DispatchBlocked" name="DispatchBlocked">
+<area shape="rect" id="Node000001" title="Dispatches the blocked event for an entity." alt="" coords="177,5,296,32"/>
+<area shape="rect" id="Node000002" href="$class_c_controller.html#a8886150858264160340eb0463957f3df" title="Moves the controller monster." alt="" coords="5,5,129,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,21,129,21,129,16,161,16"/>
+</map>

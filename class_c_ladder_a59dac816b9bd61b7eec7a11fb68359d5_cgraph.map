@@ -1,0 +1,9 @@
+<map id="CLadder::KeyValue" name="CLadder::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the ladder entity." alt="" coords="5,31,139,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_trigger.html#a2a441a3705eff827c6b539937d293edc" title="Caches user&#45;defined entity field values until the spawn is called." alt="" coords="187,31,350,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,41,171,41,171,47,139,47"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="448,5,510,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,32,432,22,433,27,350,37"/>
+<area shape="rect" id="Node000004" href="$class_c_base_toggle.html#a99ba6e5114504377f537ca98b3afec40" title="Handles key&#45;value pairs for the toggle entity." alt="" coords="398,56,560,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="350,51,383,55,382,60,350,56"/>
+</map>

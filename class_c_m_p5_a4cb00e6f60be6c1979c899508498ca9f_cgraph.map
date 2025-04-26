@@ -1,0 +1,13 @@
+<map id="CMP5::Reload" name="CMP5::Reload">
+<area shape="rect" id="Node000001" title="Reloads the MP5 weapon." alt="" coords="5,80,111,107"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a45ea7db79a9f40517bfebc1b5f28a959" title="Handles weapon reload logic using default behavior." alt="" coords="159,72,312,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,91,143,91,143,96,111,96"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="364,5,517,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,69,357,51,359,56,304,74"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player_weapon.html#a902e601b56e6e451c55a34605b8b41c4" title=" " alt="" coords="364,72,517,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="313,91,348,91,348,96,313,96"/>
+<area shape="rect" id="Node000006" href="$com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="360,139,520,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="313,113,377,131,376,137,311,118"/>
+<area shape="rect" id="Node000004" href="$com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="568,13,732,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="517,24,553,24,553,29,517,29"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="READ_CHAR" name="READ_CHAR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,56,383,83"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_ammo.html#a342b61ca6d69cb53c2fabcb2f180d7e2" title="Updates the HUD state with the current weapon and clip count." alt="" coords="6,5,234,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,55,234,47,185,35,186,30,235,41,268,50"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_menu.html#a761210065f228d9138980844463a4cfb" title="Message handler for the ShowMenu message from the server." alt="" coords="11,56,229,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,72,230,72,230,67,267,67"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_ammo.html#a8985e497fa1d9a8153bab5aba358e3f9" title="Handles the registration of a new weapon type for the HUD." alt="" coords="5,107,235,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="268,89,235,97,186,109,185,103,234,92,267,84"/>
+</map>

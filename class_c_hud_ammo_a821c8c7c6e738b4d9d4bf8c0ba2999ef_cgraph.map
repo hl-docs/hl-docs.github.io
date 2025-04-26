@@ -1,0 +1,15 @@
+<map id="CHudAmmo::UserCmd_Slot7" name="CHudAmmo::UserCmd_Slot7">
+<area shape="rect" id="Node000001" title="Command handler for selecting slot 7." alt="" coords="5,81,196,108"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_ammo.html#af1b3a33d0bc59274a003fc29be42ccdc" title="Handles the input for selecting a weapon slot." alt="" coords="244,81,394,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,92,228,92,228,97,196,97"/>
+<area shape="rect" id="Node000003" href="$class_weapons_resource.html#a077969347e46f70ca675e237c6fc7233" title="Selects the appropriate weapon slot and manages weapon selection." alt="" coords="442,52,641,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,82,426,78,427,83,394,87"/>
+<area shape="rect" id="Node000006" href="$class_team_fortress_viewport.html#a7a3133886314122e4b81dbca3190d8ac" title="Handles number key input for current menu, if any." alt="" coords="466,103,617,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="394,102,451,109,450,115,394,107"/>
+<area shape="rect" id="Node000004" href="$cl__util_8h.html#a94e0b3cb3acf2d4519928b6e70cbacfc" title="Plays a sound by its name with the specified volume." alt="" coords="741,5,825,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="613,49,725,27,726,32,614,54"/>
+<area shape="rect" id="Node000005" href="$class_c_hud_menu.html#a15035da6224fd06591046e0cf5e80e16" title="Handles a menu selection by the player." alt="" coords="689,56,877,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="642,64,673,65,673,70,642,70"/>
+<area shape="rect" id="Node000007" href="$class_c_menu_panel.html#aa8725b4dde82d48410910d843dc025e4" title=" " alt="" coords="706,111,860,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="618,121,690,121,690,127,618,127"/>
+</map>

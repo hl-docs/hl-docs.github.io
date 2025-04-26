@@ -1,0 +1,22 @@
+<map id="CBasePlayer::DeathSound" name="CBasePlayer::DeathSound">
+<area shape="rect" id="Node000001" title="Plays the death sound for the player." alt="" coords="5,56,182,83"/>
+<area shape="rect" id="Node000002" href="$sound_8cpp.html#ace8b6a40eb781891025eeb204dda6f92" title="Plays a random sentence from a group by name over the HEV suit speaker." alt="" coords="230,56,408,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,67,214,67,214,72,182,72"/>
+<area shape="rect" id="Node000009" href="$util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="491,5,595,32"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="161,53,229,41,360,28,474,19,475,25,360,33,230,47,162,58"/>
+<area shape="rect" id="Node000010" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="296,107,342,133"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="157,81,281,109,280,114,156,86"/>
+<area shape="rect" id="Node000003" href="$sound_8cpp.html#a008281b5a5a3c722a6424dbf30f1cb24" title="Plays a random sentence from a group by name." alt="" coords="456,56,629,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,67,440,67,440,72,408,72"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="688,5,827,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="602,53,683,34,684,39,603,58"/>
+<area shape="rect" id="Node000006" href="$sound_8cpp.html#a3fe80c53eaa2f42deeb7a14a10ee5533" title="Gets the index of a sentence group by name." alt="" coords="677,56,838,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="630,67,661,67,661,72,630,72"/>
+<area shape="rect" id="Node000007" href="$sound_8cpp.html#aae0ad5b2266f4050c68b37d8477281fd" title="Picks a random sentence from a group using the LRU list." alt="" coords="686,107,829,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="603,81,684,100,683,105,602,86"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="890,5,1041,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="827,16,875,16,875,21,827,21"/>
+<area shape="rect" id="Node000008" href="$sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="886,107,1045,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="829,117,870,117,870,123,829,123"/>
+<area shape="poly" id="edge9_Node000009_Node000004" title=" " alt="" coords="595,16,673,16,673,21,595,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UTIL_SharedRandomLong" name="UTIL_SharedRandomLong">
+<area shape="rect" id="Node000001" title="Generates a shared pseudo&#45;random integer between low and high (inclusive)." alt="" coords="5,31,177,57"/>
+<area shape="rect" id="Node000002" href="$com__weapons_8cpp.html#a27de238ae44f691494d3b5b6dd45e18a" title="Generates a pseudo&#45;random number." alt="" coords="225,5,310,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,29,209,24,210,30,178,34"/>
+<area shape="rect" id="Node000003" href="$com__weapons_8cpp.html#adb962cdb4f81d757ce7bcaab3f47172b" title="Sets the seed for the custom random number generator." alt="" coords="232,56,303,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,54,217,59,216,65,177,59"/>
+</map>

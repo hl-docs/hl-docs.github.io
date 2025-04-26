@@ -1,0 +1,37 @@
+<map id="CGameScore::Use" name="CGameScore::Use">
+<area shape="rect" id="Node000001" title="Activates the game score entity." alt="" coords="5,173,136,200"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a3b0cc54e3e36c8c7781f9d4e7bdd1963" title=" " alt="" coords="209,5,371,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,171,115,109,145,72,182,42,193,36,196,40,185,46,149,76,119,112,81,174"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a319509c3e8c5a7e1159b3fa6d5aa9f63" title=" " alt="" coords="186,56,394,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,171,124,132,152,110,182,92,197,86,199,91,185,97,155,115,128,136,86,175"/>
+<area shape="rect" id="Node000004" href="$class_c_game_score.html#a4fa9a981a95b118894530574ce9bf4fa" title=" " alt="" coords="196,107,384,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,170,192,151,193,157,124,175"/>
+<area shape="rect" id="Node000005" href="$class_c_game_score.html#a002c9d97f77d39043026d13c2296411d" title=" " alt="" coords="195,173,385,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="136,184,179,184,179,189,136,189"/>
+<area shape="rect" id="Node000006" href="$class_c_rule_entity.html#a50c632bfe07f792721018da7a6df903d" title="Checks if the rule entity can fire for the given activator." alt="" coords="184,224,396,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="132,198,215,217,214,223,131,203"/>
+<area shape="rect" id="Node000016" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="215,275,365,301"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="90,198,131,230,185,260,202,267,200,272,183,265,128,234,87,203"/>
+<area shape="rect" id="Node000017" href="$class_c_game_score.html#ae3b94d13305fa39f5c97b2ebd8168c74" title=" " alt="" coords="218,325,362,352"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="82,199,122,254,151,285,185,311,204,320,202,325,182,316,148,289,118,258,78,202"/>
+<area shape="rect" id="Node000007" href="$dlls_2util_8cpp.html#a98df9753b7c184ab5017e937755f60ef" title="Checks if a master entity is triggered by a given activator." alt="" coords="444,224,601,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="396,235,428,235,428,240,396,240"/>
+<area shape="rect" id="Node000008" href="$util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="649,99,872,125"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="535,221,582,178,614,155,648,135,665,128,667,133,651,140,617,159,586,183,539,225"/>
+<area shape="rect" id="Node000009" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="725,173,796,200"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="588,221,709,195,710,200,589,226"/>
+<area shape="rect" id="Node000012" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="685,224,836,251"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="602,235,669,235,669,240,602,240"/>
+<area shape="rect" id="Node000014" href="$class_c_base_entity.html#ac2d5079ef409ec0e47096ba3a42f4be6" title=" " alt="" coords="678,275,843,301"/>
+<area shape="poly" id="edge15_Node000007_Node000014" title=" " alt="" coords="589,249,680,268,679,274,588,254"/>
+<area shape="rect" id="Node000015" href="$class_c_base_entity.html#ae8fb0a77c3af0f3285cf0c8a76b9c424" title=" " alt="" coords="675,325,846,352"/>
+<area shape="poly" id="edge16_Node000007_Node000015" title=" " alt="" coords="544,249,591,280,650,311,671,318,669,323,648,316,588,285,541,253"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="723,174,716,165,721,155,736,149,761,147,787,149,801,156,799,161,786,154,760,152,737,154,724,159,721,164,727,171"/>
+<area shape="rect" id="Node000010" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="920,173,1050,200"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="796,184,904,184,904,189,796,189"/>
+<area shape="rect" id="Node000011" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1098,199,1144,225"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1051,196,1083,202,1082,208,1050,202"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="836,229,1082,212,1083,217,837,235"/>
+<area shape="rect" id="Node000013" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="930,275,1040,301"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="824,249,915,270,914,275,822,254"/>
+</map>

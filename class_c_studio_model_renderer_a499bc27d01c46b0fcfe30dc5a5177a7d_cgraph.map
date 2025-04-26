@@ -1,0 +1,17 @@
+<map id="CStudioModelRenderer::StudioCalcRotations" name="CStudioModelRenderer::StudioCalcRotations">
+<area shape="rect" id="Node000001" title="Calculates bone rotations and positions for the current animation frame." alt="" coords="5,105,160,148"/>
+<area shape="rect" id="Node000002" href="$class_c_studio_model_renderer.html#ab3567f97a467114bba20445b7a3c9e36" title="Calculates bone controller adjustments for animation interpolation." alt="" coords="220,5,374,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,103,207,58,219,52,222,57,209,62,122,107"/>
+<area shape="rect" id="Node000003" href="$class_c_studio_model_renderer.html#a6ccbb43956fd845275ed9a63f91c494c" title="Calculates the bone position for a given animation frame." alt="" coords="212,72,382,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,112,196,106,197,112,161,117"/>
+<area shape="rect" id="Node000004" href="$class_c_studio_model_renderer.html#aa35b338a10d31cfd5f33fdab528c5c92" title="Calculates the bone orientation (quaternion) for a given animation frame." alt="" coords="208,139,386,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,136,193,141,192,146,160,141"/>
+<area shape="rect" id="Node000008" href="$class_c_studio_model_renderer.html#a36a02e29c74dd7e3b8d7fd45d746a7f5" title="Estimates the interpolation factor for animation blending." alt="" coords="208,205,386,248"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,146,209,191,222,197,219,201,207,196,120,151"/>
+<area shape="rect" id="Node000005" href="$studio__util_8cpp.html#a16042b88ad22f3297b1176f950366e2d" title="Converts Euler angles to a quaternion." alt="" coords="434,96,551,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="381,135,423,125,424,130,382,141"/>
+<area shape="rect" id="Node000006" href="$studio__util_8cpp.html#ab621fbc786bcd3a0e31c5d3e6e2417bf" title="Performs spherical linear interpolation (SLERP) between two quaternions." alt="" coords="436,147,550,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="386,157,420,157,420,163,386,163"/>
+<area shape="rect" id="Node000007" href="$studio__util_8cpp.html#a746b1664af98bddc08e0f1803a908282" title="Compares two 3D vectors for equality." alt="" coords="437,197,548,224"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="382,179,424,190,423,195,381,185"/>
+</map>

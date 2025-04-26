@@ -1,0 +1,5 @@
+<map id="CBreakable::DamageDecal" name="CBreakable::DamageDecal">
+<area shape="rect" id="Node000001" title="Retrieves the damage decal for a specific damage type." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#afa5c91ae5eec7bd8d5c83439aee1a5e7" title="Gets the damage decal for the entity." alt="" coords="231,5,414,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,16,215,16,215,21,183,21"/>
+</map>

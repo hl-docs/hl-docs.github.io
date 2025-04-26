@@ -1,0 +1,5 @@
+<map id="CBaseMonster::InsertWaypoint" name="CBaseMonster::InsertWaypoint">
+<area shape="rect" id="Node000001" title="Inserts a waypoint into the monster&#39;s route." alt="" coords="221,5,423,32"/>
+<area shape="rect" id="Node000002" href="$class_c_bullsquid.html#ab1f1adb99f3a0466c35e2a3d37fee7ab" title="Handles damage taken by the bullsquid." alt="" coords="5,5,173,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,21,173,21,173,16,205,16"/>
+</map>

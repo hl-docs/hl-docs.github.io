@@ -1,0 +1,17 @@
+<map id="V_GetSingleTargetCam" name="V_GetSingleTargetCam">
+<area shape="rect" id="Node000001" title="Calculates the camera&#39;s angle and position when following a single target." alt="" coords="5,157,163,184"/>
+<area shape="rect" id="Node000002" href="$view_8cpp.html#a01e35c70a3631fc45948099bc7a30a21" title="Calculates the camera&#39;s origin based on a target&#39;s position and view angles." alt="" coords="237,107,367,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,154,226,135,227,140,145,159"/>
+<area shape="rect" id="Node000007" href="$view_8cpp.html#a61708c8c8b9293bcfb0deda4087e7c26" title="Smoothly interpolates between two angles based on the specified speed." alt="" coords="211,183,393,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="163,177,195,181,195,186,163,182"/>
+<area shape="rect" id="Node000003" href="$view_8cpp.html#a090efc998653bf944c811540e03257ba" title=" " alt="" coords="475,5,547,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,104,377,74,440,42,459,33,461,38,442,46,379,78,327,108"/>
+<area shape="rect" id="Node000004" href="$pm__shared_8c.html#a08012c7e6a6dacc3d6c8480e6c70eaf6" title="Retrieves the information of a physics entity." alt="" coords="441,56,580,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="359,103,437,84,439,89,361,109"/>
+<area shape="rect" id="Node000005" href="$cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="471,107,550,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="367,117,456,117,456,123,367,123"/>
+<area shape="rect" id="Node000006" href="$cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="465,157,557,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="361,131,450,153,449,159,359,137"/>
+<area shape="rect" id="Node000008" href="$pm__math_8c.html#afb9151455880b50ea0c8739f960eee64" title="Normalizes an angle to be between &#45;180 and 180 degrees." alt="" coords="451,208,570,235"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="394,204,436,210,435,215,393,210"/>
+</map>

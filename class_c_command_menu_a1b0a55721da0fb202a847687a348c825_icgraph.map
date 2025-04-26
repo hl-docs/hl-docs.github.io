@@ -1,0 +1,16 @@
+<map id="CCommandMenu::GetParentMenu" name="CCommandMenu::GetParentMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="537,80,757,107"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a96af1999947a5e99bcd45d16ebe3860f" title="Reads the Command Menu structure from a file and creates the menu." alt="" coords="306,19,465,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,79,465,59,466,54,564,74"/>
+<area shape="rect" id="Node000004" href="$class_command_button.html#a6c2ae6d465b0c2461674c709cd412c49" title="Called when the mouse cursor enters the button. Highlights the button and any parent menus." alt="" coords="282,121,489,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="544,112,475,123,474,118,543,107"/>
+<area shape="rect" id="Node000003" href="$class_team_fortress_viewport.html#aacf8ea3f9311effbcb873b677272d989" title="Constructor for the TeamFortressViewport class." alt="" coords="40,5,199,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,38,200,33,200,28,291,33"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="431,109,416,103,385,100,358,102,342,107,339,112,346,119,342,123,334,113,339,103,357,97,385,95,417,97,433,104"/>
+<area shape="rect" id="Node000005" href="$class_c_handler___command_button_highlight.html#aa2e9c73831238240394f034289d7bc04" title=" " alt="" coords="5,72,234,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="280,121,234,114,235,108,280,116"/>
+<area shape="rect" id="Node000006" href="$class_toggle_command_button.html#a3693056717ed248e721efeab06f3388d" title=" " alt="" coords="41,139,198,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="266,149,198,155,198,150,266,143"/>
+<area shape="rect" id="Node000007" href="$class_spect_toggle_button.html#a7045546bcc97cf7890418ed818d714a1" title=" " alt="" coords="50,205,189,248"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="338,157,235,196,191,210,189,205,233,191,336,152"/>
+</map>

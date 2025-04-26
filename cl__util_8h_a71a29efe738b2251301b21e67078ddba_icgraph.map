@@ -1,0 +1,5 @@
+<map id="ConsoleStringLen" name="ConsoleStringLen">
+<area shape="rect" id="Node000001" title="Retrieves the width of a string when drawn on the console." alt="" coords="215,5,338,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_death_notice.html#a2535ba5a586f877edd748063ef81cf11" title="Draws all active death notices on the screen." alt="" coords="5,5,167,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,167,21,167,16,199,16"/>
+</map>

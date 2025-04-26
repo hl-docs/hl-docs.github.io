@@ -1,0 +1,5 @@
+<map id="CHudTextMessage::LookupString" name="CHudTextMessage::LookupString">
+<area shape="rect" id="Node000001" title="Simplified version of LocaliseTextString, assumes the message is a single word." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="Node000002" href="$cl__util_8h.html#a0bf5ff992352168b2955d9b66c625217" title="Retrieves a text message by its name." alt="" coords="269,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,16,253,16,253,21,221,21"/>
+</map>

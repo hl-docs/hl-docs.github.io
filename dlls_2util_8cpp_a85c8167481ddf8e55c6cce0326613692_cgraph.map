@@ -1,0 +1,9 @@
+<map id="UTIL_Bubbles" name="UTIL_Bubbles">
+<area shape="rect" id="Node000001" title="Emits bubble effects in a specified area." alt="" coords="5,31,107,57"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="155,5,289,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,34,139,29,140,34,108,39"/>
+<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#ab9ffe1bedd04fba26739ce06d1b7c1e8" title="Determines the water level at a specified position." alt="" coords="163,56,281,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,49,148,55,147,61,107,54"/>
+<area shape="rect" id="Node000004" href="$dlls_2util_8cpp.html#a168e867ce033654505b26655314ce1e3" title="Retrieves the contents at a specified point in the game world." alt="" coords="337,56,473,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,67,321,67,321,72,281,72"/>
+</map>

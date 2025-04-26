@@ -1,0 +1,21 @@
+<map id="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoBroadcastRefresh" name="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoBroadcastRefresh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,215,107"/>
+<area shape="rect" id="Node000002" href="$hud__servers_8cpp.html#a32bf42a9107c55724125e60c0e05f46b" title="Starts a LAN broadcast query for local servers." alt="" coords="263,56,407,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,67,247,67,247,72,215,72"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#a7bb317135c967ae198a00fac3fb5d9ca" title="Sends broadcast requests over LAN (IP and IPX) to discover servers." alt="" coords="455,56,687,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,67,440,67,440,72,408,72"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_servers.html#a004be034c14cec94f547ccf119d656a3" title="Deletes all requests in the specified list." alt="" coords="735,5,939,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="645,53,748,33,749,38,646,58"/>
+<area shape="rect" id="Node000005" href="$class_c_hud_servers.html#a2f773a8e467eb51403b7d1cf757f532e" title="Deletes all servers in the specified list and their associated info strings." alt="" coords="741,56,933,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="688,67,726,67,726,72,688,72"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_servers.html#a00180a8dae26ce1c3055f8b8abddb260" title="Handles detailed information received from a specific server." alt="" coords="738,107,936,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="646,81,749,101,748,106,645,86"/>
+<area shape="rect" id="Node000007" href="$class_c_hud_servers.html#ab0ac9840ef7d2dbf3413f582881eb641" title="Adds a server to the list in sorted order." alt="" coords="998,56,1162,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="904,103,997,84,998,89,905,109"/>
+<area shape="rect" id="Node000009" href="$class_c_hud_servers.html#ae907152913461f8ebf813e8a7ca7fc89" title="Finds a request in a list by its context ID." alt="" coords="991,107,1169,133"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="937,117,976,117,976,123,937,123"/>
+<area shape="rect" id="Node000010" href="$class_c_hud_servers.html#a02dbc418b28d44dac08b7e8068e3e77a" title="Removes a request from a list without deleting the item." alt="" coords="987,157,1173,200"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="896,131,974,151,973,156,895,136"/>
+<area shape="rect" id="Node000008" href="$class_c_hud_servers.html#a2acbe6e7e89b5958b1a550424485ecca" title="Compares two servers primarily by ping and secondarily by hostname." alt="" coords="1221,56,1420,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1162,67,1205,67,1205,72,1162,72"/>
+</map>

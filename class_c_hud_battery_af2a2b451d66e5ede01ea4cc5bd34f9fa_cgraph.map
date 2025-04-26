@@ -1,0 +1,7 @@
+<map id="CHudBattery::MsgFunc_Battery" name="CHudBattery::MsgFunc_Battery">
+<area shape="rect" id="Node000001" title="Message handler for battery updates." alt="" coords="5,23,163,65"/>
+<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="213,5,317,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,30,197,25,198,31,163,36"/>
+<area shape="rect" id="Node000003" href="$parsemsg_8h.html#a45d0c7c694acc1f2d02eb77e1d6ec402" title=" " alt="" coords="211,56,319,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,52,196,57,195,62,163,58"/>
+</map>

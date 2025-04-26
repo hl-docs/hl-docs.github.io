@@ -1,0 +1,7 @@
+<map id="CHudServers::~CHudServers" name="CHudServers::~CHudServers">
+<area shape="rect" id="Node000001" title="Destructor for CHudServers. Cleans up memory and pending requests." alt="" coords="5,31,193,57"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#a004be034c14cec94f547ccf119d656a3" title="Deletes all requests in the specified list." alt="" coords="241,5,444,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,32,225,28,225,34,193,37"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#a2f773a8e467eb51403b7d1cf757f532e" title="Deletes all servers in the specified list and their associated info strings." alt="" coords="247,56,438,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,51,232,55,231,60,193,56"/>
+</map>

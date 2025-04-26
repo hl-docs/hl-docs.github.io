@@ -1,0 +1,20 @@
+<map id="CAutoTrigger" name="CAutoTrigger">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,505,102,532"/>
+<area shape="rect" id="Node000002" href="$class_c_base_delay.html" title="Base class for entities with delayed actions." alt="" coords="72,429,166,456"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,469,67,507,63,503,96,466"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="220,304,314,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,343,136,431,132,427,238,339"/>
+<area shape="poly" id="edge8_Node000003_Node000003" title=" " alt="" coords="315,300,333,305,341,317,337,327,327,333,299,334,299,329,325,328,333,324,335,318,330,309,313,305"/>
+<area shape="rect" id="Node000004" href="$structentvars__s.html" title=" " alt="" coords="314,16,390,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,54,302,71,288,117,278,185,270,304,265,303,273,185,282,116,298,68,313,51"/>
+<area shape="rect" id="Node000005" href="$structedict__s.html" title=" " alt="" coords="445,304,508,331"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="406,48,429,68,442,107,456,176,477,304,472,304,451,177,437,108,425,71,403,52"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="456,294,431,272,409,264,389,264,370,261,352,247,337,221,329,193,326,163,326,134,335,80,345,42,350,44,340,81,331,134,331,163,334,192,342,219,356,244,372,256,390,259,410,259,434,267,460,290"/>
+<area shape="rect" id="Node000006" href="$structlink__s.html" title=" " alt="" coords="469,16,524,43"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="497,59,480,304,474,303,492,58"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="519,5,530,3,540,6,548,15,550,30,546,47,535,55,520,55,505,45,508,41,521,50,533,50,542,44,545,29,543,18,537,11,530,8,519,10"/>
+<area shape="rect" id="Node000007" href="$struct_t_y_p_e_d_e_s_c_r_i_p_t_i_o_n.html" title=" " alt="" coords="48,16,190,43"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="113,58,75,199,54,293,39,390,38,422,42,454,52,505,47,506,36,455,33,422,34,389,49,292,70,198,108,57"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="122,58,122,429,116,429,116,58"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="135,56,140,69,154,119,160,160,168,199,189,244,218,277,249,302,246,306,214,281,185,247,163,200,154,161,149,120,135,70,130,58"/>
+</map>

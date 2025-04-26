@@ -1,0 +1,4 @@
+var namespaceanonymous__namespace_02vgui___control_config_panel_8cpp_03 =
+[
+    [ "FooTablePanel", "classanonymous__namespace_02vgui___control_config_panel_8cpp_03_1_1_foo_table_panel.html", "classanonymous__namespace_02vgui___control_config_panel_8cpp_03_1_1_foo_table_panel" ]
+];

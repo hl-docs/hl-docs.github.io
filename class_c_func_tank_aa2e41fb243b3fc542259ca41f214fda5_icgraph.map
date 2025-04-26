@@ -1,0 +1,5 @@
+<map id="CFuncTank::Think" name="CFuncTank::Think">
+<area shape="rect" id="Node000001" title="The think function for the func_tank entity." alt="" coords="212,5,338,32"/>
+<area shape="rect" id="Node000002" href="$class_c_func_tank_laser.html#a57d590bfcdd506030aedbebb5139761c" title="Handles the thinking logic for the tank laser entity." alt="" coords="5,5,164,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,21,164,21,164,16,196,16"/>
+</map>

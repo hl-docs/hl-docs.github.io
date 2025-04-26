@@ -1,0 +1,11 @@
+<map id="CBaseMonster::ChangeYaw" name="CBaseMonster::ChangeYaw">
+<area shape="rect" id="Node000001" title="Changes the monster&#39;s yaw towards its ideal yaw." alt="" coords="5,56,190,83"/>
+<area shape="rect" id="Node000002" href="$class_c_base_animating.html#a10ff8d0fac12682c3f6d57f58ccb4c9a" title="Sets the value of a bone controller." alt="" coords="238,31,469,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,58,222,54,222,60,190,63"/>
+<area shape="rect" id="Node000005" href="$util_8cpp.html#a9c3ac10a492f4e794c77e49a05af0d03" title="Modifies an angle to be within the range of 0 to 360 degrees." alt="" coords="297,81,410,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="190,76,282,85,281,90,190,81"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="542,5,588,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,27,526,21,527,26,470,33"/>
+<area shape="rect" id="Node000004" href="$animation_8cpp.html#a1b19ea5042a5d8c43ffc782247eb2d46" title="Sets the controller value for a specific bone controller." alt="" coords="517,56,613,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="470,55,502,59,501,64,469,61"/>
+</map>

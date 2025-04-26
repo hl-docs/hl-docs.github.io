@@ -1,0 +1,18 @@
+<map id="CBaseMonster::CanPlaySentence" name="CBaseMonster::CanPlaySentence">
+<area shape="rect" id="Node000001" title=" " alt="" coords="858,76,1077,103"/>
+<area shape="rect" id="Node000002" href="$class_c_scripted_sentence.html#a9154c486120300d7afebdc52ceba5c74" title="Checks if a monster is an acceptable speaker for the sentence." alt="" coords="632,39,774,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="842,78,774,70,775,65,842,73"/>
+<area shape="rect" id="Node000008" href="$class_c_talk_monster.html#abc1c9c38f909137e049c06d8662c8f7f" title="Checks if the talk monster can play a sentence." alt="" coords="596,105,810,132"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="843,106,810,109,810,104,842,101"/>
+<area shape="rect" id="Node000003" href="$class_c_scripted_sentence.html#ab7929aad214f2d8fb92bfd205b4a6496" title="Finds a suitable monster entity to play the sentence." alt="" coords="407,39,548,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="617,63,549,63,549,57,617,57"/>
+<area shape="rect" id="Node000004" href="$class_c_scripted_sentence.html#a89cc8b3fcfe1175b282e72e549e5ead4" title="Think function to find a suitable entity to play the sentence." alt="" coords="218,39,359,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="392,63,359,63,359,57,392,57"/>
+<area shape="rect" id="Node000005" href="$class_c_scripted_sentence.html#a92371e6ec9b7bd360b69eaa0cc0f7386" title="Think function to delay the next sentence activation." alt="" coords="17,5,158,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,57,158,50,159,44,203,52"/>
+<area shape="rect" id="Node000006" href="$class_c_scripted_sentence.html#ad3eb2e1e459741ef3a4c1f85ce1c3d03" title="Spawns the scripted sentence." alt="" coords="17,72,158,115"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="203,77,159,84,158,79,202,72"/>
+<area shape="rect" id="Node000007" href="$class_c_scripted_sentence.html#af0577b840f16efa228fafaf79c0cc2d6" title="Activates the scripted sentence." alt="" coords="5,139,170,165"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="241,92,171,129,140,141,138,136,169,124,239,87"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="174,29,218,37,217,42,173,35"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CActAnimating::SetActivity" name="CActAnimating::SetActivity">
+<area shape="rect" id="Node000001" title="Sets the activity for the animating entity." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_animating.html#a40a4e881deccdeced4714dde7868dc15" title="Looks up the activity index for a given activity." alt="" coords="246,5,456,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,33,230,28,231,33,184,38"/>
+<area shape="rect" id="Node000003" href="$class_c_base_animating.html#a3e1d9bb20ae093ba1df484447f075f40" title="Resets the sequence information for the animation." alt="" coords="232,56,470,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,50,216,53,216,59,184,55"/>
+</map>

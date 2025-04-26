@@ -1,0 +1,17 @@
+<map id="CBullsquid::TakeDamage" name="CBullsquid::TakeDamage">
+<area shape="rect" id="Node000001" title="Handles damage taken by the bullsquid." alt="" coords="5,132,173,159"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="270,31,374,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,129,158,98,220,67,254,55,255,60,222,72,160,103,112,134"/>
+<area shape="rect" id="Node000005" href="$class_c_base_monster.html#a6091bd14ccaea38f6c3f9568a7d62802" title="Attempts to triangulate a path around local obstacles." alt="" coords="229,81,415,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,129,242,109,243,114,154,134"/>
+<area shape="rect" id="Node000006" href="$class_c_base_monster.html#a48703fa02ecdd7b1a737e90c9fc1aefb" title="Inserts a waypoint into the monster&#39;s route." alt="" coords="221,132,423,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,143,205,143,205,148,173,148"/>
+<area shape="rect" id="Node000007" href="$class_c_base_monster.html#a28d259391ad3ce9a213cf9fc38ff0cda" title=" " alt="" coords="239,183,405,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="154,157,243,176,242,181,153,162"/>
+<area shape="rect" id="Node000008" href="$class_c_base_monster.html#ad73a936a05befe9d5e6a419042e69a21" title="Reduces the monster&#39;s health by a specified amount." alt="" coords="226,233,418,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="112,157,160,188,222,219,241,226,239,231,220,224,158,193,109,162"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="471,5,533,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,34,455,22,456,28,375,39"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="474,56,531,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="375,49,459,61,458,66,374,54"/>
+</map>

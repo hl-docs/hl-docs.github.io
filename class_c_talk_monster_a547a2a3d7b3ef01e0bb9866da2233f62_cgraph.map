@@ -1,0 +1,122 @@
+<map id="CTalkMonster::StartTask" name="CTalkMonster::StartTask">
+<area shape="rect" id="Node000001" title="Starts a task for the talk monster." alt="" coords="5,740,171,767"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#ad68433315378d13e2fed014a39cc7b05" title=" " alt="" coords="229,360,417,387"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,739,94,677,113,585,129,534,151,484,180,437,217,397,221,393,225,397,221,401,185,440,156,486,134,536,118,586,99,678,93,740"/>
+<area shape="rect" id="Node000003" href="$class_c_talk_monster.html#a2b595cc5a75a165134fc688e5b267353" title="Attempts to greet the player for the first time they are seen." alt="" coords="240,411,406,437"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,739,102,691,127,620,164,543,189,506,217,473,238,455,263,442,265,446,241,460,221,477,193,509,169,546,132,623,107,692,95,741"/>
+<area shape="rect" id="Node000022" href="$class_c_talk_monster.html#a04ebd651fa0921a5daa97d66e5acea3f" title="Plays a sentence for the talk monster." alt="" coords="492,563,682,589"/>
+<area shape="poly" id="edge57_Node000001_Node000022" title=" " alt="" coords="94,738,111,708,138,669,174,630,217,599,281,575,349,562,415,558,477,559,477,565,415,563,349,567,283,580,220,604,177,634,142,672,116,711,98,741"/>
+<area shape="rect" id="Node000032" href="$class_c_talk_monster.html#a4c3d998262953f633db307b6c196a903" title="Attempts to start a conversation or make a statement." alt="" coords="236,664,410,691"/>
+<area shape="poly" id="edge36_Node000001_Node000032" title=" " alt="" coords="120,737,218,700,244,693,245,698,220,705,122,742"/>
+<area shape="rect" id="Node000040" href="$class_c_talk_monster.html#ab655f22c2212418de53f37a2e6367ec9" title="Lets the player know the talk monster knows he&#39;s staring at them." alt="" coords="239,487,407,513"/>
+<area shape="poly" id="edge48_Node000001_Node000040" title=" " alt="" coords="93,738,138,655,174,603,217,555,244,535,272,518,275,523,247,539,220,559,178,606,143,658,98,741"/>
+<area shape="rect" id="Node000041" href="$class_c_base_monster.html#a4c7e04db8d90a4e3030238abe8bb8593" title="Finds cover for the monster from a specified threat." alt="" coords="237,765,409,792"/>
+<area shape="poly" id="edge52_Node000001_Node000041" title=" " alt="" coords="171,760,221,765,221,770,171,765"/>
+<area shape="rect" id="Node000042" href="$class_c_talk_monster.html#a3a3aabf45f9a5116c1253e23af2bb657" title="Responds to a previous question." alt="" coords="233,613,413,640"/>
+<area shape="poly" id="edge53_Node000001_Node000042" title=" " alt="" coords="101,738,150,694,182,670,217,650,233,643,235,648,220,654,185,675,153,698,104,742"/>
+<area shape="rect" id="Node000043" href="$class_c_base_monster.html#a0ec3ce721081a28f9853cfc68fe2133a" title=" " alt="" coords="219,816,427,843"/>
+<area shape="poly" id="edge56_Node000001_Node000043" title=" " alt="" coords="122,765,220,801,245,809,244,814,218,807,120,770"/>
+<area shape="rect" id="Node000044" href="$class_c_base_monster.html#ad48e6760ee3609d8f13383c10c4a2650" title="Starts a task for the monster." alt="" coords="237,867,409,893"/>
+<area shape="poly" id="edge58_Node000001_Node000044" title=" " alt="" coords="104,765,153,808,185,832,220,852,235,859,233,864,217,857,182,837,150,812,101,769"/>
+<area shape="rect" id="Node000045" href="$class_c_talk_monster.html#abc1d68bb091a4c5cb01396f80fccc906" title="Stops the talk monster from following its target." alt="" coords="228,715,418,741"/>
+<area shape="poly" id="edge59_Node000001_Node000045" title=" " alt="" coords="171,742,212,737,213,743,171,747"/>
+<area shape="rect" id="Node000049" href="$class_c_base_monster.html#a024c0e956ca067ea04615cf874efee79" title=" " alt="" coords="224,917,422,944"/>
+<area shape="poly" id="edge65_Node000001_Node000049" title=" " alt="" coords="99,766,144,832,179,871,220,903,230,909,227,913,217,908,176,875,140,836,95,769"/>
+<area shape="rect" id="Node000051" href="$class_c_base_monster.html#a85ce7d6f5797b914bd256434ac966d32" title=" " alt="" coords="241,968,405,995"/>
+<area shape="poly" id="edge67_Node000001_Node000051" title=" " alt="" coords="96,766,112,804,137,855,174,909,196,933,220,954,228,959,225,963,217,958,192,937,169,912,133,858,107,806,92,768"/>
+<area shape="rect" id="Node000053" href="$util_8h.html#a41175864d670002ef1e6b124977bcb42" title=" " alt="" coords="238,1019,408,1045"/>
+<area shape="poly" id="edge69_Node000001_Node000053" title=" " alt="" coords="95,766,107,812,130,877,168,946,192,978,220,1005,226,1009,223,1013,217,1009,188,981,163,949,126,879,102,814,89,768"/>
+<area shape="rect" id="Node000054" href="$class_c_base_monster.html#ab869c9dfed2779477d9fa783cf645e05" title="Converts a directional vector into a yaw value." alt="" coords="234,1069,412,1096"/>
+<area shape="poly" id="edge70_Node000001_Node000054" title=" " alt="" coords="93,766,103,820,124,899,141,941,162,983,188,1022,220,1055,225,1059,222,1063,217,1059,184,1025,157,986,136,944,119,900,97,821,88,767"/>
+<area shape="rect" id="Node000004" href="$class_c_talk_monster.html#a693e0bae60c6782b25652633a1a46d40" title="Finds the nearest friend or player." alt="" coords="498,403,677,445"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,421,482,421,482,427,407,427"/>
+<area shape="rect" id="Node000018" href="$class_c_base_monster.html#aa2e628d7a882311c961e37b3d5d2fd4c" title="Checks if an entity is within the monster&#39;s view cone." alt="" coords="492,229,683,256"/>
+<area shape="poly" id="edge18_Node000003_Node000018" title=" " alt="" coords="405,410,425,397,438,381,445,366,448,333,452,299,459,282,473,266,478,262,481,266,477,270,464,285,457,301,454,333,450,367,443,384,429,401,408,414"/>
+<area shape="rect" id="Node000019" href="$class_c_talk_monster.html#a5820f22d91be7aa3aca22deaf1d31b23" title="Determines if the talk monster is allowed to speak." alt="" coords="495,280,680,307"/>
+<area shape="poly" id="edge19_Node000003_Node000019" title=" " alt="" coords="394,408,426,396,498,356,556,314,559,319,501,361,428,401,395,413"/>
+<area shape="rect" id="Node000020" href="$class_c_base_entity.html#ad4626a4e289d8d30596d859eb0060880" title="Checks if a line of sight exists to another entity." alt="" coords="779,5,929,32"/>
+<area shape="poly" id="edge24_Node000003_Node000020" title=" " alt="" coords="405,410,425,397,442,376,450,354,453,333,452,311,452,265,459,241,473,216,504,177,533,147,562,124,592,106,660,76,746,42,765,34,767,39,748,46,662,81,595,111,565,129,536,151,508,181,477,219,464,243,458,266,458,311,458,333,455,356,446,378,429,401,408,415"/>
+<area shape="poly" id="edge25_Node000003_Node000022" title=" " alt="" coords="356,436,428,472,555,552,552,556,426,477,354,440"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1606,208,1652,235"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="613,400,654,363,697,317,710,297,718,279,728,261,746,245,791,216,832,195,870,181,908,173,988,168,1089,168,1301,168,1383,172,1463,183,1591,209,1590,214,1463,188,1382,178,1301,173,1089,173,988,173,908,178,872,187,834,200,794,220,749,249,732,265,723,281,715,299,701,320,658,366,617,404"/>
+<area shape="rect" id="Node000006" href="$class_c_talk_monster.html#a06fb7f7357b2dca7be954582a40b0f7e" title=" " alt="" coords="759,360,949,387"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="677,404,765,388,766,393,678,410"/>
+<area shape="rect" id="Node000007" href="$class_c_base_entity.html#a2a3645fbec4962b2ec7020a0bf84f8f1" title=" " alt="" coords="784,512,924,539"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="629,443,685,471,748,497,772,505,770,510,746,503,683,476,627,448"/>
+<area shape="rect" id="Node000008" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="824,411,884,437"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="677,421,808,421,808,427,677,427"/>
+<area shape="rect" id="Node000010" href="$class_c_base_entity.html#a50acf4d846cc583e41c17df62cc917c1" title=" " alt="" coords="750,259,958,285"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="608,400,667,347,705,319,746,295,762,288,764,293,749,300,708,323,670,351,611,404"/>
+<area shape="rect" id="Node000011" href="$dlls_2util_8cpp.html#aeaab76538c4c0af63d171a342d50a5f2" title="Finds an entity by its classname." alt="" coords="757,461,951,488"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="678,438,766,455,765,460,677,444"/>
+<area shape="rect" id="Node000017" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="799,309,909,336"/>
+<area shape="poly" id="edge17_Node000004_Node000017" title=" " alt="" coords="627,400,683,372,746,345,783,334,784,340,748,351,685,377,629,405"/>
+<area shape="rect" id="Node000009" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="1069,335,1112,361"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="884,416,960,396,984,384,1008,371,1053,355,1055,360,1010,376,986,389,962,401,885,422"/>
+<area shape="rect" id="Node000012" href="$dlls_2util_8cpp.html#abc74352378cda725cd25c82ff7095778" title="Finds an entity by a specific string value." alt="" coords="1009,385,1172,412"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="919,458,960,447,1042,416,1044,421,961,452,920,463"/>
+<area shape="rect" id="Node000013" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1427,257,1558,284"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1135,382,1171,371,1433,287,1435,292,1173,376,1137,387"/>
+<area shape="rect" id="Node000014" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="1264,257,1335,284"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="1144,382,1171,371,1227,333,1273,293,1276,297,1231,337,1173,376,1147,387"/>
+<area shape="poly" id="edge13_Node000013_Node000005" title=" " alt="" coords="1530,254,1590,232,1592,237,1532,259"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="1336,268,1412,268,1412,273,1336,273"/>
+<area shape="poly" id="edge16_Node000014_Node000014" title=" " alt="" coords="1267,258,1261,249,1265,239,1278,233,1300,231,1323,233,1335,240,1332,244,1321,238,1300,236,1280,238,1269,243,1266,248,1271,255"/>
+<area shape="poly" id="edge20_Node000019_Node000013" title=" " alt="" coords="679,278,698,266,709,253,716,238,719,208,724,177,732,163,746,150,769,139,799,132,876,128,969,135,1069,149,1258,187,1380,219,1452,248,1450,253,1379,224,1257,192,1068,154,968,140,876,133,800,137,771,144,749,154,736,166,729,179,725,208,721,240,714,255,701,270,682,282"/>
+<area shape="poly" id="edge21_Node000019_Node000014" title=" " alt="" coords="658,277,698,266,722,254,747,244,817,233,889,227,960,226,1030,229,1156,242,1250,258,1249,263,1155,248,1030,235,960,232,889,233,817,238,748,249,724,259,700,270,660,282"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="679,279,697,266,717,239,724,212,725,185,721,156,717,128,717,99,725,70,745,42,763,29,767,33,749,46,730,73,723,100,722,128,726,156,730,184,730,213,721,242,701,270,682,284"/>
+<area shape="rect" id="Node000021" href="$class_c_base_monster.html#a26789222385186bbdcf23cea1d8396f2" title=" " alt="" coords="778,56,930,83"/>
+<area shape="poly" id="edge23_Node000019_Node000021" title=" " alt="" coords="679,279,698,266,713,247,720,227,721,185,722,143,730,121,745,99,762,87,765,91,749,103,734,123,728,144,727,185,725,228,718,249,701,270,682,283"/>
+<area shape="poly" id="edge26_Node000022_Node000013" title=" " alt="" coords="683,576,815,571,889,562,960,548,1084,513,1178,476,1267,428,1378,360,1425,327,1464,293,1468,297,1428,331,1381,365,1270,433,1180,481,1086,518,961,553,889,567,816,576,683,581"/>
+<area shape="rect" id="Node000023" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="785,613,923,640"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="662,587,770,608,769,613,661,593"/>
+<area shape="rect" id="Node000024" href="$class_c_talk_monster.html#aefca5ea7b342b1ca3745caef970ecf13" title="Retrieves the voice pitch for the talk monster." alt="" coords="757,715,951,741"/>
+<area shape="poly" id="edge28_Node000022_Node000024" title=" " alt="" coords="668,588,701,606,712,618,719,630,726,655,732,679,738,690,749,701,754,705,751,709,746,705,734,693,727,681,720,656,714,632,708,621,698,610,666,592"/>
+<area shape="rect" id="Node000025" href="$sound_8cpp.html#a008281b5a5a3c722a6424dbf30f1cb24" title="Plays a random sentence from a group by name." alt="" coords="767,664,941,691"/>
+<area shape="poly" id="edge29_Node000022_Node000025" title=" " alt="" coords="657,588,701,606,716,617,725,629,734,639,749,650,762,656,760,661,746,654,731,643,721,632,712,621,698,610,655,592"/>
+<area shape="rect" id="Node000031" href="$class_c_talk_monster.html#abc91375c4b9941cc2fcc280f79c796ac" title="Sets a timer for when the talk monster is done talking." alt="" coords="787,765,921,792"/>
+<area shape="poly" id="edge35_Node000022_Node000031" title=" " alt="" coords="603,588,686,683,749,751,774,763,772,767,746,755,682,687,599,592"/>
+<area shape="rect" id="Node000026" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="1021,664,1160,691"/>
+<area shape="poly" id="edge30_Node000025_Node000026" title=" " alt="" coords="941,675,1006,675,1006,680,941,680"/>
+<area shape="rect" id="Node000028" href="$sound_8cpp.html#a3fe80c53eaa2f42deeb7a14a10ee5533" title="Gets the index of a sentence group by name." alt="" coords="1010,715,1171,741"/>
+<area shape="poly" id="edge32_Node000025_Node000028" title=" " alt="" coords="920,689,1010,708,1009,713,919,694"/>
+<area shape="rect" id="Node000029" href="$sound_8cpp.html#aae0ad5b2266f4050c68b37d8477281fd" title="Picks a random sentence from a group using the LRU list." alt="" coords="1019,613,1162,640"/>
+<area shape="poly" id="edge33_Node000025_Node000029" title=" " alt="" coords="919,661,1009,641,1010,646,920,666"/>
+<area shape="rect" id="Node000027" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="1225,664,1375,691"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="1160,675,1209,675,1209,680,1160,680"/>
+<area shape="rect" id="Node000030" href="$sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="1220,613,1379,640"/>
+<area shape="poly" id="edge34_Node000029_Node000030" title=" " alt="" coords="1162,624,1204,624,1204,629,1162,629"/>
+<area shape="poly" id="edge37_Node000032_Node000004" title=" " alt="" coords="409,661,425,650,440,633,447,617,452,582,455,546,461,526,473,505,500,476,531,452,534,456,504,480,477,508,466,528,460,547,457,583,453,618,444,636,429,654,412,666"/>
+<area shape="poly" id="edge40_Node000032_Node000007" title=" " alt="" coords="407,661,425,650,436,638,442,626,447,600,453,573,461,560,473,549,509,529,547,514,586,505,627,500,705,499,774,506,774,512,705,504,627,505,587,510,548,520,511,534,477,553,465,563,458,575,453,601,448,628,441,641,429,654,410,666"/>
+<area shape="poly" id="edge38_Node000032_Node000019" title=" " alt="" coords="409,662,425,650,448,619,458,589,460,559,457,528,453,496,452,463,457,427,473,389,489,366,508,346,548,314,551,318,511,350,493,370,477,392,462,429,457,463,458,496,462,527,465,559,463,590,452,622,429,654,412,667"/>
+<area shape="poly" id="edge43_Node000032_Node000022" title=" " alt="" coords="389,661,426,649,490,623,547,595,549,599,493,627,428,655,390,666"/>
+<area shape="poly" id="edge39_Node000032_Node000024" title=" " alt="" coords="411,678,547,686,700,700,763,709,762,714,699,705,546,691,410,683"/>
+<area shape="poly" id="edge47_Node000032_Node000031" title=" " alt="" coords="402,689,428,700,444,714,453,727,461,740,476,751,513,765,551,776,630,788,705,791,772,787,772,792,706,796,629,794,550,781,511,771,474,756,458,744,448,730,440,717,426,705,400,694"/>
+<area shape="rect" id="Node000033" href="$class_c_base_entity.html#a48fa4a8c768a1cd62a64ebddf9a802d6" title=" " alt="" coords="511,715,663,741"/>
+<area shape="poly" id="edge41_Node000032_Node000033" title=" " alt="" coords="397,689,499,709,498,714,396,694"/>
+<area shape="rect" id="Node000034" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="779,892,929,919"/>
+<area shape="poly" id="edge42_Node000032_Node000034" title=" " alt="" coords="412,689,429,701,444,720,451,740,453,780,454,818,462,836,477,853,497,864,525,874,599,889,684,897,764,901,764,907,683,903,598,894,524,880,494,869,473,857,457,838,449,819,447,780,446,741,439,723,425,705,409,693"/>
+<area shape="rect" id="Node000035" href="$class_c_talk_monster.html#a95d210e8d0cb8469e0c5eb470e869b53" title="Prepares the talk monster to answer a question." alt="" coords="475,816,699,843"/>
+<area shape="poly" id="edge44_Node000032_Node000035" title=" " alt="" coords="409,689,429,701,440,712,447,725,454,749,460,773,466,784,477,795,495,807,492,812,473,799,462,787,455,775,449,750,443,727,436,716,425,705,407,694"/>
+<area shape="rect" id="Node000036" href="$class_c_base_monster.html#a1717d862c80da257c623186f22d91b32" title="Changes the monster&#39;s schedule." alt="" coords="747,816,961,843"/>
+<area shape="poly" id="edge45_Node000035_Node000036" title=" " alt="" coords="700,827,732,827,732,832,700,832"/>
+<area shape="rect" id="Node000037" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="1038,816,1143,843"/>
+<area shape="poly" id="edge46_Node000036_Node000037" title=" " alt="" coords="961,827,1023,827,1023,832,961,832"/>
+<area shape="poly" id="edge49_Node000040_Node000004" title=" " alt="" coords="371,483,495,448,497,453,373,489"/>
+<area shape="poly" id="edge50_Node000040_Node000019" title=" " alt="" coords="360,484,393,468,425,447,440,433,450,420,473,389,555,315,559,319,477,392,454,423,444,436,429,451,396,473,363,489"/>
+<area shape="poly" id="edge51_Node000040_Node000022" title=" " alt="" coords="373,511,524,555,523,560,371,517"/>
+<area shape="poly" id="edge55_Node000042_Node000022" title=" " alt="" coords="396,610,498,590,499,595,397,615"/>
+<area shape="poly" id="edge54_Node000042_Node000024" title=" " alt="" coords="414,626,550,640,626,653,700,674,725,687,748,700,769,707,767,712,746,705,722,691,698,678,625,659,550,645,413,632"/>
+<area shape="poly" id="edge63_Node000045_Node000022" title=" " alt="" coords="397,712,426,700,465,677,502,650,560,599,564,602,505,655,468,682,428,705,398,717"/>
+<area shape="rect" id="Node000046" href="$class_c_base_monster.html#a616a1bf4279ee18b90f1dbb3a063435a" title="Clears the monster&#39;s current schedule." alt="" coords="488,1019,687,1045"/>
+<area shape="poly" id="edge60_Node000045_Node000046" title=" " alt="" coords="414,740,429,752,451,784,459,816,459,849,453,881,448,912,448,944,456,974,477,1005,479,1007,476,1011,473,1008,451,977,442,944,443,912,448,880,453,848,454,817,446,786,425,755,411,744"/>
+<area shape="rect" id="Node000047" href="$class_c_talk_monster.html#a50e09b76203d8516a5bc61e971c99429" title=" " alt="" coords="501,917,674,944"/>
+<area shape="poly" id="edge61_Node000045_Node000047" title=" " alt="" coords="412,740,429,751,444,770,451,788,454,825,456,862,463,879,477,897,492,908,488,912,473,901,459,882,451,863,449,826,446,790,439,772,425,755,409,744"/>
+<area shape="rect" id="Node000048" href="$class_c_base_monster.html#abc6d82b78223b5ecca006a9bb27728f1" title="Clears the monster&#39;s route and resets its goal." alt="" coords="498,968,677,995"/>
+<area shape="poly" id="edge64_Node000045_Node000048" title=" " alt="" coords="413,740,429,751,447,777,455,803,456,829,453,855,451,881,452,906,459,930,477,954,486,961,482,965,473,958,454,932,446,907,445,880,448,855,451,829,450,804,443,779,425,755,410,744"/>
+<area shape="poly" id="edge62_Node000047_Node000034" title=" " alt="" coords="674,920,763,911,764,917,675,925"/>
+<area shape="rect" id="Node000050" href="$class_c_base_monster.html#ad47e63eada724d17f05421fd73911cd1" title=" " alt="" coords="488,1069,687,1096"/>
+<area shape="poly" id="edge66_Node000049_Node000050" title=" " alt="" coords="410,942,429,954,441,967,448,980,454,1006,459,1032,466,1044,477,1055,482,1059,479,1064,473,1059,461,1047,454,1034,448,1007,443,982,436,970,425,958,407,947"/>
+<area shape="rect" id="Node000052" href="$class_c_base_monster.html#a0e452f766d29a4d6008044338dbd3aa6" title=" " alt="" coords="489,1120,685,1147"/>
+<area shape="poly" id="edge68_Node000051_Node000052" title=" " alt="" coords="407,992,429,1005,441,1017,448,1030,454,1057,459,1083,466,1094,477,1106,482,1110,479,1114,473,1110,461,1098,454,1084,448,1058,443,1032,436,1020,425,1009,404,996"/>
+</map>

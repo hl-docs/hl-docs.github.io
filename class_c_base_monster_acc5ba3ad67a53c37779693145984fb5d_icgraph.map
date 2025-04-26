@@ -1,0 +1,5 @@
+<map id="CBaseMonster::RunAI" name="CBaseMonster::RunAI">
+<area shape="rect" id="Node000001" title="Runs the AI logic for the monster." alt="" coords="180,5,330,32"/>
+<area shape="rect" id="Node000002" href="$class_c_bullsquid.html#ac8cb76bc1599fa3fa114091a82e23a54" title="Runs AI logic for the bullsquid." alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,21,132,21,132,16,164,16"/>
+</map>

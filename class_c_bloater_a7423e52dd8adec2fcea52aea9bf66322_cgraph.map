@@ -1,0 +1,7 @@
+<map id="CBloater::AlertSound" name="CBloater::AlertSound">
+<area shape="rect" id="Node000001" title="Plays the alert sound for the bloater." alt="" coords="5,31,149,57"/>
+<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="197,5,335,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,181,27,182,33,150,37"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="243,56,289,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,51,228,62,227,67,149,56"/>
+</map>

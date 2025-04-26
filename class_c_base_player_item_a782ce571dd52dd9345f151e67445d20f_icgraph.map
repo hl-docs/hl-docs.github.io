@@ -1,0 +1,7 @@
+<map id="CBasePlayerItem::pszName" name="CBasePlayerItem::pszName">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,13,547,40"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a74e4c102a8f878277aeba81bd1738fe4" title="Sends a death notice to all clients." alt="" coords="190,5,314,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,29,314,29,314,24,346,24"/>
+<area shape="rect" id="Node000003" href="$class_c_half_life_teamplay.html#ac5ea703eac1a11a07cbe4acece6a60c4" title="Handles the death notice for players." alt="" coords="5,5,142,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
+</map>

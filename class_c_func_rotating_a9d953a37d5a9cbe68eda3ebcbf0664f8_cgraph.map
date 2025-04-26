@@ -1,0 +1,17 @@
+<map id="CFuncRotating::Precache" name="CFuncRotating::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches sounds for the func_rotating entity." alt="" coords="5,33,176,60"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="260,8,345,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,33,244,25,245,30,177,39"/>
+<area shape="rect" id="Node000003" href="$class_c_func_rotating.html#a0435512ae7f52147020fc0aa3cb90ed8" title="Accelerates the rotating entity to its target speed." alt="" coords="224,58,381,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,54,209,58,208,63,176,59"/>
+<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="675,8,814,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="349,55,380,44,403,30,428,18,488,8,549,4,660,8,660,13,549,9,489,13,430,24,406,35,382,49,351,60"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="721,58,768,85"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="381,69,706,69,706,74,381,74"/>
+<area shape="rect" id="Node000006" href="$class_c_func_rotating.html#a17f9dec77173e35c8af550692695d15b" title="Ramps the pitch and volume of the rotating entity&#39;s sound." alt="" coords="429,33,627,60"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="381,60,413,57,414,62,381,66"/>
+<area shape="rect" id="Node000007" href="$class_c_func_rotating.html#ae40420a2851d0a0dbe7424f736d7224b" title="Rotates the func_rotating entity." alt="" coords="452,134,605,161"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="343,83,430,113,470,126,468,132,428,118,342,88"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="627,32,659,28,660,34,628,37"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="628,55,706,65,705,70,627,61"/>
+</map>

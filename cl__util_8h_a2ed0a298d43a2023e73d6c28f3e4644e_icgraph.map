@@ -1,0 +1,13 @@
+<map id="LoadSprite" name="LoadSprite">
+<area shape="rect" id="Node000001" title="Loads a sprite from a file by name." alt="" coords="413,56,497,83"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_train.html#a27b587c1dbc85e085d94e0daaa85471a" title="Renders the train HUD sprite on the screen." alt="" coords="243,5,361,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,53,344,35,345,30,399,48"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_health.html#a1b09edb6bb6bdee6e8d46e132a02fd25" title="Draws the health HUD element each frame." alt="" coords="238,56,365,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="398,72,366,72,366,67,398,67"/>
+<area shape="rect" id="Node000004" href="$class_c_hud.html#aac1f2a93ad7bddebedaa6dcdc8bd3bf3" title="Redraws the HUD elements on the screen." alt="" coords="250,107,354,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="399,90,345,109,344,104,398,85"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#a5ea2cbe1b24757e7b528d2d005111a52" title="Redraws the HUD on each screen frame." alt="" coords="92,107,190,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="234,123,191,123,191,117,234,117"/>
+<area shape="rect" id="Node000006" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,107,44,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="76,123,44,123,44,117,76,117"/>
+</map>

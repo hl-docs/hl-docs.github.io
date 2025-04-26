@@ -1,0 +1,35 @@
+<map id="CBeam::SetEndAttachment" name="CBeam::SetEndAttachment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="937,157,1119,184"/>
+<area shape="rect" id="Node000002" href="$class_c_i_slave.html#aedb32a778cb8a00a8eaa2619e7e256c0" title="Creates a beam from the CISlave&#39;s arm to nearby geometry." alt="" coords="754,56,884,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="990,151,888,97,860,86,862,81,890,92,993,147"/>
+<area shape="rect" id="Node000004" href="$class_c_egon.html#ae2b2d53ffc64083f45f8ffb3bc62ea82" title="Creates the visual effects for the Egon weapon." alt="" coords="749,5,889,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1003,148,953,97,922,70,888,46,865,35,867,30,890,42,925,66,957,93,1007,144"/>
+<area shape="rect" id="Node000009" href="$class_c_beam.html#ab10b4f82b0a30980d03e45b730a96ee0" title="Initializes the beam with start and end entities." alt="" coords="761,107,877,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="955,156,876,137,878,131,956,151"/>
+<area shape="rect" id="Node000010" href="$class_c_beam.html#a80e1166fe55e68e4b81a6b6f75b1533d" title="Initializes the beam as a hose." alt="" coords="759,157,879,184"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="922,173,879,173,879,168,922,168"/>
+<area shape="rect" id="Node000011" href="$class_c_beam.html#a52880e341224bcfbae725eea95c14d83" title="Initializes the beam with start and end points." alt="" coords="756,309,882,336"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1007,197,957,248,925,276,890,300,867,311,865,306,888,295,922,271,953,244,1003,194"/>
+<area shape="rect" id="Node000015" href="$class_c_i_slave.html#a51b10bc8bf67a5fa8bc7d47cda6ecb35" title="Regenerates dead colleagues using a beam." alt="" coords="749,208,889,235"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="956,191,878,210,876,205,955,186"/>
+<area shape="rect" id="Node000016" href="$class_c_i_slave.html#aa4c57db62d0120725f29a0789f6f3aea" title="Creates a heavy damage beam directed forward." alt="" coords="755,259,883,285"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="993,195,890,249,862,260,860,256,888,244,990,190"/>
+<area shape="rect" id="Node000003" href="$class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="526,208,701,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,92,750,97,712,124,678,156,628,209,624,206,674,152,709,120,747,92,756,87"/>
+<area shape="rect" id="Node000005" href="$class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="542,5,685,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="734,21,685,21,685,16,734,16"/>
+<area shape="rect" id="Node000006" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="374,5,464,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="527,21,464,21,464,16,527,16"/>
+<area shape="rect" id="Node000007" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="205,5,311,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="358,21,311,21,311,16,358,16"/>
+<area shape="rect" id="Node000008" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="189,21,157,21,157,16,189,16"/>
+<area shape="rect" id="Node000012" href="$class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="559,284,668,311"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="740,316,668,307,669,301,740,310"/>
+<area shape="rect" id="Node000013" href="$class_c_test_effect.html#a0f7cbe0c8417444d53120efc376ec062" title="Think function for the test effect." alt="" coords="537,335,690,361"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="741,335,691,341,690,336,740,330"/>
+<area shape="rect" id="Node000014" href="$class_c_test_effect.html#a47a9ec960b1e1d9ac185511e1c0e89c2" title="Uses the test effect." alt="" coords="359,335,478,361"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="522,351,479,351,479,345,522,345"/>
+<area shape="poly" id="edge15_Node000015_Node000003" title=" " alt="" coords="733,224,701,224,701,219,733,219"/>
+<area shape="poly" id="edge17_Node000016_Node000003" title=" " alt="" coords="746,257,670,238,671,233,747,252"/>
+</map>

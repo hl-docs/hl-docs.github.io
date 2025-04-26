@@ -1,0 +1,5 @@
+<map id="CHalfLifeMultiplay::FPlayerCanTakeDamage" name="CHalfLifeMultiplay::FPlayerCanTakeDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,5,392,48"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#a9dbb937907c0dd575efc710f70f267dd" title="Determines if a player can take damage from an attacker." alt="" coords="5,5,171,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,29,171,29,171,24,203,24"/>
+</map>

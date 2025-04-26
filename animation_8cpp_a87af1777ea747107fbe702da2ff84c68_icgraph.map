@@ -1,0 +1,5 @@
+<map id="GetBodygroup" name="GetBodygroup">
+<area shape="rect" id="Node000001" title="Retrieves the current body group value for a model." alt="" coords="200,5,304,32"/>
+<area shape="rect" id="Node000002" href="$class_c_h_grunt.html#add3139c87b9b0ab4ea8df2e07601dfe9" title="Handles the gibbing of the grunt." alt="" coords="5,5,152,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,21,152,21,152,16,184,16"/>
+</map>

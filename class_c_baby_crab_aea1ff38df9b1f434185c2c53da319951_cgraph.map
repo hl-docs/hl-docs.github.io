@@ -1,0 +1,5 @@
+<map id="CBabyCrab::Precache" name="CBabyCrab::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches the resources needed for the baby headcrab." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="Node000002" href="$class_c_head_crab.html#acdc0d5c61fd02fd0c48babb0afcd1ff6" title="Pre&#45;caches the resources needed for the headcrab." alt="" coords="204,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,16,188,16,188,21,156,21"/>
+</map>

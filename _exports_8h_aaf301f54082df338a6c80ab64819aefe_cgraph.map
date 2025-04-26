@@ -1,0 +1,13 @@
+<map id="HUD_PlayerMoveInit" name="HUD_PlayerMoveInit">
+<area shape="rect" id="Node000001" title="Initializes the player movement system." alt="" coords="5,31,145,57"/>
+<area shape="rect" id="Node000002" href="$pm__shared_8c.html#acfe68b1cdbc3240e88b6d21f351c30e7" title="Initializes the shared player physics module." alt="" coords="193,31,258,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,41,177,41,177,47,145,47"/>
+<area shape="rect" id="Node000003" href="$pm__shared_8c.html#a435b890177014d7bfd121eaf80a869d5" title="Populates the stuck movement table with offsets to attempt to free a player who is stuck in the geome..." alt="" coords="306,5,457,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,36,290,31,291,36,259,41"/>
+<area shape="rect" id="Node000004" href="$pm__shared_8c.html#a4107e5d890f5d64d1711893e8d52f941" title="Initializes the texture type system." alt="" coords="310,56,453,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="259,47,296,53,295,58,258,52"/>
+<area shape="rect" id="Node000005" href="$pm__shared_8c.html#aa076f2c93aa8e430109b5cb1b73e3a2b" title="Sorts the texture list alphabetically." alt="" coords="505,56,628,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="454,67,490,67,490,72,454,72"/>
+<area shape="rect" id="Node000006" href="$pm__shared_8c.html#a661a02c943dfd4ef648ef775306a1535" title="Swaps two texture entries in the texture list." alt="" coords="676,56,806,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="628,67,660,67,660,72,628,72"/>
+</map>

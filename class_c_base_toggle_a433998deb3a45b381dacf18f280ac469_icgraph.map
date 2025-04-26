@@ -1,0 +1,81 @@
+<map id="CBaseToggle::LinearMove" name="CBaseToggle::LinearMove">
+<area shape="rect" id="Node000001" title="Calculates velocity and next think time for linear movement." alt="" coords="1405,803,1577,829"/>
+<area shape="rect" id="Node000002" href="$class_c_base_button.html#a979524cd17dbdcfb1aa71817904b5bd7" title="Starts the button moving &quot;in/up&quot;." alt="" coords="1162,296,1352,323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1488,787,1485,701,1479,644,1468,582,1452,518,1428,455,1396,396,1356,343,1329,326,1332,321,1359,339,1401,393,1433,453,1457,517,1473,581,1484,644,1490,701,1493,787"/>
+<area shape="rect" id="Node000005" href="$class_c_base_button.html#a7c4ec672410f32f1f3008409fe777b89" title="Starts the button moving &quot;out/down&quot;." alt="" coords="442,245,624,272"/>
+<area shape="poly" id="edge17_Node000001_Node000005" title=" " alt="" coords="1481,788,1467,736,1442,669,1405,600,1382,568,1356,539,1330,519,1297,499,1212,459,1110,420,996,382,770,318,595,275,596,270,771,313,998,377,1111,415,1215,454,1300,495,1333,515,1359,535,1386,564,1410,597,1447,667,1472,734,1486,787"/>
+<area shape="rect" id="Node000011" href="$class_c_base_door.html#ade64a5c38a51efa02cec0e9b0cc34b9e" title="Starts the door going to its &quot;down&quot; position." alt="" coords="1171,549,1342,576"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="1465,793,1268,578,1272,574,1469,790"/>
+<area shape="rect" id="Node000017" href="$class_c_base_door.html#a6dd5e8bb0768e579f845d10a0a43dd28" title="Starts the door going to its &quot;up&quot; position." alt="" coords="219,625,374,652"/>
+<area shape="poly" id="edge32_Node000001_Node000017" title=" " alt="" coords="1409,802,1357,793,1189,773,1020,768,775,768,680,768,605,763,532,750,441,723,405,708,370,689,315,655,318,650,373,685,407,703,443,717,533,745,606,758,680,762,775,763,1020,763,1189,768,1358,788,1410,797"/>
+<area shape="rect" id="Node000021" href="$class_c_base_toggle.html#a2b5020905f97cbfb2bf612c459ab7d06" title="Finalizes the linear movement." alt="" coords="1156,803,1357,829"/>
+<area shape="poly" id="edge33_Node000001_Node000021" title=" " alt="" coords="1390,828,1358,828,1358,822,1390,822"/>
+<area shape="rect" id="Node000022" href="$class_c_func_train.html#a211bdc141766100801e90fa74409fd6f" title="Moves the train to the next target." alt="" coords="1196,879,1318,905"/>
+<area shape="poly" id="edge35_Node000001_Node000022" title=" " alt="" coords="1434,837,1301,881,1300,875,1432,832"/>
+<area shape="rect" id="Node000027" href="$class_c_gun_target.html#adc7769185a2d6280e0e0588f26ddfac5" title="Moves the gun target to the next position." alt="" coords="1194,1005,1319,1032"/>
+<area shape="poly" id="edge41_Node000001_Node000027" title=" " alt="" coords="1464,842,1275,1007,1272,1003,1461,838"/>
+<area shape="rect" id="Node000032" href="$class_c_momentary_door.html#a2acf6ba419587224d5a4a419c2edb851" title="Handles the use behavior for the momentary door." alt="" coords="1180,1056,1333,1083"/>
+<area shape="poly" id="edge47_Node000001_Node000032" title=" " alt="" coords="1484,845,1467,890,1442,944,1406,999,1384,1024,1359,1046,1335,1059,1332,1055,1356,1042,1380,1021,1401,996,1437,941,1462,888,1479,843"/>
+<area shape="rect" id="Node000003" href="$class_c_base_button.html#a3bac76de72c1f4981ce1c5f021f0431b" title="Handles touch interactions with the button." alt="" coords="929,169,1108,196"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1215,291,1044,199,1047,194,1218,286"/>
+<area shape="rect" id="Node000006" href="$class_c_base_button.html#a8fd92acf133124bddea1334d3e8be26f" title="Handles the use interaction with the button." alt="" coords="213,43,380,69"/>
+<area shape="poly" id="edge15_Node000002_Node000006" title=" " alt="" coords="1236,284,1214,254,1184,220,1148,186,1107,160,1012,120,913,91,811,70,710,57,614,50,524,48,380,52,380,46,524,42,614,45,711,52,812,65,914,85,1014,115,1109,155,1151,182,1188,216,1218,251,1240,281"/>
+<area shape="rect" id="Node000009" href="$class_c_base_button.html#a64525735e7e495aa67a55953e08e75f0" title="Handles damage taken by the button entity." alt="" coords="205,347,388,373"/>
+<area shape="poly" id="edge16_Node000002_Node000009" title=" " alt="" coords="1146,318,1108,320,388,358,387,353,1108,315,1146,313"/>
+<area shape="rect" id="Node000004" href="$class_c_base_button.html#aca9cf4012a08dffe79128ab0bafa0fba" title="Handles the button returning to its start state." alt="" coords="672,245,881,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="960,204,881,229,824,247,822,242,880,224,959,199"/>
+<area shape="rect" id="Node000007" href="$class_c_rot_button.html#a60fe287e0fee6141f73bd3d3f18a1767" title="Spawns the rotating button entity." alt="" coords="10,68,146,95"/>
+<area shape="poly" id="edge12_Node000003_Node000007" title=" " alt="" coords="913,174,146,91,146,86,914,169"/>
+<area shape="rect" id="Node000008" href="$class_c_base_button.html#a5eae01688c33be4ada622a6f7cd9d3ca" title="Spawns the button entity." alt="" coords="5,5,151,32"/>
+<area shape="poly" id="edge13_Node000003_Node000008" title=" " alt="" coords="962,166,880,141,639,76,532,54,394,33,265,23,151,20,151,15,265,18,394,28,533,49,640,71,881,136,964,161"/>
+<area shape="rect" id="Node000010" href="$class_c_base_button.html#a26f3cfcfea37ef5c8b1143a1332d958e" title="Handles the button reaching the &quot;in/up&quot; position." alt="" coords="199,245,394,272"/>
+<area shape="poly" id="edge14_Node000003_Node000010" title=" " alt="" coords="913,188,797,193,673,203,557,217,442,236,375,247,374,242,442,231,556,212,672,197,797,188,913,183"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="657,261,625,261,625,256,657,256"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="622,239,672,231,928,192,929,197,673,236,623,245"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="503,237,312,72,315,67,506,233"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="487,281,331,349,329,344,485,276"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="427,261,394,261,394,256,427,256"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="198,70,146,76,146,71,197,65"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="199,42,151,34,152,28,200,37"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="381,273,442,281,643,297,842,305,1161,308,1161,313,842,311,642,302,442,287,380,278"/>
+<area shape="rect" id="Node000012" href="$class_c_base_door.html#a328f374a6339be384dcbfd4e1d44d9ef" title="Handles the blocked behavior for the door." alt="" coords="7,536,149,563"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="1162,547,1155,545,1131,534,1107,522,1017,494,945,476,872,467,778,464,532,464,415,472,300,492,199,516,123,538,121,533,197,511,299,486,414,467,532,459,778,459,873,461,946,471,1018,489,1109,518,1133,529,1157,540,1163,542"/>
+<area shape="rect" id="Node000013" href="$class_c_base_door.html#a5987e49900e7c7845d62f27c4af514f5" title="Causes the door to &quot;do its thing&quot;, i.e., start moving and cascade activation." alt="" coords="934,625,1103,652"/>
+<area shape="poly" id="edge20_Node000011_Node000013" title=" " alt="" coords="1199,584,1064,627,1062,622,1197,579"/>
+<area shape="rect" id="Node000016" href="$class_c_base_door.html#a347c41f04e7992149fd6cbd4a3cd6594" title="The door has reached the &quot;up&quot; position." alt="" coords="454,549,613,576"/>
+<area shape="poly" id="edge31_Node000011_Node000016" title=" " alt="" coords="1155,565,613,565,613,560,1155,560"/>
+<area shape="rect" id="Node000014" href="$class_c_base_door.html#a4de3928e8144b4f6d85e6b537283ff52" title="Handles the touch behavior for doors not tied to anything." alt="" coords="698,651,855,677"/>
+<area shape="poly" id="edge21_Node000013_Node000014" title=" " alt="" coords="919,652,856,658,855,653,918,646"/>
+<area shape="rect" id="Node000020" href="$class_c_base_door.html#ad814a3bc4ab6f2abfd3f4ddda16ccd91" title="Used by SUB_UseTargets when a door is the target of a button." alt="" coords="717,600,836,627"/>
+<area shape="poly" id="edge30_Node000013_Node000020" title=" " alt="" coords="918,631,836,622,836,617,919,626"/>
+<area shape="rect" id="Node000015" href="$class_c_base_door.html#a7a00193ddc527adee54032752b966b7c" title="The door has reached the &quot;down&quot; position." alt="" coords="443,499,623,525"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="682,649,671,641,659,628,651,615,646,589,640,563,634,551,623,539,605,528,607,524,626,535,638,548,645,561,651,588,656,613,663,625,674,637,685,644"/>
+<area shape="poly" id="edge24_Node000014_Node000016" title=" " alt="" coords="683,647,671,641,655,628,646,615,637,602,623,590,599,579,601,574,626,586,641,599,650,612,659,625,674,636,685,642"/>
+<area shape="rect" id="Node000018" href="$class_c_base_door.html#a7c17bb171f186b0bfe3b12bb5f8b44b7" title="Spawns the door entity." alt="" coords="466,600,600,627"/>
+<area shape="poly" id="edge28_Node000014_Node000018" title=" " alt="" coords="693,649,600,630,601,625,694,644"/>
+<area shape="rect" id="Node000019" href="$class_c_rot_door.html#afea049164a038d09ea1a2bf4f77b746d" title="Spawns the rotating door entity." alt="" coords="471,651,595,677"/>
+<area shape="poly" id="edge29_Node000014_Node000019" title=" " alt="" coords="683,667,596,667,596,661,683,661"/>
+<area shape="poly" id="edge23_Node000015_Node000011" title=" " alt="" coords="639,513,855,523,1108,541,1171,548,1170,554,1108,547,855,529,638,518"/>
+<area shape="poly" id="edge25_Node000016_Node000017" title=" " alt="" coords="467,583,443,591,336,627,335,622,441,585,465,578"/>
+<area shape="poly" id="edge26_Node000017_Node000012" title=" " alt="" coords="247,622,112,566,114,561,249,617"/>
+<area shape="poly" id="edge27_Node000017_Node000013" title=" " alt="" coords="343,656,390,673,443,687,565,705,661,712,758,706,880,687,938,671,988,650,990,655,940,676,881,692,758,711,661,717,564,711,441,692,388,679,341,661"/>
+<area shape="poly" id="edge34_Node000021_Node000001" title=" " alt="" coords="1373,804,1405,805,1405,810,1373,810"/>
+<area shape="rect" id="Node000023" href="$class_c_func_train.html#ac2d6b9b55ee55e832290266a914f6927" title="Activates the train and teleports it to the first target." alt="" coords="948,803,1089,829"/>
+<area shape="poly" id="edge36_Node000022_Node000023" title=" " alt="" coords="1202,876,1107,844,1069,832,1071,827,1109,839,1203,871"/>
+<area shape="rect" id="Node000024" href="$class_c_func_train.html#af808699034e8b9637e42694dd2e46a3e" title="Resets the train&#39;s state and prepares it for movement." alt="" coords="930,853,1107,880"/>
+<area shape="poly" id="edge37_Node000022_Node000024" title=" " alt="" coords="1180,887,1106,879,1107,873,1181,881"/>
+<area shape="rect" id="Node000025" href="$class_c_func_train.html#a3e000ea0a1493c70b6110f16fea6ce10" title="Activates the train based on the use type." alt="" coords="959,904,1078,931"/>
+<area shape="poly" id="edge38_Node000022_Node000025" title=" " alt="" coords="1180,903,1078,914,1078,908,1180,897"/>
+<area shape="rect" id="Node000026" href="$class_c_func_train.html#a8268a02b756dd238bec28447462639b0" title="Waits for a specified duration before moving to the next target." alt="" coords="957,955,1080,981"/>
+<area shape="poly" id="edge39_Node000022_Node000026" title=" " alt="" coords="1225,915,1109,957,1081,966,1079,960,1107,952,1223,910"/>
+<area shape="poly" id="edge40_Node000026_Node000022" title=" " alt="" coords="1051,946,1107,928,1194,900,1196,905,1109,933,1053,951"/>
+<area shape="rect" id="Node000028" href="$class_c_gun_target.html#a982c0a528722b78e1524ed335996e5bc" title="Activates the gun target based on user input." alt="" coords="958,1005,1079,1032"/>
+<area shape="poly" id="edge42_Node000027_Node000028" title=" " alt="" coords="1178,1021,1080,1021,1080,1016,1178,1016"/>
+<area shape="rect" id="Node000031" href="$class_c_gun_target.html#aeaed0a73b61760346108561c2d9e6868" title="Waits for a specified duration before proceeding." alt="" coords="956,1056,1081,1083"/>
+<area shape="poly" id="edge45_Node000027_Node000031" title=" " alt="" coords="1207,1039,1082,1067,1081,1061,1206,1034"/>
+<area shape="rect" id="Node000029" href="$class_c_gun_target.html#adcc4d0b590238328cb786d674f41c03d" title="Starts the gun target&#39;s operation." alt="" coords="713,1005,840,1032"/>
+<area shape="poly" id="edge43_Node000028_Node000029" title=" " alt="" coords="942,1021,840,1021,840,1016,942,1016"/>
+<area shape="rect" id="Node000030" href="$class_c_gun_target.html#aec59ac077de4324c0e6ac4a67cc8afc7" title="Spawns the gun target entity and initializes its properties." alt="" coords="465,1005,602,1032"/>
+<area shape="poly" id="edge44_Node000029_Node000030" title=" " alt="" coords="698,1021,602,1021,602,1016,698,1016"/>
+<area shape="poly" id="edge46_Node000031_Node000027" title=" " alt="" coords="1068,1049,1193,1021,1194,1027,1069,1054"/>
+</map>

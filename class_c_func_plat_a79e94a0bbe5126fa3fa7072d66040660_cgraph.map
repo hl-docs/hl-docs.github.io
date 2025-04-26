@@ -1,0 +1,9 @@
+<map id="CFuncPlat::Spawn" name="CFuncPlat::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the platform and initializes its properties." alt="" coords="5,56,135,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="208,5,294,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,53,192,32,194,37,121,58"/>
+<area shape="rect" id="Node000003" href="$class_c_func_plat.html#a1ee5d17d0f97a3242ae8ef7bfbed4953" title="Activates the platform when it is used by a button." alt="" coords="183,56,319,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,67,167,67,167,72,135,72"/>
+<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="197,107,305,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,81,187,99,185,105,120,86"/>
+</map>

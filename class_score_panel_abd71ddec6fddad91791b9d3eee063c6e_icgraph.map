@@ -1,0 +1,22 @@
+<map id="ScorePanel::Open" name="ScorePanel::Open">
+<area shape="rect" id="Node000001" title="Opens the scoreboard panel and makes it visible." alt="" coords="774,56,901,83"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#aa2ca5425c8340af817d1bc25fed69d06" title="Displays the scoreboard if the game is a multiplayer session." alt="" coords="575,48,726,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="759,72,726,72,726,67,759,67"/>
+<area shape="rect" id="Node000003" href="$input_8cpp.html#aa63ffd5777bf8eaab02cbee0999b32b1" title="Called when the scoreboard key is pressed." alt="" coords="420,5,527,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="559,46,522,35,523,30,560,41"/>
+<area shape="rect" id="Node000007" href="$class_c_hud.html#aac1f2a93ad7bddebedaa6dcdc8bd3bf3" title="Redraws the HUD elements on the screen." alt="" coords="421,56,526,83"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="559,72,526,72,526,67,559,67"/>
+<area shape="rect" id="Node000009" href="$hud__spectator_8cpp.html#af8c199aa73fdcead9a483b4778e58e1c" title="Toggles the visibility of the scoreboard." alt="" coords="423,107,524,133"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="560,98,523,109,522,104,559,93"/>
+<area shape="rect" id="Node000004" href="$input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="272,5,338,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="405,21,339,21,339,16,405,16"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="105,5,177,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,21,177,21,177,16,256,16"/>
+<area shape="rect" id="Node000006" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,31,44,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="90,32,45,42,44,37,89,27"/>
+<area shape="rect" id="Node000008" href="$cdll__int_8cpp.html#a5ea2cbe1b24757e7b528d2d005111a52" title="Redraws the HUD on each screen frame." alt="" coords="92,56,190,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="406,72,190,72,190,67,406,67"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="76,58,44,51,45,45,77,53"/>
+<area shape="rect" id="Node000010" href="$class_c_hud_spectator.html#a699359672bc053ee8c212523c63d3543" title="Initializes the HUD Spectator system and registers commands/variables." alt="" coords="238,107,372,133"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="408,123,373,123,373,117,408,117"/>
+</map>

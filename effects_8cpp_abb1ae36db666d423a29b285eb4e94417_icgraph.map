@@ -1,0 +1,16 @@
+<map id="IsPointEntity" name="IsPointEntity">
+<area shape="rect" id="Node000001" title="Determines if an entity is a point entity." alt="" coords="799,31,894,57"/>
+<area shape="rect" id="Node000002" href="$class_c_lightning.html#ab55f81ab9ad5a6c6a74943ed85562539" title="Updates the beam variables for the lightning effect." alt="" coords="558,5,751,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="783,38,751,34,752,29,784,33"/>
+<area shape="rect" id="Node000004" href="$class_c_lightning.html#a742db6e2243ce75f3a0531030b4df499" title="Think function for the lightning strike." alt="" coords="577,56,732,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="784,55,733,62,732,56,783,50"/>
+<area shape="rect" id="Node000003" href="$class_c_lightning.html#ad1e95029a213e0d7faccb62f7cf38d3a" title="Activates the lightning effect." alt="" coords="369,5,505,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="543,21,505,21,505,16,543,16"/>
+<area shape="rect" id="Node000005" href="$class_c_lightning.html#ae60d76702c9a62a7c700bbd864c0adc2" title="Spawns the lightning effect entity." alt="" coords="186,81,315,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="561,78,315,93,315,88,561,72"/>
+<area shape="rect" id="Node000007" href="$class_c_lightning.html#a9b6e23ff1410db09ae90d3c86793506d" title="Uses the lightning effect to strike." alt="" coords="363,107,510,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="580,89,498,109,497,103,578,84"/>
+<area shape="rect" id="Node000006" href="$class_c_trip_beam.html#a8e3d6f75ea13fae6608eefbaa3b3742f" title="Spawns the lightning effect entity." alt="" coords="5,81,138,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="170,97,138,97,138,92,170,92"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="348,111,315,106,316,101,348,105"/>
+</map>

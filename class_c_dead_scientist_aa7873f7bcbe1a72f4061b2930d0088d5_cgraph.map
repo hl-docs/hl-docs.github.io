@@ -1,0 +1,9 @@
+<map id="CDeadScientist::Spawn" name="CDeadScientist::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the dead scientist entity." alt="" coords="5,56,164,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="302,5,348,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,53,286,24,287,29,152,58"/>
+<area shape="rect" id="Node000003" href="$class_c_base_animating.html#a48b692e6ced2770a3f5e2fe4705c5ba9" title="Looks up the sequence index for a given label." alt="" coords="212,56,438,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,67,196,67,196,72,164,72"/>
+<area shape="rect" id="Node000004" href="$class_c_base_monster.html#ab53e862339b77d41592461643599d1ef" title="Initializes the monster&#39;s state when it is dead." alt="" coords="220,107,430,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,81,244,100,243,106,151,86"/>
+</map>

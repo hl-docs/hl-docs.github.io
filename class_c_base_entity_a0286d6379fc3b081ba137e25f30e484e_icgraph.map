@@ -1,0 +1,33 @@
+<map id="CBaseEntity::EarPosition" name="CBaseEntity::EarPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="926,208,1095,235"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a5d775fb57424d37e708634000ee82d07" title="Returns a pointer to the sound the monster should react to." alt="" coords="689,208,878,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="910,224,878,224,878,219,910,219"/>
+<area shape="rect" id="Node000003" href="$class_c_tentacle.html#af67698f0d711df4b4a61eea30d52bca9" title="Main thinking function for the tentacle." alt="" coords="475,31,595,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="757,198,705,149,640,97,605,77,570,60,572,55,607,72,643,92,709,145,761,194"/>
+<area shape="rect" id="Node000006" href="$class_c_base_monster.html#a8bb2cae4dbfa3b3d18fd0c3ce5014204" title="Determines the ideal state for the monster based on conditions." alt="" coords="438,107,632,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="746,202,697,174,640,148,605,137,606,131,642,143,700,169,749,197"/>
+<area shape="rect" id="Node000011" href="$class_c_a_grunt.html#a480baa02288a0031f727bf2f94a996dd" title="Retrieves the current schedule for the Alien Grunt." alt="" coords="458,157,612,184"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="699,207,604,187,605,182,700,202"/>
+<area shape="rect" id="Node000012" href="$class_c_barney.html#a3341e9848d3c6ddacd909c07db355320" title="Determines the appropriate schedule for the Barney entity." alt="" coords="458,208,612,235"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="674,224,613,224,613,219,674,219"/>
+<area shape="rect" id="Node000013" href="$class_c_i_slave.html#aa5699c34a6145e260f2216419df3a7e8" title="Retrieves the current schedule for the CISlave entity." alt="" coords="462,259,609,285"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="700,241,605,261,604,255,699,236"/>
+<area shape="rect" id="Node000014" href="$class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="453,309,617,336"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="749,246,700,274,642,300,606,311,605,306,640,295,697,269,746,241"/>
+<area shape="rect" id="Node000015" href="$class_c_houndeye.html#a6169fa33c726dacf6887da0d86bb6e27" title="Retrieves the schedule of a specific type for the Houndeye." alt="" coords="429,360,641,387"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="763,249,712,301,679,328,643,350,615,362,613,357,640,346,676,323,708,297,759,245"/>
+<area shape="rect" id="Node000004" href="$class_c_tentacle.html#af261785d07b904c9655d3fe4575033f7" title="Starts the tentacle&#39;s behavior." alt="" coords="223,5,338,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,39,338,27,339,22,460,34"/>
+<area shape="rect" id="Node000005" href="$class_c_tentacle.html#a7c7c3d9bb192e29e38c5792c09b54c5c" title="Spawns the tentacle entity." alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,21,132,21,132,16,207,16"/>
+<area shape="rect" id="Node000007" href="$class_c_barney.html#a1d81ae7db44d6b09ca5097a7619bb689" title="Retrieves the ideal state for the Barney entity." alt="" coords="201,56,360,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="449,106,350,86,352,81,450,100"/>
+<area shape="rect" id="Node000008" href="$class_c_bullsquid.html#ae7044f0690fd497f04b1319c40ed24c9" title="Determines the ideal state for the bullsquid." alt="" coords="195,107,366,133"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="422,123,366,123,366,117,422,117"/>
+<area shape="rect" id="Node000009" href="$class_c_scientist.html#a5f4158da2e426c5e0983d5ef6dc3aeb1" title="Determines the ideal state for the scientist." alt="" coords="196,157,365,184"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="450,140,352,159,350,154,449,134"/>
+<area shape="rect" id="Node000010" href="$class_c_squad_monster.html#a35efd3259d25ae761e62bd81b7c0d2ab" title="Gets the ideal state for the squad monster." alt="" coords="180,208,381,235"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="442,142,430,148,416,159,407,172,398,185,382,198,357,210,355,205,380,194,394,182,403,169,412,156,428,143,439,137"/>
+<area shape="rect" id="Node000016" href="$class_c_houndeye.html#a30498cea7548a29ba46dc6659906aee4" title="Retrieves the current schedule for the Houndeye." alt="" coords="195,360,366,387"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="413,376,366,376,366,371,413,371"/>
+</map>

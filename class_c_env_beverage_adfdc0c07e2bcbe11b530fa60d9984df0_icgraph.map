@@ -1,0 +1,5 @@
+<map id="CEnvBeverage::Precache" name="CEnvBeverage::Precache">
+<area shape="rect" id="Node000001" title="Precaches the beverage effect resources." alt="" coords="205,5,372,32"/>
+<area shape="rect" id="Node000002" href="$class_c_env_beverage.html#abbd163df4717d80f9efc4976c198b3fb" title="Spawns the beverage dispenser entity." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,21,157,21,157,16,189,16"/>
+</map>

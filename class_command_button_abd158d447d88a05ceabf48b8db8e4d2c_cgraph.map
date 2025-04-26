@@ -1,0 +1,9 @@
+<map id="CommandButton::CommandButton" name="CommandButton::CommandButton">
+<area shape="rect" id="Node000001" title="Constructor with player class." alt="" coords="5,31,229,57"/>
+<area shape="rect" id="Node000002" href="$class_command_button.html#a0844886ffcd98708570c16214ca8b580" title="Initializes visual and interactive properties of the button." alt="" coords="290,5,433,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,30,274,25,275,30,230,35"/>
+<area shape="rect" id="Node000003" href="$class_command_button.html#a030a79a733862b5b8ff2108e3697abab" title="Sets the button display text." alt="" coords="277,56,446,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,53,261,56,261,62,229,58"/>
+<area shape="rect" id="Node000004" href="$class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="494,56,713,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,67,478,67,478,72,446,72"/>
+</map>

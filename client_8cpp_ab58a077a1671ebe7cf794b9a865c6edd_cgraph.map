@@ -1,0 +1,7 @@
+<map id="Q_UnicodeValidate" name="Q_UnicodeValidate">
+<area shape="rect" id="Node000001" title="Returns true if a UTF&#45;8 string contains invalid sequences." alt="" coords="5,5,138,32"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#a137fdbf9af7900da7ccbb334a23a5a1b" title="Decodes one character from a UTF&#45;8 encoded string." alt="" coords="186,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,16,170,16,170,21,138,21"/>
+<area shape="rect" id="Node000003" href="$client_8cpp.html#a354e2c16bfe48d253bb38d437a65aeea" title="Checks if a uchar32 value is a valid Unicode code point." alt="" coords="367,5,494,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,16,351,16,351,21,320,21"/>
+</map>

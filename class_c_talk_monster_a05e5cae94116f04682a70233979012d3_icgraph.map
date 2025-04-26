@@ -1,0 +1,7 @@
+<map id="CTalkMonster::TakeDamage" name="CTalkMonster::TakeDamage">
+<area shape="rect" id="Node000001" title="Handles damage taken by the talk monster." alt="" coords="219,31,404,57"/>
+<area shape="rect" id="Node000002" href="$class_c_barney.html#a7b4f6de84eb885c40f9b8d509571efc6" title="Handles damage taken by the Barney entity." alt="" coords="10,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,34,166,30,166,25,203,29"/>
+<area shape="rect" id="Node000003" href="$class_c_scientist.html#aae526769eac1dfad245f95f261eb08ae" title="Handles damage taken by the scientist." alt="" coords="5,56,171,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,59,172,63,171,57,203,54"/>
+</map>

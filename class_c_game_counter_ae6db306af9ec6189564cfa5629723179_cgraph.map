@@ -1,0 +1,7 @@
+<map id="CGameCounter::HitLimit" name="CGameCounter::HitLimit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,168,57"/>
+<area shape="rect" id="Node000002" href="$class_c_game_counter.html#a17c7bf74157eb0fc732e3b06ef60be80" title=" " alt="" coords="216,5,401,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,32,200,28,200,34,169,37"/>
+<area shape="rect" id="Node000003" href="$class_c_game_counter.html#a4d93b9949304ff79748ae7fb099a1672" title=" " alt="" coords="219,56,398,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,51,203,55,203,60,168,56"/>
+</map>

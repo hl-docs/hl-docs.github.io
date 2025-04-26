@@ -1,0 +1,7 @@
+<map id="CommandButton::paint" name="CommandButton::paint">
+<area shape="rect" id="Node000001" title="Custom paint logic for the button." alt="" coords="5,31,160,57"/>
+<area shape="rect" id="Node000002" href="$class_command_label.html#aedc286afc0a471b41969bb4c284ea1af" title=" " alt="" coords="208,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,32,192,29,192,34,161,38"/>
+<area shape="rect" id="Node000003" href="$class_command_label.html#ae4b9858e738503d6f6d81c114244ccd9" title=" " alt="" coords="216,56,381,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,50,200,55,200,60,160,56"/>
+</map>

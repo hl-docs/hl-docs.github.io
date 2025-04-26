@@ -1,0 +1,112 @@
+<map id="FStrEq" name="FStrEq">
+<area shape="rect" id="Node000001" title=" " alt="" coords="737,1177,800,1204"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#a815a8e0c99534fbe06475d97331631d1" title=" " alt="" coords="521,5,657,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="764,1162,762,931,751,581,741,404,728,247,710,127,699,86,687,62,673,49,656,40,659,35,676,44,691,58,704,84,715,126,733,246,747,403,757,581,767,931,770,1162"/>
+<area shape="rect" id="Node000003" href="$cbase_8cpp.html#a28d62ac92a1ba4cfb587a60c412d6926" title="Restores the state of an entity from saved data." alt="" coords="530,72,647,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="764,1162,762,940,751,606,742,437,728,287,710,173,699,135,687,112,669,98,647,90,649,85,672,94,691,109,704,133,715,172,733,287,747,436,757,606,767,940,770,1162"/>
+<area shape="rect" id="Node000004" href="$cbase_8cpp.html#a6326ab643fb365c162e4d5e636fb820e" title="Dispatches the spawn event for an entity." alt="" coords="533,123,644,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="764,1162,761,949,750,631,740,471,726,329,709,221,699,185,687,163,668,148,644,140,645,135,670,144,691,160,704,183,714,220,732,328,745,470,755,631,766,949,770,1162"/>
+<area shape="rect" id="Node000043" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="537,173,641,200"/>
+<area shape="poly" id="edge6_Node000001_Node000043" title=" " alt="" coords="764,1162,760,959,748,657,738,505,725,370,708,268,698,234,687,214,666,198,641,191,642,185,669,194,691,210,703,232,713,267,730,370,744,504,754,657,765,959,770,1162"/>
+<area shape="rect" id="Node000078" href="$util_8h.html#ac55b01a2b1cedec0b404ed2d9a723ba7" title=" " alt="" coords="537,224,641,251"/>
+<area shape="poly" id="edge8_Node000001_Node000078" title=" " alt="" coords="764,1162,759,968,747,683,737,539,723,412,707,316,698,284,687,264,666,249,641,241,642,236,669,244,691,261,702,282,712,315,729,411,742,538,752,682,765,968,769,1162"/>
+<area shape="rect" id="Node000079" href="$class_c_global_state.html#ac6fc345bb9caa58d1bd7e8478ae627e5" title="Finds a global entity by name." alt="" coords="523,275,654,301"/>
+<area shape="poly" id="edge9_Node000001_Node000079" title=" " alt="" coords="764,1162,758,977,745,708,735,573,722,454,706,363,697,333,687,315,672,303,654,295,656,290,675,298,691,312,702,331,711,362,727,453,740,572,750,708,764,977,769,1161"/>
+<area shape="rect" id="Node000089" href="$class_c_base_entity.html#a64a008ab2331dbd59b88bc7dd63e6bff" title=" " alt="" coords="508,325,669,352"/>
+<area shape="poly" id="edge10_Node000001_Node000089" title=" " alt="" coords="764,1162,757,987,744,734,733,607,720,495,705,411,696,383,687,366,668,351,671,347,691,362,701,381,710,410,726,495,739,606,749,733,763,987,769,1161"/>
+<area shape="rect" id="Node000090" href="$class_c_flocking_flyer_flock.html#a8d8509f5d7a383849d80aef1e79390c1" title="Processes key&#45;value pairs for the flock entity." alt="" coords="519,376,659,419"/>
+<area shape="poly" id="edge11_Node000001_Node000090" title=" " alt="" coords="763,1162,756,1000,740,768,718,551,703,474,695,448,687,432,674,420,658,411,660,407,677,416,691,429,700,446,708,473,723,550,746,768,761,999,769,1161"/>
+<area shape="rect" id="Node000091" href="$class_c_dead_barney.html#a2c4585583a163c753f093662752a146a" title="Processes key&#45;value pairs for the dead Barney entity." alt="" coords="506,443,671,469"/>
+<area shape="poly" id="edge12_Node000001_Node000091" title=" " alt="" coords="763,1162,755,1010,740,794,717,592,703,521,695,497,687,483,670,470,674,466,691,480,700,495,708,520,722,591,745,793,761,1009,769,1162"/>
+<area shape="rect" id="Node000092" href="$class_c_info_b_m.html#a4740b9e721207379d8d79562162cb0ff" title="Handles key&#45;value pairs for the CInfoBM entity." alt="" coords="522,493,656,520"/>
+<area shape="poly" id="edge13_Node000001_Node000092" title=" " alt="" coords="763,1162,754,1019,738,820,715,634,702,569,687,534,673,522,655,514,657,509,676,517,691,530,707,567,721,633,743,819,760,1019,768,1161"/>
+<area shape="rect" id="Node000093" href="$class_c_big_momma.html#a1fba69f1f26a57a2446551b773818cec" title="Processes key&#45;value pairs for the monster." alt="" coords="509,544,669,571"/>
+<area shape="poly" id="edge14_Node000001_Node000093" title=" " alt="" coords="765,1162,763,1039,753,868,744,781,730,701,711,636,700,610,687,591,664,573,667,569,691,588,705,608,716,634,735,700,749,780,759,868,768,1039,770,1161"/>
+<area shape="rect" id="Node000094" href="$class_c_func_illusionary.html#a3417691735811333bba903e61691b26a" title="Processes key&#45;value pairs for the func_illusionary entity." alt="" coords="8,599,189,625"/>
+<area shape="poly" id="edge15_Node000001_Node000094" title=" " alt="" coords="765,1162,763,1051,753,901,743,825,729,757,711,701,700,680,688,665,653,643,602,627,539,616,468,610,320,606,190,609,189,604,320,600,469,604,540,611,603,622,655,638,691,661,704,677,716,699,735,755,748,824,758,900,768,1051,770,1162"/>
+<area shape="rect" id="Node000095" href="$class_c_func_rotating.html#aa0fe847f6d36ff0d830026e66daeaf88" title="Processes key&#45;value pairs for the func_rotating entity." alt="" coords="503,1051,674,1077"/>
+<area shape="poly" id="edge16_Node000001_Node000095" title=" " alt="" coords="751,1165,725,1127,708,1108,688,1092,665,1080,668,1075,691,1087,711,1104,729,1123,756,1162"/>
+<area shape="rect" id="Node000096" href="$class_c_pendulum.html#a5830026303e6af768b939d1bf5019962" title="Processes key&#45;value pairs for the func_pendulum entity." alt="" coords="513,1101,665,1128"/>
+<area shape="poly" id="edge17_Node000001_Node000096" title=" " alt="" coords="736,1170,688,1142,656,1131,658,1126,690,1138,739,1166"/>
+<area shape="rect" id="Node000097" href="$class_c_base_delay.html#a1674d768d18d41f701fc57735158c990" title="Handles key&#45;value pairs for the delay entity." alt="" coords="510,899,667,925"/>
+<area shape="poly" id="edge18_Node000001_Node000097" title=" " alt="" coords="764,1162,759,1115,747,1057,724,997,708,970,688,946,661,928,664,924,691,942,712,967,729,995,752,1056,764,1114,769,1161"/>
+<area shape="rect" id="Node000098" href="$class_c_base_toggle.html#a99ba6e5114504377f537ca98b3afec40" title="Handles key&#45;value pairs for the toggle entity." alt="" coords="259,747,421,773"/>
+<area shape="poly" id="edge27_Node000001_Node000098" title=" " alt="" coords="763,1162,757,1076,744,965,734,909,721,860,706,820,687,794,656,771,621,755,583,745,544,740,467,740,401,749,400,743,467,735,545,734,584,740,623,750,659,767,691,790,711,817,726,858,739,908,749,964,762,1075,769,1161"/>
+<area shape="rect" id="Node000103" href="$class_c_base_door.html#ab361f52120f79f876e76aa1126fd863f" title="Caches user&#45;entity&#45;field values until spawn is called." alt="" coords="23,652,174,679"/>
+<area shape="poly" id="edge29_Node000001_Node000103" title=" " alt="" coords="764,1162,761,1059,750,921,741,852,727,790,710,740,687,707,672,696,651,686,597,671,531,661,457,656,304,656,175,662,174,657,304,650,458,651,532,656,598,666,653,681,674,691,691,703,714,738,732,789,746,851,756,921,767,1059,770,1162"/>
+<area shape="rect" id="Node000104" href="$class_c_momentary_door.html#ad8507d5c00f0f3823fa732ad9410e405" title="Handles key&#45;value pairs for the momentary door." alt="" coords="5,709,192,736"/>
+<area shape="poly" id="edge30_Node000001_Node000104" title=" " alt="" coords="764,1162,760,1067,748,941,738,878,725,822,708,777,688,747,652,728,602,714,539,706,469,703,322,706,192,715,192,710,321,701,469,698,539,701,603,709,654,723,691,743,713,774,730,820,743,877,753,941,765,1067,769,1162"/>
+<area shape="rect" id="Node000105" href="$class_c_recharge.html#a26067f94ab806cfb988c8929a70d97f3" title="Processes key&#45;value pairs for the recharge entity." alt="" coords="24,772,173,799"/>
+<area shape="poly" id="edge39_Node000001_Node000105" title=" " alt="" coords="762,1162,754,1088,739,995,717,908,703,875,688,854,662,842,613,832,473,813,311,800,173,792,173,786,312,795,473,808,614,826,663,837,691,850,708,873,722,907,744,994,759,1087,767,1161"/>
+<area shape="rect" id="Node000106" href="$class_c_wall_health.html#a3ed1508c77a366fe5be800523db58786" title="Processes key&#45;value pairs for the wall health entity." alt="" coords="20,823,177,849"/>
+<area shape="poly" id="edge40_Node000001_Node000106" title=" " alt="" coords="761,1162,752,1095,737,1013,715,936,702,907,688,889,662,878,614,869,476,854,316,845,178,840,178,835,316,840,476,849,615,863,663,873,691,885,707,905,720,934,742,1011,757,1094,767,1161"/>
+<area shape="rect" id="Node000107" href="$class_c_breakable.html#af41b7073c3abaf6ad76e084931447f1f" title="Processes key&#45;value pairs for the breakable entity." alt="" coords="264,949,416,976"/>
+<area shape="poly" id="edge33_Node000001_Node000107" title=" " alt="" coords="762,1163,756,1124,743,1078,721,1033,706,1013,688,997,657,978,623,964,587,954,551,948,479,946,415,951,415,946,479,941,551,943,589,949,625,959,659,973,691,993,710,1010,725,1030,748,1076,761,1123,768,1162"/>
+<area shape="rect" id="Node000108" href="$class_c_pushable.html#aedd9198c63d52fdb37e0c297247a8d3b" title="Processes key&#45;value pairs for the pushable entity." alt="" coords="24,975,173,1001"/>
+<area shape="poly" id="edge32_Node000001_Node000108" title=" " alt="" coords="759,1163,750,1133,736,1099,715,1067,688,1041,661,1031,612,1023,471,1009,173,993,173,988,471,1003,612,1017,662,1026,691,1036,719,1063,740,1096,755,1131,764,1161"/>
+<area shape="rect" id="Node000109" href="$class_c_world.html#a8476a1da204c5c4940224298b62b74c2" title="Processes key&#45;value pairs for the world entity." alt="" coords="525,1152,653,1179"/>
+<area shape="poly" id="edge28_Node000001_Node000109" title=" " alt="" coords="721,1187,653,1177,654,1172,722,1182"/>
+<area shape="rect" id="Node000110" href="$class_c_env_explosion.html#aa6f9fe5dbc6930c57ce9ddbf38addf86" title="Processes key&#45;value pairs for the env_explosion entity." alt="" coords="503,1203,675,1229"/>
+<area shape="poly" id="edge31_Node000001_Node000110" title=" " alt="" coords="722,1200,676,1206,675,1201,721,1195"/>
+<area shape="rect" id="Node000111" href="$class_c_func_tank.html#afca8f9508cbc025c61b249102a736a16" title="Handles key&#45;value pairs for the tank entity." alt="" coords="513,1304,664,1331"/>
+<area shape="poly" id="edge34_Node000001_Node000111" title=" " alt="" coords="754,1219,727,1254,691,1288,653,1306,651,1301,688,1283,723,1251,749,1215"/>
+<area shape="rect" id="Node000112" href="$class_c_func_tank_laser.html#ae6a6ff359c962d2528ed968ca3325c73" title="Handles key&#45;value pairs for the tank laser entity." alt="" coords="248,1279,432,1305"/>
+<area shape="poly" id="edge37_Node000001_Node000112" title=" " alt="" coords="740,1216,717,1231,690,1244,625,1264,557,1278,432,1292,432,1287,556,1273,623,1259,688,1239,714,1226,737,1211"/>
+<area shape="rect" id="Node000113" href="$class_c_func_tank_mortar.html#abda3d563af24653ec743643d45869fcd" title="Handles key&#45;value pairs for the func_tankmortar entity." alt="" coords="246,1341,434,1368"/>
+<area shape="poly" id="edge38_Node000001_Node000113" title=" " alt="" coords="764,1220,755,1251,741,1285,720,1318,691,1345,655,1363,616,1376,576,1383,536,1385,459,1382,395,1371,396,1366,460,1376,536,1380,576,1377,615,1370,653,1358,688,1340,716,1315,736,1283,750,1249,759,1219"/>
+<area shape="rect" id="Node000114" href="$class_c_world_item.html#ada03209e58c360ce76604fcbd8ed6380" title="Processes key&#45;value pairs for the world item." alt="" coords="512,1405,665,1432"/>
+<area shape="poly" id="edge41_Node000001_Node000114" title=" " alt="" coords="766,1220,759,1257,745,1303,723,1349,691,1389,661,1407,659,1403,688,1385,718,1346,740,1301,753,1256,761,1218"/>
+<area shape="rect" id="Node000115" href="$class_c_light.html#a658e5002501e66249edd0799c48d1d70" title="Caches user&#45;defined entity field values until spawn is called." alt="" coords="528,1507,650,1533"/>
+<area shape="poly" id="edge42_Node000001_Node000115" title=" " alt="" coords="771,1219,769,1276,759,1348,749,1386,734,1423,716,1458,691,1490,673,1504,651,1513,649,1509,670,1500,687,1486,711,1456,730,1421,743,1384,753,1347,764,1275,766,1219"/>
+<area shape="rect" id="Node000116" href="$class_c_env_light.html#a614f45ff3a316e4a0777b58907d4d46a" title="Processes key&#45;value pairs for the environment light entity." alt="" coords="268,1481,412,1508"/>
+<area shape="poly" id="edge44_Node000001_Node000116" title=" " alt="" coords="770,1220,767,1269,756,1331,746,1363,732,1393,714,1422,691,1446,671,1458,642,1468,569,1483,488,1492,412,1496,412,1490,487,1486,569,1478,641,1463,668,1454,688,1442,710,1418,727,1391,741,1361,751,1330,762,1269,765,1219"/>
+<area shape="rect" id="Node000117" href="$class_c_rule_entity.html#a8c8e707a4124eaf65e7320b90ecf2af2" title="Processes key&#45;value pairs for the rule entity." alt="" coords="512,1557,666,1584"/>
+<area shape="poly" id="edge45_Node000001_Node000117" title=" " alt="" coords="767,1219,759,1296,744,1394,722,1486,708,1522,691,1547,668,1563,665,1559,687,1543,703,1520,717,1484,739,1393,754,1295,762,1219"/>
+<area shape="rect" id="Node000118" href="$class_c_game_score.html#aec1db61eb329e5e6423b99f1b4f40fbe" title="Processes key&#45;value pairs for the game score entity." alt="" coords="507,1608,670,1635"/>
+<area shape="poly" id="edge46_Node000001_Node000118" title=" " alt="" coords="768,1220,761,1306,748,1419,725,1526,710,1569,691,1598,673,1612,669,1607,687,1594,705,1566,720,1525,742,1418,756,1305,763,1219"/>
+<area shape="rect" id="Node000119" href="$class_c_game_text.html#a62c2e123a482012686031597a903d88c" title="Processes key&#45;value pairs for the game text entity." alt="" coords="512,1659,666,1685"/>
+<area shape="poly" id="edge47_Node000001_Node000119" title=" " alt="" coords="769,1219,764,1315,751,1443,741,1508,728,1567,712,1615,691,1648,668,1665,665,1660,687,1645,707,1613,723,1565,736,1507,746,1443,758,1315,764,1219"/>
+<area shape="rect" id="Node000120" href="$class_c_game_team_master.html#a5d6da908a02292d33089dceadc959fa2" title="Processes key&#45;value pairs for the game team master entity." alt="" coords="488,1709,689,1736"/>
+<area shape="poly" id="edge48_Node000001_Node000120" title=" " alt="" coords="769,1219,766,1325,754,1468,744,1541,731,1607,714,1661,691,1699,677,1711,673,1707,687,1696,709,1659,726,1606,739,1540,749,1468,760,1324,764,1219"/>
+<area shape="rect" id="Node000121" href="$class_c_game_player_zone.html#a3dab6f86d55ca9c182d6a58c67e170d4" title="Processes key&#45;value pairs for the game player zone entity." alt="" coords="492,1760,686,1787"/>
+<area shape="poly" id="edge49_Node000001_Node000121" title=" " alt="" coords="770,1220,768,1334,757,1493,748,1573,734,1647,715,1708,704,1731,691,1750,677,1761,674,1757,687,1746,700,1729,711,1706,729,1646,742,1573,752,1492,762,1334,765,1219"/>
+<area shape="rect" id="Node000100" href="$class_c_monster_maker.html#a5fde6dba337a278d1d91ea28287b8d21" title="Processes key&#45;value pairs for the monster maker." alt="" coords="500,1811,677,1837"/>
+<area shape="poly" id="edge50_Node000001_Node000100" title=" " alt="" coords="770,1220,769,1344,760,1517,751,1606,737,1687,717,1754,705,1780,691,1800,677,1812,674,1808,687,1797,701,1778,712,1752,732,1686,746,1605,755,1517,764,1344,765,1220"/>
+<area shape="rect" id="Node000122" href="$class_c_func_mortar_field.html#ac7942d9f5be20b384c1bc214e8be7411" title="Processes key&#45;value pairs for the mortar field." alt="" coords="495,1861,683,1888"/>
+<area shape="poly" id="edge51_Node000001_Node000122" title=" " alt="" coords="768,1220,760,1363,743,1562,721,1748,707,1814,691,1851,677,1863,674,1859,687,1848,702,1813,715,1747,738,1562,754,1362,763,1220"/>
+<area shape="rect" id="Node000123" href="$class_c_path_corner.html#a833eeebf69f69c0c7fc5720eaed6332d" title="Processes key&#45;value pairs for the path corner." alt="" coords="509,1912,668,1939"/>
+<area shape="poly" id="edge52_Node000001_Node000123" title=" " alt="" coords="769,1220,761,1372,745,1588,722,1790,708,1862,700,1886,691,1902,670,1917,667,1913,687,1898,695,1884,703,1860,717,1789,740,1587,755,1372,763,1219"/>
+<area shape="rect" id="Node000124" href="$class_c_base_d_m_start.html#ab09d2511bb5f9103ab3cafe7476ca02b" title="Handles key&#45;value pairs for the DMStart entity." alt="" coords="503,1963,675,1989"/>
+<area shape="poly" id="edge53_Node000001_Node000124" title=" " alt="" coords="769,1220,762,1382,747,1614,724,1832,709,1909,701,1936,691,1952,677,1965,673,1960,687,1949,696,1934,704,1908,718,1831,741,1614,756,1382,763,1220"/>
+<area shape="rect" id="Node000101" href="$class_c_tentacle.html#a0c96bd18e5064da182afb7d256132979" title="Processes key&#45;value pairs for the tentacle." alt="" coords="517,2013,660,2040"/>
+<area shape="poly" id="edge54_Node000001_Node000101" title=" " alt="" coords="769,1219,763,1391,748,1639,738,1764,725,1873,710,1957,701,1985,691,2003,678,2015,662,2022,660,2018,675,2010,687,2000,696,1983,705,1955,720,1872,733,1763,743,1639,757,1391,764,1219"/>
+<area shape="rect" id="Node000125" href="$class_c_path_track.html#a0372e9a6aca20505354c1203287ab780" title="Processes key&#45;value pairs for the path track." alt="" coords="512,2064,665,2091"/>
+<area shape="poly" id="edge55_Node000001_Node000125" title=" " alt="" coords="769,1220,763,1401,750,1665,740,1798,727,1915,711,2004,702,2035,691,2054,667,2071,664,2067,687,2050,697,2033,706,2003,722,1914,734,1798,745,1665,758,1401,764,1220"/>
+<area shape="rect" id="Node000102" href="$class_c_base_turret.html#af75c434ab11c09d25846657a23dfcfb3" title="Handles key&#45;value pairs for the turret." alt="" coords="510,2115,667,2141"/>
+<area shape="poly" id="edge56_Node000001_Node000102" title=" " alt="" coords="769,1220,764,1410,752,1691,741,1832,728,1957,712,2052,702,2084,691,2104,669,2121,666,2116,687,2101,697,2082,707,2050,723,1956,736,1832,746,1690,759,1410,764,1219"/>
+<area shape="rect" id="Node000126" href="$class_c_decal.html#a7a043bfd7122cce14b3fa64338ecb5c7" title="Processes key&#45;value pairs for the decal entity." alt="" coords="525,2165,652,2192"/>
+<area shape="poly" id="edge57_Node000001_Node000126" title=" " alt="" coords="769,1220,765,1420,753,1717,743,1866,730,1998,713,2099,703,2133,691,2155,674,2169,654,2177,652,2172,671,2164,687,2152,698,2131,708,2098,725,1998,738,1866,748,1716,760,1420,764,1220"/>
+<area shape="rect" id="Node000127" href="$class_c_path_track.html#a4a62f4502dfb155231d8b39c0e8d4f7a" title="Sets the previous path track for the current path track." alt="" coords="506,2216,672,2243"/>
+<area shape="poly" id="edge58_Node000001_Node000127" title=" " alt="" coords="770,1220,766,1429,755,1742,745,1900,731,2040,714,2147,703,2183,691,2206,674,2220,670,2216,687,2202,698,2181,709,2145,726,2039,739,1900,749,1742,761,1429,764,1220"/>
+<area shape="rect" id="Node000128" href="$class_c_generic_monster.html#abb3305ad35c01f526979d03c550f5935" title="Spawns the generic monster entity in the game." alt="" coords="504,2267,673,2293"/>
+<area shape="poly" id="edge59_Node000001_Node000128" title=" " alt="" coords="770,1220,767,1438,756,1767,746,1934,733,2082,715,2194,704,2232,691,2256,676,2270,672,2265,687,2253,699,2230,710,2193,727,2081,741,1934,751,1767,761,1438,764,1220"/>
+<area shape="rect" id="Node000129" href="$class_c_squad_monster.html#add4bf353f68eb5e56308658744d7d10c" title="Recruits squad members of the same classification." alt="" coords="489,2317,689,2344"/>
+<area shape="poly" id="edge60_Node000001_Node000129" title=" " alt="" coords="770,1219,768,1447,758,1793,748,1968,734,2123,716,2241,704,2282,691,2307,678,2319,674,2315,687,2304,700,2280,711,2240,729,2123,743,1968,752,1792,762,1447,764,1219"/>
+<area shape="rect" id="Node000005" href="$class_c_base_entity.html#a160eca0a1781985ff10e178f951efeac" title="Creates an entity." alt="" coords="270,72,410,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="517,124,408,102,409,97,519,119"/>
+<area shape="rect" id="Node000038" href="$class_c_monster_maker.html#a66e51b8b51983a0fc2937db42f2c2728" title="Creates a new monster." alt="" coords="240,123,440,149"/>
+<area shape="poly" id="edge5_Node000004_Node000038" title=" " alt="" coords="517,139,440,139,440,133,517,133"/>
+<area shape="rect" id="Node000044" href="$class_c_base_door.html#a328f374a6339be384dcbfd4e1d44d9ef" title="Handles the blocked behavior for the door." alt="" coords="269,173,411,200"/>
+<area shape="poly" id="edge7_Node000043_Node000044" title=" " alt="" coords="521,189,411,189,411,184,521,184"/>
+<area shape="poly" id="edge19_Node000097_Node000098" title=" " alt="" coords="551,893,362,776,365,772,554,888"/>
+<area shape="poly" id="edge25_Node000097_Node000107" title=" " alt="" coords="505,932,409,951,408,946,504,926"/>
+<area shape="poly" id="edge20_Node000098_Node000094" title=" " alt="" coords="313,737,259,689,226,664,190,642,157,628,159,624,193,638,229,660,262,685,316,733"/>
+<area shape="poly" id="edge21_Node000098_Node000103" title=" " alt="" coords="293,743,191,700,141,682,143,677,193,695,295,738"/>
+<area shape="poly" id="edge22_Node000098_Node000104" title=" " alt="" coords="243,748,189,739,190,734,244,743"/>
+<area shape="poly" id="edge23_Node000098_Node000105" title=" " alt="" coords="244,773,174,780,173,775,243,767"/>
+<area shape="poly" id="edge24_Node000098_Node000106" title=" " alt="" coords="287,781,192,813,153,825,152,820,191,808,286,776"/>
+<area shape="poly" id="edge26_Node000107_Node000108" title=" " alt="" coords="249,975,173,983,173,978,248,970"/>
+<area shape="poly" id="edge35_Node000111_Node000112" title=" " alt="" coords="497,1311,431,1304,432,1299,497,1305"/>
+<area shape="poly" id="edge36_Node000111_Node000113" title=" " alt="" coords="498,1334,433,1343,433,1338,497,1328"/>
+<area shape="poly" id="edge43_Node000115_Node000116" title=" " alt="" coords="512,1515,412,1505,412,1499,512,1510"/>
+</map>

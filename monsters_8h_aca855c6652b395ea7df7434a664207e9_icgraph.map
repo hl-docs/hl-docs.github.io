@@ -1,0 +1,5 @@
+<map id="VecCheckToss" name="VecCheckToss">
+<area shape="rect" id="Node000001" title="Calculates the velocity needed to toss an object from one point to another." alt="" coords="252,5,361,32"/>
+<area shape="rect" id="Node000002" href="$class_c_h_grunt.html#ad9c02993507ce943d25d9b5bd1a0201f" title="Checks for a grenade attack." alt="" coords="5,5,204,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,21,204,21,204,16,236,16"/>
+</map>

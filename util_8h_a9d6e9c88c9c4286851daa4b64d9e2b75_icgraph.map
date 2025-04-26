@@ -1,0 +1,7 @@
+<map id="TEXTURETYPE_Init" name="TEXTURETYPE_Init">
+<area shape="rect" id="Node000001" title="Initializes texture types from a file." alt="" coords="340,5,476,32"/>
+<area shape="rect" id="Node000002" href="$class_c_world.html#a3369fa629e2fa36ce93e3a37680d08aa" title="Preloads resources and initializes game settings." alt="" coords="165,5,292,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,21,292,21,292,16,324,16"/>
+<area shape="rect" id="Node000003" href="$class_c_world.html#a8f48bd2b218222fa98bfc43afd7f62f0" title="Spawns the world entity." alt="" coords="5,5,117,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,21,117,21,117,16,149,16"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="UTIL_EntitiesInBox" name="UTIL_EntitiesInBox">
+<area shape="rect" id="Node000001" title="Counts the number of entities within a specified box." alt="" coords="1147,183,1278,209"/>
+<area shape="rect" id="Node000002" href="$class_c_big_momma.html#a91337aa541cfb8eabed8da727a877706" title="Determines if a crab can be laid." alt="" coords="908,31,1084,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1187,174,1146,136,1097,97,1063,77,1029,60,1032,55,1066,72,1101,92,1150,132,1190,170"/>
+<area shape="rect" id="Node000004" href="$class_c_breakable.html#a7920746bea8c47175abe7162461a8a62" title="Handles the death of the breakable entity." alt="" coords="938,107,1054,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1170,178,1098,148,1053,135,1054,130,1100,143,1172,173"/>
+<area shape="rect" id="Node000012" href="$class_c_big_momma.html#a090db172b649d065298f5945d85edbb6" title="Handles animation events for the Big Momma entity." alt="" coords="893,157,1099,184"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1131,189,1099,185,1100,180,1132,184"/>
+<area shape="rect" id="Node000013" href="$class_c_xen_tree.html#a9dcee1f5a8bff45c7797a8d496010f0c" title="Handles animation events for the Xen tree." alt="" coords="903,208,1089,235"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1132,208,1090,213,1089,208,1131,203"/>
+<area shape="rect" id="Node000014" href="$class_c_monster_maker.html#a66e51b8b51983a0fc2937db42f2c2728" title="Creates a new monster." alt="" coords="896,259,1096,285"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1172,219,1100,249,1061,261,1060,256,1098,244,1170,214"/>
+<area shape="rect" id="Node000019" href="$class_c_barnacle.html#aa52cfc244ffde743da41ab38ef7cd2c9" title=" " alt="" coords="903,309,1089,336"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="1192,223,1152,262,1127,283,1100,300,1073,311,1071,306,1098,295,1124,278,1149,258,1189,219"/>
+<area shape="rect" id="Node000003" href="$class_c_big_momma.html#aadf3d5912c175ba325e74f41deef8a1f" title="Checks if the Big Momma can lay a crab." alt="" coords="623,5,845,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="893,37,845,32,845,27,893,31"/>
+<area shape="rect" id="Node000005" href="$class_c_breakable.html#ac085211900af2e77d708383264bc2de9" title="Handles the touch event for the breakable entity." alt="" coords="402,56,567,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="922,109,844,97,698,84,567,76,568,70,698,78,845,92,923,104"/>
+<area shape="rect" id="Node000008" href="$class_c_breakable.html#adf5b94e0c19f1a449b894ddc982199c4" title="Handles damage taken by the breakable entity." alt="" coords="648,107,820,133"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="923,123,821,123,821,117,923,117"/>
+<area shape="rect" id="Node000010" href="$class_c_breakable.html#a1d067db7acedbf1c8c2d8fd86f8ccaf5" title="Breaks the breakable entity when triggered." alt="" coords="674,157,794,184"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="923,137,795,162,794,157,922,131"/>
+<area shape="rect" id="Node000006" href="$class_c_breakable.html#aa9ae6e72694530afcfe91852e1907af8" title="Spawns the breakable entity." alt="" coords="197,56,333,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="386,72,333,72,333,67,386,67"/>
+<area shape="rect" id="Node000007" href="$class_c_pushable.html#a7dc12c6652e12e9faaa2b7c4ceda1c8d" title="Spawns the pushable entity." alt="" coords="5,56,137,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="181,72,137,72,137,67,181,67"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="649,106,553,86,554,81,650,100"/>
+<area shape="rect" id="Node000009" href="$class_c_pushable.html#a45a316bc228c4fc5dac7fb9d25aa9969" title="Handles damage taken by the pushable entity." alt="" coords="400,107,568,133"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="632,123,569,123,569,117,632,117"/>
+<area shape="rect" id="Node000011" href="$class_c_pushable.html#a4594fa40f664a12a658889b6ec2d213f" title="Uses the pushable entity." alt="" coords="427,157,542,184"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="659,173,542,173,542,168,659,168"/>
+<area shape="rect" id="Node000015" href="$class_c_monster_maker.html#ab077bb0e8ff47bdeb29601a24fc8f8c5" title="Drops one monster from the monster maker each time called." alt="" coords="394,208,574,235"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="905,258,844,249,702,236,574,228,575,223,703,231,845,244,906,253"/>
+<area shape="rect" id="Node000017" href="$class_c_monster_maker.html#ad2a5595990138fd355c9ce46048d010a" title="Creates a new monster at regular intervals." alt="" coords="640,259,828,285"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="880,275,829,275,829,269,880,269"/>
+<area shape="rect" id="Node000016" href="$class_c_monster_maker.html#ae162cb9792bd9c49670b5b2a0d207e53" title="Spawns the monster maker in the game." alt="" coords="185,259,345,285"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="409,241,326,261,325,255,408,236"/>
+<area shape="poly" id="edge18_Node000017_Node000016" title=" " alt="" coords="624,275,345,275,345,269,624,269"/>
+<area shape="rect" id="Node000018" href="$class_c_monster_maker.html#a3eafef130bef1576ada5bf903ed5c6f7" title="Activates or deactivates the monster maker." alt="" coords="393,309,575,336"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="650,292,554,311,553,306,649,286"/>
+<area shape="poly" id="edge20_Node000018_Node000016" title=" " alt="" coords="408,308,325,289,326,283,409,303"/>
+<area shape="rect" id="Node000020" href="$class_c_barnacle.html#a4226dea19f1c30a28fed856cc5007484" title="The main think function for the barnacle." alt="" coords="648,335,820,361"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="887,336,820,342,820,337,887,331"/>
+<area shape="rect" id="Node000021" href="$class_c_barnacle.html#a7288eb00da0ada4f605b04dbc5aa3cf6" title="Spawns the barnacle entity." alt="" coords="420,360,548,387"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="633,361,549,370,548,364,633,356"/>
+</map>

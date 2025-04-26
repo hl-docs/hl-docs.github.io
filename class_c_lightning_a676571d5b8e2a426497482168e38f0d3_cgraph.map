@@ -1,0 +1,11 @@
+<map id="CLightning::Precache" name="CLightning::Precache">
+<area shape="rect" id="Node000001" title="Precaches the lightning effect resources." alt="" coords="5,56,151,83"/>
+<area shape="rect" id="Node000002" href="$class_c_beam.html#a59ae7bc3bf47da6c478e47f80c98f4eb" title="Precaches the beam entity." alt="" coords="199,56,326,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,67,183,67,183,72,151,72"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="410,5,493,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="314,53,394,31,395,36,316,58"/>
+<area shape="rect" id="Node000004" href="$class_c_beam.html#a7876de5e9998abf12b44bee5cb269ccb" title="Sets the end entity for the beam." alt="" coords="377,56,526,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="326,67,361,67,361,72,326,72"/>
+<area shape="rect" id="Node000005" href="$class_c_beam.html#a342ac202ea3477215befac4a9f2e97c8" title="Sets the start entity for the beam." alt="" coords="374,107,528,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="316,81,385,100,383,105,314,86"/>
+</map>

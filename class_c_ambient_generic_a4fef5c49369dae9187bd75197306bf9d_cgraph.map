@@ -1,0 +1,7 @@
+<map id="CAmbientGeneric::KeyValue" name="CAmbientGeneric::KeyValue">
+<area shape="rect" id="Node000001" title="Loads key&#45;value pairs into the ambient generic entity." alt="" coords="5,31,193,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="289,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,31,273,21,273,27,193,36"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="241,56,399,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,52,226,56,225,61,193,57"/>
+</map>

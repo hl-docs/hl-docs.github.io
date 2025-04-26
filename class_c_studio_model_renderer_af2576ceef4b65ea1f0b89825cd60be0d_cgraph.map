@@ -1,0 +1,5 @@
+<map id="CStudioModelRenderer::StudioCalcAttachments" name="CStudioModelRenderer::StudioCalcAttachments">
+<area shape="rect" id="Node000001" title="Calculates the attachment points for the current model." alt="" coords="5,5,172,48"/>
+<area shape="rect" id="Node000002" href="$studio__util_8cpp.html#a8ce9ca21ed654193ca28c71fefd33e8a" title="Transforms a vector by a 3x4 matrix." alt="" coords="220,13,336,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,24,204,24,204,29,172,29"/>
+</map>

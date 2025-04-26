@@ -1,0 +1,11 @@
+<map id="CMomentaryRotButton::Spawn" name="CMomentaryRotButton::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the momentary rotating button entity." alt="" coords="5,73,159,116"/>
+<area shape="rect" id="Node000002" href="$class_c_base_toggle.html#ac2871d0e1e1daa9c627b56c8e066a1b8" title="Sets the movement direction based on spawn flags." alt="" coords="207,5,355,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,70,206,42,223,35,225,40,208,46,136,75"/>
+<area shape="rect" id="Node000003" href="$buttons_8cpp.html#adbf9f5ae967da10e39fc6d42983de9e0" title="Determines the sound associated with a button." alt="" coords="233,56,329,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,82,217,75,218,80,160,88"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="258,107,304,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,102,243,113,242,118,159,107"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="227,157,335,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="136,114,208,143,225,149,223,154,206,148,134,119"/>
+</map>

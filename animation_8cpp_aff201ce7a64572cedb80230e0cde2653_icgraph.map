@@ -1,0 +1,30 @@
+<map id="GetAnimationEvent" name="GetAnimationEvent">
+<area shape="rect" id="Node000001" title="Retrieves the animation event for a specific sequence." alt="" coords="833,132,965,159"/>
+<area shape="rect" id="Node000002" href="$class_c_base_animating.html#a4378161ed931f8a0da287ebe91408a44" title="Dispatches animation events for the current frame." alt="" coords="607,124,785,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="817,148,785,148,785,143,817,143"/>
+<area shape="rect" id="Node000003" href="$class_c_tentacle.html#af67698f0d711df4b4a61eea30d52bca9" title="Main thinking function for the tentacle." alt="" coords="418,5,538,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="658,116,612,80,558,46,531,35,533,30,561,42,615,75,661,112"/>
+<area shape="rect" id="Node000006" href="$class_c_tentacle.html#ad342d4ecb71ae0100987c8dcd91238e4" title="Handles the tentacle&#39;s death animation and behavior." alt="" coords="410,56,547,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="623,121,558,97,524,86,526,81,560,92,625,116"/>
+<area shape="rect" id="Node000008" href="$class_c_xen_tree.html#ab5fcd3721e36a16e80a11b19c57680b8" title="Think function for the Xen tree." alt="" coords="421,107,536,133"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="592,136,536,129,536,124,593,131"/>
+<area shape="rect" id="Node000009" href="$class_c_xen_spore.html#a8f9ed9e5c8d73fab3335448aca0b20fe" title="Think function for the Xen spore." alt="" coords="416,157,540,184"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="593,160,541,166,540,161,592,155"/>
+<area shape="rect" id="Node000010" href="$class_c_leech.html#afc4932a50686ee9f41a87e29aebe8cc7" title="Updates the leech&#39;s motion based on its state." alt="" coords="402,208,555,235"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="625,175,560,199,526,210,524,205,558,193,623,170"/>
+<area shape="rect" id="Node000013" href="$class_c_barnacle.html#a393c2c81c06f6ae59f8459d8304cedcb" title="Waits until the barnacle is dead." alt="" coords="397,259,559,285"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="661,179,615,215,561,249,533,261,531,256,558,244,612,211,658,175"/>
+<area shape="rect" id="Node000004" href="$class_c_tentacle.html#af261785d07b904c9655d3fe4575033f7" title="Starts the tentacle&#39;s behavior." alt="" coords="207,5,322,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="402,21,322,21,322,16,402,16"/>
+<area shape="rect" id="Node000005" href="$class_c_tentacle.html#a7c7c3d9bb192e29e38c5792c09b54c5c" title="Spawns the tentacle entity." alt="" coords="5,31,132,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,31,132,38,132,33,191,25"/>
+<area shape="rect" id="Node000007" href="$class_c_tentacle.html#a29efdaefe65e124a58582f16a114dd48" title="Handles the use action for the tentacle." alt="" coords="180,56,349,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="394,72,349,72,349,67,394,67"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="164,59,132,55,132,50,165,54"/>
+<area shape="rect" id="Node000011" href="$class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="196,208,333,235"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="386,224,333,224,333,219,386,219"/>
+<area shape="rect" id="Node000012" href="$class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="12,208,125,235"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="181,224,125,224,125,219,181,219"/>
+<area shape="rect" id="Node000014" href="$class_c_barnacle.html#aa49fa93203c6f67339485c3a67f2f0e3" title="Handles the death of the barnacle." alt="" coords="204,259,325,285"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="381,275,326,275,326,269,381,269"/>
+</map>

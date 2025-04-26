@@ -1,0 +1,7 @@
+<map id="CSmoker::Think" name="CSmoker::Think">
+<area shape="rect" id="Node000001" title="Updates the smoke effect each frame." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="168,5,302,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,33,152,28,153,33,121,38"/>
+<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="185,56,285,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,50,169,57,169,62,120,55"/>
+</map>

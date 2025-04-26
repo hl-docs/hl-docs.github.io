@@ -1,0 +1,21 @@
+<map id="FIND_ENTITY_BY_CLASSNAME" name="FIND_ENTITY_BY_CLASSNAME">
+<area shape="rect" id="Node000001" title=" " alt="" coords="668,107,883,133"/>
+<area shape="rect" id="Node000002" href="$class_c_cine_monster.html#a93c4ca8c46be7c460c1b3bc1b5c41794" title="Activates the cinematic monster." alt="" coords="441,5,598,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="736,101,682,73,619,47,583,35,585,30,621,41,684,68,738,96"/>
+<area shape="rect" id="Node000003" href="$satchel_8cpp.html#a4fafcbb7c79b02a62376d4481c8c4af4" title="Deactivates all satchels owned by the specified player." alt="" coords="453,56,585,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="689,106,585,85,586,80,690,100"/>
+<area shape="rect" id="Node000006" href="$triggers_8cpp.html#a9c38bd8c0795bb7c75beec239f139105" title="Handles the transition to the next level for deathmatch." alt="" coords="481,107,558,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="652,123,558,123,558,117,652,117"/>
+<area shape="rect" id="Node000007" href="$class_c_base_spectator.html#a537b0a6af3fda3e8d2823162854df1d0" title="Called when the spectator enters an impulse command." alt="" coords="429,157,609,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="700,140,611,161,609,155,699,135"/>
+<area shape="rect" id="Node000010" href="$class_c_grenade.html#aa822a8dea1238a7fd4f7b9f5cad30425" title="Uses satchel charges owned by the specified player." alt="" coords="418,224,620,251"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="744,145,688,180,621,214,588,226,586,221,619,210,686,176,741,140"/>
+<area shape="rect" id="Node000004" href="$class_c_half_life_multiplay.html#a461017faef96deda77810cf2418d54f9" title="Handles logic when a player is killed." alt="" coords="218,48,342,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="437,72,343,72,343,67,437,67"/>
+<area shape="rect" id="Node000005" href="$class_c_half_life_teamplay.html#acd8c78636ad1ed18d6eae877a1ca7a3e" title="Handles the event when a player is killed." alt="" coords="5,48,142,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,72,142,72,142,67,203,67"/>
+<area shape="rect" id="Node000008" href="$class_c_base_spectator.html#acac94224f40f1bad7c7cbc6e27f151d4" title="Called every frame after physics are run." alt="" coords="190,157,370,200"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="413,181,370,181,370,176,413,176"/>
+<area shape="rect" id="Node000009" href="$client_8cpp.html#a5fcb4d1f86f2fec69829859018d6a346" title="Processes user commands from a spectator." alt="" coords="19,165,128,192"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="174,181,128,181,128,176,174,176"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CGlock::GlockFire" name="CGlock::GlockFire">
+<area shape="rect" id="Node000001" title="Fires the Glock with specified parameters." alt="" coords="226,31,354,57"/>
+<area shape="rect" id="Node000002" href="$class_c_glock.html#aafaaa550e8e11f3246dd532775c225a3" title="Handles the primary attack of the Glock." alt="" coords="14,5,169,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,37,169,31,170,26,211,31"/>
+<area shape="rect" id="Node000003" href="$class_c_glock.html#ae9c7e4c8faef6ab96816690330ddfdc5" title="Handles the secondary attack of the Glock." alt="" coords="5,56,178,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,57,179,61,178,56,210,51"/>
+</map>

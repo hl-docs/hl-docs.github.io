@@ -1,0 +1,15 @@
+<map id="CBaseMonster::ShootAtEnemy" name="CBaseMonster::ShootAtEnemy">
+<area shape="rect" id="Node000001" title="Calculates the direction to shoot at the enemy." alt="" coords="477,56,680,83"/>
+<area shape="rect" id="Node000002" href="$class_c_barney.html#ad3c4068f7bdf9a91a2644714083149df" title="Fires a pistol at the enemy." alt="" coords="254,5,429,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,55,407,35,408,30,499,50"/>
+<area shape="rect" id="Node000004" href="$class_c_gargantua.html#a96fe5dbe4098470c3e7f813cda7001d2" title="Executes the Gargantua&#39;s stomp attack." alt="" coords="254,56,429,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="461,72,429,72,429,67,461,67"/>
+<area shape="rect" id="Node000006" href="$class_c_i_slave.html#aa4c57db62d0120725f29a0789f6f3aea" title="Creates a heavy damage beam directed forward." alt="" coords="278,107,405,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="498,89,406,109,405,104,497,84"/>
+<area shape="rect" id="Node000003" href="$class_c_barney.html#ad67727fb91de9879016a9f7778114c67" title="Handles animation events for the Barney entity." alt="" coords="15,5,196,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,21,196,21,196,16,238,16"/>
+<area shape="rect" id="Node000005" href="$class_c_gargantua.html#a813428a67ee9bb342a2cd0fb2ab1b4f1" title="Handles animation events specific to the Gargantua." alt="" coords="5,56,206,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,72,206,72,206,67,239,67"/>
+<area shape="rect" id="Node000007" href="$class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="18,107,193,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="263,123,193,123,193,117,263,117"/>
+</map>

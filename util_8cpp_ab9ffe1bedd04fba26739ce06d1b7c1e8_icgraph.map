@@ -1,0 +1,44 @@
+<map id="UTIL_WaterLevel" name="UTIL_WaterLevel">
+<area shape="rect" id="Node000001" title="Determines the water level at a specified position." alt="" coords="1410,136,1529,163"/>
+<area shape="rect" id="Node000002" href="$class_c_flying_monster.html#a20fd633fb002b1f2c47cd10daa936ff1" title="Gets the ceiling height at a specified position." alt="" coords="1179,56,1345,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1431,130,1361,97,1326,86,1328,81,1363,92,1433,126"/>
+<area shape="rect" id="Node000003" href="$class_c_leech.html#adbe0cb8478ef9758d809a659196dbe95" title="Recalculates the water level for the leech." alt="" coords="1161,107,1362,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1395,142,1360,137,1361,131,1395,136"/>
+<area shape="rect" id="Node000008" href="$util_8cpp.html#a85c8167481ddf8e55c6cce0326613692" title="Emits bubble effects in a specified area." alt="" coords="1211,165,1312,192"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1395,162,1313,174,1312,169,1394,157"/>
+<area shape="rect" id="Node000011" href="$util_8cpp.html#ab3411ccc92c67ffbac0dbe067317c1b9" title="Creates a bubble trail between two points." alt="" coords="1203,275,1321,301"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1437,174,1285,276,1282,272,1434,169"/>
+<area shape="rect" id="Node000004" href="$class_c_leech.html#a6d94a7bdd8730073ff9cb96b6a6c398c" title="Activates the leech entity." alt="" coords="959,5,1078,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1173,103,1160,97,1144,86,1135,75,1126,64,1112,53,1072,35,1074,30,1114,48,1129,60,1139,71,1148,82,1162,92,1175,98"/>
+<area shape="rect" id="Node000005" href="$class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="725,81,862,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1178,106,1113,97,979,92,862,94,862,89,979,87,1113,92,1179,101"/>
+<area shape="rect" id="Node000007" href="$class_c_leech.html#afc4932a50686ee9f41a87e29aebe8cc7" title="Updates the leech&#39;s motion based on its state." alt="" coords="942,107,1095,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="1146,123,1095,123,1095,117,1146,117"/>
+<area shape="rect" id="Node000006" href="$class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="518,81,630,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="710,97,630,97,630,92,710,92"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="926,112,862,105,862,100,927,107"/>
+<area shape="rect" id="Node000009" href="$class_c_ichthyosaur.html#a39bd2b60f055a6de092f0e0279a1cea4" title="Handles animation events for the ichthyosaur." alt="" coords="931,157,1106,200"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1195,181,1106,181,1106,176,1195,176"/>
+<area shape="rect" id="Node000010" href="$class_c_grenade.html#acd8479d0e99d455e9fbce85f4ef4366a" title="Creates smoke effects after the grenade explodes." alt="" coords="954,224,1083,251"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="1196,197,1078,226,1076,221,1195,192"/>
+<area shape="rect" id="Node000012" href="$class_c_crossbow_bolt.html#ac985efdaeda74eb70e9c8838614f7366" title="Handles the bubble effect for the crossbow bolt." alt="" coords="924,275,1113,301"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1187,291,1114,291,1114,285,1187,285"/>
+<area shape="rect" id="Node000017" href="$class_c_rpg_rocket.html#aa575d2c9a7f9bb666f6d9f61f2248cee" title="Updates the rocket&#39;s direction to follow the laser spot." alt="" coords="933,325,1104,352"/>
+<area shape="poly" id="edge17_Node000011_Node000017" title=" " alt="" coords="1188,306,1086,327,1085,322,1187,301"/>
+<area shape="rect" id="Node000013" href="$class_c_crossbow_bolt.html#a91e2aa33dbf7f1406968f7ad85e32d69" title="Spawns the crossbow bolt entity." alt="" coords="715,275,872,301"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="908,291,873,291,873,285,908,285"/>
+<area shape="rect" id="Node000014" href="$class_c_crossbow_bolt.html#a9ca035606c3bacbf18eeb64b5fadf3cf" title="Creates a new crossbow bolt entity." alt="" coords="484,275,663,301"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="699,291,664,291,664,285,699,285"/>
+<area shape="rect" id="Node000015" href="$class_c_crossbow.html#ad6a24e0cb3497003ba02cf2711ad48b9" title="Fires a regular bolt from the crossbow." alt="" coords="264,275,404,301"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="469,291,405,291,405,285,469,285"/>
+<area shape="rect" id="Node000016" href="$class_c_crossbow.html#a088e3d420a0cb3943cf33cf126323a32" title="Handles the primary attack of the crossbow weapon." alt="" coords="5,275,184,301"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="248,291,184,291,184,285,248,285"/>
+<area shape="rect" id="Node000018" href="$class_c_rpg_rocket.html#ad41642b66d6e741207d671249c262968" title="Handles the thinking process after the rocket is ignited." alt="" coords="711,325,876,352"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="918,341,876,341,876,336,918,336"/>
+<area shape="rect" id="Node000019" href="$class_c_rpg_rocket.html#a00ade43973324c13861559813d396761" title="Initializes the RPG rocket entity upon spawning." alt="" coords="503,325,644,352"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="696,341,645,341,645,336,696,336"/>
+<area shape="rect" id="Node000020" href="$class_c_rpg_rocket.html#a4d9f000f14ddbdc04895e000bfa4b272" title="Creates a new RPG rocket entity." alt="" coords="232,325,436,352"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="488,341,437,341,437,336,488,336"/>
+<area shape="rect" id="Node000021" href="$class_c_rpg.html#a953326b14bfe1e7acdf5d72ba8b3fd80" title="Handles the primary attack for the RPG weapon." alt="" coords="22,325,167,352"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="216,341,167,341,167,336,216,336"/>
+</map>

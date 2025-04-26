@@ -1,0 +1,7 @@
+<map id="CSquadMonster::SquadAdd" name="CSquadMonster::SquadAdd">
+<area shape="rect" id="Node000001" title="Adds a squad member to the squad." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#abb12bdacefd969667874163644fa1515" title=" " alt="" coords="237,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,31,221,27,221,33,188,36"/>
+<area shape="rect" id="Node000003" href="$class_c_squad_monster.html#af6e53dc3a408babffcea2367c5695b01" title=" " alt="" coords="236,56,407,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,52,220,55,220,61,188,57"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CHudHealth" name="CHudHealth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="98,187,188,213"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_base.html" title=" " alt="" coords="5,96,89,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,131,131,184,127,188,70,135"/>
+<area shape="rect" id="Node000003" href="$struct_p_o_s_i_t_i_o_n.html" title=" " alt="" coords="6,5,88,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,48,50,95,44,95,44,48"/>
+<area shape="rect" id="Node000004" href="$struct_d_a_m_a_g_e___i_m_a_g_e.html" title=" " alt="" coords="113,96,240,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,138,150,187,145,185,164,136"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CL_AdjustAngles" name="CL_AdjustAngles">
+<area shape="rect" id="Node000001" title="Adjusts the player&#39;s view angles based on input keys." alt="" coords="5,56,127,83"/>
+<area shape="rect" id="Node000002" href="$pm__math_8c.html#aeeb0234afc434fb4a6dffd12ee0c69fc" title="Converts an angle to a value between 0 and 360 degrees." alt="" coords="195,5,272,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,53,179,32,181,37,114,58"/>
+<area shape="rect" id="Node000003" href="$input_8cpp.html#ac7460003deac07b967ac53e0e3500fa6" title="Returns the current state of a key as a float value." alt="" coords="184,56,283,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,67,169,67,169,72,127,72"/>
+<area shape="rect" id="Node000004" href="$view_8cpp.html#a7afe0173f4fdd0d111d7f250437775fd" title="Stops the pitch drift effect." alt="" coords="175,107,292,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,81,173,99,171,104,112,86"/>
+</map>

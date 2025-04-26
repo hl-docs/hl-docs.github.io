@@ -1,0 +1,9 @@
+<map id="MaxAmmoCarry" name="MaxAmmoCarry">
+<area shape="rect" id="Node000001" title="Determines the maximum ammo a player can carry for a given ammo type." alt="" coords="444,31,559,57"/>
+<area shape="rect" id="Node000002" href="$class_c_weapon_box.html#a104acf81896515338e97f1772af8e27d" title="Adds ammo to the weapon box." alt="" coords="219,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,37,396,33,397,28,429,32"/>
+<area shape="rect" id="Node000004" href="$class_c_weapon_box.html#a05b62b15425330cf3357ea7bd7d13b3d" title="Handles the touch interaction for the weapon box." alt="" coords="235,56,380,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="429,56,380,63,380,57,428,51"/>
+<area shape="rect" id="Node000003" href="$class_c_weapon_box.html#af066b3e221805b2509b0371e326d6ccf" title="Handles key&#45;value data for the weapon box." alt="" coords="5,5,171,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,21,171,21,171,16,203,16"/>
+</map>

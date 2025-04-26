@@ -1,0 +1,9 @@
+<map id="CGibShooter::Spawn" name="CGibShooter::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the gib shooter entity." alt="" coords="5,31,148,57"/>
+<area shape="rect" id="Node000002" href="$class_c_gib_shooter.html#aa03c895f36029070fbbabce0fa886e56" title="Precaches the gib shooter resources." alt="" coords="196,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,32,180,28,180,33,148,38"/>
+<area shape="rect" id="Node000003" href="$subs_8cpp.html#a63f7e85057f56715c4afed473f2e8ea1" title="Sets the movement direction based on angles." alt="" coords="232,56,318,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,50,217,59,216,65,148,56"/>
+<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="402,56,533,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="318,67,386,67,386,72,318,72"/>
+</map>

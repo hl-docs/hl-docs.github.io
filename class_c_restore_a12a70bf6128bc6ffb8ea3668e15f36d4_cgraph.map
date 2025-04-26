@@ -1,0 +1,16 @@
+<map id="CRestore::ReadNamedInt" name="CRestore::ReadNamedInt">
+<area shape="rect" id="Node000001" title="Reads a named integer from the save data." alt="" coords="5,56,174,83"/>
+<area shape="rect" id="Node000002" href="$class_c_restore.html#ac5e8c2a08a079cd8c3a076d3d89e90fd" title="Reads the header for a field from the save data." alt="" coords="222,56,409,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,67,206,67,206,72,174,72"/>
+<area shape="rect" id="Node000003" href="$class_c_restore.html#a496d349556bd63c40648e6a16f37adf8" title="Retrieves the current buffer pointer." alt="" coords="467,5,624,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,53,466,33,467,39,380,58"/>
+<area shape="rect" id="Node000004" href="$class_c_restore.html#a73f594ebe43fba44b2c0f4a9deae3ed2" title="Skips a specified number of bytes in the save data buffer." alt="" coords="457,56,633,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="409,67,442,67,442,72,409,72"/>
+<area shape="rect" id="Node000007" href="$class_c_restore.html#ac620277bfcebb0ee17b5e38b9a4b2adb" title="Reads a short integer from the save data." alt="" coords="473,107,617,133"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="380,81,467,100,466,105,379,86"/>
+<area shape="rect" id="Node000005" href="$class_c_restore.html#ad8fc064d5ba599de4f41faa5f257d37d" title="Reads a specified number of bytes from the save data buffer." alt="" coords="681,81,862,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="634,77,666,80,665,85,633,82"/>
+<area shape="rect" id="Node000006" href="$class_c_restore.html#ae755356c8043ae64d33d0973113763f6" title=" " alt="" coords="910,81,1031,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="862,92,894,92,894,97,862,97"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="618,109,666,104,666,109,618,115"/>
+</map>

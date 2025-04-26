@@ -1,0 +1,30 @@
+<map id="CBaseButton::ButtonSpark" name="CBaseButton::ButtonSpark">
+<area shape="rect" id="Node000001" title="Handles the sparking behavior of the button." alt="" coords="1625,245,1803,272"/>
+<area shape="poly" id="edge17_Node000001_Node000001" title=" " alt="" coords="1756,233,1742,226,1714,224,1688,226,1675,231,1671,236,1678,243,1673,246,1666,236,1671,227,1687,221,1714,219,1743,221,1758,228"/>
+<area shape="rect" id="Node000002" href="$class_c_base_button.html#aca9cf4012a08dffe79128ab0bafa0fba" title="Handles the button returning to its start state." alt="" coords="1368,183,1577,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1644,243,1526,212,1528,207,1646,238"/>
+<area shape="rect" id="Node000006" href="$class_c_base_button.html#a5eae01688c33be4ada622a6f7cd9d3ca" title="Spawns the button entity." alt="" coords="5,144,151,171"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="1615,277,1437,300,1333,309,1231,312,523,312,429,312,355,309,284,295,198,261,164,241,133,217,89,173,93,169,137,213,167,237,200,256,285,289,356,304,429,307,523,307,1230,307,1333,303,1436,295,1615,272"/>
+<area shape="rect" id="Node000003" href="$class_c_base_button.html#a7c4ec672410f32f1f3008409fe777b89" title="Starts the button moving &quot;out/down&quot;." alt="" coords="1138,183,1320,209"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1353,199,1321,199,1321,193,1353,193"/>
+<area shape="rect" id="Node000004" href="$class_c_base_button.html#a3bac76de72c1f4981ce1c5f021f0431b" title="Handles touch interactions with the button." alt="" coords="911,93,1090,120"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1181,179,1089,141,1040,123,1042,118,1091,136,1183,174"/>
+<area shape="rect" id="Node000007" href="$class_c_base_button.html#a26f3cfcfea37ef5c8b1143a1332d958e" title="Handles the button reaching the &quot;in/up&quot; position." alt="" coords="667,144,863,171"/>
+<area shape="poly" id="edge16_Node000003_Node000007" title=" " alt="" coords="1122,190,863,168,863,163,1123,184"/>
+<area shape="rect" id="Node000009" href="$class_c_base_button.html#a8fd92acf133124bddea1334d3e8be26f" title="Handles the use interaction with the button." alt="" coords="206,144,374,171"/>
+<area shape="poly" id="edge14_Node000003_Node000009" title=" " alt="" coords="1122,202,811,205,620,199,429,185,354,174,355,168,429,180,620,194,811,199,1122,197"/>
+<area shape="rect" id="Node000010" href="$class_c_base_button.html#a64525735e7e495aa67a55953e08e75f0" title="Handles damage taken by the button entity." alt="" coords="199,220,381,247"/>
+<area shape="poly" id="edge15_Node000003_Node000010" title=" " alt="" coords="1163,216,1090,229,892,244,695,249,519,247,381,241,381,236,519,241,695,244,892,239,1090,224,1162,211"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="1090,121,1398,179,1397,185,1089,126"/>
+<area shape="rect" id="Node000005" href="$class_c_rot_button.html#a60fe287e0fee6141f73bd3d3f18a1767" title="Spawns the rotating button entity." alt="" coords="10,43,146,69"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="965,87,918,60,862,40,763,21,661,11,558,8,459,10,280,26,146,46,146,40,279,20,458,5,558,3,661,6,764,16,863,35,920,56,968,82"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="895,108,863,108,530,106,385,114,199,134,137,146,136,141,198,129,384,108,530,101,863,103,895,103"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="920,126,831,146,830,141,919,121"/>
+<area shape="rect" id="Node000008" href="$class_c_base_button.html#a979524cd17dbdcfb1aa71817904b5bd7" title="Starts the button moving &quot;in/up&quot;." alt="" coords="429,144,619,171"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="651,160,620,160,620,155,651,155"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="610,138,667,129,794,116,910,108,910,114,795,122,668,134,611,143"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="414,160,374,160,374,155,414,155"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="467,178,335,222,333,217,465,173"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="245,139,107,72,109,67,247,134"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="191,160,151,160,151,155,191,155"/>
+</map>

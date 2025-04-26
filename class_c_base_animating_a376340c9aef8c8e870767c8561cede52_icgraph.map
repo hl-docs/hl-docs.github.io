@@ -1,0 +1,5 @@
+<map id="CBaseAnimating::ExtractBbox" name="CBaseAnimating::ExtractBbox">
+<area shape="rect" id="Node000001" title="Extracts the bounding box for a specified sequence." alt="" coords="281,5,479,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_animating.html#a1578977a807fa9b1372a26886e0bc962" title="Sets the sequence bounding box based on the current sequence." alt="" coords="5,5,233,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,21,233,21,233,16,265,16"/>
+</map>

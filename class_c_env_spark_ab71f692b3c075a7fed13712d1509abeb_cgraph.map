@@ -1,0 +1,22 @@
+<map id="CEnvSpark::SparkStop" name="CEnvSpark::SparkStop">
+<area shape="rect" id="Node000001" title="Stops the spark effect for the spark environment entity." alt="" coords="5,56,160,83"/>
+<area shape="rect" id="Node000002" href="$class_c_env_spark.html#a2bbab778a02b2ffa134ad3ae83aad490" title="Starts the spark effect for the spark environment entity." alt="" coords="208,56,363,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,75,192,76,192,81,160,81"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="207,63,175,63,175,58,207,58"/>
+<area shape="rect" id="Node000003" href="$class_c_env_spark.html#a35259e5ce137bb40a0d582b9ceec1d80" title="Think function for the spark environment entity." alt="" coords="411,56,569,83"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="363,67,395,67,395,72,363,72"/>
+<area shape="rect" id="Node000004" href="$buttons_8cpp.html#a8ea88d797d50a8eb2b1889663fbfd179" title="Makes flagged buttons spark when turned off." alt="" coords="617,56,689,83"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="570,67,602,67,602,72,570,72"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="737,5,841,32"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="688,54,736,35,738,40,690,59"/>
+<area shape="rect" id="Node000008" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="766,56,812,83"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="689,67,750,67,750,72,689,72"/>
+<area shape="rect" id="Node000009" href="$dlls_2util_8cpp.html#a98b7dd5c6b2ea38ab577a0ea282b5a22" title="Emits sparks at a specified position." alt="" coords="741,107,837,133"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="690,80,738,98,736,103,688,85"/>
+<area shape="rect" id="Node000006" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="889,5,1027,32"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="842,16,873,16,873,21,842,21"/>
+<area shape="rect" id="Node000007" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="1075,5,1226,32"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1028,16,1060,16,1060,21,1028,21"/>
+<area shape="rect" id="Node000010" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="891,107,1025,133"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="837,117,875,117,875,123,837,123"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBaseEntity::Illumination" name="CBaseEntity::Illumination">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,5,391,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#a838a6d84f4a9351f1823a1ace6968844" title="Calculates the illumination level for the player." alt="" coords="5,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,21,176,21,176,16,208,16"/>
+</map>

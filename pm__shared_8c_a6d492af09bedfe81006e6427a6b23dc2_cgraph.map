@@ -1,0 +1,9 @@
+<map id="PM_PreventMegaBunnyJumping" name="PM_PreventMegaBunnyJumping">
+<area shape="rect" id="Node000001" title="Corrects bunny jumping." alt="" coords="5,31,214,57"/>
+<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="278,5,338,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,28,262,22,263,27,214,33"/>
+<area shape="rect" id="Node000004" href="$cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="262,56,354,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,55,246,59,246,64,213,60"/>
+<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="402,5,445,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,16,386,16,386,21,338,21"/>
+</map>

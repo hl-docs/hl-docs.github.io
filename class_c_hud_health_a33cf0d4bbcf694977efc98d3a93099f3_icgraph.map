@@ -1,0 +1,5 @@
+<map id="CHudHealth::UpdateTiles" name="CHudHealth::UpdateTiles">
+<area shape="rect" id="Node000001" title="Updates the positions and durations of damage tiles." alt="" coords="206,13,372,40"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_health.html#a4afde2702e7d9946b75b7e249f4925aa" title="Handles the damage message from the server." alt="" coords="5,5,158,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,29,158,29,158,24,190,24"/>
+</map>

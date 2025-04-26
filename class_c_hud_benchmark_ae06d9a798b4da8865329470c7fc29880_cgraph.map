@@ -1,0 +1,28 @@
+<map id="CHudBenchmark::Think" name="CHudBenchmark::Think">
+<area shape="rect" id="Node000001" title="Updates the benchmark logic." alt="" coords="5,208,164,235"/>
+<area shape="rect" id="Node000002" href="$hud__bench_8cpp.html#a6426b8473da368605c6626fbc3870018" title="Checks if the benchmark is currently active." alt="" coords="266,5,367,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,206,107,174,133,132,168,87,210,48,250,29,253,34,213,53,172,91,137,135,111,177,95,209"/>
+<area shape="rect" id="Node000003" href="$hud__bench_8cpp.html#a2acca70ba9541b59d8154ab2ca54d037" title="Retrieves the current benchmark stage." alt="" coords="695,107,816,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,206,145,166,177,145,211,128,271,106,324,90,372,81,418,76,513,80,634,92,685,100,684,106,633,97,513,85,418,82,373,86,326,95,273,111,213,133,179,150,149,170,102,210"/>
+<area shape="rect" id="Node000004" href="$hud__bench_8cpp.html#a0d99927ba36b870455c56ebdc54f26cc" title="Gets the switch time for the current stage." alt="" coords="475,157,628,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,205,211,193,341,180,459,172,459,177,341,185,212,199,147,210"/>
+<area shape="rect" id="Node000005" href="$hud__bench_8cpp.html#a37ca253a64aa8ad227c52a694b634a40" title="Checks if the benchmark is currently in the specified stage." alt="" coords="497,107,606,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="112,205,158,184,211,165,282,149,354,136,481,122,482,127,355,142,283,154,212,171,160,189,114,210"/>
+<area shape="rect" id="Node000006" href="$hud__bench_8cpp.html#a7f37fe86eb47931b31870b598ea4a423" title="Sets the current benchmark stage." alt="" coords="257,208,376,235"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="164,219,241,219,241,224,164,224"/>
+<area shape="rect" id="Node000007" href="$class_c_hud_benchmark.html#a9f937a567064d94e33694250810b251b" title="Records frame data to calculate average framerate." alt="" coords="217,259,416,285"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="150,233,238,252,237,257,148,238"/>
+<area shape="rect" id="Node000008" href="$class_c_hud_benchmark.html#a398d04fbc3d2a55d1f32979595b72615" title="Computes the overall composite benchmark score based on weighted stage scores." alt="" coords="212,376,421,419"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="97,234,142,295,175,331,213,362,221,366,218,371,210,366,171,335,137,299,92,237"/>
+<area shape="rect" id="Node000011" href="$class_c_hud_benchmark.html#ab8b1f9bc0b708f232eb4eb6671ef18be" title="Starts the next benchmarking section based on the given stage." alt="" coords="225,309,408,352"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="107,233,154,263,213,295,227,301,225,306,211,300,151,268,104,237"/>
+<area shape="rect" id="Node000012" href="$hud__benchtrace_8h.html#aa7b10c568e7d00e0939bae672b504467" title=" " alt="" coords="271,443,362,469"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="92,234,107,273,131,326,167,382,188,407,213,428,233,440,256,447,254,452,231,445,210,433,185,411,162,385,126,329,102,275,87,236"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="607,154,683,135,685,140,609,159"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="606,117,679,117,679,123,606,123"/>
+<area shape="rect" id="Node000009" href="$class_c_hud_benchmark.html#a3ea9d82059baf555be2d5507fff9f39e" title="Calculates the score for a specific stage based on a raw performance value." alt="" coords="469,376,633,419"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="422,395,453,395,453,400,422,400"/>
+<area shape="rect" id="Node000010" href="$hud__bench_8cpp.html#a23ae11d0d6681b54fae5415c1a90e4d1" title="Checks if PowerPlay mode is currently active." alt="" coords="681,384,830,411"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="634,395,666,395,666,400,634,400"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="397,306,420,295,452,272,482,245,528,195,532,198,485,249,455,276,422,300,399,311"/>
+</map>

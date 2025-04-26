@@ -1,0 +1,7 @@
+<map id="CBaseButton::ButtonUse" name="CBaseButton::ButtonUse">
+<area shape="rect" id="Node000001" title="Handles the use interaction with the button." alt="" coords="199,31,366,57"/>
+<area shape="rect" id="Node000002" href="$class_c_rot_button.html#a60fe287e0fee6141f73bd3d3f18a1767" title="Spawns the rotating button entity." alt="" coords="10,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,34,146,30,146,24,183,29"/>
+<area shape="rect" id="Node000003" href="$class_c_base_button.html#a5eae01688c33be4ada622a6f7cd9d3ca" title="Spawns the button entity." alt="" coords="5,56,151,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,59,151,63,151,58,183,54"/>
+</map>

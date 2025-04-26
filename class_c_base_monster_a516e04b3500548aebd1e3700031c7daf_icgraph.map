@@ -1,0 +1,9 @@
+<map id="CBaseMonster::Stop" name="CBaseMonster::Stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="580,5,723,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a4619df7024c7708dc2e25613e5e79cd0" title="Moves the monster along its route." alt="" coords="387,5,532,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,21,533,21,533,16,564,16"/>
+<area shape="rect" id="Node000003" href="$class_c_flying_monster.html#acd7ba04119ed7e962046c86310ddf96d" title="Moves the flying monster." alt="" coords="189,5,339,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,21,339,21,339,16,371,16"/>
+<area shape="rect" id="Node000004" href="$class_c_ichthyosaur.html#afab24936cd9d0234bdc63fb232bcaf9f" title="Moves the ichthyosaur." alt="" coords="5,5,141,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
+</map>

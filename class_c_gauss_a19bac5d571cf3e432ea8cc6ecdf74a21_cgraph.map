@@ -1,0 +1,79 @@
+<map id="CGauss::StartFire" name="CGauss::StartFire">
+<area shape="rect" id="Node000001" title="Initiates the firing process for the Gauss weapon." alt="" coords="5,851,132,878"/>
+<area shape="rect" id="Node000002" href="$class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="229,497,328,523"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,850,259,536,263,538,80,852"/>
+<area shape="rect" id="Node000011" href="$class_c_game_rules.html#ad6ac4abfecc4f6ffde18b6232f1a4d9c" title=" " alt="" coords="437,775,616,802"/>
+<area shape="poly" id="edge38_Node000001_Node000011" title=" " alt="" coords="82,849,122,816,149,799,179,786,241,772,305,766,368,766,425,770,424,776,368,772,306,772,242,777,180,791,152,804,125,820,85,853"/>
+<area shape="rect" id="Node000027" href="$class_c_gauss.html#a9473074419a427924a9e9fd2795c0436" title="Gets the full charge time for the Gauss weapon." alt="" coords="185,801,372,827"/>
+<area shape="poly" id="edge34_Node000001_Node000027" title=" " alt="" coords="126,848,205,829,206,834,128,853"/>
+<area shape="rect" id="Node000029" href="$class_c_base_player.html#a33b5c8961e4da8133d18270ed4e2b142" title="Gets the player&#39;s gun position." alt="" coords="180,851,377,878"/>
+<area shape="poly" id="edge37_Node000001_Node000029" title=" " alt="" coords="132,862,164,862,164,867,132,867"/>
+<area shape="rect" id="Node000030" href="$class_c_base_player.html#a2254bccfee8e6161f758789523e8b854" title="Sets the player&#39;s animation based on the current state." alt="" coords="187,902,370,929"/>
+<area shape="poly" id="edge39_Node000001_Node000030" title=" " alt="" coords="128,876,206,895,205,900,126,881"/>
+<area shape="rect" id="Node000031" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="213,953,344,979"/>
+<area shape="poly" id="edge40_Node000001_Node000031" title=" " alt="" coords="87,876,128,908,181,938,199,945,197,950,178,943,125,912,84,881"/>
+<area shape="rect" id="Node000032" href="$com__weapons_8cpp.html#a9ae7f2ebe1ba28e45fcd10cc2ea963b5" title="Generates a shared pseudo&#45;random float between low and high." alt="" coords="192,1003,365,1030"/>
+<area shape="poly" id="edge41_Node000001_Node000032" title=" " alt="" coords="80,877,119,932,148,963,181,989,191,995,189,999,178,994,144,967,115,935,76,880"/>
+<area shape="rect" id="Node000003" href="$weapons_8cpp.html#aff7edc899cc0eebd50494f0d139daccd" title="Applies accumulated multi&#45;damage to an entity." alt="" coords="462,725,592,751"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,523,306,561,336,612,376,665,400,690,426,711,448,722,446,726,424,715,397,694,372,669,331,615,301,563,283,525"/>
+<area shape="rect" id="Node000005" href="$weapons_8cpp.html#acbf3bd7aaed4b829055818197d1c086b" title="Resets the global multi&#45;damage accumulator." alt="" coords="463,573,590,599"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="326,521,467,565,465,570,324,527"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="700,193,831,219"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="286,495,339,422,378,378,423,339,489,298,559,265,628,240,689,221,690,226,630,245,561,270,491,302,427,343,382,382,343,426,290,498"/>
+<area shape="rect" id="Node000007" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="950,167,996,194"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="282,495,299,452,329,393,370,329,395,299,423,272,486,231,555,202,627,182,700,171,771,166,836,166,934,173,934,178,835,171,771,171,701,176,628,187,556,207,488,236,427,276,399,302,374,332,333,395,304,455,287,497"/>
+<area shape="rect" id="Node000008" href="$class_c_sound_ent.html#af146a07b8a0c4e99cd3548ccf68b4908" title="Inserts a sound into the sound list." alt="" coords="445,623,609,650"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="297,522,352,565,388,589,426,609,443,616,441,621,424,614,385,593,349,569,294,526"/>
+<area shape="rect" id="Node000009" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="451,41,602,67"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="277,496,282,423,290,369,302,310,320,247,346,185,380,128,423,77,436,68,439,73,427,81,384,131,350,188,325,249,307,311,295,370,288,423,283,497"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="286,523,301,569,329,634,370,703,397,734,427,761,433,766,430,770,423,766,393,738,366,706,324,636,296,571,281,524"/>
+<area shape="rect" id="Node000012" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="735,243,796,270"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="296,494,352,453,424,406,547,341,675,286,720,269,722,274,677,291,549,346,426,411,355,458,299,498"/>
+<area shape="rect" id="Node000014" href="$class_c_base_monster.html#a9d51846894118171b72b5a73cddca707" title="Inflicts radius damage from the monster&#39;s position." alt="" coords="425,674,628,701"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="291,522,343,589,382,627,426,660,438,666,435,670,424,664,378,631,339,592,287,526"/>
+<area shape="rect" id="Node000015" href="$combat_8cpp.html#a3a20dd1e4e2f4832037c6797d4ffef37" title="Inflicts damage to entities within a certain radius." alt="" coords="472,421,581,447"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="324,494,465,450,467,455,326,499"/>
+<area shape="rect" id="Node000021" href="$class_c_base_entity.html#a7b55b66f1ee672cbe6d1b902c9aa70c6" title="Handles a trace attack on an entity." alt="" coords="679,649,852,675"/>
+<area shape="poly" id="edge32_Node000002_Node000021" title=" " alt="" coords="325,494,390,480,470,473,512,475,553,482,593,495,630,515,644,528,652,543,657,574,660,606,666,620,678,635,682,638,679,642,674,639,662,623,655,607,651,575,647,545,640,531,627,519,591,499,552,487,511,480,470,478,391,485,326,499"/>
+<area shape="rect" id="Node000024" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="710,699,821,726"/>
+<area shape="poly" id="edge33_Node000002_Node000024" title=" " alt="" coords="328,512,504,531,585,544,613,551,630,559,644,574,652,590,656,623,659,655,666,670,678,685,697,698,694,702,675,689,661,673,654,656,651,623,647,591,640,577,627,563,612,556,584,549,503,536,328,517"/>
+<area shape="rect" id="Node000025" href="$class_c_base_entity.html#a4964261254f775ef9d29b39ca1849f30" title=" " alt="" coords="437,91,617,118"/>
+<area shape="poly" id="edge30_Node000002_Node000025" title=" " alt="" coords="278,496,287,431,311,335,329,281,354,228,385,178,423,135,439,123,442,128,427,139,389,182,359,231,334,283,316,336,293,432,284,497"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#aa8c66d085116b719beff9fb1c3d0e45d" title="Inflicts damage on the entity." alt="" coords="676,750,855,777"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="592,742,661,750,660,755,592,748"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="831,195,934,183,934,188,831,201"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="562,38,621,20,696,6,736,3,777,5,818,12,856,26,893,52,923,85,946,121,962,152,957,154,941,123,918,89,889,56,853,31,816,17,777,10,736,8,696,11,622,25,564,43"/>
+<area shape="rect" id="Node000010" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="711,41,820,67"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="603,51,695,51,695,57,603,57"/>
+<area shape="rect" id="Node000013" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="951,243,995,270"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="796,254,936,254,936,259,796,259"/>
+<area shape="poly" id="edge25_Node000015_Node000004" title=" " alt="" coords="544,446,587,494,610,525,631,560,641,586,646,611,647,655,652,695,662,715,678,736,681,739,678,743,674,740,657,718,647,697,642,655,641,611,636,588,626,562,606,528,583,497,540,450"/>
+<area shape="poly" id="edge22_Node000015_Node000006" title=" " alt="" coords="532,419,551,381,582,330,623,276,648,251,675,229,685,223,688,228,678,234,651,255,627,279,586,333,555,384,536,422"/>
+<area shape="poly" id="edge23_Node000015_Node000007" title=" " alt="" coords="581,429,605,423,627,412,643,393,650,373,657,352,675,331,699,315,721,307,763,302,806,298,828,292,853,280,868,268,878,257,901,229,937,201,940,205,905,233,882,260,872,272,856,284,830,297,807,304,764,307,722,312,701,320,678,335,662,354,655,375,648,396,630,416,607,428,583,434"/>
+<area shape="poly" id="edge24_Node000015_Node000012" title=" " alt="" coords="541,418,626,338,649,310,675,287,719,266,721,271,678,291,653,314,630,341,545,422"/>
+<area shape="rect" id="Node000016" href="$hl__baseentity_8cpp.html#aff7edc899cc0eebd50494f0d139daccd" title=" " alt="" coords="700,395,831,422"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="581,426,684,415,685,420,582,431"/>
+<area shape="rect" id="Node000017" href="$class_c_base_entity.html#ae6e022656fe3a22490a6106abe7fea10" title=" " alt="" coords="681,598,850,625"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="582,439,608,449,630,464,643,479,650,495,655,526,659,556,666,570,678,584,682,588,679,592,674,588,662,573,654,557,649,527,645,497,638,482,627,468,605,454,581,444"/>
+<area shape="rect" id="Node000019" href="$class_c_base_entity.html#ad97c51b0c772019b11000e971f9fa965" title=" " alt="" coords="691,446,840,473"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="582,437,676,447,676,453,581,442"/>
+<area shape="rect" id="Node000020" href="$hl__baseentity_8cpp.html#acbf3bd7aaed4b829055818197d1c086b" title=" " alt="" coords="702,497,829,523"/>
+<area shape="poly" id="edge21_Node000015_Node000020" title=" " alt="" coords="574,445,629,464,677,482,699,489,698,494,675,487,627,469,573,451"/>
+<area shape="poly" id="edge26_Node000015_Node000021" title=" " alt="" coords="583,439,608,448,630,464,646,486,654,508,655,552,656,594,663,614,678,635,681,638,678,642,674,639,658,617,650,595,649,552,648,509,641,489,626,468,605,453,581,444"/>
+<area shape="rect" id="Node000022" href="$hl__baseentity_8cpp.html#acd888661f1fbf14bbb8eb22f0c96d6e2" title=" " alt="" coords="683,547,848,574"/>
+<area shape="poly" id="edge27_Node000015_Node000022" title=" " alt="" coords="583,442,607,451,630,464,646,482,655,500,662,517,678,533,685,538,682,543,675,537,658,520,650,502,642,485,627,468,605,456,581,447"/>
+<area shape="rect" id="Node000023" href="$dlls_2util_8cpp.html#a168e867ce033654505b26655314ce1e3" title="Retrieves the contents at a specified point in the game world." alt="" coords="697,345,834,371"/>
+<area shape="poly" id="edge28_Node000015_Node000023" title=" " alt="" coords="566,418,676,381,699,374,701,379,677,386,568,423"/>
+<area shape="poly" id="edge29_Node000015_Node000024" title=" " alt="" coords="554,446,593,475,613,494,631,515,643,540,649,563,650,606,654,646,662,665,678,685,697,699,694,703,675,689,658,668,649,647,645,606,644,564,638,542,626,518,609,497,590,479,551,450"/>
+<area shape="rect" id="Node000018" href="$class_c_base_entity.html#ac63a5e1c0bec68ff48cbd01a27f941ae" title=" " alt="" coords="903,598,1043,625"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="850,609,887,609,887,614,850,614"/>
+<area shape="rect" id="Node000026" href="$class_c_base_entity.html#a17c4661ca7f9f14b07f28fb105f62599" title=" " alt="" coords="678,91,853,118"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="617,102,663,102,663,107,617,107"/>
+<area shape="poly" id="edge36_Node000027_Node000011" title=" " alt="" coords="372,802,421,797,422,802,373,807"/>
+<area shape="rect" id="Node000028" href="$hl__weapons_8cpp.html#ad73fdc75faa333b89d1edd0654dd8553" title="Returns whether the current game is multiplayer or not." alt="" coords="476,826,577,853"/>
+<area shape="poly" id="edge35_Node000027_Node000028" title=" " alt="" coords="373,821,460,830,460,835,372,826"/>
+<area shape="rect" id="Node000033" href="$com__weapons_8cpp.html#a27de238ae44f691494d3b5b6dd45e18a" title="Generates a pseudo&#45;random number." alt="" coords="484,978,569,1005"/>
+<area shape="poly" id="edge42_Node000032_Node000033" title=" " alt="" coords="365,1005,468,995,469,1000,365,1011"/>
+<area shape="rect" id="Node000034" href="$com__weapons_8cpp.html#adb962cdb4f81d757ce7bcaab3f47172b" title="Sets the seed for the custom random number generator." alt="" coords="491,1029,562,1055"/>
+<area shape="poly" id="edge43_Node000032_Node000034" title=" " alt="" coords="365,1023,476,1034,475,1040,365,1028"/>
+</map>

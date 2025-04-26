@@ -1,0 +1,11 @@
+<map id="UTIL_ClampVectorToBox" name="UTIL_ClampVectorToBox">
+<area shape="rect" id="Node000001" title="Clamps a vector to a box defined by the clamp size." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="Node000002" href="$class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="220,31,345,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,41,204,41,204,47,172,47"/>
+<area shape="rect" id="Node000003" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="393,5,499,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,32,378,27,378,32,346,37"/>
+<area shape="rect" id="Node000005" href="$class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="394,56,499,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="346,51,378,56,378,61,345,56"/>
+<area shape="rect" id="Node000004" href="$pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="547,5,591,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="500,16,532,16,532,21,500,21"/>
+</map>

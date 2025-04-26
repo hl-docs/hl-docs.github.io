@@ -1,0 +1,13 @@
+<map id="CBaseMonster::FadeMonster" name="CBaseMonster::FadeMonster">
+<area shape="rect" id="Node000001" title="Fades the monster out of existence." alt="" coords="5,31,197,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#af89d9188934a12d16a2dc8fb7639f11d" title=" " alt="" coords="252,5,452,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,32,236,28,236,33,197,37"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a39552fc60de295b550b0061ba527c832" title="Starts the fade&#45;out process for an entity." alt="" coords="245,56,459,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,51,229,54,229,60,197,56"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#aa87861f918ff70eafd02569b2b3b49ed" title="Continues the fade&#45;out process for an entity." alt="" coords="507,56,693,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,67,491,67,491,72,459,72"/>
+<area shape="rect" id="Node000005" href="$class_c_base_entity.html#a23c70a9f1cf835829ad80e3c8cef06c6" title="Removes the entity from the world." alt="" coords="741,56,924,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="694,67,726,67,726,72,694,72"/>
+<area shape="rect" id="Node000006" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="972,56,1018,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="924,67,956,67,956,72,924,72"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="CBaseMonster::Killed" name="CBaseMonster::Killed">
+<area shape="rect" id="Node000001" title="Handles the death of the entity." alt="" coords="672,132,820,159"/>
+<area shape="rect" id="Node000002" href="$class_c_flying_monster.html#a276e492f253ffca51d8534e6efdaae64" title="Handles the death of the flying monster." alt="" coords="467,5,619,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,123,677,84,623,46,597,35,599,30,626,42,680,79,723,119"/>
+<area shape="rect" id="Node000003" href="$class_c_gargantua.html#acf5639cd04b4aa159de56542098524e8" title="Handles the Gargantua&#39;s death." alt="" coords="478,56,608,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="699,128,623,97,590,86,591,81,625,92,701,123"/>
+<area shape="rect" id="Node000004" href="$class_c_ichthyosaur.html#ac62df07c769a3a76ebebb087b4d74122" title="Handles the ichthyosaur&#39;s death." alt="" coords="474,107,611,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="657,137,611,131,612,126,657,132"/>
+<area shape="rect" id="Node000005" href="$class_c_squad_monster.html#abfb04f274808596d6d79c7e68846527d" title="Handles the death of the squad monster." alt="" coords="466,157,620,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="658,159,621,164,620,158,657,154"/>
+<area shape="rect" id="Node000008" href="$class_c_squeak_grenade.html#acdfaa31cc87d25c6c2fb7654c41fbfe8" title="Handles the death of the squeak grenade." alt="" coords="461,208,624,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="701,168,625,198,591,210,590,205,623,194,699,163"/>
+<area shape="rect" id="Node000011" href="$class_c_talk_monster.html#a09f20f4407d2c7294a4ab9feb3e0a09b" title="Handles the death of the talk monster." alt="" coords="472,259,613,285"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="723,172,680,211,626,249,599,261,597,256,623,244,677,207,720,168"/>
+<area shape="rect" id="Node000006" href="$class_c_controller.html#adce6c769c1ef72326fcb43808a06da7c" title="Handles the death of the controller monster." alt="" coords="256,107,381,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="465,156,380,137,381,131,466,151"/>
+<area shape="rect" id="Node000007" href="$class_c_i_slave.html#ae446ca8401c03125b6e9dbced39bae59" title="Handles the death of the CISlave entity." alt="" coords="266,157,371,184"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="450,173,371,173,371,168,450,168"/>
+<area shape="rect" id="Node000009" href="$class_c_squeak_grenade.html#a1c95a185a0ce662810f8ad450bf105e8" title="Handles the thinking behavior of the squeak grenade." alt="" coords="224,208,413,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="445,224,413,224,413,219,445,219"/>
+<area shape="rect" id="Node000010" href="$class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="5,208,176,235"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="208,224,176,224,176,219,208,219"/>
+<area shape="rect" id="Node000012" href="$class_c_barney.html#a485e807682e97b90132aaca8a62b2af2" title="Handles the death of the Barney entity." alt="" coords="263,259,374,285"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="457,275,375,275,375,269,457,269"/>
+<area shape="rect" id="Node000013" href="$class_c_scientist.html#aaedf2fab34bc89a2056bc25c39d4b080" title="Handles the death of the scientist." alt="" coords="258,309,379,336"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="466,292,380,312,379,306,465,287"/>
+</map>

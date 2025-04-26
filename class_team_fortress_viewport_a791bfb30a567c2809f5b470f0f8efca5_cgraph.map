@@ -1,0 +1,9 @@
+<map id="TeamFortressViewport::MsgFunc_TeamScore" name="TeamFortressViewport::MsgFunc_TeamScore">
+<area shape="rect" id="Node000001" title="Handles team score messages." alt="" coords="5,48,162,91"/>
+<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="213,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,45,200,34,201,39,163,50"/>
+<area shape="rect" id="Node000003" href="$parsemsg_8h.html#a45d0c7c694acc1f2d02eb77e1d6ec402" title=" " alt="" coords="211,56,320,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,67,196,67,196,72,162,72"/>
+<area shape="rect" id="Node000004" href="$parsemsg_8h.html#ac44883481899652b5b22699b772ff57f" title=" " alt="" coords="210,107,321,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,89,201,99,200,105,161,94"/>
+</map>

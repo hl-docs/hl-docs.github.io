@@ -1,0 +1,6 @@
+<map id="CStudioModelRenderer" name="CStudioModelRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,5,177,32"/>
+<area shape="rect" id="Node000002" href="$class_c_game_studio_model_renderer.html" title=" " alt="" coords="5,80,195,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,47,96,79,90,80,89,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="111,48,110,80,104,79,106,47"/>
+</map>

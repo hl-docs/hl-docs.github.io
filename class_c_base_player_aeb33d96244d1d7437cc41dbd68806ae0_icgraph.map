@@ -1,0 +1,13 @@
+<map id="CBasePlayer::StartDeathCam" name="CBasePlayer::StartDeathCam">
+<area shape="rect" id="Node000001" title="Starts the death camera for the player." alt="" coords="591,31,786,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#acf15708ba094210fdb810a27caed8849" title="Handles the player&#39;s death thinking process." alt="" coords="367,23,543,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="576,47,544,47,544,41,576,41"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#af1d440839effa9fa57471b81d59bc933" title="Handles the player&#39;s death." alt="" coords="172,5,310,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,34,310,29,310,24,352,29"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#aafd0f877042347e2beec7a9df50d0da9" title="Handles the player&#39;s pre&#45;think logic." alt="" coords="163,56,319,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="352,59,320,63,319,57,351,54"/>
+<area shape="rect" id="Node000004" href="$client_8cpp.html#a01bb3d0e374fc1885d67a3e4269a235a" title="Handles the player&#39;s suicide command." alt="" coords="24,5,96,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,21,97,21,97,16,156,16"/>
+<area shape="rect" id="Node000006" href="$client_8cpp.html#ab81b2e9b14840f5ce8a46d369746af2a" title="Called before the physics simulation for a player." alt="" coords="5,56,115,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,72,115,72,115,67,147,67"/>
+</map>

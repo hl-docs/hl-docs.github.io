@@ -1,0 +1,7 @@
+<map id="CSoundEnt::InsertSound" name="CSoundEnt::InsertSound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="456,5,620,32"/>
+<area shape="rect" id="Node000002" href="$class_c_func_mortar_field.html#a92248dcf3add21da8b045c63ade674e2" title="Activates the mortar field to drop bombs." alt="" coords="225,5,408,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,21,409,21,409,16,441,16"/>
+<area shape="rect" id="Node000003" href="$class_c_func_mortar_field.html#a24cd63eac1b2dd8ac58a1883e38d2c48" title="Spawns the mortar field in the game." alt="" coords="5,5,177,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,21,177,21,177,16,209,16"/>
+</map>

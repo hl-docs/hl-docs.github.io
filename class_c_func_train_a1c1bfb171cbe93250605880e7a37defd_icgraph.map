@@ -1,0 +1,5 @@
+<map id="CFuncTrain::Precache" name="CFuncTrain::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches sounds and other resources for the train." alt="" coords="188,5,338,32"/>
+<area shape="rect" id="Node000002" href="$class_c_func_train.html#a1c86e07ce6c7e009a38e883df28e727b" title="Spawns the train and initializes its properties." alt="" coords="5,5,140,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
+</map>

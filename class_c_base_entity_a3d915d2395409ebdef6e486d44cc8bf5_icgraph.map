@@ -1,0 +1,5 @@
+<map id="CBaseEntity::IsLockedByMaster" name="CBaseEntity::IsLockedByMaster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="277,5,487,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#aa2340ec13af1ea41803bfceed296d942" title="Opens a door and waits for it to finish opening." alt="" coords="5,5,229,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="261,21,229,21,229,16,261,16"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="CScientist::Scream" name="CScientist::Scream">
+<area shape="rect" id="Node000001" title="Makes the scientist scream." alt="" coords="5,311,140,338"/>
+<area shape="rect" id="Node000002" href="$class_c_talk_monster.html#a5820f22d91be7aa3aca22deaf1d31b23" title="Determines if the talk monster is allowed to speak." alt="" coords="190,108,376,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,308,255,143,259,147,90,312"/>
+<area shape="rect" id="Node000008" href="$class_c_talk_monster.html#a04ebd651fa0921a5daa97d66e5acea3f" title="Plays a sentence for the talk monster." alt="" coords="188,311,378,338"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="140,322,172,322,172,327,140,327"/>
+<area shape="rect" id="Node000017" href="$class_c_talk_monster.html#abc91375c4b9941cc2fcc280f79c796ac" title="Sets a timer for when the talk monster is done talking." alt="" coords="456,412,589,439"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="136,336,446,406,445,411,135,341"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="682,58,813,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,106,349,60,385,37,425,19,478,6,522,3,565,9,620,19,665,32,707,48,705,53,664,37,619,24,565,14,522,9,479,11,427,24,388,41,352,65,299,110"/>
+<area shape="rect" id="Node000005" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="487,58,558,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="349,105,471,79,473,84,350,110"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#ad4626a4e289d8d30596d859eb0060880" title="Checks if a line of sight exists to another entity." alt="" coords="448,108,597,135"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="376,119,432,119,432,124,376,124"/>
+<area shape="rect" id="Node000007" href="$class_c_base_monster.html#a26789222385186bbdcf23cea1d8396f2" title=" " alt="" coords="447,159,599,186"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="350,133,442,153,441,158,349,138"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="932,58,979,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="813,68,916,68,916,74,813,74"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="559,68,667,68,667,74,559,74"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="485,59,478,49,483,39,498,33,523,31,549,34,564,40,561,45,548,39,523,36,499,38,486,43,483,48,489,56"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="305,308,358,277,425,246,480,230,524,225,567,217,618,195,650,173,680,146,725,95,729,98,684,150,654,177,621,200,569,222,525,230,481,236,427,251,361,282,307,313"/>
+<area shape="rect" id="Node000009" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="454,260,592,287"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="349,308,441,288,442,293,350,313"/>
+<area shape="rect" id="Node000010" href="$class_c_talk_monster.html#aefca5ea7b342b1ca3745caef970ecf13" title="Retrieves the voice pitch for the talk monster." alt="" coords="426,311,619,338"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="379,322,411,322,411,327,379,327"/>
+<area shape="rect" id="Node000011" href="$sound_8cpp.html#a008281b5a5a3c722a6424dbf30f1cb24" title="Plays a random sentence from a group by name." alt="" coords="436,362,609,388"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="350,336,442,355,441,360,349,341"/>
+<area shape="poly" id="edge19_Node000008_Node000017" title=" " alt="" coords="307,336,361,367,427,398,447,405,445,410,425,403,358,371,305,340"/>
+<area shape="rect" id="Node000012" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="678,311,817,338"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="585,358,670,339,671,344,586,364"/>
+<area shape="rect" id="Node000014" href="$sound_8cpp.html#a3fe80c53eaa2f42deeb7a14a10ee5533" title="Gets the index of a sentence group by name." alt="" coords="667,362,828,388"/>
+<area shape="poly" id="edge16_Node000011_Node000014" title=" " alt="" coords="610,372,651,372,651,378,610,378"/>
+<area shape="rect" id="Node000015" href="$sound_8cpp.html#aae0ad5b2266f4050c68b37d8477281fd" title="Picks a random sentence from a group using the LRU list." alt="" coords="676,412,819,439"/>
+<area shape="poly" id="edge17_Node000011_Node000015" title=" " alt="" coords="586,386,671,406,670,411,585,392"/>
+<area shape="rect" id="Node000013" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="880,311,1031,338"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="817,322,865,322,865,327,817,327"/>
+<area shape="rect" id="Node000016" href="$sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="876,412,1035,439"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="819,423,860,423,860,428,819,428"/>
+</map>

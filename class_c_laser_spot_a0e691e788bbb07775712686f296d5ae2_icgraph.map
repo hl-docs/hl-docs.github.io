@@ -1,0 +1,5 @@
+<map id="CLaserSpot::Suspend" name="CLaserSpot::Suspend">
+<area shape="rect" id="Node000001" title="Suspends the laser spot, making it invisible for a specified time." alt="" coords="155,5,303,32"/>
+<area shape="rect" id="Node000002" href="$class_c_rpg.html#ac20c308bdad06379c648e1da1f1ef31f" title="Reloads the RPG weapon." alt="" coords="5,5,107,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,21,107,21,107,16,139,16"/>
+</map>

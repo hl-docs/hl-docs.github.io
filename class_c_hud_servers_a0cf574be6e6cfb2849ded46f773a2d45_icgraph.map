@@ -1,0 +1,31 @@
+<map id="CHudServers::GetServer" name="CHudServers::GetServer">
+<area shape="rect" id="Node000001" title="Returns a pointer to the server at the specified index." alt="" coords="859,203,1020,229"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#a6cc4f6b05dbafb306f38f4e8923ebe29" title="Gets the key/value info string of a specified server." alt="" coords="628,127,809,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="891,199,810,168,773,156,774,151,812,163,893,194"/>
+<area shape="rect" id="Node000007" href="$class_c_hud_servers.html#a1accafc23532ba68ac3bca5a6754333c" title="Sends a ping request to a specific server." alt="" coords="635,177,802,204"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="843,208,802,203,802,198,843,202"/>
+<area shape="rect" id="Node000011" href="$class_c_hud_servers.html#a803f7fd15ed3e85f7aebabc0e05e6de9" title="Sends a player list request to a specific server to retrieve current players." alt="" coords="626,228,811,255"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="843,230,812,233,811,228,843,224"/>
+<area shape="rect" id="Node000013" href="$class_c_hud_servers.html#a073a73a11b1aa39a49ec295d0214c30f" title="Sends a rules request to a specific server to retrieve server rules." alt="" coords="632,279,805,305"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="893,238,812,269,774,281,773,276,810,264,891,233"/>
+<area shape="rect" id="Node000003" href="$hud__servers_8cpp.html#ad250b90c094eb79101c986cc1ff75c9b" title="Retrieves information string for a server in the global server browser." alt="" coords="473,127,578,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="612,143,579,143,579,137,612,137"/>
+<area shape="rect" id="Node000004" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a633a7c71728a5ffc19265ce5d949e0b7" title=" " alt="" coords="216,5,425,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="481,122,424,94,400,83,402,78,426,90,483,117"/>
+<area shape="rect" id="Node000006" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a6cc322ee5288941ee884c42edf905472" title=" " alt="" coords="216,104,425,179"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="457,143,425,143,425,138,457,138"/>
+<area shape="rect" id="Node000005" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_connect_handler.html#a149c4c6914502c4593fb06aff3acc470" title=" " alt="" coords="5,5,168,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="200,45,168,45,168,40,200,40"/>
+<area shape="rect" id="Node000008" href="$hud__servers_8cpp.html#a59bf381a81b9d1e14d2f08604a9c86d5" title="Sends a ping to a server using the global server browser instance." alt="" coords="484,177,567,204"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="620,193,568,193,568,188,620,188"/>
+<area shape="rect" id="Node000009" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a945ad02bb3f393641297070fc10bc977" title=" " alt="" coords="216,204,425,279"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="470,207,426,218,425,213,468,202"/>
+<area shape="rect" id="Node000010" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_ping_handler.html#aa9ceec816930776d5bf73d714d171b30" title=" " alt="" coords="5,204,168,279"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="200,244,168,244,168,239,200,239"/>
+<area shape="rect" id="Node000012" href="$hud__servers_8cpp.html#af93218ff6a3f71cf7172c8f71c9ac79b" title="Requests the player list from a specified server using the global browser." alt="" coords="475,228,576,255"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="611,244,577,244,577,239,611,239"/>
+<area shape="poly" id="edge12_Node000012_Node000009" title=" " alt="" coords="460,244,426,244,426,239,460,239"/>
+<area shape="rect" id="Node000014" href="$hud__servers_8cpp.html#a1562482aafe5e8d3deac6c63faab8fa6" title="Requests server rules from a specified server using the global browser." alt="" coords="481,279,571,305"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="616,295,571,295,571,289,616,289"/>
+<area shape="poly" id="edge15_Node000014_Node000009" title=" " alt="" coords="465,280,425,270,426,265,466,275"/>
+</map>

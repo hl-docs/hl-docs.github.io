@@ -1,0 +1,41 @@
+<map id="CBaseMonster::IRelationship" name="CBaseMonster::IRelationship">
+<area shape="rect" id="Node000001" title="Determines the relationship between two entities." alt="" coords="807,208,996,235"/>
+<area shape="rect" id="Node000002" href="$class_c_a_grunt.html#a54d86d4f4b3c03189e5638b8ba42cff1" title="Determines the relationship of the Alien Grunt with another entity." alt="" coords="589,5,742,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="883,195,863,161,834,121,799,80,757,46,735,35,737,30,760,42,802,76,838,117,867,158,888,193"/>
+<area shape="rect" id="Node000003" href="$class_c_bullsquid.html#ae9bd4f12e8d8e45b99773f66de0a8374" title="Determines the relationship of the bullsquid with a target." alt="" coords="583,56,748,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="877,198,825,147,793,120,757,97,731,86,733,81,760,92,796,116,829,143,881,194"/>
+<area shape="rect" id="Node000005" href="$class_c_h_grunt.html#aeb16e5c244b1de7fc262e79921dea15a" title="Determines the relationship of the grunt to a target entity." alt="" coords="589,107,742,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="864,202,814,174,758,148,724,136,726,131,760,143,817,170,867,197"/>
+<area shape="rect" id="Node000006" href="$class_c_hornet.html#a2fe01facee96ef6f15248424b60720e2" title="Determines the relationship of the hornet to a target entity." alt="" coords="590,157,741,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="820,207,730,187,732,182,821,202"/>
+<area shape="rect" id="Node000010" href="$class_c_i_slave.html#a06cd32edeb5698026bed47bb32b342cd" title="Determines the relationship of the CISlave entity with a target." alt="" coords="592,208,739,235"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="791,224,739,224,739,219,791,219"/>
+<area shape="rect" id="Node000012" href="$class_c_leech.html#aa831c7fa3afa39323df38cf849f8101c" title="Determines the relationship of the leech to a target entity." alt="" coords="592,259,739,285"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="821,241,732,261,730,255,820,236"/>
+<area shape="rect" id="Node000013" href="$class_c_talk_monster.html#a2de877178d2b0dd86c20bb083bdb807e" title="Determines the relationship of the talk monster to a target." alt="" coords="574,309,757,336"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="867,245,817,273,760,300,726,311,724,306,758,295,814,268,864,241"/>
+<area shape="rect" id="Node000016" href="$class_c_roach.html#a2756a7074fd08df235c6fac0655d3f2f" title="Overrides the look function for the roach, allowing it to see 360 degrees." alt="" coords="614,360,717,387"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="881,248,829,300,796,327,760,350,719,366,717,361,757,346,793,323,825,296,877,245"/>
+<area shape="rect" id="Node000018" href="$class_c_barnacle.html#aa52cfc244ffde743da41ab38ef7cd2c9" title=" " alt="" coords="572,411,759,437"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="888,250,867,285,838,325,802,366,760,401,737,412,735,408,757,396,799,362,834,322,863,282,883,247"/>
+<area shape="rect" id="Node000004" href="$class_c_bullsquid.html#af10f35cb1f44373b59e1efb77ac0d31c" title="Determines the appropriate schedule for the bullsquid." alt="" coords="356,56,522,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="568,72,522,72,522,67,568,67"/>
+<area shape="rect" id="Node000007" href="$class_c_hornet.html#a74bc9c0e170b93d1f862d03902c50564" title="Handles the hornet&#39;s touch behavior when it hits a target." alt="" coords="367,157,510,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="575,173,511,173,511,168,575,168"/>
+<area shape="rect" id="Node000008" href="$class_c_hornet.html#a0845e7a20faeace07303c47c670c431b" title="Starts tracking the target for the hornet." alt="" coords="169,157,305,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="351,173,305,173,305,168,351,168"/>
+<area shape="rect" id="Node000009" href="$class_c_hornet.html#a7d03243e49c6325891e6d9884450fa29" title="Spawns the hornet entity." alt="" coords="5,157,121,184"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="153,173,121,173,121,168,153,168"/>
+<area shape="rect" id="Node000011" href="$class_c_i_slave.html#ad9b457a41b1fbe2bf4688eae4be43d96" title="Handles damage taken by the CISlave entity." alt="" coords="365,208,513,235"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="577,224,513,224,513,219,577,219"/>
+<area shape="rect" id="Node000014" href="$class_c_scientist.html#a5f4158da2e426c5e0983d5ef6dc3aeb1" title="Determines the ideal state for the scientist." alt="" coords="355,259,523,285"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="587,308,501,289,502,283,588,303"/>
+<area shape="rect" id="Node000015" href="$class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="357,309,521,336"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="559,325,521,325,521,320,559,320"/>
+<area shape="rect" id="Node000017" href="$class_c_roach.html#a87e55ea407a4508497c63e1783079c4e" title="Custom think function for the roach." alt="" coords="362,360,515,387"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="598,376,516,376,516,371,598,371"/>
+<area shape="rect" id="Node000019" href="$class_c_barnacle.html#a4226dea19f1c30a28fed856cc5007484" title="The main think function for the barnacle." alt="" coords="353,411,524,437"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="557,427,525,427,525,421,557,421"/>
+<area shape="rect" id="Node000020" href="$class_c_barnacle.html#a7288eb00da0ada4f605b04dbc5aa3cf6" title="Spawns the barnacle entity." alt="" coords="173,411,301,437"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="338,427,302,427,302,421,338,421"/>
+</map>

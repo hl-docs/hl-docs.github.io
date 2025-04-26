@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['k_5fcldstnull_0',['k_cldstNull',['../cdll__int_8h.html#a2f967d9d1efec3cc6513b1051175df26',1,'cdll_int.h']]],
+  ['k_5fcubsaltsize_1',['k_cubSaltSize',['../steamtypes_8h.html#a562ae9df98dcbe3c63d7a4316c603bee',1,'steamtypes.h']]],
+  ['k_5fengdstnull_2',['k_engdstNull',['../cdll__int_8h.html#ad732a5d5869bed3e8536a9737a3057a9',1,'cdll_int.h']]],
+  ['k_5fgidnil_3',['k_GIDNil',['../steamtypes_8h.html#a916cb8c17306ed1fe2360bde8397b499',1,'steamtypes.h']]],
+  ['k_5fnchecksumcompensator_4',['k_nChecksumCompensator',['../_a_p_i_proxy_8h.html#ac483ff758389702e78fa4cd105a966a8',1,'APIProxy.h']]],
+  ['k_5fnengineversion15base_5',['k_nEngineVersion15Base',['../_a_p_i_proxy_8h.html#a035819d900bd625c9250b86b82e4654d',1,'APIProxy.h']]],
+  ['k_5fnengineversion15patch_6',['k_nEngineVersion15Patch',['../_a_p_i_proxy_8h.html#a20ea9753b9ed26abf2330edcf5bcabeb',1,'APIProxy.h']]],
+  ['k_5fnengineversion16base_7',['k_nEngineVersion16Base',['../_a_p_i_proxy_8h.html#ac0c9a2bb3af1e9a52da563d4b7d0d9a3',1,'APIProxy.h']]],
+  ['k_5fnengineversion16validated_8',['k_nEngineVersion16Validated',['../_a_p_i_proxy_8h.html#a40d22dd14a841f84b98455f6e4e603be',1,'APIProxy.h']]],
+  ['k_5fnmoduleversioncur_9',['k_nModuleVersionCur',['../_a_p_i_proxy_8h.html#af7c21e6c259433fdfe59cabbec362e48',1,'APIProxy.h']]],
+  ['k_5ftxnidnil_10',['k_TxnIDNil',['../steamtypes_8h.html#a97f01fc5aa4e39bbc7b2469a377032e0',1,'steamtypes.h']]],
+  ['k_5ftxnidunknown_11',['k_TxnIDUnknown',['../steamtypes_8h.html#a5dafcfbc404f1db334b0227542badd94',1,'steamtypes.h']]],
+  ['k_5fuapicallinvalid_12',['k_uAPICallInvalid',['../steamtypes_8h.html#a76179b951ec05b7e38f984222980ce06',1,'steamtypes.h']]],
+  ['k_5fuappidinvalid_13',['k_uAppIdInvalid',['../steamtypes_8h.html#a355655bd0ba47a6699fd546732d7bfb6',1,'steamtypes.h']]],
+  ['k_5fucellidinvalid_14',['k_uCellIDInvalid',['../steamtypes_8h.html#a22b11f59913fbd4b75a78f4c01f510e2',1,'steamtypes.h']]],
+  ['k_5fudepotidinvalid_15',['k_uDepotIdInvalid',['../steamtypes_8h.html#a71b261a2bf05aefbc340d8c572791fc4',1,'steamtypes.h']]],
+  ['k_5fulassetclassidinvalid_16',['k_ulAssetClassIdInvalid',['../steamtypes_8h.html#aef277cc5ce536e28c646b564c57c0bad',1,'steamtypes.h']]],
+  ['k_5fupackageidfreesub_17',['k_uPackageIdFreeSub',['../steamtypes_8h.html#a1b1e0d4256884d11badfa514785b95ce',1,'steamtypes.h']]],
+  ['k_5fupackageidinvalid_18',['k_uPackageIdInvalid',['../steamtypes_8h.html#a86f4e454f358166e4734d0827043c453',1,'steamtypes.h']]],
+  ['k_5fupartneridinvalid_19',['k_uPartnerIdInvalid',['../steamtypes_8h.html#ac3de5711a27d50ecddcb5c9dbbe3e635',1,'steamtypes.h']]],
+  ['k_5fuphysicalitemidinvalid_20',['k_uPhysicalItemIdInvalid',['../steamtypes_8h.html#aeb6967cdee3326467f0d2eb2b4980e5e',1,'steamtypes.h']]]
+];

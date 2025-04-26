@@ -1,0 +1,26 @@
+<map id="CHud::UpdateClientData" name="CHud::UpdateClientData">
+<area shape="rect" id="Node000001" title="Updates the client&#39;s HUD&#45;related data each frame." alt="" coords="5,56,168,83"/>
+<area shape="rect" id="Node000002" href="$input_8cpp.html#a46a065c198807a0d8e451b201569d170" title="Returns the current active input button bits." alt="" coords="433,5,538,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,53,215,41,322,29,417,20,418,26,322,34,216,47,152,58"/>
+<area shape="rect" id="Node000004" href="$input_8cpp.html#a06f2f9dc2ca56eedd9e7714dfd950ada" title="Resets the internal button state based on a new bitmask." alt="" coords="216,56,355,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,67,200,67,200,72,168,72"/>
+<area shape="rect" id="Node000006" href="$class_c_hud.html#a8b67bb386fea1c40bcdcd6cbdeba3033" title="Updates the HUD state every frame." alt="" coords="239,157,332,184"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="116,81,245,148,243,152,113,86"/>
+<area shape="rect" id="Node000003" href="$input_8cpp.html#ae932b23fcf06d3131fcb639e5753b1ee" title="Checks if the player is currently dead." alt="" coords="637,5,722,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="539,16,621,16,621,21,539,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="341,53,417,33,418,38,342,58"/>
+<area shape="rect" id="Node000005" href="$input_8cpp.html#a4b3bad5f852a07e61e1c9b3d5781fe79" title="Handles a key down event for a specific key binding (kbutton_t)." alt="" coords="448,56,524,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="355,67,432,67,432,72,355,72"/>
+<area shape="rect" id="Node000007" href="$hud__bench_8cpp.html#a2e19e0c1237115beaf4d4f86d4fe6321" title="Checks if the benchmark should start based on the current map." alt="" coords="421,107,551,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="331,156,415,135,416,140,333,162"/>
+<area shape="rect" id="Node000009" href="$class_c_hud_spectator.html#a645a1a49894707e1a6800866276322fc" title="Retrieves the current field of view." alt="" coords="403,157,568,184"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="332,168,388,168,388,173,332,173"/>
+<area shape="rect" id="Node000010" href="$hud_8cpp.html#afa59146255a18755c9eddb89d667c528" title="Returns the current field of view (FOV) setting." alt="" coords="434,208,537,235"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="333,180,419,202,418,207,331,185"/>
+<area shape="rect" id="Node000012" href="$class_c_hud_base.html#afb4d70d3d2b2a6bd0fc7da9f2aabc024" title=" " alt="" coords="425,259,547,285"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="306,182,349,213,404,244,419,250,417,255,402,249,346,217,303,187"/>
+<area shape="rect" id="Node000008" href="$hud__bench_8cpp.html#a6426b8473da368605c6626fbc3870018" title="Checks if the benchmark is currently active." alt="" coords="629,107,730,133"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="551,117,614,117,614,123,551,123"/>
+<area shape="rect" id="Node000011" href="$demo_8cpp.html#acb65d72fac80c8ea05a189efb8e6529f" title="Writes data to the demo stream." alt="" coords="616,208,743,235"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="538,219,601,219,601,224,538,224"/>
+</map>

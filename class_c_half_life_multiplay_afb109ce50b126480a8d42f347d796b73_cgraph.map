@@ -1,0 +1,7 @@
+<map id="CHalfLifeMultiplay::GoToIntermission" name="CHalfLifeMultiplay::GoToIntermission">
+<area shape="rect" id="Node000001" title="Transitions the game to intermission." alt="" coords="5,23,136,65"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="184,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,32,168,28,168,33,136,37"/>
+<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#ab250270dc3daba91bf9b234c5bd712ef" title="Converts an integer to a string." alt="" coords="208,56,294,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,51,192,58,192,64,136,56"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="LEVELLIST" name="LEVELLIST">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,352,94,379"/>
+<area shape="rect" id="Node000002" href="$structedict__s.html" title=" " alt="" coords="135,101,199,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,121,84,131,68,141,55,154,41,178,33,205,30,233,30,261,38,313,48,351,43,352,32,315,25,262,25,233,28,204,36,176,51,150,65,136,82,126,119,116"/>
+<area shape="rect" id="Node000004" href="$structentvars__s.html" title=" " alt="" coords="181,352,257,379"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="161,144,152,182,147,229,150,280,156,304,165,327,176,339,190,349,187,354,172,343,161,329,151,306,145,280,142,229,147,181,156,142"/>
+<area shape="rect" id="Node000003" href="$structlink__s.html" title=" " alt="" coords="139,8,195,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,50,170,101,164,101,164,50"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="211,11,218,15,221,22,213,31,195,33,195,28,210,26,216,21,214,19,209,16"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="235,338,239,327,254,277,263,236,260,198,239,154,221,136,198,125,200,121,224,132,244,150,265,196,268,237,259,279,244,329,240,340"/>
+</map>

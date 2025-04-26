@@ -1,0 +1,7 @@
+<map id="CBaseMonster::MyMonsterPointer" name="CBaseMonster::MyMonsterPointer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="250,31,471,57"/>
+<area shape="rect" id="Node000002" href="$class_c_h_grunt.html#a1085531280b74d6e3f1f10977cdd399f" title="Checks for a melee attack." alt="" coords="5,5,202,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,34,202,31,202,26,234,29"/>
+<area shape="rect" id="Node000003" href="$class_c_nihilanth.html#aaf149f96ac1cfb09bc53cec53ba8d4e4" title="Targets a sphere for the Nihilanth." alt="" coords="21,56,186,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,59,187,64,186,59,234,54"/>
+</map>

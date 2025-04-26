@@ -1,0 +1,9 @@
+<map id="PM_NoClip" name="PM_NoClip">
+<area shape="rect" id="Node000001" title="Handles player movement in no&#45;clip mode." alt="" coords="5,31,92,57"/>
+<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="159,5,238,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,34,143,25,144,31,92,39"/>
+<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="140,56,257,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="92,49,125,54,124,59,92,54"/>
+<area shape="rect" id="Node000004" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="305,56,348,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,67,290,67,290,72,257,72"/>
+</map>

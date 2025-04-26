@@ -1,0 +1,13 @@
+<map id="CBaseMonster::PBestSound" name="CBaseMonster::PBestSound">
+<area shape="rect" id="Node000001" title="Returns a pointer to the sound the monster should react to." alt="" coords="5,81,194,108"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a0286d6379fc3b081ba137e25f30e484e" title=" " alt="" coords="253,5,423,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,78,241,41,266,34,268,39,242,47,138,83"/>
+<area shape="rect" id="Node000003" href="$class_c_sound.html#a62b1de926f28478c9b2286658552e865" title="Checks if the sound is an audible sound." alt="" coords="273,56,403,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,82,257,75,257,81,195,87"/>
+<area shape="rect" id="Node000004" href="$pm__math_8c.html#a9c4d0048c3779f963f8f7b40473102c8" title="Calculates the length (magnitude) of a vector." alt="" coords="308,107,368,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,102,292,113,292,118,194,107"/>
+<area shape="rect" id="Node000006" href="$class_c_sound_ent.html#a19af8b5ab82b0ecac33e58f616826792" title="Returns a pointer to the sound instance at the specified index." alt="" coords="242,157,434,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,106,243,143,260,149,259,154,241,148,138,111"/>
+<area shape="rect" id="Node000005" href="$pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="482,107,525,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="368,117,467,117,467,123,368,123"/>
+</map>

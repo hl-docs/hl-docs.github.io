@@ -1,0 +1,5 @@
+<map id="CGauss::Precache" name="CGauss::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches the resources needed for the Gauss weapon." alt="" coords="169,5,300,32"/>
+<area shape="rect" id="Node000002" href="$class_c_gauss.html#aba890fe183b5a6a6204661afde8480f3" title="Spawns the Gauss weapon entity." alt="" coords="5,5,121,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,21,121,21,121,16,153,16"/>
+</map>

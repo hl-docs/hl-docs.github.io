@@ -1,0 +1,5 @@
+<map id="CGlobalState::Save" name="CGlobalState::Save">
+<area shape="rect" id="Node000001" title="Saves the global state to a save file." alt="" coords="171,5,305,32"/>
+<area shape="rect" id="Node000002" href="$world_8cpp.html#ad737503693cec604012ccb3a2a8cf2cc" title="Saves the global state using the provided save data." alt="" coords="5,5,123,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,21,123,21,123,16,155,16"/>
+</map>

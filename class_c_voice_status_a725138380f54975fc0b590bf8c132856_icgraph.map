@@ -1,0 +1,7 @@
+<map id="CVoiceStatus::UpdateSpeakerStatus" name="CVoiceStatus::UpdateSpeakerStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,5,464,48"/>
+<area shape="rect" id="Node000002" href="$cdll__int_8cpp.html#ac18dac0167e8bd3c5d6db1baefde5dfc" title="Updates the status of voice communication." alt="" coords="92,13,218,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,29,219,29,219,24,250,24"/>
+<area shape="rect" id="Node000003" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,13,44,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,29,44,29,44,24,76,24"/>
+</map>

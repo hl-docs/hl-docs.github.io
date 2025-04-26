@@ -1,0 +1,5 @@
+<map id="CRecharge::Precache" name="CRecharge::Precache">
+<area shape="rect" id="Node000001" title="Preloads the resources needed for the recharge entity." alt="" coords="186,5,334,32"/>
+<area shape="rect" id="Node000002" href="$class_c_recharge.html#a8daa80d31c7c3d5c921524a9345f7e7f" title="Spawns the recharge entity in the game." alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+</map>

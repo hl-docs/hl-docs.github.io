@@ -1,0 +1,12 @@
+<map id="CBaseMonster::MovementIsComplete" name="CBaseMonster::MovementIsComplete">
+<area shape="rect" id="Node000001" title=" " alt="" coords="402,48,586,91"/>
+<area shape="rect" id="Node000002" href="$class_c_big_momma.html#aff57c1e6079c3ee1dbf6e7026988e423" title="Runs a task for Big Momma." alt="" coords="196,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,47,334,35,335,30,387,42"/>
+<area shape="rect" id="Node000003" href="$class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="5,56,146,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="386,72,146,72,146,67,386,67"/>
+<area shape="rect" id="Node000004" href="$class_c_talk_monster.html#a73cd9db7d1bd90bad36b49a739c07709" title="Runs a task for the talk monster." alt="" coords="194,107,354,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="387,97,335,109,334,104,386,91"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="203,105,130,86,131,81,205,100"/>
+<area shape="rect" id="Node000005" href="$class_c_barney.html#ac4774636a01edd847b7b0da86c6b8b88" title="Runs a task for the Barney entity." alt="" coords="10,107,141,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,123,141,123,141,117,178,117"/>
+</map>

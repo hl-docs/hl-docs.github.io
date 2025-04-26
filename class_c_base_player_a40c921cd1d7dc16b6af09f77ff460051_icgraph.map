@@ -1,0 +1,5 @@
+<map id="CBasePlayer::Spawn" name="CBasePlayer::Spawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="174,5,318,32"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#af33d5a5c62848a1bc073582e1906210a" title="Called each time a player is spawned." alt="" coords="5,5,126,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,21,126,21,126,16,158,16"/>
+</map>

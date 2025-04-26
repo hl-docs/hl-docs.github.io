@@ -1,0 +1,26 @@
+<map id="CRpg::Reload" name="CRpg::Reload">
+<area shape="rect" id="Node000001" title="Reloads the RPG weapon." alt="" coords="5,197,107,224"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a45ea7db79a9f40517bfebc1b5f28a959" title="Handles weapon reload logic using default behavior." alt="" coords="164,72,318,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,195,107,164,153,131,174,120,176,124,156,136,110,168,74,199"/>
+<area shape="rect" id="Node000006" href="$com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="375,139,535,165"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="91,194,154,175,260,159,360,151,360,157,261,164,155,180,92,199"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player_weapon.html#ab19c6c4eb201d1ce45d1de9e7b1d2183" title="Calculates the next attack delay for a weapon." alt="" coords="164,189,318,232"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="107,208,149,208,149,213,107,213"/>
+<area shape="rect" id="Node000008" href="$class_c_laser_spot.html#a0e691e788bbb07775712686f296d5ae2" title="Suspends the laser spot, making it invisible for a specified time." alt="" coords="167,256,315,283"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="98,222,155,241,178,249,177,254,154,247,96,227"/>
+<area shape="rect" id="Node000010" href="$com__weapons_8cpp.html#a9ae7f2ebe1ba28e45fcd10cc2ea963b5" title="Generates a shared pseudo&#45;random float between low and high." alt="" coords="155,307,327,333"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="72,223,108,257,156,292,168,298,166,303,153,297,104,262,68,227"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="379,5,532,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,69,369,51,370,56,312,74"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player_weapon.html#a902e601b56e6e451c55a34605b8b41c4" title=" " alt="" coords="379,72,532,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="318,91,363,91,363,96,318,96"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="319,112,390,132,389,137,317,117"/>
+<area shape="rect" id="Node000004" href="$com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="583,13,747,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="532,24,568,24,568,29,532,29"/>
+<area shape="rect" id="Node000009" href="$class_c_laser_spot.html#ad7c5903d470b6ef453f4369bb040fe0b" title="Revives the suspended laser spot, making it visible again." alt="" coords="389,256,522,283"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="316,267,373,267,373,272,316,272"/>
+<area shape="rect" id="Node000011" href="$com__weapons_8cpp.html#a27de238ae44f691494d3b5b6dd45e18a" title="Generates a pseudo&#45;random number." alt="" coords="413,307,498,333"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="328,317,397,317,397,323,328,323"/>
+<area shape="rect" id="Node000012" href="$com__weapons_8cpp.html#adb962cdb4f81d757ce7bcaab3f47172b" title="Sets the seed for the custom random number generator." alt="" coords="420,357,491,384"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="301,331,405,356,404,361,300,337"/>
+</map>

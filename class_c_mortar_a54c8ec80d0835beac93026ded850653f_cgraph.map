@@ -1,0 +1,36 @@
+<map id="CMortar::Spawn" name="CMortar::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the mortar entity in the game." alt="" coords="5,114,120,141"/>
+<area shape="rect" id="Node000002" href="$class_c_mortar.html#a4c5d81b2f0e837dca5290eac704015f3" title="Handles the explosion of the mortar." alt="" coords="168,89,327,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,117,152,112,153,118,120,122"/>
+<area shape="rect" id="Node000016" href="$class_c_mortar.html#a81f0dde7632100b28662c1bcd89cecd4" title="Preloads the resources needed for the mortar." alt="" coords="182,139,313,166"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="120,133,167,139,167,144,120,138"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="975,89,1021,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,86,311,53,341,36,374,24,458,7,544,3,630,7,713,19,790,34,859,52,961,85,959,90,857,57,789,39,712,24,629,13,544,8,459,13,376,29,344,41,314,57,266,90"/>
+<area shape="rect" id="Node000004" href="$class_c_grenade.html#a26b11375db7cf44d49526d15f1a23ed9" title="Handles the explosion of the grenade." alt="" coords="375,38,509,65"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="301,86,373,67,374,72,302,91"/>
+<area shape="rect" id="Node000005" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="559,38,694,65"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="327,94,415,86,509,74,552,66,553,71,510,79,415,92,327,100"/>
+<area shape="rect" id="Node000006" href="$dlls_2util_8cpp.html#a0c963ac10efb8e051699509cb27356e9" title="Shakes the screen of all clients within a specified radius." alt="" coords="376,139,508,166"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="302,114,374,132,373,138,301,119"/>
+<area shape="rect" id="Node000015" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="387,190,497,217"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="305,114,328,125,344,138,353,151,362,163,377,176,384,181,382,185,373,180,358,167,349,154,340,142,326,130,303,118"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="474,137,508,119,532,100,556,81,577,70,580,74,559,86,535,104,511,123,477,141"/>
+<area shape="rect" id="Node000007" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="754,89,885,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="499,136,557,125,651,113,739,105,739,110,652,118,558,130,500,141"/>
+<area shape="rect" id="Node000008" href="$dlls_2util_8cpp.html#a14f6abef35ca551e25ed0ce9577c8ea7" title="Converts a float value to a fixed unsigned 16&#45;bit integer." alt="" coords="566,139,687,166"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="509,150,550,150,550,155,509,155"/>
+<area shape="rect" id="Node000009" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="573,190,680,217"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="494,164,561,183,560,188,493,169"/>
+<area shape="rect" id="Node000011" href="$dlls_2util_8cpp.html#a635672430658b60f1b5123f296b47b2b" title="Retrieves a player entity by its index." alt="" coords="557,241,696,267"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="489,164,511,176,526,189,535,202,545,214,559,227,567,231,564,236,556,231,541,218,531,205,522,193,508,180,486,169"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="885,99,959,99,959,105,885,105"/>
+<area shape="rect" id="Node000010" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="798,165,841,191"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="680,194,782,180,783,185,681,199"/>
+<area shape="rect" id="Node000012" href="$util_8h.html#a8d413eb5831b3a96c79d4236801a487e" title=" " alt="" coords="778,215,861,242"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="696,242,762,234,763,239,696,248"/>
+<area shape="rect" id="Node000013" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="744,266,895,293"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="696,261,728,265,728,270,696,266"/>
+<area shape="poly" id="edge15_Node000013_Node000003" title=" " alt="" coords="874,263,893,252,923,224,948,191,982,129,987,131,952,194,927,227,897,256,877,268"/>
+<area shape="rect" id="Node000014" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="943,266,1052,293"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="895,277,927,277,927,282,895,282"/>
+</map>

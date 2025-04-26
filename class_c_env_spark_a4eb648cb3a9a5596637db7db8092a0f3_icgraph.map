@@ -1,0 +1,5 @@
+<map id="CEnvSpark::Precache" name="CEnvSpark::Precache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches sounds for the spark environment entity." alt="" coords="186,5,334,32"/>
+<area shape="rect" id="Node000002" href="$class_c_env_spark.html#a347606543b1028f6c91a6a8c64938795" title="Spawns the spark environment entity." alt="" coords="5,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,21,138,21,138,16,170,16"/>
+</map>

@@ -1,0 +1,111 @@
+<map id="sqrt" name="sqrt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="772,1489,816,1516"/>
+<area shape="rect" id="Node000002" href="$class_c_h_assassin.html#a834aa189005a8e4b3b73bea880d63b19" title="Checks if a melee attack can be performed." alt="" coords="506,536,724,562"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,1474,787,1280,778,994,769,850,757,724,742,628,732,595,722,576,709,565,713,561,726,573,737,593,747,626,763,723,775,850,783,994,793,1280,795,1473"/>
+<area shape="rect" id="Node000003" href="$input_8cpp.html#a7217f060254148177c44d7243fc20ae6" title="Creates and sends a movement command to the server." alt="" coords="559,653,671,680"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="790,1474,785,1302,774,1054,765,930,754,820,740,738,731,710,722,693,699,677,671,669,672,664,701,672,726,690,736,708,745,736,759,820,771,929,780,1054,791,1302,795,1474"/>
+<area shape="rect" id="Node000005" href="$class_c_hud_spectator.html#afe93b53bce1e770ec0faebb89135a808" title="Draws the map layer on the screen in spectator overview mode." alt="" coords="517,586,713,629"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="790,1473,786,1293,775,1029,766,896,754,779,740,691,731,661,722,643,710,631,714,627,726,639,736,659,745,689,760,779,771,896,780,1028,791,1292,795,1473"/>
+<area shape="rect" id="Node000008" href="$_game_studio_model_renderer___sample_8cpp.html#a5f5f4a98e6c7663c35a068d334e8794a" title="Retrieves the frame rate and ground speed for a specific animation sequence." alt="" coords="555,1261,675,1288"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="789,1474,784,1435,773,1388,753,1341,739,1320,723,1302,701,1288,675,1280,677,1275,703,1283,726,1298,744,1317,758,1339,778,1387,789,1434,794,1474"/>
+<area shape="rect" id="Node000013" href="$animation_8cpp.html#a1271526afa3c5a79165e55bd2a3fa362" title="Retrieves the frame rate and ground speed for a specific sequence." alt="" coords="555,1312,675,1338"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="784,1475,763,1416,746,1385,723,1359,700,1345,675,1336,677,1331,703,1340,726,1355,750,1382,768,1413,789,1473"/>
+<area shape="rect" id="Node000014" href="$class_c_head_crab.html#a7460c3db52e83ee272daf47fe452f758" title="Handles animation events specific to the headcrab." alt="" coords="255,1398,453,1425"/>
+<area shape="poly" id="edge10_Node000001_Node000014" title=" " alt="" coords="780,1476,758,1436,742,1418,723,1403,682,1386,638,1376,593,1372,548,1373,464,1384,398,1400,396,1395,463,1379,547,1368,593,1367,639,1371,683,1381,726,1399,746,1414,763,1433,785,1473"/>
+<area shape="rect" id="Node000015" href="$inputw32_8cpp.html#a77d97790440c9a91b247809a000d1d8f" title=" " alt="" coords="559,1514,671,1541"/>
+<area shape="poly" id="edge11_Node000001_Node000015" title=" " alt="" coords="757,1510,672,1522,671,1517,756,1505"/>
+<area shape="rect" id="Node000018" href="$controller_8cpp.html#ab2e7e4dd85c0a408ebf5f036bcdf10af" title="Calculates the intersection vector for a moving target." alt="" coords="580,1565,651,1592"/>
+<area shape="poly" id="edge13_Node000001_Node000018" title=" " alt="" coords="768,1528,726,1555,688,1569,652,1576,651,1571,686,1564,723,1551,765,1523"/>
+<area shape="rect" id="Node000021" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="585,704,645,730"/>
+<area shape="poly" id="edge16_Node000001_Node000021" title=" " alt="" coords="785,1474,759,1333,722,1148,661,898,618,731,623,730,667,897,727,1147,765,1332,790,1473"/>
+<area shape="rect" id="Node000066" href="$pm__shared_8c.html#acfdce1dbd6b255192ab1895c88ea6b95" title="Handles jumping." alt="" coords="64,932,143,958"/>
+<area shape="poly" id="edge51_Node000001_Node000066" title=" " alt="" coords="786,1474,764,1350,745,1289,734,1266,722,1251,693,1229,664,1215,635,1206,607,1202,550,1206,494,1218,436,1232,376,1239,345,1237,314,1231,281,1219,248,1201,216,1175,189,1144,165,1109,146,1074,119,1007,105,959,110,958,124,1005,151,1071,170,1106,193,1140,220,1171,251,1196,284,1214,315,1226,346,1232,376,1233,435,1226,493,1213,550,1200,607,1197,636,1201,666,1210,696,1225,726,1247,739,1263,750,1287,769,1349,792,1473"/>
+<area shape="rect" id="Node000112" href="$class_vector2_d.html#a725900b4f3acf28468be68f0e5924de6" title=" " alt="" coords="554,1616,676,1642"/>
+<area shape="poly" id="edge43_Node000001_Node000112" title=" " alt="" coords="783,1531,761,1570,745,1590,726,1606,703,1618,678,1626,676,1620,701,1613,723,1601,741,1586,756,1567,779,1529"/>
+<area shape="rect" id="Node000126" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="562,1413,668,1440"/>
+<area shape="poly" id="edge44_Node000001_Node000126" title=" " alt="" coords="761,1482,723,1461,668,1441,669,1436,725,1456,763,1478"/>
+<area shape="rect" id="Node000264" href="$bigmomma_8cpp.html#abc0ca2f3d2b7ca29a17c9a46ddd2ab6d" title="Calculates the velocity for a splat toss." alt="" coords="284,1458,424,1485"/>
+<area shape="poly" id="edge53_Node000001_Node000264" title=" " alt="" coords="757,1503,424,1479,424,1474,757,1497"/>
+<area shape="rect" id="Node000269" href="$class_vector.html#a741b9e62daf6f602126309dcd1ccc68e" title=" " alt="" coords="554,1666,676,1693"/>
+<area shape="poly" id="edge47_Node000001_Node000269" title=" " alt="" coords="790,1532,783,1561,770,1595,751,1628,726,1656,703,1670,678,1678,676,1673,701,1665,723,1652,747,1625,765,1593,777,1560,785,1530"/>
+<area shape="rect" id="Node000271" href="$class_c_pushable.html#a37f40f4a44155271e15b00eddd4f6ab8" title="Moves the pushable entity based on interaction with another entity." alt="" coords="554,1717,676,1744"/>
+<area shape="poly" id="edge48_Node000001_Node000271" title=" " alt="" coords="794,1531,789,1571,778,1618,758,1666,744,1688,726,1707,703,1722,677,1730,676,1725,701,1717,723,1703,739,1685,753,1663,773,1616,784,1570,789,1531"/>
+<area shape="rect" id="Node000274" href="$pm__shared_8c.html#ad1344c7e90fcd6747c87a5377d3c77f6" title=" " alt="" coords="543,1768,688,1794"/>
+<area shape="poly" id="edge49_Node000001_Node000274" title=" " alt="" coords="796,1532,795,1580,785,1641,764,1704,747,1732,726,1758,709,1770,689,1778,687,1773,706,1765,723,1754,743,1729,759,1701,780,1640,789,1580,791,1531"/>
+<area shape="rect" id="Node000275" href="$pm__shared_8c.html#acd67a38fd307dbe2b8069873c527ccdd" title="Applies friction to player movement." alt="" coords="570,1818,661,1845"/>
+<area shape="poly" id="edge50_Node000001_Node000275" title=" " alt="" coords="793,1532,785,1598,772,1680,752,1757,740,1787,726,1808,712,1819,696,1827,662,1834,661,1829,694,1822,709,1815,722,1805,736,1785,747,1756,767,1679,780,1597,787,1531"/>
+<area shape="rect" id="Node000276" href="$view_8cpp.html#ae90fbe79004be1610f576fd04f299045" title="Calculates the bobbing effect for the player&#39;s view." alt="" coords="572,1869,658,1896"/>
+<area shape="poly" id="edge52_Node000001_Node000276" title=" " alt="" coords="794,1531,788,1607,775,1705,756,1798,742,1834,726,1859,712,1870,694,1878,659,1886,658,1880,693,1873,709,1866,722,1855,738,1831,751,1796,770,1704,782,1607,788,1531"/>
+<area shape="rect" id="Node000277" href="$h__ai_8cpp.html#a36adc6550a5285feab8280dad8f038eb" title="Calculates the velocity needed to toss an object from one point to another." alt="" coords="561,1920,670,1946"/>
+<area shape="poly" id="edge54_Node000001_Node000277" title=" " alt="" coords="794,1531,790,1617,779,1730,759,1838,744,1880,726,1910,701,1927,671,1935,670,1930,698,1922,722,1906,739,1878,754,1837,774,1730,785,1617,789,1531"/>
+<area shape="rect" id="Node000278" href="$cl__dll_2util_8cpp.html#a01a447b0daa5f1359936ce1b96a472ef" title="Converts a forward direction vector into a corresponding yaw and pitch (angles)." alt="" coords="566,1970,665,1997"/>
+<area shape="poly" id="edge55_Node000001_Node000278" title=" " alt="" coords="795,1531,792,1627,782,1755,774,1820,762,1878,746,1927,726,1960,713,1971,698,1979,666,1986,664,1981,696,1974,710,1967,722,1957,741,1925,757,1877,768,1819,777,1755,787,1627,790,1531"/>
+<area shape="rect" id="Node000280" href="$cl__dll_2util_8cpp.html#ac52d94f6800b88e052b3a98e44aadf8f" title="Normalizes a vector, making its length equal to 1." alt="" coords="557,1160,674,1186"/>
+<area shape="poly" id="edge56_Node000001_Node000280" title=" " alt="" coords="787,1474,779,1409,765,1329,746,1255,735,1226,722,1207,700,1191,673,1181,675,1176,702,1186,726,1203,740,1224,751,1253,771,1328,784,1408,792,1473"/>
+<area shape="rect" id="Node000298" href="$class_c_ichthyosaur.html#a28d1a7b7f5a86276f872dd16afd1e47c" title="Calculates the pitch angle based on a vector." alt="" coords="522,2021,709,2048"/>
+<area shape="poly" id="edge59_Node000001_Node000298" title=" " alt="" coords="796,1531,794,1637,785,1780,777,1852,765,1919,748,1973,726,2011,711,2023,708,2019,722,2007,743,1971,760,1917,772,1852,780,1779,789,1636,790,1531"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="84,392,123,418"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="543,665,522,657,504,643,492,625,485,601,477,544,478,475,483,402,487,328,486,262,477,207,468,186,456,171,431,152,407,139,383,132,359,131,334,135,308,144,251,171,220,193,193,221,171,252,152,284,125,347,111,392,106,391,120,345,147,282,166,249,189,217,217,189,248,167,306,139,332,130,358,126,384,127,409,134,434,147,460,167,473,184,482,206,491,261,492,329,488,402,484,476,483,544,490,600,497,622,508,639,525,652,545,661"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_spectator.html#a497b66b5fdecded16ce7c9d9f39088f4" title="Main function to draw the spectator overview." alt="" coords="5,42,202,69"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="505,577,504,576,492,556,484,530,477,466,479,390,484,308,489,228,489,154,479,94,470,71,456,54,420,29,380,15,336,9,292,9,248,15,207,24,140,44,139,39,205,19,247,10,291,4,337,4,381,10,423,25,460,50,474,68,484,92,494,154,494,228,489,309,484,390,482,465,489,529,497,553,508,573,509,574"/>
+<area shape="rect" id="Node000009" href="$class_c_weapon_cycler.html#ad492f835e22435267a979f4f8daf0645" title="Handles the secondary attack action." alt="" coords="261,1328,447,1370"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="541,1293,507,1302,459,1318,424,1330,422,1325,457,1313,505,1297,539,1288"/>
+<area shape="rect" id="Node000010" href="$class_c_game_studio_model_renderer.html#a6f2c0fa022013d8bf4c454bae5dd95c0" title="Sets up the animation state for the client player." alt="" coords="259,1261,449,1304"/>
+<area shape="poly" id="edge8_Node000008_Node000010" title=" " alt="" coords="539,1279,449,1282,449,1277,539,1274"/>
+<area shape="rect" id="Node000016" href="$inputw32_8cpp.html#a958e58978808a3c9ac791e9d68932298" title="Processes mouse movement and updates view angles or movement commands accordingly." alt="" coords="299,1514,409,1541"/>
+<area shape="poly" id="edge12_Node000015_Node000016" title=" " alt="" coords="543,1530,409,1530,409,1525,543,1525"/>
+<area shape="rect" id="Node000019" href="$class_c_controller.html#aa5ffcbcc83d239847937098fc9592c46" title="Gets the schedule for the controller monster." alt="" coords="270,1616,438,1642"/>
+<area shape="poly" id="edge14_Node000018_Node000019" title=" " alt="" coords="565,1591,427,1618,426,1612,564,1585"/>
+<area shape="rect" id="Node000020" href="$class_c_controller.html#ad60ab6fa2a4fd66eef7bb7273de6ce19" title="Runs a task for the controller monster." alt="" coords="282,1565,426,1592"/>
+<area shape="poly" id="edge15_Node000018_Node000020" title=" " alt="" coords="564,1581,427,1581,427,1576,564,1576"/>
+<area shape="rect" id="Node000022" href="$class_c_i_slave.html#ad55695628e24ec56c572cec2fbbb2994" title="Calls for help from other CISlave entities." alt="" coords="284,1008,424,1034"/>
+<area shape="poly" id="edge17_Node000021_Node000022" title=" " alt="" coords="608,746,589,798,558,864,515,932,489,964,460,991,425,1010,423,1005,456,987,485,960,511,929,554,862,584,796,603,744"/>
+<area shape="rect" id="Node000024" href="$class_c_graph.html#a3dcabc2c7b6931e4d5381ba2475918a1" title="Checks if a given point has been seen before and updates the nearest node if applicable." alt="" coords="284,1058,424,1085"/>
+<area shape="poly" id="edge18_Node000021_Node000024" title=" " alt="" coords="611,746,596,809,568,891,548,934,523,976,494,1015,460,1049,426,1066,423,1061,456,1044,490,1011,519,973,543,932,563,889,591,808,606,745"/>
+<area shape="rect" id="Node000025" href="$class_c_i_slave.html#af4815f788cf77d66bcffd1251f8ac595" title="Checks if the CISlave can perform a secondary range attack." alt="" coords="258,181,450,208"/>
+<area shape="poly" id="edge19_Node000021_Node000025" title=" " alt="" coords="569,721,534,713,518,705,504,694,482,663,467,633,459,603,457,573,464,514,479,455,495,397,502,338,499,309,492,280,478,251,456,222,443,210,446,206,460,218,482,248,497,278,504,308,507,338,500,398,484,457,469,515,462,574,464,602,472,632,486,661,508,690,521,701,536,708,570,715"/>
+<area shape="rect" id="Node000026" href="$class_c_nihilanth_h_v_r.html#a4dd1493ed1da7567cbf777b7ef961814" title="Circles around a target position." alt="" coords="262,232,446,258"/>
+<area shape="poly" id="edge20_Node000021_Node000026" title=" " alt="" coords="569,721,535,713,518,705,504,694,484,667,471,640,463,613,461,586,466,533,479,481,492,428,498,376,495,350,488,324,475,298,456,272,442,261,446,257,460,269,480,295,493,322,501,349,503,376,497,429,484,482,471,534,466,586,468,612,476,638,488,664,508,690,521,701,536,708,570,715"/>
+<area shape="rect" id="Node000027" href="$class_c_hud_spectator.html#a06e164ad799ea1a1d85c60e554d2c5cb" title="Draws all overview entities (like players) on the map." alt="" coords="256,64,452,106"/>
+<area shape="poly" id="edge21_Node000021_Node000027" title=" " alt="" coords="569,721,534,713,518,705,504,693,491,674,482,649,471,588,469,515,471,436,475,282,470,218,464,192,456,170,443,152,428,135,394,109,397,105,432,131,447,149,460,168,469,190,475,217,481,282,476,436,474,515,477,587,487,647,496,671,508,690,521,701,536,708,570,715"/>
+<area shape="rect" id="Node000028" href="$ev__hldm_8cpp.html#a41e0aaa5de4bdfebff65b49e764728da" title="Handles the Gauss weapon firing logic, including sound, visuals, and beam tracing." alt="" coords="301,282,407,309"/>
+<area shape="poly" id="edge23_Node000021_Node000028" title=" " alt="" coords="569,720,535,713,518,705,504,694,486,670,474,646,467,623,464,599,468,552,479,506,490,460,494,414,491,391,485,368,473,346,456,323,434,307,407,299,408,294,436,302,460,319,478,343,490,366,497,390,499,414,495,461,484,507,474,553,470,599,472,622,479,644,491,667,508,690,521,701,536,708,570,715"/>
+<area shape="rect" id="Node000035" href="$crowbar_8cpp.html#a27ae3432dd75d12e8ff7f6c8b09bb5cf" title=" " alt="" coords="286,333,422,360"/>
+<area shape="poly" id="edge24_Node000021_Node000035" title=" " alt="" coords="569,720,535,713,518,705,504,694,488,673,477,653,468,612,471,572,479,531,487,491,490,452,481,413,471,393,456,374,440,361,421,353,423,348,443,357,460,370,476,390,486,411,495,451,493,492,484,532,476,572,474,612,482,651,493,670,508,690,521,701,537,708,571,715"/>
+<area shape="rect" id="Node000039" href="$class_c_talk_monster.html#a693e0bae60c6782b25652633a1a46d40" title="Finds the nearest friend or player." alt="" coords="264,384,444,426"/>
+<area shape="poly" id="edge25_Node000021_Node000039" title=" " alt="" coords="569,720,535,713,518,705,504,694,482,662,473,630,473,598,478,566,483,534,484,503,476,472,456,440,442,428,446,424,460,437,481,469,489,502,488,535,483,567,479,598,478,629,487,659,508,690,521,700,536,707,570,715"/>
+<area shape="rect" id="Node000052" href="$class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="305,450,403,477"/>
+<area shape="poly" id="edge26_Node000021_Node000052" title=" " alt="" coords="569,720,535,712,518,705,504,694,485,668,477,642,477,616,479,590,482,565,481,540,474,515,456,491,432,475,403,468,404,462,434,470,460,487,478,513,486,539,487,565,485,591,482,616,483,641,490,666,508,690,521,700,537,707,570,714"/>
+<area shape="rect" id="Node000057" href="$class_c_gargantua.html#a7267dc2632f1e44de89bb701f336bd2d" title="Applies flame damage to entities within a specified range." alt="" coords="263,501,445,528"/>
+<area shape="poly" id="edge27_Node000021_Node000057" title=" " alt="" coords="569,719,535,712,504,694,489,675,481,655,479,616,477,578,470,559,456,542,440,530,443,526,460,538,475,557,483,577,485,616,486,654,493,672,508,690,537,707,570,714"/>
+<area shape="rect" id="Node000058" href="$entity_8cpp.html#a18acb48aecd7c168f0ac935713ac7c33" title="Simulates and manages temporary entities (TENTs) such as particle effects or explosions." alt="" coords="280,653,428,680"/>
+<area shape="poly" id="edge28_Node000021_Node000058" title=" " alt="" coords="570,711,426,683,427,678,571,706"/>
+<area shape="rect" id="Node000059" href="$class_c_apache.html#a316f59455c212231ad0729fe886af1a7" title="Handles the hunt think behavior for the Apache." alt="" coords="284,552,424,578"/>
+<area shape="poly" id="edge30_Node000021_Node000059" title=" " alt="" coords="569,718,536,710,504,694,492,681,485,668,479,642,474,616,467,604,456,592,423,576,426,571,460,588,472,601,479,614,485,641,490,666,497,678,508,690,538,705,571,713"/>
+<area shape="rect" id="Node000062" href="$class_c_controller.html#a8886150858264160340eb0463957f3df" title="Moves the controller monster." alt="" coords="292,602,416,629"/>
+<area shape="poly" id="edge31_Node000021_Node000062" title=" " alt="" coords="569,715,537,708,505,694,489,681,480,668,471,655,457,643,415,627,417,622,459,639,475,652,484,665,493,678,507,689,538,702,571,710"/>
+<area shape="rect" id="Node000063" href="$class_c_func_track_train.html#a6cc16b737db9d8a699f6205f63afd0ef" title="Finds the nearest path track for the track train." alt="" coords="254,805,454,832"/>
+<area shape="poly" id="edge32_Node000021_Node000063" title=" " alt="" coords="578,740,523,768,459,796,421,807,420,802,457,791,520,764,575,736"/>
+<area shape="rect" id="Node000065" href="$class_c_nihilanth.html#aeeae715d59d17d600b704c366b6cd425" title="Determines the next activity for the Nihilanth." alt="" coords="275,856,433,882"/>
+<area shape="poly" id="edge33_Node000021_Node000065" title=" " alt="" coords="592,744,535,796,499,823,459,846,430,858,428,853,457,841,496,818,532,791,589,740"/>
+<area shape="poly" id="edge34_Node000021_Node000066" title=" " alt="" coords="607,746,588,793,557,850,514,905,488,928,459,947,419,964,376,975,332,980,288,980,207,972,143,959,144,954,208,967,288,975,331,974,375,969,417,959,457,943,485,924,511,901,553,847,583,791,602,744"/>
+<area shape="rect" id="Node000070" href="$pm__shared_8c.html#aaa8cfe9f309b881e8a8e902e1c794627" title="Plays a footstep sound based on the surface type." alt="" coords="285,754,423,781"/>
+<area shape="poly" id="edge35_Node000021_Node000070" title=" " alt="" coords="570,728,424,757,423,752,569,723"/>
+<area shape="rect" id="Node000072" href="$pm__shared_8c.html#a37126c4dfcf154bbcb47b27e27dd33e9" title="Updates the player&#39;s step sound state." alt="" coords="27,729,180,756"/>
+<area shape="poly" id="edge41_Node000021_Node000072" title=" " alt="" coords="570,722,181,741,181,736,570,717"/>
+<area shape="rect" id="Node000073" href="$pm__shared_8c.html#a6d492af09bedfe81006e6427a6b23dc2" title="Corrects bunny jumping." alt="" coords="250,906,458,933"/>
+<area shape="poly" id="edge38_Node000021_Node000073" title=" " alt="" coords="600,745,577,780,545,821,505,862,459,897,435,908,432,903,457,892,502,858,541,817,573,777,596,742"/>
+<area shape="rect" id="Node000074" href="$pm__shared_8c.html#abac5754243d4b66bec436c1012b087eb" title="Handles spectator movement." alt="" coords="287,1109,421,1136"/>
+<area shape="poly" id="edge40_Node000021_Node000074" title=" " alt="" coords="613,746,601,818,575,913,555,964,529,1013,498,1059,460,1099,442,1111,423,1118,421,1113,440,1106,456,1095,494,1056,525,1011,550,962,570,912,596,817,608,745"/>
+<area shape="rect" id="Node000075" href="$pm__shared_8c.html#a24c79215f9e832d9ae899b101e106f6c" title="Handles walking movement on the ground." alt="" coords="300,1160,408,1186"/>
+<area shape="poly" id="edge42_Node000021_Node000075" title=" " alt="" coords="615,746,606,826,596,879,582,935,562,994,535,1051,502,1104,460,1150,436,1164,409,1172,408,1167,434,1160,456,1146,497,1100,531,1048,557,992,577,934,591,877,601,825,610,746"/>
+<area shape="poly" id="edge22_Node000027_Node000006" title=" " alt="" coords="240,74,202,70,202,65,241,69"/>
+<area shape="poly" id="edge29_Node000058_Node000004" title=" " alt="" coords="264,652,248,643,219,618,193,588,151,524,123,463,107,420,112,418,128,461,156,522,197,585,223,614,251,639,266,648"/>
+<area shape="poly" id="edge36_Node000070_Node000066" title=" " alt="" coords="272,786,251,795,207,828,168,866,116,933,112,930,164,863,203,824,248,791,269,781"/>
+<area shape="poly" id="edge37_Node000070_Node000072" title=" " alt="" coords="269,762,181,753,181,747,269,757"/>
+<area shape="poly" id="edge39_Node000073_Node000066" title=" " alt="" coords="235,934,144,944,143,938,234,929"/>
+<area shape="poly" id="edge45_Node000126_Node000014" title=" " alt="" coords="546,1425,453,1420,453,1415,546,1420"/>
+<area shape="poly" id="edge46_Node000126_Node000264" title=" " alt="" coords="547,1441,425,1462,424,1457,546,1436"/>
+<area shape="poly" id="edge57_Node000280_Node000074" title=" " alt="" coords="541,1161,421,1138,422,1133,542,1156"/>
+<area shape="poly" id="edge58_Node000280_Node000075" title=" " alt="" coords="541,1176,408,1176,408,1170,541,1170"/>
+</map>

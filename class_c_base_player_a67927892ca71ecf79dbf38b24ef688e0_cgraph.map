@@ -1,0 +1,11 @@
+<map id="CBasePlayer::GiveAmmo" name="CBasePlayer::GiveAmmo">
+<area shape="rect" id="Node000001" title="Gives ammo to the player." alt="" coords="5,56,174,83"/>
+<area shape="rect" id="Node000002" href="$class_c_game_rules.html#a16ad07959990820b5ccb608266052056" title="Checks if the player can have more ammo of a specific type." alt="" coords="222,31,417,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,57,206,54,206,59,174,63"/>
+<area shape="rect" id="Node000005" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="252,81,387,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,76,237,83,236,88,174,81"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#adcbfba519d919bf60ee0d943907219ea" title="Retrieves the amount of a specific type of ammo in the player&#39;s inventory." alt="" coords="466,5,660,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,31,450,28,450,33,418,36"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a672bb131a284c013918e754c2cf59dd1" title="Gets the index of a specific ammo type." alt="" coords="465,56,660,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="418,52,450,55,449,60,417,57"/>
+</map>

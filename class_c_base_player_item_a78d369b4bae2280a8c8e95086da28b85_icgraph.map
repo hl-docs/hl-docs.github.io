@@ -1,0 +1,20 @@
+<map id="CBasePlayerItem::Holster" name="CBasePlayerItem::Holster">
+<area shape="rect" id="Node000001" title="Holsters a player item." alt="" coords="729,107,900,133"/>
+<area shape="rect" id="Node000002" href="$hl__weapons_8cpp.html#a7f536b4e474cf3eafb01428429fc7bbe" title="Runs the weapon logic on the client&#45;side during prediction." alt="" coords="272,5,440,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="781,100,735,71,680,47,619,32,556,23,441,18,441,13,556,18,620,27,682,41,738,66,784,95"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#af1d440839effa9fa57471b81d59bc933" title="Called when the player is killed." alt="" coords="516,56,653,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="735,105,648,86,649,81,736,100"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player.html#aacdc393b4dfd357d5374f4a7f3bce415" title="Switch to the specified item by name." alt="" coords="501,107,668,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="713,123,669,123,669,117,713,117"/>
+<area shape="rect" id="Node000008" href="$class_c_base_player.html#a94e5d1c67efa1f0e7fbf7226922f4d06" title="Switches to the previously used item." alt="" coords="488,157,681,184"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="736,140,649,159,648,154,735,135"/>
+<area shape="rect" id="Node000009" href="$class_c_func_tank.html#ae626fa795ff2e209057930920a13616a" title="Attempts to start controlling the tank for the given player." alt="" coords="502,208,667,235"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="781,145,735,172,682,198,648,210,647,205,680,194,733,168,779,140"/>
+<area shape="rect" id="Node000003" href="$hl__weapons_8cpp.html#a1b6fe5f64f2a0a1dc0e3ee9749c4eddb" title="Called after player movement prediction is done on the client." alt="" coords="92,5,224,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,21,225,21,225,16,257,16"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,21,44,21,44,16,76,16"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="506,55,419,35,420,30,507,49"/>
+<area shape="rect" id="Node000006" href="$client_8cpp.html#a01bb3d0e374fc1885d67a3e4269a235a" title="Handles the player&#39;s suicide command." alt="" coords="320,56,392,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="500,72,393,72,393,67,500,67"/>
+</map>

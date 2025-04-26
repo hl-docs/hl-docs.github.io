@@ -1,0 +1,9 @@
+<map id="LabelSortInputHandler" name="LabelSortInputHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,204,172,231"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,97,91,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,137,94,203,89,205,58,139"/>
+<area shape="rect" id="Node000003" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html" title=" " alt="" coords="115,81,291,140"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,153,112,206,108,202,161,149"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="160,5,245,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,48,205,81,200,81,200,48"/>
+</map>

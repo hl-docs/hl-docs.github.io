@@ -1,0 +1,11 @@
+<map id="UTIL_dtos1" name="UTIL_dtos1">
+<area shape="rect" id="Node000001" title="Converts an integer to a string." alt="" coords="382,47,468,73"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#afb109ce50b126480a8d42f347d796b73" title="Transitions the game to intermission." alt="" coords="204,5,334,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,50,334,43,335,38,367,45"/>
+<area shape="rect" id="Node000004" href="$class_c_half_life_multiplay.html#a31ec862325d89cd0b7715319cccbec25" title="Main game loop for multiplayer mode." alt="" coords="207,72,331,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="367,75,332,83,331,77,366,70"/>
+<area shape="rect" id="Node000003" href="$class_c_half_life_multiplay.html#aad1aecb3722b96dd9826e15470c057b0" title=" " alt="" coords="5,5,156,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,29,156,29,156,24,188,24"/>
+<area shape="rect" id="Node000005" href="$class_c_half_life_teamplay.html#a666747ee9ecf57a67c8a423da26b4742" title="Updates the game rules each frame." alt="" coords="12,72,149,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,96,149,96,149,91,191,91"/>
+</map>

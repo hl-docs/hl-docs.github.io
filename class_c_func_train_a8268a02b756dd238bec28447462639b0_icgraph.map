@@ -1,0 +1,12 @@
+<map id="CFuncTrain::Wait" name="CFuncTrain::Wait">
+<area shape="rect" id="Node000001" title="Waits for a specified duration before moving to the next target." alt="" coords="400,56,522,83"/>
+<area shape="rect" id="Node000002" href="$class_c_func_train.html#a211bdc141766100801e90fa74409fd6f" title="Moves the train to the next target." alt="" coords="230,56,352,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,81,352,81,352,75,385,76"/>
+<area shape="poly" id="edge5_Node000002_Node000001" title=" " alt="" coords="367,58,400,58,400,63,367,63"/>
+<area shape="rect" id="Node000003" href="$class_c_func_train.html#ac2d6b9b55ee55e832290266a914f6927" title="Activates the train and teleports it to the first target." alt="" coords="23,5,164,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,54,148,35,149,30,222,49"/>
+<area shape="rect" id="Node000004" href="$class_c_func_train.html#af808699034e8b9637e42694dd2e46a3e" title="Resets the train&#39;s state and prepares it for movement." alt="" coords="5,56,182,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="214,72,182,72,182,67,214,67"/>
+<area shape="rect" id="Node000005" href="$class_c_func_train.html#a3e000ea0a1493c70b6110f16fea6ce10" title="Activates the train based on the use type." alt="" coords="34,107,153,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="222,90,149,109,148,103,220,85"/>
+</map>

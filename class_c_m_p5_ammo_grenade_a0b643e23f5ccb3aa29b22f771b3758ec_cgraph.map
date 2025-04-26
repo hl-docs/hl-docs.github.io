@@ -1,0 +1,9 @@
+<map id="CMP5AmmoGrenade::Spawn" name="CMP5AmmoGrenade::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the MP5 grenade in the game." alt="" coords="5,56,197,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="325,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,53,309,24,310,29,170,58"/>
+<area shape="rect" id="Node000003" href="$class_c_m_p5_ammo_grenade.html#aba332592a8e1c1c05dab7f02a04e6546" title="Preloads the resources needed for the MP5 grenade." alt="" coords="245,56,452,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,67,229,67,229,72,197,72"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player_ammo.html#a13402d91be00ef4937c8b9bf3a83024c" title="Spawns the ammo entity in the game world." alt="" coords="257,107,440,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,81,265,100,264,106,169,86"/>
+</map>

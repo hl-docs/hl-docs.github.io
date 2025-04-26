@@ -1,0 +1,9 @@
+<map id="CImageLabel::LoadImage" name="CImageLabel::LoadImage">
+<area shape="rect" id="Node000001" title="Loads a new TGA image into the label." alt="" coords="556,5,724,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a68d7dab5a05bf25c71781a8bd6e97625" title="Processes director messages to control the spectator mode." alt="" coords="293,5,508,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="541,21,509,21,509,16,541,16"/>
+<area shape="rect" id="Node000003" href="$cdll__int_8cpp.html#a13f8b6e71ea4313e0b97d907191b27bf" title="Handles director messages." alt="" coords="92,5,245,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,21,245,21,245,16,277,16"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,21,44,21,44,16,76,16"/>
+</map>

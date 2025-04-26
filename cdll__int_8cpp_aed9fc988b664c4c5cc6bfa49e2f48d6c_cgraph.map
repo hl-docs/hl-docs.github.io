@@ -1,0 +1,102 @@
+<map id="F" name="F">
+<area shape="rect" id="Node000001" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,1247,44,1273"/>
+<area shape="rect" id="Node000002" href="$in__camera_8cpp.html#af43e0af8eb6804de13d670591b167b7b" title="Main function that updates third&#45;person camera position and angles each frame." alt="" coords="150,208,238,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="23,1246,26,1058,35,748,44,588,55,444,70,333,79,295,90,271,110,250,134,235,137,240,113,254,94,273,84,297,75,334,60,444,49,588,41,749,31,1058,29,1246"/>
+<area shape="rect" id="Node000011" href="$in__camera_8cpp.html#ab3dc2e02f0891fa26efe00e0b237097b" title="Returns the current camera offset (pitch, yaw, distance)." alt="" coords="132,284,256,311"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="23,1246,25,1066,33,771,41,618,53,482,69,379,78,343,90,321,102,310,116,302,119,307,105,314,94,324,83,345,74,380,58,483,46,618,38,771,30,1066,29,1246"/>
+<area shape="rect" id="Node000012" href="$input_8cpp.html#a7217f060254148177c44d7243fc20ae6" title="Creates and sends a movement command to the server." alt="" coords="138,335,250,361"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="23,1247,26,1075,34,796,43,652,54,524,69,426,79,393,90,372,104,359,121,351,124,356,107,364,94,375,84,394,75,427,59,525,48,653,40,797,31,1075,29,1247"/>
+<area shape="rect" id="Node000035" href="$in__camera_8cpp.html#a5a2f510060b5151800d8012d7143dd0d" title="Checks if the camera is in third&#45;person mode." alt="" coords="132,385,256,412"/>
+<area shape="poly" id="edge13_Node000001_Node000035" title=" " alt="" coords="23,1246,26,1083,36,820,44,685,56,565,70,473,79,442,90,422,102,411,116,404,119,408,105,416,94,426,84,444,76,474,61,566,50,686,41,821,32,1083,29,1246"/>
+<area shape="rect" id="Node000036" href="$demo_8cpp.html#a3e9e5ab489ebdc25a106dfd5cb129fb7" title="Parses data from the demo stream and processes it." alt="" coords="131,436,257,463"/>
+<area shape="poly" id="edge14_Node000001_Node000036" title=" " alt="" coords="23,1246,27,1092,37,846,46,719,57,607,71,521,80,491,90,473,115,455,118,459,94,476,85,493,77,522,62,607,51,720,43,846,32,1092,29,1246"/>
+<area shape="rect" id="Node000037" href="$entity_8cpp.html#aaf3a5c815b125e874188fb949806d58d" title="Determines whether an entity should be visible and processes special spectator logic." alt="" coords="138,487,250,513"/>
+<area shape="poly" id="edge15_Node000001_Node000037" title=" " alt="" coords="23,1246,28,1102,39,871,47,753,59,648,72,568,81,541,90,524,104,511,122,503,124,508,107,516,94,527,85,543,78,569,64,649,53,754,44,872,33,1102,29,1247"/>
+<area shape="rect" id="Node000044" href="$vgui___spectator_panel_8cpp.html#ae86ad6c5a802104ffa35776618e3327c" title="Sets the screen position for the chat input box." alt="" coords="115,537,273,564"/>
+<area shape="poly" id="edge16_Node000001_Node000044" title=" " alt="" coords="24,1246,29,1110,40,896,60,690,73,616,81,590,90,574,100,565,103,569,94,578,86,592,79,617,65,690,46,897,34,1110,29,1246"/>
+<area shape="rect" id="Node000045" href="$cdll__int_8cpp.html#a0da15c3b4865e548006288a1020ed3a9" title="Processes connectionless packets." alt="" coords="101,588,287,615"/>
+<area shape="poly" id="edge17_Node000001_Node000045" title=" " alt="" coords="24,1246,29,1119,42,921,62,731,74,663,89,625,92,623,96,626,94,628,80,664,67,732,47,922,35,1119,29,1246"/>
+<area shape="rect" id="Node000046" href="$entity_8cpp.html#aa35954da5a303375d555434af0280f34" title="Adds custom entities to the render list." alt="" coords="125,639,263,665"/>
+<area shape="poly" id="edge18_Node000001_Node000046" title=" " alt="" coords="24,1246,30,1128,43,947,63,773,75,710,90,676,110,661,113,665,94,679,81,712,68,774,49,947,36,1128,29,1246"/>
+<area shape="rect" id="Node000060" href="$cdll__int_8cpp.html#a13f8b6e71ea4313e0b97d907191b27bf" title="Handles director messages." alt="" coords="117,689,271,716"/>
+<area shape="poly" id="edge19_Node000001_Node000060" title=" " alt="" coords="23,1246,23,1144,29,988,37,907,49,831,66,769,77,745,90,726,102,716,105,720,94,730,82,747,71,771,54,833,42,907,34,989,28,1145,28,1246"/>
+<area shape="rect" id="Node000140" href="$tri_8cpp.html#a80efb0af0ebb5b5348a07fce9d0a6a7d" title="Draws non&#45;transparent (opaque) triangles on the HUD." alt="" coords="105,740,283,767"/>
+<area shape="poly" id="edge20_Node000001_Node000140" title=" " alt="" coords="23,1246,24,1153,32,1012,40,939,52,871,68,815,90,777,92,774,96,778,94,780,73,817,57,872,45,940,37,1013,30,1153,28,1246"/>
+<area shape="rect" id="Node000149" href="$tri_8cpp.html#a9030f11c09d0d689f72378aca30bc9a2" title="Draws transparent triangles on the HUD." alt="" coords="92,791,296,817"/>
+<area shape="poly" id="edge21_Node000001_Node000149" title=" " alt="" coords="23,1246,26,1162,35,1036,43,971,55,911,70,862,90,828,92,825,96,829,94,831,75,864,60,912,49,972,40,1037,31,1162,29,1246"/>
+<area shape="rect" id="Node000150" href="$cdll__int_8cpp.html#a5763e572397ee603dadef54eb42edcee" title="Handles client frame updates." alt="" coords="148,841,240,868"/>
+<area shape="poly" id="edge22_Node000001_Node000150" title=" " alt="" coords="24,1246,28,1171,38,1060,58,951,72,908,90,878,109,864,131,856,133,861,112,869,94,882,77,910,63,952,43,1061,33,1171,29,1246"/>
+<area shape="rect" id="Node000161" href="$cdll__int_8cpp.html#a59137ed830ad54ed4130e90593cfb41e" title="Enumerates player collision hulls for prediction." alt="" coords="123,892,265,919"/>
+<area shape="poly" id="edge23_Node000001_Node000161" title=" " alt="" coords="24,1246,30,1179,41,1084,61,991,74,954,90,929,107,916,110,920,94,932,79,956,66,992,47,1085,35,1180,29,1246"/>
+<area shape="rect" id="Node000162" href="$_game_studio_model_renderer___sample_8cpp.html#a033216571d00dfa199323bbcb52fc515" title="Provides the studio renderer interface to the engine." alt="" coords="95,943,293,969"/>
+<area shape="poly" id="edge24_Node000001_Node000162" title=" " alt="" coords="25,1246,45,1109,64,1031,76,1001,90,980,92,977,96,981,94,983,81,1003,69,1033,50,1110,30,1247"/>
+<area shape="rect" id="Node000165" href="$entity_8cpp.html#a17fe599818659f7a161354657af438ad" title="This function retrieves a pointer to a cl_entity_t object that describes a specific user entity." alt="" coords="125,993,263,1020"/>
+<area shape="poly" id="edge25_Node000001_Node000165" title=" " alt="" coords="23,1246,24,1204,32,1146,53,1084,69,1055,90,1030,109,1017,112,1021,94,1034,73,1058,58,1086,38,1148,30,1205,28,1246"/>
+<area shape="rect" id="Node000166" href="$cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="158,1044,230,1071"/>
+<area shape="poly" id="edge26_Node000001_Node000166" title=" " alt="" coords="24,1246,29,1212,39,1168,59,1121,73,1099,90,1081,114,1066,142,1058,143,1063,117,1071,93,1085,77,1103,63,1124,44,1169,34,1213,29,1246"/>
+<area shape="rect" id="Node000283" href="$input_8cpp.html#acae0b9c23c657f3a85229c9d78d8adea" title="Handles keyboard input events for the HUD (Heads&#45;Up Display)." alt="" coords="135,1095,253,1121"/>
+<area shape="poly" id="edge27_Node000001_Node000283" title=" " alt="" coords="27,1245,46,1190,65,1158,90,1131,119,1116,121,1121,93,1135,69,1161,51,1192,32,1247"/>
+<area shape="rect" id="Node000306" href="$cdll__int_8cpp.html#ac1888150107edabbf964bc55a56f0403" title="Moves the player based on movement commands." alt="" coords="133,1145,255,1172"/>
+<area shape="poly" id="edge28_Node000001_Node000306" title=" " alt="" coords="32,1245,55,1213,90,1182,117,1169,119,1174,93,1186,59,1217,36,1248"/>
+<area shape="rect" id="Node000355" href="$cdll__int_8cpp.html#aaf301f54082df338a6c80ab64819aefe" title="Initializes the player movement system." alt="" coords="124,1196,264,1223"/>
+<area shape="poly" id="edge29_Node000001_Node000355" title=" " alt="" coords="43,1250,91,1232,117,1225,118,1230,93,1237,45,1255"/>
+<area shape="rect" id="Node000361" href="$cdll__int_8cpp.html#a8b754751447fbb43950f30b508abd7bb" title="Retrieves the texture type for player movement." alt="" coords="111,1247,277,1273"/>
+<area shape="poly" id="edge30_Node000001_Node000361" title=" " alt="" coords="44,1257,96,1257,96,1263,44,1263"/>
+<area shape="rect" id="Node000362" href="$hl__weapons_8cpp.html#a1b6fe5f64f2a0a1dc0e3ee9749c4eddb" title="Called after player movement prediction is done on the client." alt="" coords="128,1297,260,1324"/>
+<area shape="poly" id="edge31_Node000001_Node000362" title=" " alt="" coords="45,1265,93,1283,118,1290,117,1295,91,1288,43,1270"/>
+<area shape="rect" id="Node000385" href="$entity_8cpp.html#a466b705bc85a9ca6ac8b6436034b6be3" title="Transfers relevant fields from a received entity_state_t to the local playerstate." alt="" coords="108,1348,280,1375"/>
+<area shape="poly" id="edge32_Node000001_Node000385" title=" " alt="" coords="36,1272,59,1303,93,1334,103,1339,101,1344,90,1338,55,1307,32,1275"/>
+<area shape="rect" id="Node000386" href="$cdll__int_8cpp.html#a5ea2cbe1b24757e7b528d2d005111a52" title="Redraws the HUD on each screen frame." alt="" coords="145,1399,243,1425"/>
+<area shape="poly" id="edge33_Node000001_Node000386" title=" " alt="" coords="32,1273,51,1328,69,1359,93,1385,111,1395,131,1402,129,1407,109,1400,90,1389,65,1362,46,1330,27,1275"/>
+<area shape="rect" id="Node000393" href="$cdll__int_8cpp.html#a4ecf92fb3f53324aadd0f7c2acd33e2b" title="Resets the HUD state." alt="" coords="149,1449,239,1476"/>
+<area shape="poly" id="edge34_Node000001_Node000393" title=" " alt="" coords="29,1274,34,1307,44,1351,63,1396,77,1417,93,1435,113,1448,135,1455,133,1460,110,1453,90,1439,73,1421,59,1399,39,1352,29,1308,24,1274"/>
+<area shape="rect" id="Node000395" href="$input_8cpp.html#a2b966138947a3f9a63a35774f5cc126c" title="Called by the engine when the client is shutting down." alt="" coords="138,1500,250,1527"/>
+<area shape="poly" id="edge35_Node000001_Node000395" title=" " alt="" coords="28,1274,30,1315,38,1372,58,1434,73,1462,94,1486,107,1496,124,1503,122,1508,105,1501,90,1490,69,1465,53,1436,32,1374,24,1316,23,1274"/>
+<area shape="rect" id="Node000402" href="$entity_8cpp.html#a4e8839be5770278b1ed56f6d96d8e6b9" title="Handles model&#45;specific studio events like muzzle flashes and sounds." alt="" coords="132,1551,256,1577"/>
+<area shape="poly" id="edge36_Node000001_Node000402" title=" " alt="" coords="30,1273,50,1410,69,1487,81,1517,94,1537,118,1553,116,1557,90,1541,76,1519,64,1489,45,1411,25,1274"/>
+<area shape="rect" id="Node000403" href="$entity_8cpp.html#a18acb48aecd7c168f0ac935713ac7c33" title="Simulates and manages temporary entities (TENTs) such as particle effects or explosions." alt="" coords="120,1601,268,1628"/>
+<area shape="poly" id="edge37_Node000001_Node000403" title=" " alt="" coords="29,1274,35,1340,47,1435,66,1528,79,1564,94,1588,107,1598,104,1603,90,1591,74,1566,61,1529,41,1436,30,1341,24,1274"/>
+<area shape="rect" id="Node000404" href="$entity_8cpp.html#aa845053c7ec5954b7b528ccf629cdb81" title="Copies precision origin and other overrides from clientdata to entity_state." alt="" coords="110,1652,278,1679"/>
+<area shape="poly" id="edge38_Node000001_Node000404" title=" " alt="" coords="29,1274,33,1349,43,1459,63,1568,77,1610,94,1638,99,1643,95,1647,90,1642,72,1612,58,1569,38,1460,28,1349,24,1274"/>
+<area shape="rect" id="Node000405" href="$entity_8cpp.html#a85c9fa6839c7fd733be54a6dc781dc78" title="Transfers client&#45;side predicted data to the server&#45;acknowledged state." alt="" coords="110,1703,278,1729"/>
+<area shape="poly" id="edge39_Node000001_Node000405" title=" " alt="" coords="29,1274,31,1358,40,1483,49,1548,60,1608,75,1656,94,1689,99,1694,95,1697,90,1692,70,1658,55,1609,43,1549,35,1484,26,1358,23,1274"/>
+<area shape="rect" id="Node000406" href="$cdll__int_8cpp.html#a4d6e3054b2b4a671963b61ed08e18b71" title="Updates client data when the shared data changes." alt="" coords="116,1753,272,1780"/>
+<area shape="poly" id="edge40_Node000001_Node000406" title=" " alt="" coords="28,1274,30,1367,37,1507,45,1580,57,1648,73,1703,94,1740,104,1749,101,1753,90,1743,68,1705,52,1649,40,1581,32,1508,24,1367,23,1274"/>
+<area shape="rect" id="Node000416" href="$cdll__int_8cpp.html#a9b6af20be4779961bb84fc32bcfa2f80" title="Initializes the video settings for the HUD." alt="" coords="148,1804,240,1831"/>
+<area shape="poly" id="edge41_Node000001_Node000416" title=" " alt="" coords="28,1274,28,1375,34,1531,42,1613,54,1687,71,1749,82,1773,94,1790,112,1804,134,1812,132,1817,109,1809,90,1794,77,1775,66,1751,49,1689,37,1613,29,1532,23,1376,23,1274"/>
+<area shape="rect" id="Node000423" href="$cdll__int_8cpp.html#ac18dac0167e8bd3c5d6db1baefde5dfc" title="Updates the status of voice communication." alt="" coords="131,1855,257,1881"/>
+<area shape="poly" id="edge42_Node000001_Node000423" title=" " alt="" coords="29,1274,36,1392,49,1573,68,1746,81,1808,94,1841,118,1857,115,1862,90,1844,75,1810,63,1747,43,1573,30,1392,24,1274"/>
+<area shape="rect" id="Node000425" href="$inputw32_8cpp.html#af56401a8a2a0c7275d27c8e36819982a" title="Accumulates mouse movement deltas between frames." alt="" coords="139,1905,249,1932"/>
+<area shape="poly" id="edge43_Node000001_Node000425" title=" " alt="" coords="29,1274,35,1401,47,1598,67,1788,80,1856,94,1892,108,1903,125,1911,123,1916,105,1908,90,1895,74,1857,62,1789,42,1599,29,1401,24,1274"/>
+<area shape="rect" id="Node000426" href="$inputw32_8cpp.html#a51733583ac70b452bfa9bca03837b9fd" title="Activates mouse input, enabling it for gameplay." alt="" coords="131,1956,257,1983"/>
+<area shape="poly" id="edge44_Node000001_Node000426" title=" " alt="" coords="29,1274,34,1410,46,1623,65,1830,79,1903,86,1928,94,1942,118,1959,115,1963,90,1946,81,1930,73,1904,60,1830,40,1624,29,1410,24,1274"/>
+<area shape="rect" id="Node000427" href="$inputw32_8cpp.html#ae660a805c247d68b2cb1ea4a74f9cae9" title="Clears the current mouse input states." alt="" coords="140,2007,248,2033"/>
+<area shape="poly" id="edge45_Node000001_Node000427" title=" " alt="" coords="29,1273,33,1418,44,1648,53,1766,64,1871,78,1951,85,1977,94,1993,108,2005,126,2013,123,2017,105,2009,90,1996,81,1979,72,1952,59,1872,47,1767,39,1649,28,1418,23,1274"/>
+<area shape="rect" id="Node000400" href="$inputw32_8cpp.html#a9d9aefec0e1714a85d514c780555e58f" title="Deactivates mouse input, disabling it temporarily (e.g., in menus)." alt="" coords="124,2057,264,2084"/>
+<area shape="poly" id="edge46_Node000001_Node000400" title=" " alt="" coords="29,1274,32,1428,43,1674,51,1800,62,1913,77,1998,85,2027,94,2044,112,2057,108,2062,90,2047,80,2029,71,1999,57,1913,46,1801,37,1674,27,1428,23,1274"/>
+<area shape="rect" id="Node000428" href="$inputw32_8cpp.html#a6185e2582befcfd3daae7f481b29bf5b" title="Handles mouse button events (press and release)." alt="" coords="138,2108,250,2135"/>
+<area shape="poly" id="edge47_Node000001_Node000428" title=" " alt="" coords="29,1274,32,1437,41,1699,50,1834,61,1954,76,2046,84,2076,94,2094,107,2106,124,2113,122,2118,104,2110,90,2098,79,2078,70,2047,56,1955,44,1835,36,1700,26,1437,23,1274"/>
+<area shape="rect" id="Node000429" href="$cdll__int_8cpp.html#a9dad23cec464e2325631a7834cf32d01" title="Initializes the client&#45;side engine interface." alt="" coords="160,2159,228,2185"/>
+<area shape="poly" id="edge48_Node000001_Node000429" title=" " alt="" coords="29,1273,31,1445,40,1723,48,1867,59,1995,75,2093,84,2126,94,2145,117,2161,145,2169,144,2174,114,2166,90,2148,79,2127,69,2094,54,1996,43,1868,34,1724,26,1445,23,1273"/>
+<area shape="rect" id="Node000280" href="$input_8cpp.html#a45189e9f910d699c1fae062800015069" title="Finds a key binding object (kbutton_t) by name." alt="" coords="158,2209,230,2236"/>
+<area shape="poly" id="edge49_Node000001_Node000280" title=" " alt="" coords="29,1274,30,1454,38,1749,46,1902,58,2037,74,2140,83,2175,94,2196,116,2212,144,2219,142,2225,114,2217,90,2199,78,2177,69,2141,53,2038,41,1902,33,1749,25,1454,23,1274"/>
+<area shape="rect" id="Node000469" href="$view_8cpp.html#a5101ada71cb8cbb94a50a8409280a993" title="Calculates the player&#39;s or spectator&#39;s view during the frame." alt="" coords="144,2260,244,2287"/>
+<area shape="poly" id="edge50_Node000001_Node000469" title=" " alt="" coords="28,1274,30,1463,37,1774,45,1935,56,2079,73,2188,83,2224,94,2246,110,2259,130,2267,128,2272,107,2264,90,2250,78,2226,68,2189,51,2079,39,1936,32,1774,24,1463,23,1274"/>
+<area shape="rect" id="Node000003" href="$in__camera_8cpp.html#a218d3468ada40e7102d180773c249db3" title="Switches the camera back to first&#45;person mode." alt="" coords="348,5,486,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,206,254,129,295,83,342,42,350,37,353,41,346,46,298,86,258,133,205,209"/>
+<area shape="rect" id="Node000004" href="$in__camera_8cpp.html#abd4e493d2d1d7e7001093508aaf846ac" title="Switches the camera to third&#45;person mode." alt="" coords="347,56,487,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="206,206,262,152,301,120,343,92,353,87,356,92,345,97,304,125,266,156,210,210"/>
+<area shape="rect" id="Node000005" href="$input_8cpp.html#ac7460003deac07b967ac53e0e3500fa6" title="Returns the current state of a key as a float value." alt="" coords="368,360,466,387"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="236,233,268,248,298,270,314,290,322,310,330,328,346,346,355,352,352,357,342,350,325,331,317,312,309,293,294,274,265,253,233,238"/>
+<area shape="rect" id="Node000006" href="$class_c_hud.html#ac1037bffa140abd71efd359593e0c571" title="Returns the current mouse sensitivity value." alt="" coords="347,107,488,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="219,205,275,175,343,143,358,137,360,142,345,148,277,180,221,210"/>
+<area shape="rect" id="Node000007" href="$in__camera_8cpp.html#a4499d8886a423761e2e0a87a54f22379" title="Smoothly moves a current angle toward a goal angle, considering wrap&#45;around at 360 degrees." alt="" coords="371,157,463,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="238,209,355,182,357,187,239,214"/>
+<area shape="rect" id="Node000008" href="$in__camera_8cpp.html#a8def09b6eb617f8358f4a18349120a1b" title="Gets the current mouse cursor position." alt="" coords="350,208,485,235"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="238,219,334,219,334,224,238,224"/>
+<area shape="rect" id="Node000009" href="$in__camera_8cpp.html#a11f26888ee029f75567028d2faee1a46" title="Sets the position of the mouse cursor to the specified screen coordinates." alt="" coords="350,259,484,285"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="239,229,341,252,340,257,238,234"/>
+<area shape="rect" id="Node000010" href="$in__camera_8cpp.html#aa0ffeeee2ba7e52472bc26918ed9a2e4" title=" " alt="" coords="344,309,490,336"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="224,233,297,270,345,295,360,301,358,306,343,300,295,274,222,238"/>
+<area shape="poly" id="edge12_Node000012_Node000005" title=" " alt="" coords="251,352,353,363,352,369,250,357"/>
+</map>

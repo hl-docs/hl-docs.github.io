@@ -1,0 +1,7 @@
+<map id="CGameRules::FlHealthChargerRechargeTime" name="CGameRules::FlHealthChargerRechargeTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="343,5,542,48"/>
+<area shape="rect" id="Node000002" href="$class_c_wall_health.html#aa9451b70be2305f3aeb80df561f1a800" title="Turns off the wall health entity and stops any sounds." alt="" coords="178,13,295,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,29,295,29,295,24,327,24"/>
+<area shape="rect" id="Node000003" href="$class_c_wall_health.html#ae8f4aae03978137857a906c675ef0ade" title="Activates the wall health entity for the player." alt="" coords="5,13,130,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,29,130,29,130,24,162,24"/>
+</map>

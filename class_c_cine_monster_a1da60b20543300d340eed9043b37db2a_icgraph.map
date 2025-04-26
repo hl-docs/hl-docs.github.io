@@ -1,0 +1,13 @@
+<map id="CCineMonster::CanInterrupt" name="CCineMonster::CanInterrupt">
+<area shape="rect" id="Node000001" title="Checks if the cinematic sequence can be interrupted." alt="" coords="665,56,847,83"/>
+<area shape="rect" id="Node000002" href="$class_c_talk_monster.html#a090975a59aa2b867b6c9bdbb2aa475e4" title="Checks if the talk monster can follow a target." alt="" coords="429,31,598,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="650,61,598,55,599,50,650,56"/>
+<area shape="rect" id="Node000006" href="$class_c_cine_monster.html#a85daf3111d93e54aa63cc25003acd48f" title="Determines the conditions to ignore during the cinematic sequence." alt="" coords="410,81,617,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="650,83,618,86,618,81,649,78"/>
+<area shape="rect" id="Node000003" href="$class_c_talk_monster.html#a100840a7f1417df9e0630754fba12ceb" title="Handles the use interaction for the talk monster." alt="" coords="182,31,362,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,47,363,47,363,41,413,41"/>
+<area shape="rect" id="Node000004" href="$class_c_barney.html#abf46f736a42ef4e60fd853d9e86526d2" title="Spawns the Barney entity." alt="" coords="10,5,129,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,33,129,29,129,23,167,28"/>
+<area shape="rect" id="Node000005" href="$class_c_scientist.html#adcfcca30aaf8a2934d51fc0cc003effb" title="Spawns the scientist entity." alt="" coords="5,56,134,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="166,60,134,64,133,59,166,55"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="set_suicide_frame" name="set_suicide_frame">
+<area shape="rect" id="Node000001" title="Sets the frame for a suicide action." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="180,5,242,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,16,164,16,164,21,132,21"/>
+</map>

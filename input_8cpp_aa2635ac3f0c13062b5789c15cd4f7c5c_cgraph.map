@@ -1,0 +1,18 @@
+<map id="IN_ScoreUp" name="IN_ScoreUp">
+<area shape="rect" id="Node000001" title="Called when the scoreboard key is released." alt="" coords="5,56,96,83"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a1562d3436ecc63eee4ad489626b8b344" title="Hides the scoreboard if it is visible and the game is not in intermission." alt="" coords="144,19,295,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,59,128,53,129,58,96,64"/>
+<area shape="rect" id="Node000008" href="$input_8cpp.html#a4d4954f7bc20bbdcee21bea11b60ca74" title="Handles a key up event for a specific key binding (kbutton_t)." alt="" coords="189,85,250,112"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="96,74,174,88,174,94,95,80"/>
+<area shape="rect" id="Node000003" href="$voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="606,5,737,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,19,343,12,474,6,591,10,591,15,474,12,343,17,296,25"/>
+<area shape="rect" id="Node000004" href="$class_c_voice_status.html#a98f16a43e47563ea36035f982cf5d355" title=" " alt="" coords="343,27,558,53"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="296,37,327,37,327,43,296,43"/>
+<area shape="rect" id="Node000005" href="$class_team_fortress_viewport.html#a3eed3123a3dcc44d7dba06104691bbb4" title="Updates the state and visibility of the mouse cursor." alt="" coords="375,77,526,120"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="296,57,361,73,359,78,295,62"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="524,74,557,63,624,36,626,41,559,68,526,79"/>
+<area shape="rect" id="Node000006" href="$inputw32_8cpp.html#ad4c638a7e3ecee100b6da72b6c3a08c2" title="Resets the mouse cursor position to the center of the screen." alt="" coords="615,85,728,112"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="526,96,599,96,599,101,526,101"/>
+<area shape="rect" id="Node000007" href="$inputw32_8cpp.html#aa5217af39cdd520ec88085d8bb46f9ad" title="Atomically exchanges the value of a variable." alt="" coords="785,85,966,112"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="728,96,769,96,769,101,728,101"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TeamFortressViewport::MsgFunc_ServerName" name="TeamFortressViewport::MsgFunc_ServerName">
+<area shape="rect" id="Node000001" title="Handles the server name message." alt="" coords="5,23,166,65"/>
+<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="217,5,322,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,30,202,25,202,31,167,36"/>
+<area shape="rect" id="Node000003" href="$parsemsg_8h.html#ac44883481899652b5b22699b772ff57f" title=" " alt="" coords="214,56,325,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,52,199,57,198,62,166,58"/>
+</map>

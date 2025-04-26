@@ -1,0 +1,19 @@
+<map id="CActAnimating::SetActivity" name="CActAnimating::SetActivity">
+<area shape="rect" id="Node000001" title="Sets the activity for the animating entity." alt="" coords="397,157,575,184"/>
+<area shape="rect" id="Node000002" href="$class_c_xen_tree.html#acd8fcc73ba7f41d50abacc8d35598470" title="Executes the attack action of the Xen tree." alt="" coords="220,31,343,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,149,407,110,348,72,323,60,326,56,350,67,410,106,460,145"/>
+<area shape="rect" id="Node000005" href="$class_c_xen_p_light.html#a71b483921cb19cbda76a4e2b992b6e7c" title="Spawns the Xen plant light entity." alt="" coords="214,81,349,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="433,154,319,111,321,106,435,149"/>
+<area shape="rect" id="Node000006" href="$class_c_xen_tree.html#a2e1e24450624b1bedd462516ced01c7d" title="Spawns the Xen tree entity." alt="" coords="220,132,343,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,160,343,156,343,150,382,155"/>
+<area shape="rect" id="Node000007" href="$class_c_xen_p_light.html#a87057bb6dea4f1cef6aee879d4aec84d" title="Think function for the Xen plant light." alt="" coords="218,183,345,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="382,186,346,191,345,185,381,181"/>
+<area shape="rect" id="Node000008" href="$class_c_xen_tree.html#ab5fcd3721e36a16e80a11b19c57680b8" title="Think function for the Xen tree." alt="" coords="224,233,339,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="435,192,321,235,319,230,433,187"/>
+<area shape="rect" id="Node000009" href="$class_c_xen_p_light.html#af83b0df12b451ca5041d4040efa8b62e" title="Handles the touch event for the Xen plant light." alt="" coords="216,284,347,311"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="460,196,410,235,350,274,326,286,323,281,348,270,407,231,456,192"/>
+<area shape="rect" id="Node000003" href="$class_c_xen_tree.html#aa778274ffe54626f3671e596481b6d81" title="Inflicts damage on the entity." alt="" coords="5,5,166,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,37,166,32,166,26,205,31"/>
+<area shape="rect" id="Node000004" href="$class_c_xen_tree.html#a57eb5f6508259699158c172f437661df" title="Handles the touch event for the Xen tree." alt="" coords="26,56,145,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="205,56,146,64,145,59,205,51"/>
+</map>

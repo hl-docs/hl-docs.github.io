@@ -1,0 +1,99 @@
+<map id="CBaseMonster" name="CBaseMonster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="602,1095,709,1121"/>
+<area shape="rect" id="Node000006" href="$class_c_apache.html" title=" " alt="" coords="793,5,867,32"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="655,1079,663,861,682,532,695,366,712,218,732,105,743,67,755,42,771,29,791,21,793,26,774,33,759,46,748,69,737,107,717,219,701,366,687,533,669,861,660,1079"/>
+<area shape="rect" id="Node000007" href="$class_c_barnacle.html" title=" " alt="" coords="789,56,870,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="655,1079,664,870,684,558,697,399,713,260,732,153,743,116,755,93,770,80,788,73,790,77,773,85,759,96,748,118,738,154,719,260,702,400,689,558,670,870,660,1079"/>
+<area shape="rect" id="Node000008" href="$class_c_base_player.html" title="Represents the player entity in the game." alt="" coords="781,107,878,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="655,1079,665,879,685,583,699,433,715,301,733,200,744,166,755,144,766,133,779,126,782,131,769,138,759,147,749,168,739,201,720,302,704,434,690,584,670,880,661,1079"/>
+<area shape="rect" id="Node000009" href="$class_c_base_turret.html" title=" " alt="" coords="783,157,876,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="655,1079,666,889,686,609,700,468,716,343,734,248,744,215,755,194,767,183,781,176,784,181,770,188,759,198,749,217,739,249,721,344,706,468,692,609,671,889,661,1079"/>
+<area shape="rect" id="Node000013" href="$class_c_big_momma.html" title=" " alt="" coords="782,208,878,235"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="653,1079,653,911,663,662,675,533,694,413,720,314,736,275,755,245,766,235,780,227,782,232,769,239,759,248,741,278,725,316,699,414,681,533,669,662,659,911,659,1079"/>
+<area shape="rect" id="Node000014" href="$class_c_bloater.html" title="Represents a bloater monster entity in the game." alt="" coords="794,259,865,285"/>
+<area shape="poly" id="edge10_Node000001_Node000014" title=" " alt="" coords="654,1079,655,920,666,686,679,565,697,453,722,360,737,324,755,296,772,282,793,274,795,279,775,286,759,299,742,326,727,362,702,454,684,565,672,686,660,920,659,1079"/>
+<area shape="rect" id="Node000015" href="$class_c_bullsquid.html" title=" " alt="" coords="788,309,871,336"/>
+<area shape="poly" id="edge11_Node000001_Node000015" title=" " alt="" coords="654,1079,657,928,669,710,682,597,699,493,723,407,738,373,755,346,769,334,786,327,788,331,772,339,759,350,743,375,728,408,705,494,687,598,675,710,662,929,659,1079"/>
+<area shape="rect" id="Node000016" href="$class_c_cine_monster.html" title=" " alt="" coords="778,360,881,387"/>
+<area shape="poly" id="edge12_Node000001_Node000016" title=" " alt="" coords="654,1079,658,938,672,734,685,629,702,533,725,453,739,421,755,397,776,381,779,386,759,400,744,424,730,455,707,534,690,630,677,735,664,938,660,1080"/>
+<area shape="rect" id="Node000018" href="$class_c_controller_zap_ball.html" title=" " alt="" coords="766,411,894,437"/>
+<area shape="poly" id="edge13_Node000001_Node000018" title=" " alt="" coords="655,1079,660,946,675,758,688,661,705,573,727,499,740,470,755,448,769,436,772,440,759,451,745,473,732,501,710,574,693,662,680,759,665,947,660,1079"/>
+<area shape="rect" id="Node000019" href="$class_c_cycler.html" title=" " alt="" coords="796,461,863,488"/>
+<area shape="poly" id="edge14_Node000001_Node000019" title=" " alt="" coords="655,1079,662,956,678,782,691,694,708,613,729,545,741,519,755,498,773,484,794,476,796,481,776,489,759,502,746,521,734,547,713,614,696,695,683,783,667,956,660,1079"/>
+<area shape="rect" id="Node000022" href="$class_c_dead_barney.html" title=" " alt="" coords="779,512,880,539"/>
+<area shape="poly" id="edge15_Node000001_Node000022" title=" " alt="" coords="655,1079,664,965,681,807,694,726,711,653,731,592,755,549,777,533,780,538,759,552,736,594,716,654,699,727,686,808,669,965,661,1080"/>
+<area shape="rect" id="Node000023" href="$class_c_dead_h_e_v.html" title=" " alt="" coords="786,563,873,589"/>
+<area shape="poly" id="edge16_Node000001_Node000023" title=" " alt="" coords="656,1079,666,974,684,831,697,759,713,693,733,638,755,600,769,588,784,581,787,586,771,593,759,603,737,640,719,694,703,760,689,832,671,975,661,1080"/>
+<area shape="rect" id="Node000024" href="$class_c_dead_h_grunt.html" title=" " alt="" coords="779,613,880,640"/>
+<area shape="poly" id="edge17_Node000001_Node000024" title=" " alt="" coords="657,1079,668,984,687,856,716,733,734,684,755,650,777,635,780,639,759,654,739,686,721,734,693,857,673,984,662,1080"/>
+<area shape="rect" id="Node000025" href="$class_c_dead_scientist.html" title=" " alt="" coords="774,664,885,691"/>
+<area shape="poly" id="edge18_Node000001_Node000025" title=" " alt="" coords="658,1079,670,993,691,881,719,773,736,730,755,701,772,688,775,692,759,704,741,733,724,775,696,882,675,994,663,1080"/>
+<area shape="rect" id="Node000026" href="$class_c_env_explosion.html" title="Represents an environmental explosion entity in the game." alt="" coords="776,715,884,741"/>
+<area shape="poly" id="edge19_Node000001_Node000026" title=" " alt="" coords="654,1079,657,1013,671,926,684,880,702,834,725,790,755,751,773,738,777,743,759,755,730,793,707,836,689,881,677,927,663,1014,659,1080"/>
+<area shape="rect" id="Node000027" href="$class_c_flocking_flyer.html" title=" " alt="" coords="776,765,884,792"/>
+<area shape="poly" id="edge20_Node000001_Node000027" title=" " alt="" coords="655,1078,662,1021,678,947,691,908,708,870,729,834,755,802,774,789,777,793,759,806,733,837,712,873,696,910,683,949,667,1022,661,1079"/>
+<area shape="rect" id="Node000028" href="$class_c_flocking_flyer_flock.html" title=" " alt="" coords="760,816,900,843"/>
+<area shape="poly" id="edge21_Node000001_Node000028" title=" " alt="" coords="658,1079,667,1031,685,970,713,908,732,879,755,853,772,841,775,845,759,857,737,882,718,910,690,972,672,1032,663,1080"/>
+<area shape="rect" id="Node000029" href="$class_c_flying_monster.html" title="Base class for flying monsters in the game." alt="" coords="774,867,886,893"/>
+<area shape="poly" id="edge22_Node000001_Node000029" title=" " alt="" coords="661,1079,673,1040,692,993,719,945,755,903,773,892,776,896,759,907,723,948,697,995,678,1042,666,1081"/>
+<area shape="rect" id="Node000031" href="$class_c_furniture.html" title=" " alt="" coords="789,917,870,944"/>
+<area shape="poly" id="edge23_Node000001_Node000031" title=" " alt="" coords="666,1079,700,1017,725,983,755,954,787,937,790,942,759,958,729,987,705,1019,671,1082"/>
+<area shape="rect" id="Node000032" href="$class_c_g_man.html" title="Represents the G&#45;Man character in the game." alt="" coords="797,968,862,995"/>
+<area shape="poly" id="edge24_Node000001_Node000032" title=" " alt="" coords="674,1081,709,1042,756,1004,795,987,797,992,758,1009,713,1046,678,1085"/>
+<area shape="rect" id="Node000033" href="$class_c_gargantua.html" title=" " alt="" coords="785,1019,875,1045"/>
+<area shape="poly" id="edge25_Node000001_Node000033" title=" " alt="" coords="694,1085,756,1055,785,1044,787,1048,758,1060,696,1090"/>
+<area shape="rect" id="Node000034" href="$class_c_generic_monster.html" title="Represents a generic monster entity for scripted sequences." alt="" coords="769,1069,891,1096"/>
+<area shape="poly" id="edge26_Node000001_Node000034" title=" " alt="" coords="724,1095,768,1089,768,1094,725,1101"/>
+<area shape="rect" id="Node000035" href="$class_c_grenade.html" title="Represents a grenade entity in the game." alt="" coords="790,1120,869,1147"/>
+<area shape="poly" id="edge27_Node000001_Node000035" title=" " alt="" coords="725,1115,790,1125,789,1130,724,1121"/>
+<area shape="rect" id="Node000043" href="$class_c_gun_target.html" title=" " alt="" coords="785,1171,875,1197"/>
+<area shape="poly" id="edge28_Node000001_Node000043" title=" " alt="" coords="696,1126,758,1156,787,1168,785,1172,756,1161,694,1131"/>
+<area shape="rect" id="Node000044" href="$class_c_h_assassin.html" title=" " alt="" coords="783,1221,876,1248"/>
+<area shape="poly" id="edge29_Node000001_Node000044" title=" " alt="" coords="678,1131,713,1170,758,1207,784,1219,781,1224,756,1212,709,1174,674,1135"/>
+<area shape="rect" id="Node000045" href="$class_c_h_grunt_repel.html" title=" " alt="" coords="778,1272,882,1299"/>
+<area shape="poly" id="edge30_Node000001_Node000045" title=" " alt="" coords="671,1134,705,1197,729,1229,759,1258,778,1269,776,1274,755,1262,725,1233,700,1199,666,1137"/>
+<area shape="rect" id="Node000046" href="$class_c_head_crab.html" title=" " alt="" coords="786,1323,873,1349"/>
+<area shape="poly" id="edge31_Node000001_Node000046" title=" " alt="" coords="666,1135,678,1174,697,1221,723,1268,759,1309,787,1324,784,1329,755,1313,719,1271,692,1223,673,1176,661,1137"/>
+<area shape="rect" id="Node000048" href="$class_c_hornet.html" title=" " alt="" coords="796,1373,864,1400"/>
+<area shape="poly" id="edge32_Node000001_Node000048" title=" " alt="" coords="663,1136,672,1184,690,1244,718,1306,737,1334,759,1359,776,1371,796,1379,794,1384,774,1376,755,1363,732,1337,713,1308,685,1246,667,1185,658,1137"/>
+<area shape="rect" id="Node000049" href="$class_c_leech.html" title=" " alt="" coords="797,1424,862,1451"/>
+<area shape="poly" id="edge33_Node000001_Node000049" title=" " alt="" coords="661,1137,667,1194,683,1267,696,1306,712,1343,733,1379,759,1410,777,1423,797,1430,796,1435,774,1427,755,1414,729,1382,708,1346,691,1308,678,1269,662,1195,655,1138"/>
+<area shape="rect" id="Node000050" href="$class_c_legacy_cine_monster.html" title=" " alt="" coords="757,1475,902,1501"/>
+<area shape="poly" id="edge34_Node000001_Node000050" title=" " alt="" coords="659,1136,663,1202,677,1289,689,1335,707,1380,730,1423,759,1461,774,1472,771,1476,755,1465,725,1426,702,1382,684,1336,671,1290,657,1203,654,1137"/>
+<area shape="rect" id="Node000059" href="$class_c_monster_maker.html" title="Entity that creates monsters during gameplay." alt="" coords="773,1525,886,1552"/>
+<area shape="poly" id="edge35_Node000001_Node000059" title=" " alt="" coords="663,1136,675,1222,696,1334,724,1441,741,1483,759,1512,774,1523,771,1527,755,1515,736,1486,719,1443,691,1335,670,1223,658,1137"/>
+<area shape="rect" id="Node000060" href="$class_c_nihilanth.html" title=" " alt="" coords="790,1576,870,1603"/>
+<area shape="poly" id="edge36_Node000001_Node000060" title=" " alt="" coords="662,1136,673,1232,693,1359,721,1482,739,1530,759,1562,773,1573,790,1581,788,1585,770,1578,755,1566,734,1532,716,1483,687,1360,668,1232,657,1137"/>
+<area shape="rect" id="Node000061" href="$class_c_nihilanth_h_v_r.html" title=" " alt="" coords="776,1627,883,1653"/>
+<area shape="poly" id="edge37_Node000001_Node000061" title=" " alt="" coords="661,1136,671,1241,689,1384,703,1456,719,1522,737,1576,759,1613,777,1626,774,1631,755,1616,733,1578,713,1523,697,1457,684,1385,666,1242,656,1137"/>
+<area shape="rect" id="Node000062" href="$class_c_osprey.html" title=" " alt="" coords="794,1677,866,1704"/>
+<area shape="poly" id="edge38_Node000001_Node000062" title=" " alt="" coords="661,1136,669,1251,686,1408,699,1489,716,1562,736,1622,759,1664,775,1676,794,1683,792,1688,772,1680,755,1667,731,1624,711,1563,694,1490,681,1409,664,1251,655,1137"/>
+<area shape="rect" id="Node000063" href="$class_c_player_monster.html" title="Represents a player monster entity in the game." alt="" coords="773,1728,887,1755"/>
+<area shape="poly" id="edge39_Node000001_Node000063" title=" " alt="" coords="660,1137,667,1260,683,1433,696,1521,713,1602,734,1669,746,1695,759,1714,774,1726,770,1730,755,1718,741,1697,729,1671,708,1603,691,1522,678,1434,662,1260,655,1137"/>
+<area shape="rect" id="Node000064" href="$class_c_rat.html" title="Represents a rat monster in the game environment." alt="" coords="805,1779,855,1805"/>
+<area shape="poly" id="edge40_Node000001_Node000064" title=" " alt="" coords="660,1137,665,1269,680,1457,693,1554,710,1642,732,1715,745,1743,759,1765,780,1780,805,1787,803,1792,778,1785,755,1769,740,1746,727,1717,705,1643,688,1555,675,1458,660,1270,655,1137"/>
+<area shape="rect" id="Node000065" href="$class_c_roach.html" title=" " alt="" coords="796,1829,863,1856"/>
+<area shape="poly" id="edge41_Node000001_Node000065" title=" " alt="" coords="660,1136,664,1278,677,1481,690,1586,707,1682,730,1761,744,1792,759,1816,776,1829,796,1836,795,1841,773,1833,755,1819,739,1795,725,1763,702,1683,685,1587,672,1482,658,1278,654,1137"/>
+<area shape="rect" id="Node000066" href="$class_c_squad_monster.html" title=" " alt="" coords="773,1880,887,1907"/>
+<area shape="poly" id="edge42_Node000001_Node000066" title=" " alt="" coords="659,1137,662,1287,675,1506,687,1618,705,1722,728,1808,743,1841,759,1866,774,1878,770,1883,755,1870,738,1843,723,1809,699,1723,682,1619,669,1506,657,1288,654,1137"/>
+<area shape="rect" id="Node000072" href="$class_c_t_f_flame.html" title=" " alt="" coords="789,1931,870,1957"/>
+<area shape="poly" id="edge43_Node000001_Node000072" title=" " alt="" coords="659,1137,660,1296,672,1530,684,1651,702,1762,727,1854,742,1890,759,1917,773,1928,790,1936,787,1941,770,1933,755,1920,737,1892,722,1856,697,1763,679,1651,666,1530,655,1296,654,1137"/>
+<area shape="rect" id="Node000073" href="$class_c_talk_monster.html" title=" " alt="" coords="779,1981,880,2008"/>
+<area shape="poly" id="edge44_Node000001_Node000073" title=" " alt="" coords="659,1137,659,1305,669,1554,681,1683,699,1802,725,1900,741,1938,759,1968,780,1983,777,1987,755,1971,736,1941,720,1902,694,1803,675,1683,663,1554,653,1305,653,1137"/>
+<area shape="rect" id="Node000077" href="$class_c_tentacle.html" title=" " alt="" coords="790,2032,869,2059"/>
+<area shape="poly" id="edge45_Node000001_Node000077" title=" " alt="" coords="661,1137,671,1327,692,1607,706,1748,721,1872,739,1967,749,1999,759,2018,773,2030,791,2037,788,2042,770,2035,755,2022,744,2001,734,1968,716,1873,700,1748,686,1607,666,1327,655,1137"/>
+<area shape="rect" id="Node000078" href="$class_c_tentacle_maw.html" title=" " alt="" coords="777,2083,883,2109"/>
+<area shape="poly" id="edge46_Node000001_Node000078" title=" " alt="" coords="661,1137,670,1336,690,1632,704,1782,720,1914,739,2015,749,2048,759,2069,777,2083,774,2087,755,2072,744,2050,733,2016,715,1915,699,1783,685,1633,665,1337,655,1137"/>
+<area shape="rect" id="Node000079" href="$class_c_test_hull.html" title=" " alt="" coords="791,2133,868,2160"/>
+<area shape="poly" id="edge47_Node000001_Node000079" title=" " alt="" coords="660,1137,670,1346,689,1658,702,1816,719,1956,738,2062,748,2098,759,2120,774,2132,792,2139,790,2144,771,2136,755,2123,743,2100,732,2063,713,1956,697,1817,684,1658,664,1346,655,1137"/>
+<area shape="rect" id="Node000080" href="$class_c_wreckage.html" title=" " alt="" coords="785,2184,874,2211"/>
+<area shape="poly" id="edge48_Node000001_Node000080" title=" " alt="" coords="660,1137,669,1355,687,1683,701,1850,717,1997,737,2109,748,2147,759,2170,771,2181,786,2188,783,2193,768,2185,755,2174,743,2149,732,2111,712,1998,695,1850,682,1684,663,1355,655,1137"/>
+<area shape="rect" id="Node000002" href="$class_c_base_toggle.html" title="Base class for toggleable entities." alt="" coords="455,1095,554,1121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,1105,601,1105,601,1111,569,1111"/>
+<area shape="rect" id="Node000003" href="$class_c_base_animating.html" title="Base class for entities with animation capabilities." alt="" coords="289,1095,407,1121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,1105,455,1105,455,1111,423,1111"/>
+<area shape="rect" id="Node000004" href="$class_c_base_delay.html" title="Base class for entities with delayed actions." alt="" coords="148,1095,241,1121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,1105,288,1105,288,1111,256,1111"/>
+<area shape="rect" id="Node000005" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="5,1095,100,1121"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="115,1105,147,1105,147,1111,115,1111"/>
+</map>

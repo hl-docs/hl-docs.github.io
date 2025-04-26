@@ -1,0 +1,5 @@
+<map id="CBaseSpectator::SpectatorDisconnect" name="CBaseSpectator::SpectatorDisconnect">
+<area shape="rect" id="Node000001" title="Called when a spectator disconnects from a server." alt="" coords="196,5,376,48"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#a90f58456d5e3cf5bdb6c503aff54a2d7" title="Handles a spectator leaving the game." alt="" coords="5,13,148,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,29,148,29,148,24,180,24"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ServerRules" name="ServerRules">
+<area shape="rect" id="Node000001" title="Requests server rules from a specified server using the global browser." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#a073a73a11b1aa39a49ec295d0214c30f" title="Sends a rules request to a specific server to retrieve server rules." alt="" coords="144,31,317,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,41,128,41,128,47,96,47"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#a0cf574be6e6cfb2849ded46f773a2d45" title="Returns a pointer to the server at the specified index." alt="" coords="382,5,543,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,32,366,26,367,32,317,37"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_servers.html#acfe4a0ceb2a7ba12ca8e9f2061d6f41f" title="Handles game rules response from a specific server." alt="" coords="365,56,560,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="317,51,350,54,349,60,317,56"/>
+</map>

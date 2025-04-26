@@ -1,0 +1,11 @@
+<map id="CBasePlayer::FlashlightIsOn" name="CBasePlayer::FlashlightIsOn">
+<area shape="rect" id="Node000001" title="Checks if the flashlight is currently on." alt="" coords="888,5,1076,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#a5beb9665d986eed23a0cc5614ad4ceb3" title="Handles impulse commands from the player." alt="" coords="623,5,840,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="872,21,840,21,840,16,872,16"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#a5955eb567a5fdb38a2debe6b5de3be29" title="Finalizes the player&#39;s items for the current frame." alt="" coords="381,5,575,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="608,21,576,21,576,16,608,16"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a70caf2bd9eb6b169f0adbdea94f9e987" title="Handles the player&#39;s post&#45;think logic." alt="" coords="170,5,333,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,21,333,21,333,16,365,16"/>
+<area shape="rect" id="Node000005" href="$client_8cpp.html#ab04e2fadfb0c84166a0fc589d6f430e1" title="Called after the physics simulation for a player." alt="" coords="5,5,122,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
+</map>

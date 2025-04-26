@@ -1,0 +1,23 @@
+<map id="CBaseMonster::KeyValue" name="CBaseMonster::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the monster." alt="" coords="231,233,402,260"/>
+<area shape="rect" id="Node000002" href="$class_c_dead_barney.html#a2c4585583a163c753f093662752a146a" title="Processes key&#45;value pairs for the dead Barney entity." alt="" coords="11,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,220,284,181,258,134,223,86,181,46,161,35,163,30,184,42,227,83,262,131,289,178,307,218"/>
+<area shape="rect" id="Node000003" href="$class_c_big_momma.html#a1fba69f1f26a57a2446551b773818cec" title="Processes key&#45;value pairs for the monster." alt="" coords="14,56,174,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,222,250,159,218,125,181,97,158,86,160,81,184,92,221,121,254,155,301,218"/>
+<area shape="rect" id="Node000004" href="$class_c_dead_h_grunt.html#a6b01d5f4a98d9e0c4e5106481ad4f9bf" title="Processes key&#45;value pairs for the dead grunt." alt="" coords="11,107,177,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,225,240,185,181,148,154,136,156,132,184,143,244,181,291,221"/>
+<area shape="rect" id="Node000005" href="$class_c_monster_maker.html#a5fde6dba337a278d1d91ea28287b8d21" title="Processes key&#45;value pairs for the monster maker." alt="" coords="5,157,183,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="266,230,182,199,145,187,147,182,184,193,268,225"/>
+<area shape="rect" id="Node000006" href="$class_c_dead_h_e_v.html#a0b0df718a974593be0159ea010df84a2" title="Handles key&#45;value pairs for the dead HEV suit entity." alt="" coords="18,208,170,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,238,170,233,170,227,215,232"/>
+<area shape="rect" id="Node000007" href="$class_c_dead_scientist.html#a799b2a942c90e680d13d51baf5afa611" title="Handles key&#45;value data for the dead scientist entity." alt="" coords="6,259,182,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="215,261,183,265,182,259,215,256"/>
+<area shape="rect" id="Node000008" href="$class_c_cine_monster.html#ab4e3f95da008e52c519ad868ee149c35" title="Handles key&#45;value data for the cinematic monster." alt="" coords="10,309,178,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="268,269,184,300,147,311,145,306,182,295,266,264"/>
+<area shape="rect" id="Node000009" href="$class_c_talk_monster.html#a2f8730b81ea1ff85351b05c993cea89f" title="Handles key&#45;value data for the talk monster." alt="" coords="11,360,177,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="291,273,244,312,184,350,156,362,154,357,181,346,240,308,288,269"/>
+<area shape="rect" id="Node000010" href="$class_c_tentacle.html#a0c96bd18e5064da182afb7d256132979" title="Processes key&#45;value pairs for the tentacle." alt="" coords="22,411,166,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="301,275,254,338,221,372,184,401,160,413,158,408,181,396,218,368,250,335,297,272"/>
+<area shape="rect" id="Node000011" href="$class_c_base_turret.html#af75c434ab11c09d25846657a23dfcfb3" title="Handles key&#45;value pairs for the turret." alt="" coords="15,461,173,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="307,276,289,315,262,363,227,411,184,451,163,463,161,458,181,447,223,407,258,360,284,313,302,273"/>
+</map>

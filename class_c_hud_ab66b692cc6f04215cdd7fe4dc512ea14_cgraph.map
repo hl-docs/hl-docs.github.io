@@ -1,0 +1,9 @@
+<map id="CHud::MsgFunc_Damage" name="CHud::MsgFunc_Damage">
+<area shape="rect" id="Node000001" title="Processes damage received by the player." alt="" coords="5,56,176,83"/>
+<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="227,5,332,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,53,212,34,213,39,144,58"/>
+<area shape="rect" id="Node000003" href="$parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="230,56,329,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,67,214,67,214,72,176,72"/>
+<area shape="rect" id="Node000004" href="$parsemsg_8h.html#ac1a7455e581b68baacad8d313eefb19c" title=" " alt="" coords="224,107,335,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,81,213,100,212,105,142,86"/>
+</map>

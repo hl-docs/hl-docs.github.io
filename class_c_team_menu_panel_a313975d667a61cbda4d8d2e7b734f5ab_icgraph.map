@@ -1,0 +1,15 @@
+<map id="CTeamMenuPanel::Initialize" name="CTeamMenuPanel::Initialize">
+<area shape="rect" id="Node000001" title="Initializes state for the team menu." alt="" coords="695,47,877,73"/>
+<area shape="rect" id="Node000002" href="$class_c_team_menu_panel.html#af0d3e2d9ecf76e6e93fbcbca0b5ce9dc" title="Constructor for the CTeamMenuPanel class." alt="" coords="438,5,647,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="679,48,647,44,648,38,680,43"/>
+<area shape="rect" id="Node000003" href="$class_team_fortress_viewport.html#a5473469282eaaea27c9a0eafe21fd277" title="Initializes the TeamFortressViewport, resets data and hides menus." alt="" coords="467,72,618,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="680,77,619,86,618,80,679,72"/>
+<area shape="rect" id="Node000004" href="$class_team_fortress_viewport.html#aacf8ea3f9311effbcb873b677272d989" title="Constructor for the TeamFortressViewport class." alt="" coords="231,43,390,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="451,85,390,77,391,71,452,79"/>
+<area shape="rect" id="Node000005" href="$vgui__int_8cpp.html#a5b59510079d53a6f58522389266e4673" title="Initializes the VGUI system and sets up the root panel and viewport." alt="" coords="261,109,360,136"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="452,107,361,119,361,114,452,102"/>
+<area shape="rect" id="Node000006" href="$cdll__int_8cpp.html#a9b6af20be4779961bb84fc32bcfa2f80" title="Initializes the video settings for the HUD." alt="" coords="92,109,183,136"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="245,125,184,125,184,120,245,120"/>
+<area shape="rect" id="Node000007" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,109,44,136"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="76,125,44,125,44,120,76,120"/>
+</map>

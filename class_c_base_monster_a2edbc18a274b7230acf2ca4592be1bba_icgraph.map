@@ -1,0 +1,9 @@
+<map id="CBaseMonster::RunTask" name="CBaseMonster::RunTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,56,375,83"/>
+<area shape="rect" id="Node000002" href="$class_c_big_momma.html#aff57c1e6079c3ee1dbf6e7026988e423" title="Runs a task for Big Momma." alt="" coords="5,5,161,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,54,140,35,142,30,220,49"/>
+<area shape="rect" id="Node000003" href="$class_c_bullsquid.html#a2978102a1a3d5cfb699f29b9a633cd07" title="Runs a task for the bullsquid." alt="" coords="12,56,154,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,72,155,72,155,67,193,67"/>
+<area shape="rect" id="Node000004" href="$class_c_g_man.html#ad11fb8a6f554485c8af635a79f413fd8" title="Runs a specific task for the G&#45;Man." alt="" coords="21,107,145,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,89,142,109,140,103,218,84"/>
+</map>

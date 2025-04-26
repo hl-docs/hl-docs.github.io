@@ -1,0 +1,16 @@
+<map id="WeaponsResource::HasAmmo" name="WeaponsResource::HasAmmo">
+<area shape="rect" id="Node000001" title="Checks if a given weapon has ammo available for use." alt="" coords="465,131,665,157"/>
+<area shape="rect" id="Node000002" href="$class_history_resource.html#a26736dbd4fd0871e9318aabff6e5d551" title="Draws the ammo pickup history on the HUD." alt="" coords="203,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,124,477,93,416,62,385,51,387,46,418,58,480,88,532,120"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_ammo.html#a1df3be7ffca03b3c895d754eca6e7206" title="Draws the weapon selection menu (weapon list)." alt="" coords="218,72,381,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="488,129,416,113,365,102,366,97,418,108,489,124"/>
+<area shape="rect" id="Node000005" href="$class_weapons_resource.html#a4dc70e0742f2b5553191848f6c9a67d8" title="Returns the next active weapon in the specified slot." alt="" coords="206,123,393,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="449,147,393,147,393,141,449,141"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_ammo.html#a643573229ef205c1ab5f349b444b2f16" title="Selects the next weapon in the inventory, ensuring it has available ammo." alt="" coords="182,189,417,216"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="489,164,418,180,366,191,365,186,416,175,488,159"/>
+<area shape="rect" id="Node000007" href="$class_c_hud_ammo.html#aab21c10bfc7f96c28ef8f0a833e5599b" title="Selects the previous weapon in the inventory, ensuring it has available ammo." alt="" coords="183,240,416,267"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="533,168,481,200,418,230,381,242,380,237,416,226,478,196,531,164"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_ammo.html#a2f1554ef4586294b2a82171ee7df6449" title="Draws the ammo status, including weapon selection, ammo counts, and ammo history." alt="" coords="5,43,134,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,43,134,50,134,45,188,38"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="203,76,134,67,135,62,203,70"/>
+</map>

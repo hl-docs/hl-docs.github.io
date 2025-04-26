@@ -1,0 +1,22 @@
+<map id="CSprayCan::Think" name="CSprayCan::Think">
+<area shape="rect" id="Node000001" title="Handles the spray can&#39;s behavior during each think event." alt="" coords="5,188,132,214"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="458,104,541,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,186,84,153,105,109,136,65,156,46,178,31,233,8,280,4,328,12,385,31,412,42,436,58,477,91,473,95,433,62,409,47,383,36,326,18,279,9,234,13,181,35,159,50,140,68,110,112,89,155,76,188"/>
+<area shape="rect" id="Node000003" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="227,45,337,72"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,186,116,135,145,106,178,81,211,67,213,72,181,86,149,110,120,138,81,189"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a92f1d363ca4f5f88f76c9635009cbfc9" title="Gets the number of custom decal frames for the player." alt="" coords="180,96,384,138"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,185,179,148,196,142,197,147,181,153,99,190"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#a18786675baabf4a1e8605b2959d06e8a" title=" " alt="" coords="222,162,342,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="132,191,206,182,207,187,132,196"/>
+<area shape="rect" id="Node000006" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="216,213,348,240"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="132,206,201,214,201,220,132,211"/>
+<area shape="rect" id="Node000007" href="$dlls_2util_8cpp.html#a4da1c97f5f66c0fa7279e8ed836b1bd9" title="Applies a custom decal for a player." alt="" coords="204,264,360,290"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="97,213,181,249,204,257,202,262,179,254,95,217"/>
+<area shape="rect" id="Node000009" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="232,314,332,341"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="83,213,123,256,151,280,181,300,218,314,216,319,178,305,147,284,119,260,79,217"/>
+<area shape="rect" id="Node000010" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="227,365,337,392"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="78,214,115,280,145,319,181,351,213,366,210,370,178,355,141,322,110,283,73,216"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="359,261,383,250,413,226,440,198,480,143,484,146,444,201,417,230,385,254,361,266"/>
+<area shape="rect" id="Node000008" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="432,264,566,290"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="361,274,416,274,416,280,361,280"/>
+</map>

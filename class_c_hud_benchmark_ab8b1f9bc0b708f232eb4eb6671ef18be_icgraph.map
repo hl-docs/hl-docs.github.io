@@ -1,0 +1,9 @@
+<map id="CHudBenchmark::StartNextSection" name="CHudBenchmark::StartNextSection">
+<area shape="rect" id="Node000001" title="Starts the next benchmarking section based on the given stage." alt="" coords="435,23,617,65"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_benchmark.html#afd707bb791e0362f0de978e6784026e9" title="Starts the benchmarking system." alt="" coords="218,5,387,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,35,387,31,388,26,420,29"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_benchmark.html#ae06d9a798b4da8865329470c7fc29880" title="Updates the benchmark logic." alt="" coords="223,56,382,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="420,59,382,63,382,58,420,53"/>
+<area shape="rect" id="Node000003" href="$hud__bench_8cpp.html#ac67f3c426c06d3b0968f1872acaaa48d" title="Console command to start the benchmark." alt="" coords="5,5,170,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,21,170,21,170,16,202,16"/>
+</map>

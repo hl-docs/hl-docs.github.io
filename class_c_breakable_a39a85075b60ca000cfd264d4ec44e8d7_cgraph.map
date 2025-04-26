@@ -1,0 +1,5 @@
+<map id="CBreakable::MaterialSoundPrecache" name="CBreakable::MaterialSoundPrecache">
+<area shape="rect" id="Node000001" title="Pre&#45;caches sounds for a specific material type." alt="" coords="5,5,185,48"/>
+<area shape="rect" id="Node000002" href="$class_c_breakable.html#a6b83f580bf8b8084907dc2e3aba1a9b9" title="Retrieves the sound list for a specific material type." alt="" coords="233,13,433,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,24,217,24,217,29,185,29"/>
+</map>

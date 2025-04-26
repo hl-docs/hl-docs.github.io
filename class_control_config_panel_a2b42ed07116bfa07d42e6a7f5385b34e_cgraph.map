@@ -1,0 +1,5 @@
+<map id="ControlConfigPanel::AddCVarFromInputStream" name="ControlConfigPanel::AddCVarFromInputStream">
+<area shape="rect" id="Node000001" title="Adds CVars from an input stream." alt="" coords="5,5,187,48"/>
+<area shape="rect" id="Node000002" href="$class_control_config_panel.html#af5103f21fa147f82ccf3151a136b453f" title="Adds a new CVar (console variable) with its description." alt="" coords="235,5,366,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,24,219,24,219,29,187,29"/>
+</map>

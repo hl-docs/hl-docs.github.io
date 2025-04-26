@@ -1,0 +1,13 @@
+<map id="CGlock::Reload" name="CGlock::Reload">
+<area shape="rect" id="Node000001" title="Reloads the Glock weapon." alt="" coords="5,80,118,107"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a45ea7db79a9f40517bfebc1b5f28a959" title="Handles weapon reload logic using default behavior." alt="" coords="166,72,319,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,91,150,91,150,96,118,96"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="371,5,524,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,69,364,51,366,56,311,74"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player_weapon.html#a902e601b56e6e451c55a34605b8b41c4" title=" " alt="" coords="371,72,524,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="320,91,355,91,355,96,320,96"/>
+<area shape="rect" id="Node000006" href="$com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="367,139,527,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="320,113,384,131,383,137,318,118"/>
+<area shape="rect" id="Node000004" href="$com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="575,13,739,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="524,24,560,24,560,29,524,29"/>
+</map>

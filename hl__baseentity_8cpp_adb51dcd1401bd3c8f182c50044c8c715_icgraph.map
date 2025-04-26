@@ -1,0 +1,7 @@
+<map id="DecalGunshot" name="DecalGunshot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="406,5,509,32"/>
+<area shape="rect" id="Node000002" href="$class_c_i_slave.html#aedb32a778cb8a00a8eaa2619e7e256c0" title="Creates a beam from the CISlave&#39;s arm to nearby geometry." alt="" coords="228,5,358,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,21,359,21,359,16,390,16"/>
+<area shape="rect" id="Node000003" href="$class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="5,5,180,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,21,180,21,180,16,212,16"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CHudMenu::Init" name="CHudMenu::Init">
+<area shape="rect" id="Node000001" title="Initializes the HUD menu system." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="Node000002" href="$class_c_hud.html#aee3f9153b3045531340a6b60652db401" title="Adds a new HUD element to the list of HUD components." alt="" coords="177,5,315,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,34,162,27,163,33,117,39"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_menu.html#ab2656cdd68bb76a467695251250f312f" title="Initializes internal menu data." alt="" coords="164,56,328,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,49,148,53,148,59,116,54"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_menu.html#a1c80829b41ec238df21e13ddd8864020" title="Resets the current menu display state." alt="" coords="376,56,503,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="328,67,360,67,360,72,328,72"/>
+</map>

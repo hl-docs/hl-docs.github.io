@@ -1,0 +1,5 @@
+<map id="CNihilanth::NullThink" name="CNihilanth::NullThink">
+<area shape="rect" id="Node000001" title="Handles the Nihilanth&#39;s null think behavior." alt="" coords="5,13,147,40"/>
+<area shape="rect" id="Node000002" href="$class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="195,5,395,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,24,179,24,179,29,147,29"/>
+</map>

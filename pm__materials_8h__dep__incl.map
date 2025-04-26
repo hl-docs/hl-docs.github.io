@@ -1,0 +1,77 @@
+<map id="pm_shared/pm_materials.h" name="pm_shared/pm_materials.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2389,5,2567,32"/>
+<area shape="rect" id="Node000002" href="$ev__hldm_8cpp.html" title=" " alt="" coords="2347,80,2475,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2458,45,2424,81,2421,78,2454,42"/>
+<area shape="rect" id="Node000003" href="$player_8h.html" title=" " alt="" coords="2499,80,2590,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2501,42,2535,78,2531,81,2498,45"/>
+<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html" title="Contains &quot;stubs&quot; of class member implementations so that we can predict certain weapons client side." alt="" coords="5,155,177,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="2483,109,2302,128,2135,141,1839,155,1579,156,1336,149,1093,140,832,135,537,139,189,157,177,158,177,153,188,152,536,134,832,130,1093,135,1336,144,1579,150,1839,150,2135,136,2301,123,2483,104"/>
+<area shape="rect" id="Node000005" href="$hl__weapons_8cpp.html" title=" " alt="" coords="201,155,363,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="2483,109,2163,139,1892,152,1652,153,1429,147,1206,139,966,135,695,139,375,157,363,158,363,153,375,152,695,134,966,130,1206,134,1429,141,1652,147,1892,146,2163,134,2483,104"/>
+<area shape="rect" id="Node000006" href="$airtank_8cpp.html" title=" " alt="" coords="387,155,496,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="2484,109,2184,136,1929,146,1704,145,1495,138,1285,130,1061,127,807,134,509,157,497,159,497,153,508,152,807,129,1061,121,1286,124,1495,132,1704,140,1929,141,2183,131,2483,104"/>
+<area shape="rect" id="Node000007" href="$client_8cpp.html" title=" " alt="" coords="520,155,622,181"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="2483,109,2203,135,1964,144,1753,143,1557,136,1361,128,1151,126,914,134,634,157,623,159,622,154,633,152,913,129,1151,121,1361,123,1557,130,1754,137,1964,139,2202,130,2483,104"/>
+<area shape="rect" id="Node000008" href="$crossbow_8cpp.html" title=" " alt="" coords="646,155,771,181"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="2483,109,2225,134,2006,144,1813,144,1632,140,1452,134,1259,132,1041,139,783,157,772,159,771,153,783,152,1040,133,1259,127,1452,129,1632,134,1813,139,2006,138,2225,128,2483,104"/>
+<area shape="rect" id="Node000009" href="$crowbar_8cpp.html" title=" " alt="" coords="795,155,910,181"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="2484,109,2246,132,2045,141,1867,142,1701,138,1536,133,1359,132,1158,139,922,157,911,159,910,153,921,152,1158,133,1359,126,1536,128,1702,132,1867,136,2045,136,2246,127,2483,104"/>
+<area shape="rect" id="Node000010" href="$egon_8cpp.html" title=" " alt="" coords="934,155,1032,181"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="2483,110,2265,130,2079,138,1915,139,1762,135,1610,130,1447,130,1262,138,1045,157,1033,159,1032,154,1044,152,1261,132,1447,125,1610,125,1763,129,1915,133,2079,133,2264,125,2483,104"/>
+<area shape="rect" id="Node000011" href="$func__tank_8cpp.html" title=" " alt="" coords="1056,155,1182,181"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="2484,109,2288,129,2121,138,1974,140,1838,138,1555,136,1389,142,1194,157,1183,159,1182,153,1193,152,1389,137,1554,131,1838,133,1974,135,2121,133,2287,124,2483,104"/>
+<area shape="rect" id="Node000012" href="$gamerules_8cpp.html" title=" " alt="" coords="1206,155,1336,181"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="2483,110,2311,127,2164,136,2035,138,1914,138,1665,137,1519,143,1347,157,1337,158,1336,153,1347,152,1519,138,1665,132,1914,132,2035,133,2164,131,2311,122,2483,104"/>
+<area shape="rect" id="Node000013" href="$gauss_8cpp.html" title=" " alt="" coords="1360,155,1465,181"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="2484,109,2331,125,2201,133,1979,135,1759,136,1630,143,1478,157,1466,159,1465,154,1477,152,1629,138,1758,131,1979,130,2201,128,2331,120,2483,104"/>
+<area shape="rect" id="Node000014" href="$glock_8cpp.html" title=" " alt="" coords="1490,155,1591,181"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="2483,110,2350,124,2236,131,2042,134,1849,137,1736,144,1603,157,1592,159,1591,154,1603,152,1735,138,1848,132,2042,129,2236,126,2349,119,2483,104"/>
+<area shape="rect" id="Node000015" href="$h__cycler_8cpp.html" title=" " alt="" coords="1615,155,1735,181"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="2483,110,2371,123,2276,130,2114,136,1952,140,1747,157,1735,159,1735,154,1747,152,1952,135,2114,130,2276,125,2371,117,2483,104"/>
+<area shape="rect" id="Node000016" href="$handgrenade_8cpp.html" title=" " alt="" coords="1759,155,1903,181"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="2484,110,2324,128,2198,136,2074,143,1915,157,1904,159,1903,153,1915,152,2073,138,2198,131,2323,123,2483,104"/>
+<area shape="rect" id="Node000017" href="$healthkit_8cpp.html" title=" " alt="" coords="1927,155,2047,181"/>
+<area shape="poly" id="edge16_Node000003_Node000017" title=" " alt="" coords="2483,110,2364,126,2270,135,2177,143,2059,157,2047,159,2047,154,2059,152,2177,138,2270,130,2363,121,2483,104"/>
+<area shape="rect" id="Node000018" href="$hornetgun_8cpp.html" title=" " alt="" coords="2071,155,2199,181"/>
+<area shape="poly" id="edge17_Node000003_Node000018" title=" " alt="" coords="2483,110,2199,159,2198,154,2483,105"/>
+<area shape="rect" id="Node000019" href="$items_8cpp.html" title=" " alt="" coords="2223,155,2325,181"/>
+<area shape="poly" id="edge18_Node000003_Node000019" title=" " alt="" coords="2485,113,2322,157,2320,151,2483,108"/>
+<area shape="rect" id="Node000020" href="$maprules_8cpp.html" title=" " alt="" coords="2349,155,2473,181"/>
+<area shape="poly" id="edge19_Node000003_Node000020" title=" " alt="" coords="2509,117,2436,156,2433,152,2507,112"/>
+<area shape="rect" id="Node000021" href="$mp5_8cpp.html" title=" " alt="" coords="2497,155,2592,181"/>
+<area shape="poly" id="edge20_Node000003_Node000021" title=" " alt="" coords="2547,122,2547,154,2542,154,2542,122"/>
+<area shape="rect" id="Node000022" href="$multiplay__gamerules_8cpp.html" title=" " alt="" coords="2616,155,2806,181"/>
+<area shape="poly" id="edge21_Node000003_Node000022" title=" " alt="" coords="2588,111,2683,152,2681,156,2586,116"/>
+<area shape="rect" id="Node000023" href="$observer_8cpp.html" title="Functionality for the observer chase camera." alt="" coords="2829,155,2948,181"/>
+<area shape="poly" id="edge22_Node000003_Node000023" title=" " alt="" coords="2606,105,2829,152,2828,157,2605,110"/>
+<area shape="rect" id="Node000024" href="$player_8cpp.html" title=" " alt="" coords="2972,155,3077,181"/>
+<area shape="poly" id="edge23_Node000003_Node000024" title=" " alt="" coords="2606,100,2959,152,2972,154,2971,159,2959,157,2605,105"/>
+<area shape="rect" id="Node000025" href="$python_8cpp.html" title=" " alt="" coords="3102,155,3211,181"/>
+<area shape="poly" id="edge24_Node000003_Node000025" title=" " alt="" coords="2605,97,2820,119,3090,152,3101,154,3101,159,3089,157,2819,124,2605,103"/>
+<area shape="rect" id="Node000026" href="$rpg_8cpp.html" title=" " alt="" coords="3235,155,3323,181"/>
+<area shape="poly" id="edge25_Node000003_Node000026" title=" " alt="" coords="2606,95,2875,113,3048,130,3223,152,3235,154,3234,159,3223,157,3048,135,2874,118,2606,100"/>
+<area shape="rect" id="Node000027" href="$satchel_8cpp.html" title=" " alt="" coords="3347,155,3459,181"/>
+<area shape="poly" id="edge26_Node000003_Node000027" title=" " alt="" coords="2606,95,2919,113,3126,130,3335,152,3347,154,3346,159,3335,157,3125,135,2919,118,2606,100"/>
+<area shape="rect" id="Node000028" href="$shotgun_8cpp.html" title=" " alt="" coords="3484,155,3600,181"/>
+<area shape="poly" id="edge27_Node000003_Node000028" title=" " alt="" coords="2606,94,2972,110,3220,128,3471,152,3483,154,3483,159,3471,157,3219,133,2972,116,2605,99"/>
+<area shape="rect" id="Node000029" href="$singleplay__gamerules_8cpp.html" title=" " alt="" coords="3624,155,3819,181"/>
+<area shape="poly" id="edge28_Node000003_Node000029" title=" " alt="" coords="2606,94,3027,114,3317,131,3613,152,3624,153,3623,158,3612,157,3317,136,3027,119,2605,100"/>
+<area shape="rect" id="Node000030" href="$sound_8cpp.html" title=" " alt="" coords="3844,155,3949,181"/>
+<area shape="poly" id="edge29_Node000003_Node000030" title=" " alt="" coords="2605,92,2809,94,3112,102,3468,120,3651,134,3831,152,3844,154,3843,159,3831,157,3651,139,3467,125,3111,107,2809,99,2605,97"/>
+<area shape="rect" id="Node000031" href="$squeakgrenade_8cpp.html" title=" " alt="" coords="3973,155,4132,181"/>
+<area shape="poly" id="edge30_Node000003_Node000031" title=" " alt="" coords="2605,93,2827,97,3161,106,3557,124,3962,152,3973,153,3973,158,3961,157,3556,129,3161,111,2827,102,2605,98"/>
+<area shape="rect" id="Node000032" href="$stats_8cpp.html" title=" " alt="" coords="4156,155,4255,181"/>
+<area shape="poly" id="edge31_Node000003_Node000032" title=" " alt="" coords="2605,93,3355,111,3809,129,4000,140,4143,152,4156,154,4155,159,4143,157,3999,145,3809,134,3355,116,2605,98"/>
+<area shape="rect" id="Node000033" href="$teamplay__gamerules_8cpp.html" title=" " alt="" coords="4280,155,4470,181"/>
+<area shape="poly" id="edge32_Node000003_Node000033" title=" " alt="" coords="2606,92,2868,96,3277,105,3765,123,4267,152,4280,153,4279,158,4267,157,3765,128,3277,111,2868,101,2606,98"/>
+<area shape="rect" id="Node000034" href="$triggers_8cpp.html" title=" " alt="" coords="4494,155,4608,181"/>
+<area shape="poly" id="edge33_Node000003_Node000034" title=" " alt="" coords="2606,93,3510,109,4070,127,4305,139,4482,152,4494,153,4494,159,4481,157,4304,144,4070,132,3510,115,2606,98"/>
+<area shape="rect" id="Node000035" href="$tripmine_8cpp.html" title=" " alt="" coords="4632,155,4748,181"/>
+<area shape="poly" id="edge34_Node000003_Node000035" title=" " alt="" coords="2606,93,2990,97,3573,108,4177,126,4430,138,4621,152,4631,153,4631,159,4620,157,4429,143,4176,131,3573,113,2990,103,2606,98"/>
+<area shape="rect" id="Node000036" href="$dlls_2util_8cpp.html" title=" " alt="" coords="4771,155,4859,181"/>
+<area shape="poly" id="edge35_Node000003_Node000036" title=" " alt="" coords="2606,92,3013,94,3637,102,4285,120,4556,134,4761,152,4771,154,4771,159,4760,157,4556,140,4284,126,3637,108,3013,100,2606,97"/>
+<area shape="rect" id="Node000037" href="$weapons_8cpp.html" title=" " alt="" coords="4882,155,5004,181"/>
+<area shape="poly" id="edge36_Node000003_Node000037" title=" " alt="" coords="2606,92,3031,97,3687,107,4369,125,4655,137,4871,152,4882,153,4882,159,4871,157,4655,142,4369,130,3687,112,3030,102,2606,98"/>
+<area shape="rect" id="Node000038" href="$world_8cpp.html" title=" " alt="" coords="5028,155,5128,181"/>
+<area shape="poly" id="edge37_Node000003_Node000038" title=" " alt="" coords="2606,92,3054,94,3753,102,4481,120,4786,134,5017,152,5027,153,5027,159,5016,157,4786,139,4480,126,3753,108,3054,100,2606,97"/>
+</map>

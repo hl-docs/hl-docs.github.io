@@ -1,0 +1,24 @@
+<map id="UTIL_ApproachAngle" name="UTIL_ApproachAngle">
+<area shape="rect" id="Node000001" title="Approaches an angle value at a specified speed." alt="" coords="923,93,1065,120"/>
+<area shape="rect" id="Node000002" href="$class_c_gargantua.html#af6d9fd34e26a27caf9bf550ca04e04cc" title="Controls the Gargantua&#39;s flame attack direction." alt="" coords="692,12,875,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="946,89,874,60,824,42,826,37,876,55,948,85"/>
+<area shape="rect" id="Node000004" href="$class_c_func_track_train.html#a84d3f5bb098a6ceb8fed7f43cbe3b51d" title="Moves the track train to the next position along its path." alt="" coords="706,93,861,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="907,109,861,109,861,104,907,104"/>
+<area shape="rect" id="Node000011" href="$class_c_ichthyosaur.html#a18b594eb6441785ceb517044738281ff" title="Runs a specific task for the ichthyosaur." alt="" coords="705,144,862,171"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="921,127,843,146,841,141,920,122"/>
+<area shape="rect" id="Node000003" href="$class_c_gargantua.html#ae93076998ee13769916c9736cc1a7058" title="Runs a task for the Gargantua." alt="" coords="470,5,619,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="677,25,620,23,620,18,677,20"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="820,80,807,74,783,72,761,74,750,79,747,84,752,91,748,94,741,85,746,75,760,69,784,67,809,69,822,76"/>
+<area shape="rect" id="Node000005" href="$class_c_func_track_train.html#add34b3b37ed17e3c50ef3344ee26197b" title="Finds the nearest path track for the track train." alt="" coords="469,56,621,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="691,95,621,84,622,79,692,90"/>
+<area shape="rect" id="Node000006" href="$class_c_func_track_train.html#a6cc16b737db9d8a699f6205f63afd0ef" title="Finds the nearest path track for the track train." alt="" coords="445,107,644,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="691,114,645,117,645,112,691,109"/>
+<area shape="rect" id="Node000008" href="$class_c_func_track_train.html#a6234b20c6bdc769de9248fab5ad29f29" title="Activates the track train based on the use type." alt="" coords="470,161,620,188"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="719,127,693,135,594,163,593,158,692,129,717,122"/>
+<area shape="rect" id="Node000007" href="$class_c_func_track_train.html#a1ccfc5232aaf4050af606ea3ce819c2a" title="Resets the track train&#39;s state and prepares it for the next path." alt="" coords="213,95,387,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="429,121,388,120,388,115,429,115"/>
+<area shape="rect" id="Node000009" href="$class_c_func_track_auto.html#adcf4ffbcbf8076b2fbeb0dd46c9749d8" title="Updates the auto targets for the track change based on the current state." alt="" coords="203,161,397,204"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="454,180,398,182,397,177,454,175"/>
+<area shape="rect" id="Node000010" href="$class_c_func_track_auto.html#a7dcb10f7febb3d4ea9e04d25343f5b9a" title="Activates the track change entity based on user input." alt="" coords="5,169,155,196"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="188,185,155,185,155,180,188,180"/>
+</map>

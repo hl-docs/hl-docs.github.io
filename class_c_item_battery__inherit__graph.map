@@ -1,0 +1,7 @@
+<map id="CItemBattery" name="CItemBattery">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,103,181"/>
+<area shape="rect" id="Node000002" href="$class_c_item.html" title=" " alt="" coords="26,80,82,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,122,57,154,51,154,51,122"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="7,5,101,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="57,48,57,80,51,80,51,48"/>
+</map>

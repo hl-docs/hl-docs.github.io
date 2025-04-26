@@ -1,0 +1,10 @@
+<map id="CFuncTankLaser::KeyValue" name="CFuncTankLaser::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value pairs for the tank laser entity." alt="" coords="5,31,189,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="484,5,546,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,36,468,19,469,24,189,41"/>
+<area shape="rect" id="Node000003" href="$class_c_func_tank.html#afca8f9508cbc025c61b249102a736a16" title="Handles key&#45;value pairs for the tank entity." alt="" coords="237,56,388,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,52,222,56,221,61,189,57"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="368,53,468,27,470,33,370,58"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="436,56,594,83"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="388,67,420,67,420,72,388,72"/>
+</map>

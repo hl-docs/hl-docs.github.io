@@ -1,0 +1,124 @@
+html {
+    --page-background-color: black;
+    --page-foreground-color: darkorange;
+    --nav-text-active-color: darkorange;
+    --nav-text-normal-color: darkorange;
+    --nav-text-hover-color: black;
+    --nav-arrow-color: darkorange;
+    --nav-arrow-selected-color: black;
+    --nav-background-color: black;
+    --index-even-item-bg-color: black;
+    --index-odd-item-bg-color: black;
+    --directory-separator-color: black;
+    --page-visited-link-color: darkorange;
+    --page-link-color: orange;
+    --group-header-separator-color: black;
+    --group-header-color: darkorange;
+    --memdecl-background-color: black;
+    --memdecl-separator-color: black;
+    --memdecl-foreground-color: orange;
+    --memdef-border-color: black;
+    --memdef-title-background-color: black;
+    --memdef-proto-background-color: black;
+    --memdef-proto-text-color: darkorange;
+    --memdef-title-gradient-image: 0;
+    --memdef-doc-background-color: black;
+    --fragment-foreground-color: darkorange;
+    --fragment-background-color: black;
+    --fragment-border-color: black;
+    --memdef-param-name-color: white;
+    --label-background-color: darkorange;
+    --label-left-top-border-color: black;
+    --label-right-bottom-border-color: black;
+    --label-foreground-color: black;
+    --icon-background-color: darkorange;
+    --icon-foreground-color: black;
+    --separator-color: darkorange;
+    --code-comment-color: white;
+    --code-link-color: orange;
+    --code-keyword-color: white;
+    --code-type-keyword-color: white;
+    --code-string-literal-color: white;
+    --fragment-lineno-link-hover-bg-color: darkorange;
+    --fragment-lineno-link-hover-fg-color: black;
+    --fragment-lineno-link-bg-color: black;
+    --fragment-lineno-link-fg-color: darkorange;
+    --nav-gradient-active-image-parent: url('tab_a_custom.png');
+    --nav-gradient-active-image: url('tab_a_custom.png');
+    --nav-splitbar-image: url('splitbar_custom.png');
+    --nav-separator-image: 0;
+    --nav-breadcrumb-image: 0;
+    --nav-breadcrumb-border-color: darkorange;
+    --footer-foreground-color: white;
+    --nav-text-hover-color: darkorange;
+    --search-results-foreground-color: black;
+    --search-results-background-color: darkorange;
+    --search-filter-border-color: black;
+    --search-filter-background-color: darkorange;
+}
+
+.summary a {
+    color: white !important;
+}
+
+
+.headertitle {
+    color: black !important;
+    background: darkorange !important;
+}
+
+/* Target the main navigation bar */
+#main-menu {
+    background: black !important; /* Set the background color */
+    background-color: black !important; /* Fallback for older browsers */
+    background-image: none !important; /* Remove any gradient or image */
+    border: none !important; /* Remove any border */
+    color: black !important; /* Change text color */
+}
+
+/* Change the hover effect on menu items */
+#main-menu a {
+    color: darkorange !important; /* Ensure link text is white */
+    background-color: black !important;
+    text-decoration: none !important; /* Remove underline on hover */
+}
+
+#main-menu a:hover {
+    color: black !important; /* Optional: Change hover color to black */
+    background: darkorange !important; /* Optional: Add hover background */
+}
+
+/* Ensure all dropdown menus inherit the orange color */
+ul {
+    background: black !important;
+}
+
+/* Override the borders and styles for dropdown items */
+#main-menu ul li {
+    border: none !important;
+    color: black !important;
+}
+
+#titlearea
+{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	border-bottom: black;
+	background-color: black;
+}
+
+#projectname {
+	font-size: 200%;
+	font-family: var(--font-family-title);
+	margin: 0px;
+	padding: 2px 0px;
+    color: darkorange !important;
+}
+
+#nav-tree .selected {
+	background-image: url('tab_a_custom.png');
+	background-repeat: repeat-x;
+	color: orange;
+	text-shadow: var(--nav-text-active-shadow);
+}

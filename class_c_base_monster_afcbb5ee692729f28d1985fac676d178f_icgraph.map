@@ -1,0 +1,7 @@
+<map id="CBaseMonster::BuildRoute" name="CBaseMonster::BuildRoute">
+<area shape="rect" id="Node000001" title="Builds a route to a specified goal." alt="" coords="201,31,379,57"/>
+<area shape="rect" id="Node000002" href="$class_c_a_grunt.html#ae44b4283116ed1bc311f24b11ece2659" title="Starts a task for the Alien Grunt." alt="" coords="11,5,147,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,34,147,29,148,24,185,29"/>
+<area shape="rect" id="Node000003" href="$class_c_bullsquid.html#ac136a8d433a80981ecc37d7e284db98d" title="Starts a task for the bullsquid." alt="" coords="5,56,153,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,59,153,63,153,58,185,54"/>
+</map>

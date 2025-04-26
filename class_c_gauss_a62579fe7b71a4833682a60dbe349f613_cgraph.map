@@ -1,0 +1,7 @@
+<map id="CGauss::AddToPlayer" name="CGauss::AddToPlayer">
+<area shape="rect" id="Node000001" title="Adds the Gauss weapon to the specified player." alt="" coords="5,43,156,69"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a9d00baf84f87d51863cf473d28373efe" title="Adds an item to a player." alt="" coords="204,5,357,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,42,188,38,189,43,156,48"/>
+<area shape="rect" id="Node000003" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="213,72,348,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,64,198,71,198,76,155,70"/>
+</map>

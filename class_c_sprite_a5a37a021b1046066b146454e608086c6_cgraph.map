@@ -1,0 +1,32 @@
+<map id="CSprite::SpriteCreate" name="CSprite::SpriteCreate">
+<area shape="rect" id="Node000001" title="Creates a new sprite entity." alt="" coords="5,132,150,159"/>
+<area shape="rect" id="Node000002" href="$cbase_8h.html#afdb9a60de9742917308f705391b22517" title=" " alt="" coords="213,56,306,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,129,210,87,212,92,113,134"/>
+<area shape="rect" id="Node000006" href="$class_c_sprite.html#a2ff7fab088c166f3b7c9b1b2990e0b29" title="Initializes the sprite with a specific model and origin." alt="" coords="198,132,321,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,143,182,143,182,148,150,148"/>
+<area shape="rect" id="Node000012" href="$class_c_sprite.html#a30f4a630078c8e0b7eb8abd7dc2f0271" title="Turns on the sprite effect." alt="" coords="535,183,649,209"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="136,157,198,168,371,185,519,192,519,197,371,190,197,173,135,162"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="569,5,615,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,53,321,33,368,16,418,9,468,6,554,11,553,16,468,12,419,14,370,21,323,37,284,58"/>
+<area shape="rect" id="Node000004" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="370,31,479,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="306,60,354,52,355,57,306,65"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="396,81,453,108"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="306,74,381,85,380,91,306,79"/>
+<area shape="rect" id="Node000007" href="$class_c_sprite.html#ac3c24c95bbd55e6ba512483fd1c7d47c" title="Spawns the sprite effect entity." alt="" coords="369,132,480,159"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="321,143,353,143,353,148,321,148"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="460,129,479,118,503,94,526,67,559,40,562,44,530,71,507,98,482,122,462,134"/>
+<area shape="rect" id="Node000008" href="$class_c_sprite.html#a0af0240f9715b771f27b4117def745bf" title="Precaches the sprite effect resources." alt="" coords="528,81,656,108"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="471,129,530,111,532,116,472,134"/>
+<area shape="rect" id="Node000011" href="$class_c_sprite.html#a1ceacbcb997d27b2d1cdc7f65cf98a8b" title="Turns off the sprite effect." alt="" coords="1079,157,1193,184"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="481,145,1064,165,1064,171,480,150"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="472,157,532,175,530,180,471,162"/>
+<area shape="rect" id="Node000009" href="$class_c_sprite.html#a5e8b21c29076b5a77bd68387a093f2b7" title=" " alt="" coords="704,81,863,108"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="656,92,688,92,688,97,656,97"/>
+<area shape="rect" id="Node000010" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="930,81,1013,108"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="863,92,914,92,914,97,863,97"/>
+<area shape="rect" id="Node000013" href="$class_c_sprite.html#ac8cf5a109300050a48f5ab1f7c64ce7b" title="Think function for sprite animation." alt="" coords="708,183,859,209"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="649,193,692,193,692,199,649,199"/>
+<area shape="rect" id="Node000014" href="$class_c_sprite.html#a3b4a06d55a75cb8827c515d10f538d16" title="Animates the sprite." alt="" coords="911,183,1031,209"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="859,193,895,193,895,199,859,199"/>
+<area shape="poly" id="edge15_Node000014_Node000011" title=" " alt="" coords="1032,184,1064,179,1064,184,1032,189"/>
+</map>

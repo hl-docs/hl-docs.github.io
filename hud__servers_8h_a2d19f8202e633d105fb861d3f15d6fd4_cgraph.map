@@ -1,0 +1,13 @@
+<map id="ServersList" name="ServersList">
+<area shape="rect" id="Node000001" title="Starts a standard server list query from the master server(s)." alt="" coords="5,81,91,108"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_servers.html#ab92a4dd03805c901ba778e7378a7bd84" title="Sends a request to all known master servers for their server lists." alt="" coords="139,81,312,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,92,123,92,123,97,91,97"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#a004be034c14cec94f547ccf119d656a3" title="Deletes all requests in the specified list." alt="" coords="376,5,579,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,78,359,41,389,33,390,39,361,47,260,83"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_servers.html#a2f773a8e467eb51403b7d1cf757f532e" title="Deletes all servers in the specified list and their associated info strings." alt="" coords="382,56,573,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="312,83,366,78,366,83,313,89"/>
+<area shape="rect" id="Node000005" href="$class_c_hud_servers.html#a899e4b4e78ad92d8fe0b551129d79116" title="Handles response for the server list request." alt="" coords="386,107,569,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="313,101,370,107,370,112,312,106"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_servers.html#a605d07bd688cb5195ab6e0ac21179e17" title="Loads master server addresses from a predefined source." alt="" coords="360,157,594,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="260,106,361,143,390,151,389,156,359,148,258,111"/>
+</map>

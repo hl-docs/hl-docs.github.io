@@ -1,0 +1,25 @@
+<map id="CHudDeathNotice::MsgFunc_DeathMsg" name="CHudDeathNotice::MsgFunc_DeathMsg">
+<area shape="rect" id="Node000001" title="Handles the &quot;DeathMsg&quot; message received from the server." alt="" coords="5,224,192,267"/>
+<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="290,5,394,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,223,125,184,153,135,191,84,238,42,273,26,276,30,241,46,195,88,158,137,129,186,111,225"/>
+<area shape="rect" id="Node000003" href="$cl__util_8h.html#a9072906225158c6461f1bbd3afeca0b9" title="Prints a string to the console." alt="" coords="294,56,390,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,222,162,157,198,122,238,92,278,76,280,81,241,97,201,126,166,161,116,225"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_spectator.html#aa69820d3c55e52801a88e4806f35ac2c" title="Adds a dead player icon to the overview after a kill." alt="" coords="240,107,444,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,221,174,181,238,143,255,136,257,141,241,148,177,186,126,226"/>
+<area shape="rect" id="Node000006" href="$class_team_fortress_viewport.html#a59456b98e7cbcc43aee11d700eb5de45" title="Handles death messages." alt="" coords="266,157,418,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,221,251,201,252,206,180,226"/>
+<area shape="rect" id="Node000008" href="$class_team_fortress_viewport.html#a581a2504cd06f12a1dded0202d998e4c" title="Retrieves information about all players from the engine." alt="" coords="266,224,418,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="192,243,251,243,251,248,192,248"/>
+<area shape="rect" id="Node000009" href="$death_8cpp.html#aa520d1289fab66699f197640abe8a46c" title="Returns the team color associated with a client index." alt="" coords="289,291,395,317"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="190,265,275,285,273,290,189,270"/>
+<area shape="rect" id="Node000010" href="$class_c_hud.html#aee3124b4f58baa73eab23621cf8640d1" title=" " alt="" coords="268,341,416,368"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="132,265,181,297,241,327,260,334,258,339,239,332,179,301,129,269"/>
+<area shape="rect" id="Node000011" href="$parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="293,392,391,419"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="118,265,169,322,203,352,241,378,279,392,277,397,238,382,200,356,165,326,114,269"/>
+<area shape="rect" id="Node000012" href="$parsemsg_8h.html#ac44883481899652b5b22699b772ff57f" title=" " alt="" coords="286,443,398,469"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="112,266,132,302,160,346,197,391,241,428,272,443,270,448,238,433,193,394,156,349,127,304,108,268"/>
+<area shape="rect" id="Node000005" href="$class_c_hud_spectator.html#ae1883e1b072c31d47f87fe25c31d0f5e" title="Adds an entity to the internal list of overview entities." alt="" coords="492,99,682,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="444,117,476,117,476,123,444,123"/>
+<area shape="rect" id="Node000007" href="$class_score_panel.html#acc36b2bc07c9b4cc9505cedc0401616d" title="Setup highlights for player names in scoreboard." alt="" coords="510,165,665,192"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="418,176,494,176,494,181,418,181"/>
+</map>

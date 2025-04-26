@@ -1,0 +1,57 @@
+<map id="CBasePlayer::SetAnimation" name="CBasePlayer::SetAnimation">
+<area shape="rect" id="Node000001" title="Sets the player&#39;s animation based on the current state." alt="" coords="686,385,870,412"/>
+<area shape="rect" id="Node000002" href="$class_c_crossbow.html#ad6a24e0cb3497003ba02cf2711ad48b9" title="Fires a regular bolt from the crossbow." alt="" coords="475,5,615,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,370,761,304,738,216,720,170,698,124,670,83,637,46,614,32,617,28,640,42,674,79,703,122,725,168,743,214,766,303,777,369"/>
+<area shape="rect" id="Node000004" href="$class_c_crossbow.html#a51becd1d4131174516a44142fc273aae" title="Fires a sniper bolt in multiplayer mode." alt="" coords="457,56,634,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="769,370,756,313,731,238,713,200,692,162,667,127,637,97,619,85,622,81,640,93,671,124,697,159,718,197,736,237,761,311,775,369"/>
+<area shape="rect" id="Node000005" href="$class_c_glock.html#a522286710931a6ab18933b60f455e4ff" title="Fires the Glock with specified parameters." alt="" coords="481,107,609,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="767,371,750,322,724,262,686,200,663,172,637,148,609,133,611,128,640,143,667,168,691,197,729,259,755,321,772,370"/>
+<area shape="rect" id="Node000008" href="$class_c_python.html#a5e20c90592da8cd4200cceb46d578b59" title="Handles the primary attack for the Python weapon." alt="" coords="464,157,626,184"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="763,372,744,333,717,286,681,238,637,198,616,187,618,182,640,194,685,235,721,283,749,331,768,370"/>
+<area shape="rect" id="Node000009" href="$class_c_m_p5.html#a73c394c755dc96a8577bcabffa0c75e8" title="Handles the primary attack of the MP5." alt="" coords="471,208,619,235"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="758,374,708,311,675,277,637,249,613,238,615,233,640,244,678,273,712,307,762,371"/>
+<area shape="rect" id="Node000010" href="$class_c_rpg.html#a953326b14bfe1e7acdf5d72ba8b3fd80" title="Handles the primary attack for the RPG weapon." alt="" coords="473,259,617,285"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="749,377,699,337,637,300,608,288,610,283,640,295,702,333,752,373"/>
+<area shape="rect" id="Node000011" href="$class_c_hgun.html#a76ef24cbc9b3a13c4b278a4243385514" title="Handles the primary attack for the hornet gun." alt="" coords="470,309,621,336"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="726,382,638,351,599,339,600,334,639,345,728,377"/>
+<area shape="rect" id="Node000012" href="$class_c_tripmine.html#aa66048a319901285c507f02df65c037f" title="Handles the primary attack of the tripmine weapon." alt="" coords="460,360,630,387"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="670,390,631,385,631,380,671,384"/>
+<area shape="rect" id="Node000013" href="$class_c_squeak.html#aab1d5bba9733a843bb02c7334957f06e" title="Handles the primary attack for the squeak weapon." alt="" coords="463,411,628,437"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="671,413,629,418,628,412,671,408"/>
+<area shape="rect" id="Node000014" href="$class_c_m_p5.html#aba5b3ae405e55622c6e5b09cde061b38" title="Handles the secondary attack of the MP5." alt="" coords="463,461,628,488"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="728,421,639,452,600,463,599,458,638,447,726,415"/>
+<area shape="rect" id="Node000015" href="$class_c_shotgun.html#a43e2c385f1d48938956d7e3107127a84" title="Handles the secondary attack of the shotgun." alt="" coords="452,512,638,539"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="752,425,702,464,640,502,610,514,608,509,637,498,699,460,749,420"/>
+<area shape="rect" id="Node000016" href="$class_c_hgun.html#a44f0904cf31dffc656d0149266fd452d" title="Handles the secondary attack for the hornet gun." alt="" coords="461,563,629,589"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="762,427,712,490,678,524,640,553,615,565,613,560,637,548,675,520,708,487,758,423"/>
+<area shape="rect" id="Node000017" href="$class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21" title="Initiates the firing process for the Gauss weapon." alt="" coords="482,613,608,640"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="768,427,749,467,721,514,685,563,640,604,610,618,608,613,637,599,681,559,717,511,744,464,763,425"/>
+<area shape="rect" id="Node000021" href="$class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="485,664,605,691"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="772,428,755,477,729,538,691,601,667,629,640,654,607,671,604,666,637,650,663,625,686,597,724,535,750,475,767,426"/>
+<area shape="rect" id="Node000024" href="$class_c_satchel.html#aceef64912876786e92707fff9479b80f" title="Throws the satchel charge." alt="" coords="487,740,603,767"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="773,428,757,484,730,556,692,634,668,671,640,705,614,726,585,742,582,737,611,722,636,701,663,668,687,631,725,554,752,482,768,426"/>
+<area shape="rect" id="Node000027" href="$class_c_hand_grenade.html#a461944ce47c7e9b0747e4099acc73658" title="Manages the idle state of the hand grenade." alt="" coords="453,791,638,817"/>
+<area shape="poly" id="edge28_Node000001_Node000027" title=" " alt="" coords="778,428,768,499,746,594,729,645,705,694,676,740,640,781,623,792,620,788,637,777,672,737,701,692,724,643,741,593,763,498,772,427"/>
+<area shape="rect" id="Node000003" href="$class_c_crossbow.html#a088e3d420a0cb3943cf33cf126323a32" title="Handles the primary attack of the crossbow weapon." alt="" coords="224,19,402,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,26,403,30,402,24,459,21"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="443,56,400,49,401,43,444,50"/>
+<area shape="rect" id="Node000006" href="$class_c_glock.html#aafaaa550e8e11f3246dd532775c225a3" title="Handles the primary attack of the Glock." alt="" coords="235,81,391,108"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="465,114,391,106,391,100,466,109"/>
+<area shape="rect" id="Node000007" href="$class_c_glock.html#ae9c7e4c8faef6ab96816690330ddfdc5" title="Handles the secondary attack of the Glock." alt="" coords="227,132,399,159"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="466,131,400,139,399,133,465,126"/>
+<area shape="rect" id="Node000018" href="$class_c_gauss.html#a885e215da3bf2207e633b39d7d648d7c" title="Handles the primary attack for the Gauss weapon." alt="" coords="233,512,393,539"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="466,611,451,604,435,591,426,578,417,565,403,553,379,542,381,537,405,548,421,561,430,575,439,587,453,599,469,607"/>
+<area shape="rect" id="Node000019" href="$class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="225,563,401,589"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="466,612,377,593,378,587,467,607"/>
+<area shape="rect" id="Node000020" href="$class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="241,613,385,640"/>
+<area shape="poly" id="edge20_Node000017_Node000020" title=" " alt="" coords="467,629,385,629,385,624,467,624"/>
+<area shape="rect" id="Node000022" href="$class_c_crowbar.html#a75fe911c0db1c8068051588cbfa2c6e9" title="Handles the primary attack action of the crowbar." alt="" coords="5,689,174,716"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="470,684,174,701,174,695,469,679"/>
+<area shape="rect" id="Node000023" href="$class_c_crowbar.html#ae3b7f4f2780a8f6c7ed0709d2bc0deb9" title="Handles the second swing of the crowbar." alt="" coords="236,715,390,741"/>
+<area shape="poly" id="edge23_Node000021_Node000023" title=" " alt="" coords="471,696,378,717,377,711,469,691"/>
+<area shape="poly" id="edge24_Node000023_Node000022" title=" " alt="" coords="220,720,174,715,174,710,221,715"/>
+<area shape="rect" id="Node000025" href="$class_c_satchel.html#ac4ccb1ad1565293be1a94865467af971" title="Handles the primary attack action of the satchel charge." alt="" coords="230,765,396,792"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="472,764,396,772,396,767,471,759"/>
+<area shape="rect" id="Node000026" href="$class_c_satchel.html#a595c21e8d7f8eb494fa9f293240ce62f" title="Handles the secondary attack action of the satchel charge." alt="" coords="222,816,404,843"/>
+<area shape="poly" id="edge27_Node000024_Node000026" title=" " alt="" coords="473,774,453,781,405,806,371,818,370,813,403,802,451,776,471,769"/>
+</map>

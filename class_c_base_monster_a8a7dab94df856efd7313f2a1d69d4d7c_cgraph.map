@@ -1,0 +1,91 @@
+<map id="CBaseMonster::MonsterInit" name="CBaseMonster::MonsterInit">
+<area shape="rect" id="Node000001" title="Initializes the monster after it is spawned." alt="" coords="5,173,185,200"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a616a1bf4279ee18b90f1dbb3a063435a" title="Clears the monster&#39;s current schedule." alt="" coords="236,5,435,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,171,153,109,189,72,231,42,243,36,245,41,234,46,193,76,157,112,108,174"/>
+<area shape="rect" id="Node000003" href="$class_c_game_rules.html#a312050909eb4f62a1479cfb10a374bcc" title=" " alt="" coords="236,56,435,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,171,163,132,232,92,249,85,251,90,234,97,166,136,114,175"/>
+<area shape="rect" id="Node000004" href="$class_c_base_animating.html#a687a7f90b352cb100fffcd49ebb2a585" title="Initializes the bone controllers for the animation." alt="" coords="249,107,422,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,170,233,150,234,155,153,175"/>
+<area shape="rect" id="Node000007" href="$class_c_base_monster.html#aabf6023c3268454747b09a5de77159b8" title="Initializes the monster&#39;s thinking process." alt="" coords="246,417,425,460"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="111,199,305,404,301,408,108,202"/>
+<area shape="rect" id="Node000035" href="$class_c_base_monster.html#ab71f53ee71411cf395a99102005d61b2" title="Activates the monster, making it alert." alt="" coords="243,224,428,251"/>
+<area shape="poly" id="edge47_Node000001_Node000035" title=" " alt="" coords="162,198,254,218,253,223,161,203"/>
+<area shape="rect" id="Node000036" href="$class_c_base_monster.html#abc6d82b78223b5ecca006a9bb27728f1" title="Clears the monster&#39;s route and resets its goal." alt="" coords="246,275,425,301"/>
+<area shape="poly" id="edge48_Node000001_Node000036" title=" " alt="" coords="119,198,170,229,234,260,254,267,252,272,232,265,167,234,116,203"/>
+<area shape="rect" id="Node000037" href="$class_c_base_monster.html#a3e8f9bc4d983f6a4401aa727e4470a31" title="Sets the eye position of the monster." alt="" coords="233,173,438,200"/>
+<area shape="poly" id="edge49_Node000001_Node000037" title=" " alt="" coords="185,184,217,184,217,189,185,189"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1756,408,1802,435"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="423,125,830,125,1339,125,1451,125,1498,127,1541,133,1582,145,1623,164,1665,191,1710,229,1739,267,1759,311,1772,355,1778,392,1772,393,1766,356,1754,313,1735,270,1706,233,1661,195,1620,168,1580,150,1540,139,1497,133,1451,130,1340,131,830,131,423,131"/>
+<area shape="rect" id="Node000006" href="$animation_8cpp.html#a1b19ea5042a5d8c43ffc782247eb2d46" title="Sets the controller value for a specific bone controller." alt="" coords="533,64,629,91"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="422,108,517,88,518,93,423,113"/>
+<area shape="rect" id="Node000008" href="$class_c_base_monster.html#a2a9067a86d52d8e9873595ec8e81a9b6" title="Finalizes the initialization of the monster." alt="" coords="486,517,676,544"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="395,458,530,509,528,514,393,463"/>
+<area shape="poly" id="edge16_Node000008_Node000005" title=" " alt="" coords="588,544,600,594,625,666,644,704,666,740,694,774,726,802,772,830,814,847,853,856,892,859,976,854,1081,848,1339,848,1455,845,1503,840,1546,829,1587,812,1626,788,1665,755,1706,710,1727,679,1744,645,1765,573,1774,504,1776,450,1781,450,1779,504,1770,574,1749,647,1732,682,1710,714,1669,758,1629,792,1589,817,1548,834,1504,845,1455,851,1340,853,1081,853,976,859,892,864,852,862,812,853,769,835,723,806,690,778,662,744,639,706,620,668,595,596,582,545"/>
+<area shape="rect" id="Node000009" href="$class_c_base_monster.html#adf307b3c4e6fdf2a802b3c4e0a7f00d2" title=" " alt="" coords="739,400,923,443"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="604,515,657,484,723,452,739,446,741,451,725,457,660,489,606,519"/>
+<area shape="rect" id="Node000013" href="$class_c_base_monster.html#a1717d862c80da257c623186f22d91b32" title="Changes the monster&#39;s schedule." alt="" coords="724,568,938,595"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="651,542,747,562,746,567,650,547"/>
+<area shape="rect" id="Node000017" href="$util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="1227,736,1449,763"/>
+<area shape="poly" id="edge17_Node000008_Node000017" title=" " alt="" coords="591,544,608,580,637,628,676,676,700,697,726,714,763,728,814,738,941,750,1082,754,1212,752,1212,757,1082,759,941,756,813,743,762,733,723,718,696,701,672,680,632,631,603,582,586,546"/>
+<area shape="rect" id="Node000018" href="$class_c_base_monster.html#a0de1976252cc7ba8d42679859a102fd5" title="Refreshes the monster&#39;s route based on its current goal." alt="" coords="730,677,932,704"/>
+<area shape="poly" id="edge18_Node000008_Node000018" title=" " alt="" coords="598,543,651,593,687,622,726,648,770,669,768,674,723,653,684,627,648,597,594,547"/>
+<area shape="rect" id="Node000022" href="$util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="1296,787,1381,813"/>
+<area shape="poly" id="edge29_Node000008_Node000022" title=" " alt="" coords="589,544,604,587,631,646,649,677,671,707,697,733,726,755,770,773,832,786,906,795,987,800,1150,803,1280,800,1280,805,1150,808,987,805,905,800,831,791,769,778,723,760,693,737,667,710,645,680,626,649,599,589,584,545"/>
+<area shape="rect" id="Node000023" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="1263,611,1414,637"/>
+<area shape="poly" id="edge39_Node000008_Node000023" title=" " alt="" coords="603,542,656,575,690,592,725,604,794,619,866,630,1008,640,1140,639,1247,631,1247,637,1140,644,1008,645,865,635,793,625,724,609,688,597,654,580,600,547"/>
+<area shape="rect" id="Node000025" href="$class_c_base_monster.html#a37d35f03fc503f5043dab72ec5cc0736" title="Retrieves a schedule of a specific type for the monster." alt="" coords="987,240,1178,283"/>
+<area shape="poly" id="edge30_Node000008_Node000025" title=" " alt="" coords="584,516,598,472,626,411,644,379,667,348,693,320,723,296,782,268,847,252,912,246,972,246,972,251,912,251,848,258,784,273,726,301,696,324,671,351,649,382,630,414,603,474,589,518"/>
+<area shape="rect" id="Node000030" href="$class_c_base_animating.html#a40a4e881deccdeced4714dde7868dc15" title="Looks up the activity index for a given activity." alt="" coords="1497,459,1708,485"/>
+<area shape="poly" id="edge40_Node000008_Node000030" title=" " alt="" coords="677,523,1482,476,1482,482,677,528"/>
+<area shape="rect" id="Node000031" href="$class_c_base_monster.html#a8cab8882314f3d6953372740e88aaca3" title="Calculates the ideal yaw for the monster to face a target." alt="" coords="731,349,931,376"/>
+<area shape="poly" id="edge42_Node000008_Node000031" title=" " alt="" coords="590,515,641,452,680,416,723,386,736,379,738,384,726,390,683,420,645,456,594,518"/>
+<area shape="rect" id="Node000033" href="$class_c_base_monster.html#aff2100a3cb50d33a58240b540ff041b3" title="Sets the monster&#39;s activity to a new activity." alt="" coords="994,307,1171,333"/>
+<area shape="poly" id="edge44_Node000008_Node000033" title=" " alt="" coords="585,516,602,478,631,427,671,376,696,353,723,335,756,320,790,310,861,298,930,297,993,301,992,307,930,302,861,303,791,315,757,325,726,340,699,357,675,379,635,430,607,480,590,518"/>
+<area shape="rect" id="Node000034" href="$class_c_base_monster.html#aa97926a613d791a0293122233e47a247" title="Sets the state of the monster." alt="" coords="748,467,914,493"/>
+<area shape="poly" id="edge46_Node000008_Node000034" title=" " alt="" coords="650,514,746,494,747,500,651,519"/>
+<area shape="rect" id="Node000010" href="$class_c_base_monster.html#a78d6ba9d4f7da21ae68eff4198a05f04" title="Handles the monster&#39;s thinking process." alt="" coords="986,408,1179,435"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="924,419,970,419,970,424,924,424"/>
+<area shape="rect" id="Node000011" href="$animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="1286,357,1391,384"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1153,405,1270,381,1271,387,1154,410"/>
+<area shape="rect" id="Node000012" href="$animation_8cpp.html#a30338044567f486adce29eb465afad92" title="Looks up the heaviest activity sequence for a model." alt="" coords="1261,408,1415,435"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1179,419,1245,419,1245,424,1179,424"/>
+<area shape="rect" id="Node000014" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="1030,560,1135,587"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="938,575,1014,573,1015,578,938,581"/>
+<area shape="rect" id="Node000015" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="1307,509,1369,536"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1134,560,1291,529,1292,534,1135,566"/>
+<area shape="rect" id="Node000016" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="1310,560,1367,587"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="1135,571,1294,571,1294,576,1135,576"/>
+<area shape="rect" id="Node000019" href="$class_c_base_entity.html#ac52839cc1ad59d4b41dd4014d10eba29" title="Retrieves the next target for the entity." alt="" coords="989,685,1176,712"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="932,691,973,693,973,698,932,697"/>
+<area shape="poly" id="edge20_Node000019_Node000017" title=" " alt="" coords="1154,710,1253,730,1252,735,1153,715"/>
+<area shape="rect" id="Node000020" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="1303,685,1374,712"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="1176,696,1287,696,1287,701,1176,701"/>
+<area shape="poly" id="edge25_Node000019_Node000022" title=" " alt="" coords="1107,710,1161,741,1228,772,1281,787,1279,792,1226,777,1158,746,1104,715"/>
+<area shape="poly" id="edge26_Node000019_Node000023" title=" " alt="" coords="1120,682,1226,647,1256,639,1258,644,1228,652,1121,687"/>
+<area shape="poly" id="edge24_Node000020_Node000020" title=" " alt="" coords="1300,690,1288,679,1291,668,1308,661,1338,659,1377,664,1387,670,1388,677,1383,678,1382,673,1376,669,1338,664,1310,666,1295,672,1293,677,1304,686"/>
+<area shape="rect" id="Node000021" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1537,673,1668,700"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="1374,694,1522,688,1522,693,1374,700"/>
+<area shape="poly" id="edge23_Node000021_Node000005" title=" " alt="" coords="1659,670,1684,658,1706,641,1723,619,1737,595,1757,542,1768,491,1773,450,1779,450,1773,492,1762,544,1741,597,1727,622,1710,645,1687,663,1662,675"/>
+<area shape="poly" id="edge27_Node000023_Node000005" title=" " alt="" coords="1400,635,1469,645,1549,646,1591,641,1632,632,1671,618,1706,597,1722,582,1736,565,1755,525,1767,485,1773,450,1778,450,1772,486,1760,527,1740,568,1726,586,1709,601,1673,622,1633,637,1592,647,1550,651,1468,650,1400,641"/>
+<area shape="rect" id="Node000024" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="1548,560,1657,587"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="1411,607,1532,584,1533,589,1412,613"/>
+<area shape="poly" id="edge38_Node000025_Node000025" title=" " alt="" coords="1035,240,1033,230,1041,221,1057,215,1082,213,1109,216,1125,222,1123,227,1108,221,1082,219,1059,221,1044,225,1038,231,1040,239"/>
+<area shape="rect" id="Node000026" href="$class_c_base_monster.html#acdf820a8eea18fbc6f611f080c166ff5" title="Cleans up the cinematic sequence for the monster." alt="" coords="1244,307,1432,333"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="1179,281,1263,300,1261,305,1177,286"/>
+<area shape="rect" id="Node000029" href="$class_c_base_monster.html#a2b94ced53e395e1ec1689672363f834f" title="Determines if the monster can perform an active idle." alt="" coords="1238,248,1439,275"/>
+<area shape="poly" id="edge37_Node000025_Node000029" title=" " alt="" coords="1178,259,1222,259,1222,264,1178,264"/>
+<area shape="poly" id="edge32_Node000026_Node000005" title=" " alt="" coords="1433,305,1496,303,1567,306,1640,319,1709,343,1740,366,1764,394,1759,397,1737,370,1706,348,1639,324,1567,312,1496,308,1433,311"/>
+<area shape="rect" id="Node000027" href="$util_8cpp.html#a07c8f2bf4c6bbe075fb965e15e00b203" title="Sets the origin of an entity." alt="" coords="1548,357,1657,384"/>
+<area shape="poly" id="edge33_Node000026_Node000027" title=" " alt="" coords="1412,331,1534,355,1533,360,1411,337"/>
+<area shape="rect" id="Node000028" href="$util_8cpp.html#ab9f593697c96282971d0db5494d5a833" title="Sets the size of an entity." alt="" coords="1552,408,1653,435"/>
+<area shape="poly" id="edge35_Node000026_Node000028" title=" " alt="" coords="1425,332,1451,343,1466,356,1476,369,1484,382,1499,394,1538,409,1536,414,1496,398,1480,385,1471,372,1462,359,1448,348,1423,336"/>
+<area shape="poly" id="edge34_Node000027_Node000005" title=" " alt="" coords="1658,380,1708,393,1742,405,1740,410,1707,399,1656,385"/>
+<area shape="poly" id="edge36_Node000028_Node000005" title=" " alt="" coords="1653,419,1740,419,1740,424,1653,424"/>
+<area shape="poly" id="edge41_Node000030_Node000005" title=" " alt="" coords="1665,456,1707,444,1740,433,1742,438,1708,449,1666,461"/>
+<area shape="rect" id="Node000032" href="$util_8cpp.html#a1e92dcf0a858a8ca61a31bcbfc168bff" title="Converts a vector to a yaw angle." alt="" coords="1024,357,1141,384"/>
+<area shape="poly" id="edge43_Node000031_Node000032" title=" " alt="" coords="931,363,1008,366,1008,371,931,369"/>
+<area shape="poly" id="edge45_Node000033_Node000011" title=" " alt="" coords="1154,331,1271,355,1270,360,1153,337"/>
+<area shape="poly" id="edge50_Node000037_Node000005" title=" " alt="" coords="439,181,830,176,1340,176,1451,181,1497,188,1539,199,1579,216,1619,239,1709,305,1729,325,1746,348,1769,392,1765,395,1742,350,1725,328,1706,309,1616,243,1576,221,1537,204,1496,193,1451,186,1339,181,830,181,439,187"/>
+<area shape="rect" id="Node000038" href="$animation_8cpp.html#aa62fd946399e78fa554403abc73d791a" title="Retrieves the eye position of the model." alt="" coords="525,216,637,243"/>
+<area shape="poly" id="edge51_Node000037_Node000038" title=" " alt="" coords="417,198,510,214,509,220,416,203"/>
+</map>

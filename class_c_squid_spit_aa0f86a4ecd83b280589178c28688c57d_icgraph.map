@@ -1,0 +1,7 @@
+<map id="CSquidSpit::Spawn" name="CSquidSpit::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the squid spit entity." alt="" coords="423,5,556,32"/>
+<area shape="rect" id="Node000002" href="$class_c_squid_spit.html#a895e2a596ba9891321b19b21568b0312" title="Shoots the squid spit entity." alt="" coords="247,5,375,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,21,375,21,375,16,408,16"/>
+<area shape="rect" id="Node000003" href="$class_c_bullsquid.html#a6631c371599184dc93b7209f1809e110" title="Handles animation events for the bullsquid." alt="" coords="5,5,199,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,21,199,21,199,16,231,16"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CHudAmmo::Reset" name="CHudAmmo::Reset">
+<area shape="rect" id="Node000001" title="Resets the ammo HUD to its default state." alt="" coords="5,31,139,57"/>
+<area shape="rect" id="Node000002" href="$class_weapons_resource.html#a84e7afe3f788241cc4b9c3075ae5c541" title=" " alt="" coords="187,5,360,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,33,171,29,172,34,139,38"/>
+<area shape="rect" id="Node000003" href="$class_history_resource.html#aa1c87d3cda9eec9673d336cfcfaf1759" title=" " alt="" coords="194,56,353,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,50,179,55,178,60,139,55"/>
+</map>

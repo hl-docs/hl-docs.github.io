@@ -1,0 +1,14 @@
+<map id="CRestore::BufferReadHeader" name="CRestore::BufferReadHeader">
+<area shape="rect" id="Node000001" title="Reads the header for a field from the save data." alt="" coords="5,56,193,83"/>
+<area shape="rect" id="Node000002" href="$class_c_restore.html#a496d349556bd63c40648e6a16f37adf8" title="Retrieves the current buffer pointer." alt="" coords="250,5,408,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,53,250,33,251,39,164,58"/>
+<area shape="rect" id="Node000003" href="$class_c_restore.html#a73f594ebe43fba44b2c0f4a9deae3ed2" title="Skips a specified number of bytes in the save data buffer." alt="" coords="241,56,417,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,67,225,67,225,72,193,72"/>
+<area shape="rect" id="Node000006" href="$class_c_restore.html#ac620277bfcebb0ee17b5e38b9a4b2adb" title="Reads a short integer from the save data." alt="" coords="257,107,401,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="164,81,251,100,250,105,162,86"/>
+<area shape="rect" id="Node000004" href="$class_c_restore.html#ad8fc064d5ba599de4f41faa5f257d37d" title="Reads a specified number of bytes from the save data buffer." alt="" coords="465,81,645,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,77,450,80,449,85,417,82"/>
+<area shape="rect" id="Node000005" href="$class_c_restore.html#ae755356c8043ae64d33d0973113763f6" title=" " alt="" coords="693,81,815,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="646,92,678,92,678,97,646,97"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="401,109,449,104,450,109,402,115"/>
+</map>

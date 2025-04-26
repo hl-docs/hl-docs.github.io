@@ -1,0 +1,13 @@
+<map id="CMomentaryDoor::Spawn" name="CMomentaryDoor::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the momentary door entity." alt="" coords="5,81,175,108"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="292,5,339,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,78,222,41,276,26,278,31,224,47,125,83"/>
+<area shape="rect" id="Node000003" href="$class_c_momentary_door.html#af31727159a7ff511af6cc75964c2e75f" title="Preloads all resources needed by the momentary door." alt="" coords="223,56,408,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,83,207,79,207,84,175,88"/>
+<area shape="rect" id="Node000004" href="$subs_8cpp.html#a63f7e85057f56715c4afed473f2e8ea1" title="Sets the movement direction based on angles." alt="" coords="273,107,358,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,102,258,111,257,116,175,107"/>
+<area shape="rect" id="Node000006" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="261,157,370,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="125,106,224,143,247,150,246,155,222,148,124,111"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="456,107,587,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,117,440,117,440,123,358,123"/>
+</map>

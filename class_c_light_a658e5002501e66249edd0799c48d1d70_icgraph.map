@@ -1,0 +1,5 @@
+<map id="CLight::KeyValue" name="CLight::KeyValue">
+<area shape="rect" id="Node000001" title="Caches user&#45;defined entity field values until spawn is called." alt="" coords="197,5,319,32"/>
+<area shape="rect" id="Node000002" href="$class_c_env_light.html#a614f45ff3a316e4a0777b58907d4d46a" title="Processes key&#45;value pairs for the environment light entity." alt="" coords="5,5,149,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,21,149,21,149,16,181,16"/>
+</map>

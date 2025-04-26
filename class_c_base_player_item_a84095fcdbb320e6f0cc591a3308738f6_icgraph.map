@@ -1,0 +1,18 @@
+<map id="CBasePlayerItem::Deploy" name="CBasePlayerItem::Deploy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="729,51,899,77"/>
+<area shape="rect" id="Node000002" href="$hl__weapons_8cpp.html#a7f536b4e474cf3eafb01428429fc7bbe" title="Runs the weapon logic on the client&#45;side during prediction." alt="" coords="272,25,440,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,46,728,29,680,16,610,9,540,10,474,18,418,27,417,22,473,12,539,5,611,3,681,11,729,24,773,41"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#aacdc393b4dfd357d5374f4a7f3bce415" title="Switch to the specified item by name." alt="" coords="501,25,668,52"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="713,55,669,51,669,45,713,50"/>
+<area shape="rect" id="Node000006" href="$class_c_base_player.html#a94e5d1c67efa1f0e7fbf7226922f4d06" title="Switches to the previously used item." alt="" coords="488,76,681,103"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="714,78,681,81,681,76,713,72"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player.html#a3b8e70ac52dfbe0eb3841f7b7fa8fbf7" title="Called when the player spawns." alt="" coords="512,127,657,153"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="766,86,682,117,643,129,641,123,680,112,765,81"/>
+<area shape="rect" id="Node000003" href="$hl__weapons_8cpp.html#a1b6fe5f64f2a0a1dc0e3ee9749c4eddb" title="Called after player movement prediction is done on the client." alt="" coords="92,25,224,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,41,225,41,225,36,257,36"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,25,44,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,41,44,41,44,36,76,36"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="507,124,487,117,425,86,376,55,379,50,428,81,489,112,508,119"/>
+<area shape="rect" id="Node000008" href="$client_8cpp.html#af33d5a5c62848a1bc073582e1906210a" title="Called each time a player is spawned." alt="" coords="296,127,416,153"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="497,143,417,143,417,137,497,137"/>
+</map>

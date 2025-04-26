@@ -1,0 +1,11 @@
+<map id="CAmbientGeneric::RampThink" name="CAmbientGeneric::RampThink">
+<area shape="rect" id="Node000001" title="Think function for ramping pitch and volume." alt="" coords="5,31,202,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="310,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,30,294,20,294,25,203,36"/>
+<area shape="rect" id="Node000003" href="$dlls_2util_8cpp.html#ad146598f5113a09b2d852650c03fe2b2" title="Emits an ambient sound at a specified origin." alt="" coords="250,56,416,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,52,234,56,234,61,202,58"/>
+<area shape="rect" id="Node000004" href="$class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="468,31,610,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,56,452,52,453,57,417,62"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="464,81,614,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="417,77,449,81,448,86,416,82"/>
+</map>

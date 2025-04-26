@@ -1,0 +1,12 @@
+<map id="CHandler_MenuButtonOver" name="CHandler_MenuButtonOver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,248,183,275"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="30,157,115,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,199,94,247,88,248,77,200"/>
+<area shape="rect" id="Node000003" href="$class_c_menu_panel.html" title=" " alt="" coords="140,157,235,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,197,109,249,106,245,161,193"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="252,163,262,171,253,178,236,180,235,175,251,173,256,171,249,167"/>
+<area shape="rect" id="Node000004" href="$class_c_transparent_panel.html" title=" " alt="" coords="122,81,253,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="190,123,190,157,185,157,185,123"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="160,5,215,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,47,190,81,185,81,185,47"/>
+</map>

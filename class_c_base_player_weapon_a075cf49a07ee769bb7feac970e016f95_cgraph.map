@@ -1,0 +1,5 @@
+<map id="CBasePlayerWeapon::PlayEmptySound" name="CBasePlayerWeapon::PlayEmptySound">
+<area shape="rect" id="Node000001" title="Plays the weapon&#39;s empty click sound when there&#39;s no ammo." alt="" coords="5,5,159,48"/>
+<area shape="rect" id="Node000002" href="$com__weapons_8cpp.html#ae77f42717e12fae99a5de062f745719c" title="Plays a sound at the player&#39;s location." alt="" coords="207,13,325,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,24,191,24,191,29,159,29"/>
+</map>

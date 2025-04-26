@@ -1,0 +1,7 @@
+<map id="CBaseMonster::ShootAtEnemy" name="CBaseMonster::ShootAtEnemy">
+<area shape="rect" id="Node000001" title="Calculates the direction to shoot at the enemy." alt="" coords="5,5,209,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#ae6e022656fe3a22490a6106abe7fea10" title=" " alt="" coords="257,5,425,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,16,241,16,241,21,209,21"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#ac63a5e1c0bec68ff48cbd01a27f941ae" title=" " alt="" coords="473,5,613,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,16,458,16,458,21,425,21"/>
+</map>

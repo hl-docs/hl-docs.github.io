@@ -1,0 +1,16 @@
+<map id="CTripmineGrenade::DelayDeathThink" name="CTripmineGrenade::DelayDeathThink">
+<area shape="rect" id="Node000001" title="Handles the delayed death of the tripmine grenade." alt="" coords="1191,27,1394,69"/>
+<area shape="rect" id="Node000002" href="$class_c_tripmine_grenade.html#a6bf59a330f1ce299d598b0795f338aa7" title="Handles the death of the tripmine grenade." alt="" coords="975,35,1143,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1175,51,1144,51,1144,45,1175,45"/>
+<area shape="rect" id="Node000003" href="$class_c_tripmine_grenade.html#af562a1755804f7d0a7ba94691ea46a64" title="Handles the beam break state of the tripmine grenade." alt="" coords="722,27,927,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="959,51,927,51,927,45,959,45"/>
+<area shape="rect" id="Node000004" href="$class_c_tripmine_grenade.html#ade51e8409b8576bc7d1bc08362d43611" title="Creates the beam for the tripmine grenade." alt="" coords="472,35,674,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="707,60,675,60,675,54,707,54"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="690,36,722,36,722,42,690,42"/>
+<area shape="rect" id="Node000005" href="$class_c_tripmine_grenade.html#aaed0d096f0eb79fbb48d6928c07fedfa" title="Handles the power&#45;up state of the tripmine grenade." alt="" coords="238,27,424,69"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="456,51,424,51,424,45,456,45"/>
+<area shape="rect" id="Node000006" href="$class_c_tripmine_grenade.html#addce686623ef4ac3b4d6ee1239a0b82f" title="Spawns the tripmine grenade entity." alt="" coords="10,5,185,32"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="221,37,185,32,186,27,222,32"/>
+<area shape="rect" id="Node000007" href="$class_c_tripmine_grenade.html#a8d214ec0fa4cebddcc296ea1ffec11be" title="Handles the warning state of the tripmine grenade." alt="" coords="5,56,190,99"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="222,64,191,68,190,63,222,59"/>
+</map>

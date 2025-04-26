@@ -1,0 +1,7 @@
+<map id="CBaseEntity::DeathNotice" name="CBaseEntity::DeathNotice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,31,334,57"/>
+<area shape="rect" id="Node000002" href="$class_c_leech.html#a88389f129498ef695922f776bbd3adab" title="Handles the death of the leech." alt="" coords="6,5,112,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,33,111,28,112,23,145,28"/>
+<area shape="rect" id="Node000003" href="$class_c_roach.html#a9a3606fc1fde8c3e911c6522fd28804c" title="Handles the death of the roach." alt="" coords="5,56,113,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,60,113,65,113,60,145,55"/>
+</map>

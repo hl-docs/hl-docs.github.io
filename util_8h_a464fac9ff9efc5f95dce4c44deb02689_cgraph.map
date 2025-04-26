@@ -1,0 +1,5 @@
+<map id="EMIT_SOUND_DYN" name="EMIT_SOUND_DYN">
+<area shape="rect" id="Node000001" title="Emits a dynamic sound for an entity." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="Node000002" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="192,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,16,176,16,176,21,144,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CHudServers::GetServerCount" name="CHudServers::GetServerCount">
+<area shape="rect" id="Node000001" title="Returns the number of servers currently listed in the server browser." alt="" coords="173,5,368,32"/>
+<area shape="rect" id="Node000002" href="$hud__servers_8cpp.html#a609aa9f08022a3bf993fc5714f053321" title="Returns the number of servers in the global server browser instance." alt="" coords="5,5,125,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,21,125,21,125,16,157,16"/>
+</map>

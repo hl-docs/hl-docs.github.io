@@ -1,0 +1,5 @@
+<map id="CHalfLifeMultiplay::PlayerKilled" name="CHalfLifeMultiplay::PlayerKilled">
+<area shape="rect" id="Node000001" title="Handles logic when a player is killed." alt="" coords="190,5,314,48"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#acd8c78636ad1ed18d6eae877a1ca7a3e" title="Handles the event when a player is killed." alt="" coords="5,5,142,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
+</map>

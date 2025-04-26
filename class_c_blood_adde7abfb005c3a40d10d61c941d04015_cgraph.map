@@ -1,0 +1,7 @@
+<map id="CBlood::Spawn" name="CBlood::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the blood effect entity." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="Node000002" href="$subs_8cpp.html#a63f7e85057f56715c4afed473f2e8ea1" title="Sets the movement direction based on angles." alt="" coords="164,5,249,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,16,148,16,148,21,116,21"/>
+<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="297,5,428,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,16,282,16,282,21,250,21"/>
+</map>

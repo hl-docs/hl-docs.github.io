@@ -1,0 +1,5 @@
+<map id="CommandButton::UpdateSubMenus" name="CommandButton::UpdateSubMenus">
+<area shape="rect" id="Node000001" title="Updates position of all submenus." alt="" coords="5,5,196,48"/>
+<area shape="rect" id="Node000002" href="$class_c_command_menu.html#a4ff791457ab39db932447e808bda2c5c" title="Recalculates the positions of the menu and ensures that submenus fit on the screen...." alt="" coords="244,5,441,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,24,228,24,228,29,196,29"/>
+</map>

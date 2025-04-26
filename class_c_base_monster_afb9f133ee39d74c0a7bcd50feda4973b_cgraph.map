@@ -1,0 +1,9 @@
+<map id="CBaseMonster::RouteSimplify" name="CBaseMonster::RouteSimplify">
+<area shape="rect" id="Node000001" title="Simplifies the monster&#39;s route by removing unnecessary nodes." alt="" coords="5,31,201,57"/>
+<area shape="rect" id="Node000002" href="$monsters_8cpp.html#aeaf867db3644fa8563ab05cc93b0f726" title=" " alt="" coords="260,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,29,245,23,245,29,201,34"/>
+<area shape="rect" id="Node000004" href="$monsters_8cpp.html#a76029d7e263a2f6d01ca64a8eb7976cb" title="Determines if a route can be simplified." alt="" coords="249,56,356,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,54,234,58,233,63,201,59"/>
+<area shape="rect" id="Node000003" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="404,5,538,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,16,388,16,388,21,345,21"/>
+</map>

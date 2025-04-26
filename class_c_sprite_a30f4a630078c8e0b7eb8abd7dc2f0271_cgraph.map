@@ -1,0 +1,9 @@
+<map id="CSprite::TurnOn" name="CSprite::TurnOn">
+<area shape="rect" id="Node000001" title="Turns on the sprite effect." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="Node000002" href="$class_c_sprite.html#ac8cf5a109300050a48f5ab1f7c64ce7b" title="Think function for sprite animation." alt="" coords="168,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,16,152,16,152,21,120,21"/>
+<area shape="rect" id="Node000003" href="$class_c_sprite.html#a3b4a06d55a75cb8827c515d10f538d16" title="Animates the sprite." alt="" coords="367,5,487,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,16,352,16,352,21,319,21"/>
+<area shape="rect" id="Node000004" href="$class_c_sprite.html#a1ceacbcb997d27b2d1cdc7f65cf98a8b" title="Turns off the sprite effect." alt="" coords="535,5,649,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,16,520,16,520,21,488,21"/>
+</map>

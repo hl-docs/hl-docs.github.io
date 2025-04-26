@@ -1,0 +1,5 @@
+<map id="CBasePlayer::TakeHealth" name="CBasePlayer::TakeHealth">
+<area shape="rect" id="Node000001" title="Overrides the TakeHealth function from CBaseMonster." alt="" coords="198,5,368,32"/>
+<area shape="rect" id="Node000002" href="$class_c_health_kit.html#acb9f2abcf36806a3ebaf96bd1b8d1742" title="Handles the interaction when a player touches the health kit." alt="" coords="5,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,21,150,21,150,16,182,16"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DrawAmmoBar" name="DrawAmmoBar">
+<area shape="rect" id="Node000001" title="Draws the ammo bars for primary and secondary ammo types." alt="" coords="5,31,114,57"/>
+<area shape="rect" id="Node000002" href="$class_weapons_resource.html#a909e6a23db8cf1b8f43f2bac2cc47b42" title="Counts the amount of ammo for a specific ammo type." alt="" coords="162,5,373,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,35,146,31,146,36,115,40"/>
+<area shape="rect" id="Node000003" href="$ammo_8cpp.html#a16c9a8ad5d71fc1db3180613880d83b5" title="Draws an individual ammo bar on the HUD." alt="" coords="232,56,303,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,48,217,61,216,66,114,53"/>
+<area shape="rect" id="Node000004" href="$cl__util_8h.html#a52eca3975d4d34bc8146918a0d62c1dc" title="Unpacks a RGB value (in hex format) into separate red, green, and blue components." alt="" coords="421,56,514,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,67,406,67,406,72,303,72"/>
+</map>

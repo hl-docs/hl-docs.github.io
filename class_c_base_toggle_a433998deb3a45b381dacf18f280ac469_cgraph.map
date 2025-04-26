@@ -1,0 +1,13 @@
+<map id="CBaseToggle::LinearMove" name="CBaseToggle::LinearMove">
+<area shape="rect" id="Node000001" title="Calculates velocity and next think time for linear movement." alt="" coords="5,56,177,83"/>
+<area shape="rect" id="Node000002" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="475,5,581,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,53,224,41,349,28,459,20,460,25,349,33,225,47,158,58"/>
+<area shape="rect" id="Node000004" href="$class_c_base_toggle.html#a2b5020905f97cbfb2bf612c459ab7d06" title="Finalizes the linear movement." alt="" coords="225,56,426,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,75,209,76,209,81,177,81"/>
+<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="630,5,674,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="582,16,615,16,615,21,582,21"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="224,63,192,63,192,58,224,58"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="381,53,459,33,460,38,383,58"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="474,56,582,83"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="426,67,458,67,458,72,426,72"/>
+</map>

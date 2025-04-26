@@ -1,0 +1,11 @@
+<map id="CHudBenchmark::Restart" name="CHudBenchmark::Restart">
+<area shape="rect" id="Node000001" title="Starts the benchmarking system." alt="" coords="5,35,175,61"/>
+<area shape="rect" id="Node000002" href="$hud__bench_8cpp.html#a7f37fe86eb47931b31870b598ea4a423" title="Sets the current benchmark stage." alt="" coords="254,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,34,238,26,239,31,175,40"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_benchmark.html#ab8b1f9bc0b708f232eb4eb6671ef18be" title="Starts the next benchmarking section based on the given stage." alt="" coords="223,56,405,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,56,207,61,207,66,175,62"/>
+<area shape="rect" id="Node000004" href="$hud__bench_8cpp.html#a0d99927ba36b870455c56ebdc54f26cc" title="Gets the switch time for the current stage." alt="" coords="453,64,606,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,75,437,75,437,80,406,80"/>
+<area shape="rect" id="Node000005" href="$hud__bench_8cpp.html#a2acca70ba9541b59d8154ab2ca54d037" title="Retrieves the current benchmark stage." alt="" coords="654,64,775,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="607,75,639,75,639,80,607,80"/>
+</map>

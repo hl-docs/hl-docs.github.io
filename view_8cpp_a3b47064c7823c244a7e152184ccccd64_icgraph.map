@@ -1,0 +1,24 @@
+<map id="V_StartPitchDrift" name="V_StartPitchDrift">
+<area shape="rect" id="Node000001" title="Starts the pitch drift effect." alt="" coords="774,56,892,83"/>
+<area shape="rect" id="Node000002" href="$input_8cpp.html#ae3279b6f886d7f2e360c813207bc4dce" title="Called when the mouse look (mlook) key is released." alt="" coords="631,5,726,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="775,53,721,35,722,30,776,48"/>
+<area shape="rect" id="Node000006" href="$view_8cpp.html#ac96da80618c259fcf4172134d119ab28" title="Drifts the pitch of the player&#39;s view towards the ideal pitch." alt="" coords="633,107,724,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="776,91,722,109,721,104,775,86"/>
+<area shape="rect" id="Node000010" href="$view_8cpp.html#a97c89d97d81b9fbcc4058631c2ac449e" title="Initializes various view&#45;related variables and commands." alt="" coords="651,56,706,83"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="759,72,706,72,706,67,759,67"/>
+<area shape="rect" id="Node000003" href="$input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="479,31,546,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="616,31,547,42,546,36,615,26"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#a00fc71573d53c2e98af62eaa8abbfa26" title="Initializes the HUD when a client connects to a server." alt="" coords="105,31,178,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,47,178,47,178,41,464,41"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,56,44,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="91,58,45,68,43,63,90,52"/>
+<area shape="rect" id="Node000007" href="$view_8cpp.html#a169b5970607e44dfd74e950b44948d13" title="Calculates the normal reference definition for the player&#39;s view." alt="" coords="442,107,583,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="618,123,583,123,583,117,618,117"/>
+<area shape="rect" id="Node000008" href="$view_8cpp.html#a5101ada71cb8cbb94a50a8409280a993" title="Calculates the player&#39;s or spectator&#39;s view during the frame." alt="" coords="92,81,191,108"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="427,117,192,101,192,95,427,112"/>
+<area shape="rect" id="Node000009" href="$view_8cpp.html#a40c60871c5337416492e52d53c480159" title="Calculates the spectator&#39;s view during different modes." alt="" coords="239,132,394,159"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="427,134,395,138,394,133,427,128"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="76,83,44,76,45,71,78,78"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="252,130,189,111,191,106,254,124"/>
+<area shape="poly" id="edge12_Node000010_Node000003" title=" " alt="" coords="636,66,546,52,547,46,636,60"/>
+</map>

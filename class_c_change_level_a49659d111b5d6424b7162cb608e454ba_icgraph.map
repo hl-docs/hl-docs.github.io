@@ -1,0 +1,12 @@
+<map id="CChangeLevel::InTransitionVolume" name="CChangeLevel::InTransitionVolume">
+<area shape="rect" id="Node000001" title="Checks if an entity is in the specified transition volume." alt="" coords="716,35,894,77"/>
+<area shape="rect" id="Node000002" href="$class_c_change_level.html#afd9334e5464c6d1c6064606cb3d7bd48" title="Changes the level immediately." alt="" coords="459,43,668,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="701,59,669,59,669,53,701,53"/>
+<area shape="rect" id="Node000003" href="$class_c_change_level.html#ab5157ddf7f8ce4ef570f8c7615858317" title="Handles the touch event for the change level trigger." alt="" coords="212,5,403,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,45,403,40,403,35,444,40"/>
+<area shape="rect" id="Node000005" href="$class_c_change_level.html#a5f6126570a63a374908d9ab3d5504d7e" title="Activates the change level when triggered." alt="" coords="204,72,411,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="444,72,412,76,411,71,443,67"/>
+<area shape="rect" id="Node000004" href="$class_c_change_level.html#a60485c813e292eba0270b8d78f68000c" title="Initializes the change level trigger entity." alt="" coords="5,43,156,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,44,156,49,156,44,196,38"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="188,73,156,68,156,63,189,67"/>
+</map>

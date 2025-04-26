@@ -1,0 +1,9 @@
+<map id="CGlockAmmo::Spawn" name="CGlockAmmo::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the ammo entity for the Glock." alt="" coords="5,56,155,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="271,5,317,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,53,255,25,256,30,140,58"/>
+<area shape="rect" id="Node000003" href="$class_c_glock_ammo.html#a804dad4b8024dd170cacf23eef501831" title="Preloads the resources needed for the Glock ammo." alt="" coords="211,56,377,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,67,196,67,196,72,155,72"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player_ammo.html#a13402d91be00ef4937c8b9bf3a83024c" title="Spawns the ammo entity in the game world." alt="" coords="203,107,385,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,81,220,100,219,105,139,86"/>
+</map>

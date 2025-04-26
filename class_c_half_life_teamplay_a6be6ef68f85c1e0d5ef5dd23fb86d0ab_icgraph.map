@@ -1,0 +1,13 @@
+<map id="CHalfLifeTeamplay::GetTeamID" name="CHalfLifeTeamplay::GetTeamID">
+<area shape="rect" id="Node000001" title="Retrieves the team ID for a specified entity." alt="" coords="403,105,539,148"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_teamplay.html#aac3b84e95c79e8cfce7a1c6e565a839a" title="Determines the relationship between two players." alt="" coords="219,105,355,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,129,356,129,356,124,388,124"/>
+<area shape="rect" id="Node000003" href="$class_c_half_life_teamplay.html#ac5ea703eac1a11a07cbe4acece6a60c4" title="Handles the death notice for players." alt="" coords="20,5,156,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,100,169,62,145,51,147,46,172,58,239,95"/>
+<area shape="rect" id="Node000004" href="$class_c_half_life_teamplay.html#a9dbb937907c0dd575efc710f70f267dd" title="Determines if a player can take damage from an attacker." alt="" coords="5,72,171,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="203,115,171,110,172,105,204,110"/>
+<area shape="rect" id="Node000005" href="$class_c_half_life_teamplay.html#a221247741a39475b25522217c6e104e9" title="Determines the points awarded for a kill." alt="" coords="20,139,156,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="204,143,157,151,156,146,203,138"/>
+<area shape="rect" id="Node000006" href="$class_c_half_life_teamplay.html#a542bfed5fa6047fa8ed955725cd9b402" title="Determines if auto&#45;aim should be applied to a target." alt="" coords="20,205,156,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="239,158,172,196,147,207,145,202,169,191,237,154"/>
+</map>

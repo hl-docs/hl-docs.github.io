@@ -1,0 +1,7 @@
+<map id="CTentacle::KeyValue" name="CTentacle::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the tentacle." alt="" coords="5,31,149,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="251,5,314,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,235,22,236,27,150,38"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#afe35b9ade6e7eb5b0095b22d885fc811" title="Processes key&#45;value pairs for the monster." alt="" coords="197,56,368,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,50,181,54,181,59,149,56"/>
+</map>

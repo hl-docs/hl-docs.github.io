@@ -1,0 +1,5 @@
+<map id="CBaseMonster::CheckMeleeAttack2" name="CBaseMonster::CheckMeleeAttack2">
+<area shape="rect" id="Node000001" title="Checks if the monster can perform a second melee attack." alt="" coords="251,5,438,48"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a69dcd46cea5235bcc780d2c7dc5afc3a" title="Checks if the monster can attack the specified target." alt="" coords="5,13,203,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,29,203,29,203,24,235,24"/>
+</map>

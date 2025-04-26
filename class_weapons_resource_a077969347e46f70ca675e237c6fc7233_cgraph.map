@@ -1,0 +1,7 @@
+<map id="WeaponsResource::SelectSlot" name="WeaponsResource::SelectSlot">
+<area shape="rect" id="Node000001" title="Selects the appropriate weapon slot and manages weapon selection." alt="" coords="5,31,205,57"/>
+<area shape="rect" id="Node000002" href="$cl__util_8h.html#a94e0b3cb3acf2d4519928b6e70cbacfc" title="Plays a sound by its name with the specified volume." alt="" coords="304,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,31,289,22,289,27,205,36"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_menu.html#a15035da6224fd06591046e0cf5e80e16" title="Handles a menu selection by the player." alt="" coords="253,56,440,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,52,237,55,237,61,205,57"/>
+</map>

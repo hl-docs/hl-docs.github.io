@@ -1,0 +1,7 @@
+<map id="CMomentaryRotButton::KeyValue" name="CMomentaryRotButton::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value data for the momentary rotating button entity." alt="" coords="5,23,159,65"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="257,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,32,241,22,242,27,159,37"/>
+<area shape="rect" id="Node000003" href="$class_c_base_toggle.html#a99ba6e5114504377f537ca98b3afec40" title="Handles key&#45;value pairs for the toggle entity." alt="" coords="207,56,369,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,51,191,55,191,60,159,56"/>
+</map>

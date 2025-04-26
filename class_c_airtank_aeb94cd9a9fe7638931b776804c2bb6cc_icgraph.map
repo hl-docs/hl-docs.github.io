@@ -1,0 +1,5 @@
+<map id="CAirtank::TankThink" name="CAirtank::TankThink">
+<area shape="rect" id="Node000001" title="Handles the airtank&#39;s think behavior." alt="" coords="172,5,310,32"/>
+<area shape="rect" id="Node000002" href="$class_c_airtank.html#aa0dd52579b35b6b82b346dfa44a805eb" title="Spawns the airtank entity in the game." alt="" coords="5,5,124,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,21,124,21,124,16,156,16"/>
+</map>

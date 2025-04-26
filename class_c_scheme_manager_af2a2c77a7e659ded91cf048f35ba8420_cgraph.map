@@ -1,0 +1,5 @@
+<map id="CSchemeManager::getFgMousedownColor" name="CSchemeManager::getFgMousedownColor">
+<area shape="rect" id="Node000001" title="Retrieves the foreground color when the scheme is in a &quot;mousedown&quot; state." alt="" coords="5,5,244,48"/>
+<area shape="rect" id="Node000002" href="$class_c_scheme_manager.html#a5cc92793b3dcfb701d74281fea7d4c77" title="Always returns a valid scheme, even if the handle is invalid." alt="" coords="292,13,520,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,24,276,24,276,29,244,29"/>
+</map>

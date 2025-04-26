@@ -1,0 +1,7 @@
+<map id="CTriggerCamera::KeyValue" name="CTriggerCamera::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the camera trigger." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="279,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,31,263,21,264,27,184,36"/>
+<area shape="rect" id="Node000003" href="$class_c_base_delay.html#a1674d768d18d41f701fc57735158c990" title="Handles key&#45;value pairs for the delay entity." alt="" coords="232,56,389,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,52,216,56,216,61,183,57"/>
+</map>

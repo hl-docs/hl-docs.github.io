@@ -1,0 +1,5 @@
+<map id="CBlood::Direction" name="CBlood::Direction">
+<area shape="rect" id="Node000001" title="Determines the direction of the blood effect." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="Node000002" href="$dlls_2util_8cpp.html#a515164bd1bea171a6ef8207548f9a93c" title="Generates a random direction vector for blood effects." alt="" coords="176,5,349,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,16,160,16,160,21,128,21"/>
+</map>

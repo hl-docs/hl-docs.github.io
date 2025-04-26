@@ -1,0 +1,7 @@
+<map id="CBasePlayer::TabulateAmmo" name="CBasePlayer::TabulateAmmo">
+<area shape="rect" id="Node000001" title="Tabulates the player&#39;s ammo inventory." alt="" coords="5,31,198,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#adcbfba519d919bf60ee0d943907219ea" title="Retrieves the amount of a specific type of ammo in the player&#39;s inventory." alt="" coords="246,5,441,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,31,230,28,231,33,198,37"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#a672bb131a284c013918e754c2cf59dd1" title="Gets the index of a specific ammo type." alt="" coords="246,56,441,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,51,230,55,230,60,198,57"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="EV_FireShotGunDouble" name="EV_FireShotGunDouble">
+<area shape="rect" id="Node000001" title="Handles double&#45;barrel shotgun fire event." alt="" coords="5,157,165,184"/>
+<area shape="rect" id="Node000002" href="$ev__common_8cpp.html#a3533c892823f175556e77f8567c00595" title="Creates a temporary shell casing model at the given position." alt="" coords="236,5,346,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,155,143,104,176,75,211,48,233,36,236,41,214,53,179,79,147,108,100,159"/>
+<area shape="rect" id="Node000003" href="$ev__common_8cpp.html#ab6c10fcfcc23da65e1b5df1edd87369d" title="Computes the default shell ejection velocity and origin based on player position and orientation." alt="" coords="213,157,369,184"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,168,197,168,197,173,165,173"/>
+<area shape="rect" id="Node000004" href="$ev__common_8cpp.html#a8f60c02cea0ae9a964b3c3a4d04c3607" title="Checks if the entity index is the local player." alt="" coords="471,56,558,83"/>
+<area shape="poly" id="edge16_Node000001_Node000004" title=" " alt="" coords="102,155,149,122,180,105,212,92,276,76,341,68,456,64,456,69,342,73,277,82,213,97,182,110,152,126,105,159"/>
+<area shape="rect" id="Node000006" href="$ev__common_8cpp.html#a1c1ba88cdb56a97d1df7d12f7e8a334a" title="Calculates the gun&#39;s position based on player&#39;s origin and view offset." alt="" coords="222,107,360,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="142,154,218,135,220,140,143,159"/>
+<area shape="rect" id="Node000007" href="$ev__hldm_8cpp.html#a000d400a5b412d336be5b8de4b7ef5ea" title="Fires multiple bullets from a weapon, handling spread, tracers, and decals." alt="" coords="215,208,367,235"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="143,182,220,201,218,206,142,187"/>
+<area shape="rect" id="Node000015" href="$ev__common_8cpp.html#a13f326df9ea25e5cb0b08b6d5c32c736" title="Triggers the muzzle flash effect on the current weapon model." alt="" coords="231,259,351,285"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="108,182,155,213,214,244,228,250,226,255,212,249,152,217,105,187"/>
+<area shape="rect" id="Node000017" href="$view_8cpp.html#a2f5369314d059220daef1326f159bd87" title="Applies a punch effect to a specific axis of the player&#39;s view." alt="" coords="241,309,341,336"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="99,183,145,237,178,268,214,295,227,302,225,307,211,300,174,272,141,241,95,186"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="345,154,368,143,382,131,391,118,400,105,416,92,455,76,457,81,418,97,404,109,395,121,386,134,370,148,347,159"/>
+<area shape="rect" id="Node000005" href="$ev__common_8cpp.html#acc7edcd9e402d1b9b56edc6a7707ccb3" title="Determines if the index belongs to a player." alt="" coords="468,107,561,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="353,154,452,131,454,136,354,159"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="353,103,455,80,456,85,354,109"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="360,117,452,117,452,123,360,123"/>
+<area shape="rect" id="Node000008" href="$ev__hldm_8cpp.html#a585e65506f016156fe670b2b8c4d2f1b" title="Conditionally spawns a tracer effect for a bullet." alt="" coords="434,157,596,184"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="353,205,437,185,438,191,354,210"/>
+<area shape="rect" id="Node000010" href="$ev__hldm_8cpp.html#aad969e4ce7669f60d1820b9be2b7ab05" title="Applies a gunshot decal based on bullet type." alt="" coords="429,208,600,235"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="367,219,414,219,414,224,367,224"/>
+<area shape="rect" id="Node000013" href="$ev__hldm_8cpp.html#a0f5ae71dd14a92425a750b9334af17c1" title="Plays a texture&#45;dependent impact sound when a bullet or melee attack hits a surface." alt="" coords="417,259,612,285"/>
+<area shape="poly" id="edge14_Node000007_Node000013" title=" " alt="" coords="354,233,438,252,437,257,353,238"/>
+<area shape="rect" id="Node000009" href="$ev__common_8cpp.html#a7b0268fa61bc5140516f9f12bd23af3d" title="Creates a tracer effect between two points." alt="" coords="702,132,822,159"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="596,160,686,150,687,156,597,165"/>
+<area shape="rect" id="Node000011" href="$ev__hldm_8cpp.html#a0d9b9749625b770d94c3baba74b4deb8" title="Returns the appropriate damage decal name for the given physical entity." alt="" coords="677,183,847,209"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="601,210,661,204,662,209,601,215"/>
+<area shape="rect" id="Node000012" href="$ev__hldm_8cpp.html#a7723fd4dbc70e8c9b9cdbc78a39a0317" title="Handles bullet impact visuals and sounds, and applies a damage decal." alt="" coords="660,233,864,260"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="601,227,645,232,645,237,601,233"/>
+<area shape="rect" id="Node000014" href="$pm__shared_8c.html#ad69b0264310e1758470f45f9cb82488e" title="Finds the type of a texture by its name." alt="" coords="690,284,834,311"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="613,279,675,286,674,291,612,285"/>
+<area shape="rect" id="Node000016" href="$ev__common_8cpp.html#ad80554ac87e34a4b8d5b429988ca46ee" title="Gets the current weapon/view model entity." alt="" coords="463,309,567,336"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="352,283,448,305,447,310,351,288"/>
+</map>

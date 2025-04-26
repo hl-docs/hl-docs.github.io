@@ -1,0 +1,5 @@
+<map id="CBasePlayer::UpdatePlayerSound" name="CBasePlayer::UpdatePlayerSound">
+<area shape="rect" id="Node000001" title="Updates the player&#39;s sound position in the sound list." alt="" coords="5,5,189,48"/>
+<area shape="rect" id="Node000002" href="$class_c_sound_ent.html#a19af8b5ab82b0ecac33e58f616826792" title="Returns a pointer to the sound instance at the specified index." alt="" coords="237,5,429,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,24,221,24,221,29,189,29"/>
+</map>

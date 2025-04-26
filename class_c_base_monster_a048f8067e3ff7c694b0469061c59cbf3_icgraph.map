@@ -1,0 +1,18 @@
+<map id="CBaseMonster::PlaySentence" name="CBaseMonster::PlaySentence">
+<area shape="rect" id="Node000001" title="Plays a specified sentence sound." alt="" coords="895,35,1091,61"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a49b47f82870c6ef1723c6d72dcb49742" title="Plays a scripted sentence sound." alt="" coords="657,27,847,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="879,51,847,51,847,45,879,45"/>
+<area shape="rect" id="Node000003" href="$class_c_g_man.html#ae1ec9da023b09c47ae6e9c81430398eb" title="Plays a scripted sentence for the G&#45;Man." alt="" coords="407,5,609,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="642,37,610,34,610,28,642,32"/>
+<area shape="rect" id="Node000004" href="$class_c_scripted_sentence.html#a4d6b7118c26cf8d5431a1b91470e968b" title="Starts the scripted sentence for the target monster." alt="" coords="438,56,579,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="642,64,580,71,579,66,642,59"/>
+<area shape="rect" id="Node000005" href="$class_c_scripted_sentence.html#a89cc8b3fcfe1175b282e72e549e5ead4" title="Think function to find a suitable entity to play the sentence." alt="" coords="218,56,359,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="422,80,359,80,359,75,422,75"/>
+<area shape="rect" id="Node000006" href="$class_c_scripted_sentence.html#a92371e6ec9b7bd360b69eaa0cc0f7386" title="Think function to delay the next sentence activation." alt="" coords="17,23,158,65"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="202,75,158,67,159,62,203,69"/>
+<area shape="rect" id="Node000007" href="$class_c_scripted_sentence.html#ad3eb2e1e459741ef3a4c1f85ce1c3d03" title="Spawns the scripted sentence." alt="" coords="17,89,158,132"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="203,94,159,102,158,96,202,89"/>
+<area shape="rect" id="Node000008" href="$class_c_scripted_sentence.html#af0577b840f16efa228fafaf79c0cc2d6" title="Activates the scripted sentence." alt="" coords="5,156,170,183"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="241,109,171,146,140,158,138,153,169,142,239,105"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="174,47,218,54,217,60,173,52"/>
+</map>

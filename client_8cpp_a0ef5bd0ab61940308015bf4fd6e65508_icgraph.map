@@ -1,0 +1,7 @@
+<map id="Custom_Entity_FieldInit" name="Custom_Entity_FieldInit">
+<area shape="rect" id="Node000001" title="Initializes the fields for custom entity state delta encoding." alt="" coords="343,5,502,32"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#a73dcdd7890b36ece95ac879a1323b075" title="Encodes the custom entity state for network transmission." alt="" coords="178,5,295,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,21,295,21,295,16,327,16"/>
+<area shape="rect" id="Node000003" href="$client_8cpp.html#ae7ca93e1680638a6885c6b6e485e3e5f" title="Registers custom encoders for network transmission." alt="" coords="5,5,130,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,21,130,21,130,16,162,16"/>
+</map>

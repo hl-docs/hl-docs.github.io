@@ -1,0 +1,31 @@
+<map id="CBaseTrigger::TeleportTouch" name="CBaseTrigger::TeleportTouch">
+<area shape="rect" id="Node000001" title="Handles the touch event for the teleport trigger." alt="" coords="5,183,194,209"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="447,5,669,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,180,167,137,203,113,241,92,290,72,341,56,440,33,442,38,343,61,292,77,243,97,205,117,170,141,117,184"/>
+<area shape="rect" id="Node000003" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="523,232,594,259"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,203,508,237,507,243,194,209"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="246,157,395,184"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="194,183,230,178,231,184,194,188"/>
+<area shape="rect" id="Node000007" href="$dlls_2util_8cpp.html#a98df9753b7c184ab5017e937755f60ef" title="Checks if a master entity is triggered by a given activator." alt="" coords="242,107,399,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="137,180,241,143,260,136,262,141,243,148,139,185"/>
+<area shape="rect" id="Node000012" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="266,259,375,285"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="142,207,266,251,264,256,140,212"/>
+<area shape="rect" id="Node000013" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="292,309,349,336"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="118,208,172,250,243,295,278,309,276,314,240,300,169,254,115,212"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="520,233,514,223,518,213,533,207,558,205,585,208,599,214,597,219,583,213,558,211,535,213,522,217,519,223,525,230"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="717,195,848,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="594,237,702,219,702,224,595,242"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="896,144,942,171"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="820,192,880,169,882,174,822,197"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="339,104,386,73,446,42,467,34,468,39,448,46,389,77,342,108"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="377,132,400,143,416,156,425,169,435,181,449,194,478,212,509,226,507,231,476,216,445,198,431,185,421,172,412,160,398,148,375,136"/>
+<area shape="rect" id="Node000008" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="483,56,634,83"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="386,103,477,84,478,89,387,109"/>
+<area shape="rect" id="Node000010" href="$class_c_base_entity.html#ac2d5079ef409ec0e47096ba3a42f4be6" title=" " alt="" coords="476,107,641,133"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="399,117,460,117,460,123,399,123"/>
+<area shape="rect" id="Node000011" href="$class_c_base_entity.html#ae8fb0a77c3af0f3285cf0c8a76b9c424" title=" " alt="" coords="473,157,643,184"/>
+<area shape="poly" id="edge14_Node000007_Node000011" title=" " alt="" coords="387,131,478,151,477,156,386,137"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="634,61,684,60,738,65,795,74,849,92,876,109,899,130,895,134,873,114,847,97,793,80,738,70,683,66,634,66"/>
+<area shape="rect" id="Node000009" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="728,107,837,133"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="621,81,713,102,712,107,620,86"/>
+</map>

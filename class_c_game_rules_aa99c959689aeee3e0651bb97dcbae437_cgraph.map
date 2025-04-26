@@ -1,0 +1,15 @@
+<map id="CGameRules::CanHavePlayerItem" name="CGameRules::CanHavePlayerItem">
+<area shape="rect" id="Node000001" title="Checks if the player can have a specific item." alt="" coords="5,107,225,133"/>
+<area shape="rect" id="Node000002" href="$class_c_game_rules.html#a16ad07959990820b5ccb608266052056" title="Checks if the player can have more ammo of a specific type." alt="" coords="277,31,472,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,104,272,67,300,59,301,64,273,72,157,109"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#acf65e846866c0c0bb9c303c8cc11d62e" title="Checks if the player already has a specific item." alt="" coords="279,81,470,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,107,263,103,264,108,225,112"/>
+<area shape="rect" id="Node000006" href="$class_c_base_player_item.html#aaf655b98580ee225b568f4ca90e0de1d" title=" " alt="" coords="273,132,476,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="225,128,257,131,257,137,225,133"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player_item.html#a6abf912d6f83cafe942e9fd10e03729d" title=" " alt="" coords="276,183,473,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="157,131,273,168,301,176,300,181,272,173,156,136"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#adcbfba519d919bf60ee0d943907219ea" title="Retrieves the amount of a specific type of ammo in the player&#39;s inventory." alt="" coords="525,5,719,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,31,508,28,509,33,473,37"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a672bb131a284c013918e754c2cf59dd1" title="Gets the index of a specific ammo type." alt="" coords="524,56,719,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="473,51,509,55,508,60,472,57"/>
+</map>

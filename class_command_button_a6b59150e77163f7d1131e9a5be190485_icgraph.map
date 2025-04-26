@@ -1,0 +1,19 @@
+<map id="CommandButton::IsNotValid" name="CommandButton::IsNotValid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="710,109,896,136"/>
+<area shape="rect" id="Node000002" href="$class_team_only_command_button.html#affab094033e93eaa3378062cf25e010d" title=" " alt="" coords="485,72,662,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,112,662,107,663,102,695,106"/>
+<area shape="rect" id="Node000003" href="$class_c_team_menu_panel.html#a3426267eeb7df855547ce68b636b1fd0" title="Updates all elements in the team selection menu." alt="" coords="486,139,662,165"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="696,139,663,143,662,138,695,134"/>
+<area shape="rect" id="Node000004" href="$class_team_fortress_viewport.html#aeb494989102ce63626486d1c839ba0e9" title="Handles message that sets whether spectators are allowed." alt="" coords="245,5,397,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="491,134,483,129,467,112,459,94,451,78,435,62,396,43,398,38,439,58,455,75,463,92,471,109,487,125,494,129"/>
+<area shape="rect" id="Node000005" href="$class_team_fortress_viewport.html#ac5be4d5dab97bf313732957449d34f24" title="Handles the message for team names." alt="" coords="239,72,403,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="498,137,402,115,403,110,499,132"/>
+<area shape="rect" id="Node000006" href="$class_c_team_menu_panel.html#af320c460259886b676937b567c75ace8" title="Opens and updates the team menu." alt="" coords="238,139,404,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="470,155,405,155,405,149,470,149"/>
+<area shape="rect" id="Node000007" href="$class_c_team_menu_panel.html#ad7b6e1344b71d35afd24759e75c977cd" title="Custom background rendering and map briefing update trigger." alt="" coords="205,189,437,216"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="489,172,391,191,390,186,488,166"/>
+<area shape="rect" id="Node000008" href="$class_team_fortress_viewport.html#aed5f7bbf0eb35b50c25fdeffbc67952e" title="Updates menus that depend on player info." alt="" coords="245,240,397,283"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="540,176,492,204,438,230,398,245,396,240,436,226,490,199,537,172"/>
+<area shape="rect" id="Node000009" href="$class_team_fortress_viewport.html#a31ec50f14a967ae22d296bd75a8ea5ab" title="Handles player score information." alt="" coords="5,240,157,283"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="230,264,157,264,157,259,230,259"/>
+</map>

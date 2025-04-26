@@ -1,0 +1,5 @@
+<map id="CFlockingFlyer::FallHack" name="CFlockingFlyer::FallHack">
+<area shape="rect" id="Node000001" title="Handles the boid&#39;s fall behavior." alt="" coords="202,5,369,32"/>
+<area shape="rect" id="Node000002" href="$class_c_flocking_flyer.html#aaea7dce760525bbb794456d2aa726cf8" title="Handles the boid&#39;s death." alt="" coords="5,5,154,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,21,154,21,154,16,186,16"/>
+</map>

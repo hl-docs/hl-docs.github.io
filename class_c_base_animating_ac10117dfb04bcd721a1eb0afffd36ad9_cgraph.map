@@ -1,0 +1,6 @@
+<map id="CBaseAnimating::FindTransition" name="CBaseAnimating::FindTransition">
+<area shape="rect" id="Node000001" title="Finds the transition from one sequence to another." alt="" coords="5,29,213,56"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="79,30,74,21,77,11,89,5,109,3,130,5,141,12,139,16,128,10,109,8,91,10,81,15,79,20,84,28"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="261,29,307,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,40,245,40,245,45,213,45"/>
+</map>

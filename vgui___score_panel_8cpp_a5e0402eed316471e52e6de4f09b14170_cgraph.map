@@ -1,0 +1,5 @@
+<map id="HUD_IsGame" name="HUD_IsGame">
+<area shape="rect" id="Node000001" title="Checks if the current game directory matches the specified name." alt="" coords="5,5,106,32"/>
+<area shape="rect" id="Node000002" href="$hud_8cpp.html#a73dbfbd112bc147678f3d8489b8cb5bc" title="Extracts the base name of a file, removing directory and extension." alt="" coords="154,5,263,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,16,138,16,138,21,106,21"/>
+</map>

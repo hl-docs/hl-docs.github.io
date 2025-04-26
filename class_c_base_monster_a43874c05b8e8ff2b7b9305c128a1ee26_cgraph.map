@@ -1,0 +1,7 @@
+<map id="CBaseMonster::MovementComplete" name="CBaseMonster::MovementComplete">
+<area shape="rect" id="Node000001" title="Marks the movement as complete." alt="" coords="5,5,235,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a024c0e956ca067ea04615cf874efee79" title=" " alt="" coords="283,5,481,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,16,267,16,267,21,235,21"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#ad47e63eada724d17f05421fd73911cd1" title=" " alt="" coords="529,5,728,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,16,513,16,513,21,481,21"/>
+</map>

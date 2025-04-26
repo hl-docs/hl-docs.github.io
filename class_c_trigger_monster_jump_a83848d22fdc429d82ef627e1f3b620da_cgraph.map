@@ -1,0 +1,5 @@
+<map id="CTriggerMonsterJump::Think" name="CTriggerMonsterJump::Think">
+<area shape="rect" id="Node000001" title="Handles the think function for the monster jump trigger." alt="" coords="5,5,153,48"/>
+<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="201,13,309,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,24,185,24,185,29,153,29"/>
+</map>

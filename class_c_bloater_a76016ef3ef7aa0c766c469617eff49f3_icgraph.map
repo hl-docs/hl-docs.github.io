@@ -1,0 +1,5 @@
+<map id="CBloater::AttackSnd" name="CBloater::AttackSnd">
+<area shape="rect" id="Node000001" title="Plays the attack sound for the bloater." alt="" coords="235,5,375,32"/>
+<area shape="rect" id="Node000002" href="$class_c_bloater.html#a928bf0ffa55424b5e5d42411e3ab7cfe" title="Handles animation events specific to the bloater." alt="" coords="5,5,187,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,21,187,21,187,16,219,16"/>
+</map>

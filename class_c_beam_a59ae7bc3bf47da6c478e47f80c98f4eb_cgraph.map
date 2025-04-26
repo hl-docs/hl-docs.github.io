@@ -1,0 +1,9 @@
+<map id="CBeam::Precache" name="CBeam::Precache">
+<area shape="rect" id="Node000001" title="Precaches the beam entity." alt="" coords="5,56,133,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="216,5,300,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,53,201,31,202,36,122,58"/>
+<area shape="rect" id="Node000003" href="$class_c_beam.html#a7876de5e9998abf12b44bee5cb269ccb" title="Sets the end entity for the beam." alt="" coords="183,56,333,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,67,168,67,168,72,133,72"/>
+<area shape="rect" id="Node000004" href="$class_c_beam.html#a342ac202ea3477215befac4a9f2e97c8" title="Sets the start entity for the beam." alt="" coords="181,107,335,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,81,192,100,190,105,121,86"/>
+</map>

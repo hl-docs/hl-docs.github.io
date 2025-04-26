@@ -1,0 +1,5 @@
+<map id="CHudBenchmark::Bench_ScoreForValue" name="CHudBenchmark::Bench_ScoreForValue">
+<area shape="rect" id="Node000001" title="Calculates the score for a specific stage based on a raw performance value." alt="" coords="5,5,170,48"/>
+<area shape="rect" id="Node000002" href="$hud__bench_8cpp.html#a23ae11d0d6681b54fae5415c1a90e4d1" title="Checks if PowerPlay mode is currently active." alt="" coords="218,13,366,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,24,202,24,202,29,170,29"/>
+</map>

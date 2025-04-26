@@ -1,0 +1,24 @@
+<map id="CLightning::RandomArea" name="CLightning::RandomArea">
+<area shape="rect" id="Node000001" title="Generates a random lightning strike within an area." alt="" coords="5,81,171,108"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="258,5,305,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,78,243,31,245,36,125,83"/>
+<area shape="rect" id="Node000003" href="$class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="219,56,344,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,81,203,77,204,82,172,86"/>
+<area shape="rect" id="Node000007" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="226,107,337,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="172,103,211,108,210,113,171,108"/>
+<area shape="rect" id="Node000008" href="$class_c_lightning.html#a9f99354a1bc0f88c5eb9c1fcce1c9402" title="Creates a zap effect between two points." alt="" coords="226,157,337,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="125,106,232,149,230,154,123,111"/>
+<area shape="rect" id="Node000004" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="404,19,510,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="344,53,388,44,389,49,345,59"/>
+<area shape="rect" id="Node000006" href="$class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="404,69,509,96"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="345,71,389,75,388,80,344,77"/>
+<area shape="rect" id="Node000005" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="595,19,639,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="510,29,580,29,580,35,510,35"/>
+<area shape="rect" id="Node000009" href="$class_c_beam.html#a4f57155cb77072aab5923db1403b4eea" title="Creates sparks at the start and/or end of the beam." alt="" coords="392,132,521,159"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="337,160,376,154,377,160,338,165"/>
+<area shape="rect" id="Node000011" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="713,157,847,184"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="338,168,697,168,697,173,338,173"/>
+<area shape="rect" id="Node000010" href="$dlls_2util_8cpp.html#a98b7dd5c6b2ea38ab577a0ea282b5a22" title="Emits sparks at a specified position." alt="" coords="569,132,665,159"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="522,143,554,143,554,148,522,148"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="666,150,698,155,697,160,665,155"/>
+</map>

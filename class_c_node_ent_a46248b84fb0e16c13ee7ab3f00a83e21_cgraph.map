@@ -1,0 +1,7 @@
+<map id="CNodeEnt::KeyValue" name="CNodeEnt::KeyValue">
+<area shape="rect" id="Node000001" title="Handles key&#45;value pairs for the node entity." alt="" coords="5,31,150,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="246,5,308,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,230,22,230,27,150,37"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="198,56,356,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,51,182,55,182,60,149,56"/>
+</map>

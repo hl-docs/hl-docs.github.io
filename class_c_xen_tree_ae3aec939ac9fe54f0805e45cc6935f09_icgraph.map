@@ -1,0 +1,5 @@
+<map id="CXenTree::Precache" name="CXenTree::Precache">
+<area shape="rect" id="Node000001" title="Preloads the resources needed by the Xen tree." alt="" coords="177,5,316,32"/>
+<area shape="rect" id="Node000002" href="$class_c_xen_tree.html#a2e1e24450624b1bedd462516ced01c7d" title="Spawns the Xen tree entity." alt="" coords="5,5,129,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,21,129,21,129,16,161,16"/>
+</map>

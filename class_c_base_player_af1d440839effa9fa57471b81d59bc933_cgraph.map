@@ -1,0 +1,5 @@
+<map id="CBasePlayer::Killed" name="CBasePlayer::Killed">
+<area shape="rect" id="Node000001" title="Called when the player is killed." alt="" coords="5,5,143,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_item.html#a78d369b4bae2280a8c8e95086da28b85" title="Holsters a player item." alt="" coords="191,5,362,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,16,175,16,175,21,143,21"/>
+</map>

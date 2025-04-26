@@ -1,0 +1,36 @@
+<map id="CHalfLifeTeamplay::DeathNotice" name="CHalfLifeTeamplay::DeathNotice">
+<area shape="rect" id="Node000001" title="Handles the death notice for players." alt="" coords="5,225,142,268"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a74e4c102a8f878277aeba81bd1738fe4" title="Sends a death notice to all clients." alt="" coords="196,166,320,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,222,180,210,182,215,143,227"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="402,30,532,57"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="96,222,138,187,188,152,243,123,301,98,404,60,406,65,303,103,246,128,191,157,141,191,100,226"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="657,56,704,82"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="86,223,127,165,156,132,188,103,235,68,274,46,317,30,373,16,425,6,467,3,508,6,560,16,605,29,645,47,643,52,603,34,559,21,507,12,467,8,426,11,375,21,319,35,277,51,238,73,191,107,160,136,131,168,90,226"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="425,284,508,310"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="142,252,410,287,409,292,142,258"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="391,233,542,260"/>
+<area shape="poly" id="edge15_Node000001_Node000006" title=" " alt="" coords="142,244,375,244,375,249,142,249"/>
+<area shape="rect" id="Node000008" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="400,334,534,361"/>
+<area shape="poly" id="edge16_Node000001_Node000008" title=" " alt="" coords="140,266,190,281,385,328,384,333,189,286,138,271"/>
+<area shape="rect" id="Node000011" href="$class_c_half_life_teamplay.html#aac3b84e95c79e8cfce7a1c6e565a839a" title="Determines the relationship between two players." alt="" coords="190,385,326,428"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="94,266,137,313,191,364,205,374,202,378,188,368,133,317,90,270"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,164,316,119,343,95,373,73,398,60,401,65,375,78,347,99,320,122,278,168"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="287,164,327,139,373,117,446,96,520,81,641,68,642,73,521,87,447,101,375,122,329,144,290,168"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="285,207,326,239,375,269,411,283,409,288,373,274,323,244,282,212"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="321,203,375,218,401,226,399,231,373,224,320,208"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="274,208,315,264,343,294,375,320,386,326,384,331,373,325,339,298,311,268,270,211"/>
+<area shape="rect" id="Node000009" href="$class_c_base_player_item.html#a782ce571dd52dd9345f151e67445d20f" title=" " alt="" coords="374,182,559,209"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="321,187,358,189,358,194,320,193"/>
+<area shape="rect" id="Node000010" href="$hl__baseentity_8cpp.html#afc455e3708d88772825198bd82f00a9d" title=" " alt="" coords="414,132,519,158"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="320,172,398,156,399,161,321,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="532,49,642,62,642,67,532,54"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="536,230,558,219,592,191,621,158,663,95,667,98,625,161,595,195,561,223,538,235"/>
+<area shape="rect" id="Node000007" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="626,233,735,260"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="542,244,610,244,610,249,542,249"/>
+<area shape="rect" id="Node000012" href="$class_c_half_life_teamplay.html#a6be6ef68f85c1e0d5ef5dd23fb86d0ab" title="Retrieves the team ID for a specified entity." alt="" coords="399,385,535,428"/>
+<area shape="poly" id="edge18_Node000011_Node000012" title=" " alt="" coords="326,404,383,404,383,409,326,409"/>
+<area shape="rect" id="Node000014" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="392,452,541,478"/>
+<area shape="poly" id="edge20_Node000011_Node000014" title=" " alt="" coords="327,423,375,437,401,444,399,450,373,442,326,429"/>
+<area shape="rect" id="Node000013" href="$class_c_base_entity.html#acdd61dd12f1226cebaa6ed4c0443f165" title=" " alt="" coords="607,393,754,420"/>
+<area shape="poly" id="edge19_Node000012_Node000013" title=" " alt="" coords="535,404,592,404,592,409,535,409"/>
+</map>

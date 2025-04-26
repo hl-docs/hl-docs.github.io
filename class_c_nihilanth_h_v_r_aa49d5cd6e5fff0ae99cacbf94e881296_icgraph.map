@@ -1,0 +1,11 @@
+<map id="CNihilanthHVR::HoverThink" name="CNihilanthHVR::HoverThink">
+<area shape="rect" id="Node000001" title="Handles the hover think behavior for the Nihilanth Hover entity." alt="" coords="808,5,986,32"/>
+<area shape="rect" id="Node000002" href="$class_c_nihilanth_h_v_r.html#ae73c2634cdcf19cdbd5a2f3a67198342" title="Initializes the circle behavior for the Nihilanth Hover entity." alt="" coords="594,5,760,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="792,21,760,21,760,16,792,16"/>
+<area shape="rect" id="Node000003" href="$class_c_nihilanth.html#ab9bd09b34bbe341fb489c2d651d75a9d" title="Emits a new energy sphere for the Nihilanth." alt="" coords="390,5,546,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="579,21,547,21,547,16,579,16"/>
+<area shape="rect" id="Node000004" href="$class_c_nihilanth.html#a67b74f80caebad7cfa6efe5e0c3fe379" title="Handles the startup think behavior for the Nihilanth." alt="" coords="181,5,342,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="375,21,342,21,342,16,375,16"/>
+<area shape="rect" id="Node000005" href="$class_c_nihilanth.html#af4a7daca0fab2778ee5f871884d80f49" title="Spawns the Nihilanth entity in the game world." alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="165,21,133,21,133,16,165,16"/>
+</map>

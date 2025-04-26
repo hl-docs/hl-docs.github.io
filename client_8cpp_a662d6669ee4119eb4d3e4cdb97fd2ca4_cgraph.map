@@ -1,0 +1,18 @@
+<map id="ClientDisconnect" name="ClientDisconnect">
+<area shape="rect" id="Node000001" title="Called when a player disconnects from the server." alt="" coords="5,157,125,184"/>
+<area shape="rect" id="Node000002" href="$class_c_game_rules.html#aee9745693e83db436320bb5be83f646d" title=" " alt="" coords="173,5,391,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,155,109,100,138,68,171,42,182,36,184,41,174,46,141,72,113,103,76,158"/>
+<area shape="rect" id="Node000003" href="$class_c_sound_ent.html#af59fe824bba1cebdea740e5a78112e12" title="Returns the proper index for a client&#39;s reserved sound." alt="" coords="184,56,380,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,154,122,127,172,99,207,85,209,90,174,104,125,131,86,159"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="439,81,522,108"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="121,154,172,143,307,118,423,100,424,105,308,123,173,148,122,159"/>
+<area shape="rect" id="Node000005" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="215,157,349,184"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="125,168,199,168,199,173,125,173"/>
+<area shape="rect" id="Node000006" href="$class_c_sound.html#a8219ed221da7012dd917aba1f06c509e" title="Resets the sound&#39;s properties without expiring or unlinking it." alt="" coords="227,208,337,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="125,182,173,193,213,203,212,208,172,199,124,187"/>
+<area shape="rect" id="Node000007" href="$class_c_sound_ent.html#a19af8b5ab82b0ecac33e58f616826792" title="Returns a pointer to the sound instance at the specified index." alt="" coords="186,259,378,301"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="84,182,123,213,174,244,186,250,184,255,171,249,120,218,81,187"/>
+<area shape="rect" id="Node000008" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="228,325,336,352"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="75,183,111,246,139,281,174,311,213,328,211,333,171,316,136,285,106,249,70,186"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="380,79,424,85,423,90,380,84"/>
+</map>

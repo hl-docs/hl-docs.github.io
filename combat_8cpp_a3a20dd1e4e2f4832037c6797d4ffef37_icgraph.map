@@ -1,0 +1,19 @@
+<map id="RadiusDamage" name="RadiusDamage">
+<area shape="rect" id="Node000001" title="Inflicts damage to entities within a certain radius." alt="" coords="550,53,660,80"/>
+<area shape="rect" id="Node000002" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="408,16,498,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,52,498,43,500,38,536,47"/>
+<area shape="rect" id="Node000005" href="$class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="404,79,502,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="535,81,503,86,502,81,534,76"/>
+<area shape="rect" id="Node000003" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="240,9,346,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,29,346,28,347,22,392,24"/>
+<area shape="rect" id="Node000004" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="18,5,169,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,24,169,23,170,18,224,19"/>
+<area shape="rect" id="Node000006" href="$class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21" title="Initiates the firing process for the Gauss weapon." alt="" coords="230,104,356,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="389,105,357,110,356,105,388,100"/>
+<area shape="rect" id="Node000007" href="$class_c_gauss.html#a885e215da3bf2207e633b39d7d648d7c" title="Handles the primary attack for the Gauss weapon." alt="" coords="14,56,173,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="220,103,151,86,153,81,221,97"/>
+<area shape="rect" id="Node000008" href="$class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="5,107,182,133"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="214,121,182,121,182,116,214,116"/>
+<area shape="rect" id="Node000009" href="$class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="21,157,166,184"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="226,138,147,159,146,154,225,133"/>
+</map>

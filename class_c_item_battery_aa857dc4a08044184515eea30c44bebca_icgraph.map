@@ -1,0 +1,5 @@
+<map id="CItemBattery::Precache" name="CItemBattery::Precache">
+<area shape="rect" id="Node000001" title="Preloads the resources needed for the battery item." alt="" coords="198,5,358,32"/>
+<area shape="rect" id="Node000002" href="$class_c_item_battery.html#a03d90de6fd4be09f0aaf30514e7a5c9e" title="Spawns the battery item in the game." alt="" coords="5,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,21,150,21,150,16,182,16"/>
+</map>

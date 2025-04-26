@@ -1,0 +1,5 @@
+<map id="CHeadCrab::LeapTouch" name="CHeadCrab::LeapTouch">
+<area shape="rect" id="Node000001" title="Handles the touch event for the headcrab when it is in the air." alt="" coords="205,5,363,32"/>
+<area shape="rect" id="Node000002" href="$class_c_head_crab.html#a54cf7f81b28c2cffab8f20eb229f3362" title="Starts the specified task for the headcrab." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,21,157,21,157,16,189,16"/>
+</map>

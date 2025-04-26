@@ -1,0 +1,5 @@
+<map id="CItemAntidote::Precache" name="CItemAntidote::Precache">
+<area shape="rect" id="Node000001" title="Preloads the resources needed for the antidote item." alt="" coords="204,5,370,32"/>
+<area shape="rect" id="Node000002" href="$class_c_item_antidote.html#a9bd1052a5fd1051235e6c808133b5d09" title="Spawns the antidote item in the game." alt="" coords="5,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,21,156,21,156,16,188,16"/>
+</map>

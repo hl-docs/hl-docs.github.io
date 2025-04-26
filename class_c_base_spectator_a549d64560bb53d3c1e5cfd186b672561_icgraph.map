@@ -1,0 +1,5 @@
+<map id="CBaseSpectator::SpectatorConnect" name="CBaseSpectator::SpectatorConnect">
+<area shape="rect" id="Node000001" title="Called when a spectator connects to a server." alt="" coords="179,5,359,48"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#ad0e60b6f1e3645439f64d81b1ee9219f" title="Handles a spectator joining the game." alt="" coords="5,13,131,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,29,131,29,131,24,163,24"/>
+</map>

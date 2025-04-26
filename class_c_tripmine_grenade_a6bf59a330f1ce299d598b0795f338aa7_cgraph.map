@@ -1,0 +1,22 @@
+<map id="CTripmineGrenade::Killed" name="CTripmineGrenade::Killed">
+<area shape="rect" id="Node000001" title="Handles the death of the tripmine grenade." alt="" coords="5,85,174,112"/>
+<area shape="rect" id="Node000002" href="$class_c_tripmine_grenade.html#adbf4f42729c04eb67c0b9e349b2e4fa2" title="Handles the delayed death of the tripmine grenade." alt="" coords="222,77,425,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,96,206,96,206,101,174,101"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="544,5,590,32"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="139,82,221,63,393,36,528,20,529,25,393,41,222,68,140,87"/>
+<area shape="rect" id="Node000008" href="$util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="271,165,376,192"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="132,110,269,157,267,162,130,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,74,472,41,528,25,530,31,474,47,382,79"/>
+<area shape="rect" id="Node000004" href="$class_c_grenade.html#a26b11375db7cf44d49526d15f1a23ed9" title="Handles the explosion of the grenade." alt="" coords="500,56,634,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="425,84,484,77,485,82,426,89"/>
+<area shape="rect" id="Node000005" href="$class_c_tripmine_grenade.html#aae52016134c8b6f80e7496447e83d769" title="Kills the beam associated with the tripmine grenade." alt="" coords="473,107,661,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="426,105,458,108,457,113,425,110"/>
+<area shape="rect" id="Node000007" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="512,157,622,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="393,118,474,143,499,150,498,155,472,148,392,123"/>
+<area shape="rect" id="Node000006" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="734,107,835,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="661,117,719,117,719,123,661,123"/>
+<area shape="rect" id="Node000009" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="498,208,636,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="376,185,483,204,482,209,375,190"/>
+<area shape="rect" id="Node000010" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="709,208,860,235"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="636,219,694,219,694,224,636,224"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CBaseMonster::FGetNodeRoute" name="CBaseMonster::FGetNodeRoute">
+<area shape="rect" id="Node000001" title="Finds a node route to a specified destination." alt="" coords="469,72,677,99"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#afcbb5ee692729f28d1985fac676d178f" title="Builds a route to a specified goal." alt="" coords="243,72,421,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,88,422,88,422,83,453,83"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#a48ba3c175fb98f7b1b824b6553190060" title="Builds the nearest route to a specified threat." alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,70,186,51,188,46,262,65"/>
+<area shape="rect" id="Node000004" href="$class_c_a_grunt.html#ae44b4283116ed1bc311f24b11ece2659" title="Starts a task for the Alien Grunt." alt="" coords="32,72,168,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="227,88,168,88,168,83,227,83"/>
+<area shape="rect" id="Node000005" href="$class_c_bullsquid.html#ac136a8d433a80981ecc37d7e284db98d" title="Starts a task for the bullsquid." alt="" coords="26,123,174,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="253,105,165,125,164,119,252,100"/>
+</map>

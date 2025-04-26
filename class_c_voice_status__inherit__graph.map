@@ -1,0 +1,7 @@
+<map id="CVoiceStatus" name="CVoiceStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="70,80,171,107"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_base.html" title=" " alt="" coords="5,5,89,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,41,110,78,106,82,69,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="113,5,277,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,45,135,82,131,78,169,41"/>
+</map>

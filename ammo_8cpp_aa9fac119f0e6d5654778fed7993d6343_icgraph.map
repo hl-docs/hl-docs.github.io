@@ -1,0 +1,7 @@
+<map id="DrawAmmoBar" name="DrawAmmoBar">
+<area shape="rect" id="Node000001" title="Draws the ammo bars for primary and secondary ammo types." alt="" coords="392,5,500,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_ammo.html#a1df3be7ffca03b3c895d754eca6e7206" title="Draws the weapon selection menu (weapon list)." alt="" coords="182,5,344,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,21,344,21,344,16,377,16"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_ammo.html#a2f1554ef4586294b2a82171ee7df6449" title="Draws the ammo status, including weapon selection, ammo counts, and ammo history." alt="" coords="5,5,134,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,21,134,21,134,16,166,16"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CLaserSpot::Revive" name="CLaserSpot::Revive">
+<area shape="rect" id="Node000001" title="Revives the suspended laser spot, making it visible again." alt="" coords="351,5,484,32"/>
+<area shape="rect" id="Node000002" href="$class_c_laser_spot.html#a0e691e788bbb07775712686f296d5ae2" title="Suspends the laser spot, making it invisible for a specified time." alt="" coords="155,5,303,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,21,303,21,303,16,335,16"/>
+<area shape="rect" id="Node000003" href="$class_c_rpg.html#ac20c308bdad06379c648e1da1f1ef31f" title="Reloads the RPG weapon." alt="" coords="5,5,107,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,21,107,21,107,16,139,16"/>
+</map>

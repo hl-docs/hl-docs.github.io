@@ -1,0 +1,7 @@
+<map id="ClassButton::IsNotValid" name="ClassButton::IsNotValid">
+<area shape="rect" id="Node000001" title="Class button used for selecting player classes." alt="" coords="5,47,165,73"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a86de1013232de4022c62305f514adaae" title=" " alt="" coords="213,5,364,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,44,197,39,198,44,166,50"/>
+<area shape="rect" id="Node000003" href="$class_team_fortress_viewport.html#aeccda4e4e08f09cd224c9c2abbaf72b2" title=" " alt="" coords="213,72,364,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,70,198,76,197,81,165,76"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="CHAssassin::Shoot" name="CHAssassin::Shoot">
+<area shape="rect" id="Node000001" title="Executes the shooting action of the assassin." alt="" coords="5,132,141,159"/>
+<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#ad49f02406c9cf18ce7cbc641387f4b0f" title=" " alt="" coords="212,5,297,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,130,128,87,187,42,196,37,199,41,190,46,131,91,89,133"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="202,56,307,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,129,188,92,202,86,204,91,190,97,106,134"/>
+<area shape="rect" id="Node000006" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="231,107,278,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,133,215,123,216,128,141,139"/>
+<area shape="rect" id="Node000007" href="$animation_8cpp.html#a436a28ed5284f5129d2d2a99fde3f63f" title="Sets the blending value for a specific blender." alt="" coords="209,157,300,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="141,152,194,160,193,165,140,157"/>
+<area shape="rect" id="Node000008" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="189,208,320,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="106,157,190,194,204,199,202,204,188,198,104,162"/>
+<area shape="rect" id="Node000009" href="$hl__baseentity_8cpp.html#a59a244ce0d81abfbe9ad0097bad40100" title=" " alt="" coords="189,259,320,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="89,157,131,199,190,244,199,249,196,254,187,249,128,203,85,161"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="368,56,506,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="307,67,353,67,353,72,307,72"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="554,56,705,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="507,67,539,67,539,72,507,72"/>
+</map>

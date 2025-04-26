@@ -1,0 +1,19 @@
+<map id="CCrossbow::WeaponIdle" name="CCrossbow::WeaponIdle">
+<area shape="rect" id="Node000001" title="Handles the idle state of the crossbow weapon." alt="" coords="5,131,169,157"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#aa180c6589aa815dabe3bdc9f80bd57ee" title="Gets the autoaim vector for the player." alt="" coords="217,5,429,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,128,148,85,181,62,215,42,231,35,233,40,218,46,184,66,152,89,104,132"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_weapon.html#a2cdda2ed10aa05ff573b90c95f4176e0" title="Resets the ability to play the empty sound again." alt="" coords="246,56,400,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,127,230,101,232,106,138,133"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="246,123,400,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,141,231,141,231,147,169,147"/>
+<area shape="rect" id="Node000006" href="$com__weapons_8cpp.html#a9ae7f2ebe1ba28e45fcd10cc2ea963b5" title="Generates a shared pseudo&#45;random float between low and high." alt="" coords="237,189,409,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="142,155,217,175,249,183,248,188,216,180,141,161"/>
+<area shape="rect" id="Node000009" href="$com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="243,240,403,267"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="107,156,155,191,218,226,236,232,234,237,216,230,152,195,104,160"/>
+<area shape="rect" id="Node000005" href="$com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="477,131,640,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="400,141,462,141,462,147,400,147"/>
+<area shape="rect" id="Node000007" href="$com__weapons_8cpp.html#a27de238ae44f691494d3b5b6dd45e18a" title="Generates a pseudo&#45;random number." alt="" coords="516,185,601,212"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="410,199,500,197,500,202,410,204"/>
+<area shape="rect" id="Node000008" href="$com__weapons_8cpp.html#adb962cdb4f81d757ce7bcaab3f47172b" title="Sets the seed for the custom random number generator." alt="" coords="523,236,594,263"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="394,214,508,237,507,242,393,219"/>
+</map>

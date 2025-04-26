@@ -1,0 +1,103 @@
+<map id="CBasePlayerWeapon::SendWeaponAnim" name="CBasePlayerWeapon::SendWeaponAnim">
+<area shape="rect" id="Node000001" title="Sends a weapon animation to the HUD." alt="" coords="473,1212,626,1255"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a7bc312ba99eaf734af1135761e523ecb" title="Default method for deploying a weapon with animations and model." alt="" coords="245,301,399,344"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,1196,541,1020,535,899,524,769,509,640,488,522,459,424,442,387,423,358,397,339,400,334,427,354,447,384,464,422,493,521,514,639,530,769,540,899,546,1020,551,1196"/>
+<area shape="rect" id="Node000017" href="$class_c_base_player_weapon.html#a45ea7db79a9f40517bfebc1b5f28a959" title="Handles weapon reload logic using default behavior." alt="" coords="245,368,399,411"/>
+<area shape="poly" id="edge15_Node000001_Node000017" title=" " alt="" coords="545,1197,539,1032,520,801,505,683,484,575,457,485,441,451,423,425,397,405,400,401,427,421,445,448,462,483,489,573,510,682,526,801,544,1032,550,1196"/>
+<area shape="rect" id="Node000024" href="$class_c_weapon_cycler.html#a3bd2c3f8a9b5382c4754b4b1319e9cb0" title="Deploys the weapon cycler for the player." alt="" coords="240,435,404,461"/>
+<area shape="poly" id="edge16_Node000001_Node000024" title=" " alt="" coords="545,1197,538,1041,519,824,504,714,483,613,456,531,440,499,423,475,402,460,405,456,427,471,445,496,461,529,488,612,509,713,525,824,543,1041,550,1197"/>
+<area shape="rect" id="Node000025" href="$class_c_glock.html#a522286710931a6ab18933b60f455e4ff" title="Fires the Glock with specified parameters." alt="" coords="258,485,386,512"/>
+<area shape="poly" id="edge17_Node000001_Node000025" title=" " alt="" coords="544,1196,536,1050,516,848,500,746,480,653,454,577,439,548,423,526,406,513,385,505,387,500,409,508,427,522,444,545,459,575,485,652,506,745,521,848,541,1050,550,1196"/>
+<area shape="rect" id="Node000028" href="$class_c_crowbar.html#a3f1323357171c40a2ddefc47bec10635" title="Holsters the crowbar weapon." alt="" coords="259,536,385,563"/>
+<area shape="poly" id="edge18_Node000001_Node000028" title=" " alt="" coords="544,1197,534,1060,513,873,497,779,477,694,452,624,438,597,423,577,406,564,385,556,387,551,408,559,427,573,443,594,457,621,482,692,502,778,518,873,539,1059,549,1196"/>
+<area shape="rect" id="Node000029" href="$class_c_python.html#ae39f91f63c9f913ccd83bbfc408009af" title="Holsters the Python weapon." alt="" coords="262,587,382,613"/>
+<area shape="poly" id="edge19_Node000001_Node000029" title=" " alt="" coords="543,1197,532,1069,510,898,493,812,474,734,450,670,437,646,423,627,404,614,381,606,383,601,407,609,427,623,442,643,455,668,479,732,499,811,515,897,537,1069,549,1196"/>
+<area shape="rect" id="Node000030" href="$class_c_crossbow.html#ac799ae62e096ca2d91c38f761ea89642" title="Holsters the crossbow weapon." alt="" coords="254,637,390,664"/>
+<area shape="poly" id="edge20_Node000001_Node000030" title=" " alt="" coords="543,1197,530,1079,506,923,490,845,471,774,448,717,423,678,408,666,390,659,392,654,410,662,427,674,453,714,476,773,495,844,511,922,535,1079,548,1197"/>
+<area shape="rect" id="Node000031" href="$class_c_rpg.html#a27ca09cf879ba2e42bb598df57579ae8" title="Holsters the RPG weapon." alt="" coords="271,688,373,715"/>
+<area shape="poly" id="edge21_Node000001_Node000031" title=" " alt="" coords="542,1197,527,1088,503,948,486,878,468,815,447,763,423,729,400,713,373,706,374,701,402,709,427,725,451,761,473,813,492,876,508,947,533,1088,547,1196"/>
+<area shape="rect" id="Node000032" href="$class_c_gauss.html#a0df5feb378cf851acd1ddf62abfd1e87" title="Holsters the Gauss weapon." alt="" coords="263,739,381,765"/>
+<area shape="poly" id="edge22_Node000001_Node000032" title=" " alt="" coords="541,1197,525,1099,499,973,483,911,465,855,445,810,423,779,403,766,380,758,382,753,406,761,427,775,449,807,470,853,488,910,504,972,530,1098,546,1196"/>
+<area shape="rect" id="Node000033" href="$class_c_egon.html#a3744c6ce6e1384b9cdc68a1eee4e2beb" title="Holsters the Egon weapon." alt="" coords="267,789,377,816"/>
+<area shape="poly" id="edge23_Node000001_Node000033" title=" " alt="" coords="546,1196,541,1120,523,1021,508,969,486,918,458,871,423,830,401,816,376,808,378,803,404,811,427,826,463,868,491,916,513,967,528,1019,546,1119,551,1196"/>
+<area shape="rect" id="Node000034" href="$class_c_hgun.html#a05e6a382bd0ba257f37c103b29702ac9" title="Holsters the hornet gun." alt="" coords="267,840,377,867"/>
+<area shape="poly" id="edge24_Node000001_Node000034" title=" " alt="" coords="544,1197,536,1129,516,1043,501,999,480,955,455,916,423,881,401,867,376,859,378,854,404,862,427,877,459,912,485,953,506,997,521,1042,541,1128,549,1196"/>
+<area shape="rect" id="Node000035" href="$class_c_hand_grenade.html#abd2f32bc99e789f8fe4b13535fbc9853" title="Holsters the hand grenade." alt="" coords="243,891,401,917"/>
+<area shape="poly" id="edge25_Node000001_Node000035" title=" " alt="" coords="542,1197,530,1138,509,1066,494,1029,474,993,451,960,423,931,400,918,403,913,427,927,455,957,479,990,498,1027,514,1064,536,1137,547,1196"/>
+<area shape="rect" id="Node000036" href="$class_c_satchel.html#a8e0678f579516de5f198b5ebe055480a" title="Holsters the satchel charge." alt="" coords="260,941,384,968"/>
+<area shape="poly" id="edge26_Node000001_Node000036" title=" " alt="" coords="538,1197,524,1148,502,1090,468,1031,447,1005,423,982,404,971,383,963,385,958,407,966,427,978,451,1001,473,1028,506,1087,529,1146,543,1196"/>
+<area shape="rect" id="Node000037" href="$class_c_tripmine.html#acda0dde1519c7c4a26c8caa2645ac1aa" title="Holsters the tripmine weapon." alt="" coords="258,992,386,1019"/>
+<area shape="poly" id="edge27_Node000001_Node000037" title=" " alt="" coords="534,1199,517,1159,494,1114,462,1070,423,1033,405,1023,385,1015,387,1010,408,1018,427,1029,466,1067,498,1111,522,1157,539,1197"/>
+<area shape="rect" id="Node000038" href="$class_c_squeak.html#a30f6ac6b5a4b6702394759fe14ee4afa" title="Holsters the squeak weapon." alt="" coords="260,1043,384,1069"/>
+<area shape="poly" id="edge28_Node000001_Node000038" title=" " alt="" coords="527,1200,485,1140,456,1109,424,1084,383,1067,385,1062,426,1079,460,1105,489,1136,531,1197"/>
+<area shape="rect" id="Node000039" href="$class_c_weapon_cycler.html#a4eb6847277770ac4bf9ba1b50717c4a9" title="Handles the primary attack action." alt="" coords="219,1093,425,1120"/>
+<area shape="poly" id="edge29_Node000001_Node000039" title=" " alt="" coords="515,1203,474,1167,424,1134,395,1123,397,1118,426,1130,477,1162,519,1199"/>
+<area shape="rect" id="Node000040" href="$class_c_hand_grenade.html#a86cfaa7ec8d850dbf552cf50a0e427ac" title="Initiates the primary attack with the hand grenade." alt="" coords="222,1144,422,1171"/>
+<area shape="poly" id="edge30_Node000001_Node000040" title=" " alt="" coords="485,1208,424,1185,385,1174,386,1169,426,1180,487,1203"/>
+<area shape="rect" id="Node000041" href="$class_c_satchel.html#ac4ccb1ad1565293be1a94865467af971" title="Handles the primary attack action of the satchel charge." alt="" coords="5,1405,171,1432"/>
+<area shape="poly" id="edge31_Node000001_Node000041" title=" " alt="" coords="458,1257,343,1290,280,1312,220,1337,158,1373,109,1407,106,1403,155,1368,217,1332,278,1307,341,1285,457,1251"/>
+<area shape="rect" id="Node000042" href="$class_c_shotgun.html#a589b3787e0f81e8657b2f54cffe22f83" title="Reloads the shotgun." alt="" coords="259,1195,385,1221"/>
+<area shape="poly" id="edge32_Node000001_Node000042" title=" " alt="" coords="457,1226,385,1218,386,1212,458,1220"/>
+<area shape="rect" id="Node000045" href="$class_c_shotgun.html#a06bb237b962c62cca6f409466dea4782" title="Handles the idle state of the shotgun." alt="" coords="11,1220,165,1247"/>
+<area shape="poly" id="edge43_Node000001_Node000045" title=" " alt="" coords="458,1236,166,1236,166,1231,458,1231"/>
+<area shape="rect" id="Node000046" href="$class_c_weapon_cycler.html#ad492f835e22435267a979f4f8daf0645" title="Handles the secondary attack action." alt="" coords="229,1347,415,1389"/>
+<area shape="poly" id="edge34_Node000001_Node000046" title=" " alt="" coords="514,1267,473,1299,426,1330,388,1349,386,1344,424,1326,470,1295,511,1263"/>
+<area shape="rect" id="Node000047" href="$class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="234,1413,410,1440"/>
+<area shape="poly" id="edge35_Node000001_Node000047" title=" " alt="" coords="534,1270,492,1339,462,1374,426,1404,404,1415,402,1410,424,1399,458,1370,487,1335,529,1267"/>
+<area shape="rect" id="Node000048" href="$class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="262,1464,382,1491"/>
+<area shape="poly" id="edge36_Node000001_Node000048" title=" " alt="" coords="540,1271,525,1313,501,1363,468,1412,427,1454,406,1466,383,1474,381,1469,404,1461,423,1450,464,1409,496,1360,520,1311,535,1269"/>
+<area shape="rect" id="Node000051" href="$class_c_satchel.html#aceef64912876786e92707fff9479b80f" title="Throws the satchel charge." alt="" coords="264,1515,380,1541"/>
+<area shape="poly" id="edge37_Node000001_Node000051" title=" " alt="" coords="545,1271,532,1323,509,1386,475,1450,453,1479,427,1505,405,1518,381,1526,379,1521,403,1513,423,1501,449,1476,470,1447,504,1384,526,1322,539,1269"/>
+<area shape="rect" id="Node000053" href="$class_c_glock.html#abfa1abfef62e10fd9b96fb270c0759be" title="Handles the idle state of the Glock weapon." alt="" coords="252,1565,392,1592"/>
+<area shape="poly" id="edge39_Node000001_Node000053" title=" " alt="" coords="548,1270,537,1332,517,1409,501,1449,481,1488,456,1524,427,1555,411,1566,393,1573,391,1569,408,1561,423,1551,452,1521,476,1485,496,1447,511,1408,532,1331,542,1270"/>
+<area shape="rect" id="Node000054" href="$class_c_python.html#a8a082c25a08c49a24ed41a582d24f5d6" title="Handles the idle state of the Python weapon." alt="" coords="248,1616,396,1643"/>
+<area shape="poly" id="edge40_Node000001_Node000054" title=" " alt="" coords="550,1271,543,1342,524,1432,508,1479,487,1526,460,1568,427,1606,397,1623,394,1619,423,1602,456,1565,482,1523,503,1478,518,1431,537,1341,545,1270"/>
+<area shape="rect" id="Node000055" href="$class_c_m_p5.html#a6c5609ed4a59eed702bf6e8cd0803b8a" title="Handles the idle state of the MP5 weapon." alt="" coords="255,1667,389,1693"/>
+<area shape="poly" id="edge41_Node000001_Node000055" title=" " alt="" coords="552,1270,547,1350,531,1454,515,1509,493,1563,464,1613,427,1657,410,1669,390,1677,388,1672,407,1664,423,1653,460,1610,488,1560,510,1507,525,1453,542,1350,546,1270"/>
+<area shape="rect" id="Node000056" href="$class_c_crossbow.html#a2852f3d63427898f6fea4df5aac8e587" title="Handles the idle state of the crossbow weapon." alt="" coords="240,1717,404,1744"/>
+<area shape="poly" id="edge42_Node000001_Node000056" title=" " alt="" coords="546,1270,531,1372,505,1502,489,1567,471,1626,450,1674,427,1707,405,1722,402,1717,423,1703,445,1672,466,1624,484,1566,500,1501,526,1371,541,1269"/>
+<area shape="rect" id="Node000057" href="$class_c_rpg.html#a4d1ff08f3ae0844b464b69f1ac21585c" title="Handles the idle state of the RPG weapon." alt="" coords="257,1768,387,1795"/>
+<area shape="poly" id="edge44_Node000001_Node000057" title=" " alt="" coords="547,1270,533,1382,509,1528,493,1600,474,1667,452,1721,427,1758,409,1771,388,1779,386,1774,406,1766,423,1754,447,1718,469,1665,488,1599,504,1527,528,1381,542,1270"/>
+<area shape="rect" id="Node000058" href="$class_c_gauss.html#a62f7304b4095f85fb9b935ce3c19dcd4" title="Handles the idle state of the Gauss weapon." alt="" coords="250,1819,394,1845"/>
+<area shape="poly" id="edge45_Node000001_Node000058" title=" " alt="" coords="548,1270,536,1391,513,1552,496,1633,477,1707,454,1767,427,1808,412,1820,395,1828,393,1823,409,1815,423,1805,449,1765,472,1705,491,1632,507,1551,530,1390,543,1270"/>
+<area shape="rect" id="Node000059" href="$class_c_egon.html#a846e9d63158bc388c93d70ab5963565e" title="Handles the idle state of the Egon weapon." alt="" coords="254,1869,390,1896"/>
+<area shape="poly" id="edge46_Node000001_Node000059" title=" " alt="" coords="549,1270,538,1401,516,1577,500,1666,480,1747,456,1814,442,1839,427,1859,410,1872,391,1880,389,1875,408,1867,423,1855,437,1836,451,1811,475,1746,495,1665,511,1576,533,1401,543,1270"/>
+<area shape="rect" id="Node000060" href="$class_c_hgun.html#aadc575168c31bf7dce733c113342a5a9" title="Handles the idle state of the hornet gun." alt="" coords="254,1920,390,1947"/>
+<area shape="poly" id="edge47_Node000001_Node000060" title=" " alt="" coords="549,1270,540,1411,519,1602,503,1699,483,1787,458,1860,443,1888,427,1910,410,1923,391,1930,389,1926,408,1918,423,1906,439,1885,453,1858,478,1786,498,1698,514,1601,535,1410,544,1270"/>
+<area shape="rect" id="Node000061" href="$class_c_hand_grenade.html#a461944ce47c7e9b0747e4099acc73658" title="Manages the idle state of the hand grenade." alt="" coords="229,1971,415,1997"/>
+<area shape="poly" id="edge48_Node000001_Node000061" title=" " alt="" coords="550,1270,542,1420,522,1627,507,1732,486,1828,460,1906,444,1937,427,1961,412,1972,409,1968,423,1957,440,1934,455,1904,481,1826,501,1731,517,1626,537,1420,545,1270"/>
+<area shape="rect" id="Node000062" href="$class_c_satchel.html#a5919fd30dd59aa68c88861e986ed5b1a" title="Handles the idle behavior of the satchel charge." alt="" coords="247,2021,397,2048"/>
+<area shape="poly" id="edge49_Node000001_Node000062" title=" " alt="" coords="550,1270,544,1429,526,1651,510,1764,489,1868,462,1953,445,1986,427,2011,414,2022,399,2030,396,2025,411,2018,423,2008,441,1983,457,1951,484,1866,505,1763,520,1650,539,1429,545,1270"/>
+<area shape="rect" id="Node000063" href="$class_c_tripmine.html#ae5448544d7325ff1d5b32f9c72b71dd4" title="Handles the idle state of the tripmine weapon." alt="" coords="244,2072,400,2099"/>
+<area shape="poly" id="edge50_Node000001_Node000063" title=" " alt="" coords="551,1270,546,1438,529,1675,513,1797,492,1908,464,1999,446,2035,427,2062,401,2079,398,2075,423,2058,442,2032,459,1997,487,1906,508,1796,524,1675,541,1438,545,1270"/>
+<area shape="rect" id="Node000064" href="$class_c_squeak.html#ac579128e84ed76fb6ca0777982de3ade" title="Handles the idle state of the squeak weapon." alt="" coords="247,2123,397,2149"/>
+<area shape="poly" id="edge51_Node000001_Node000064" title=" " alt="" coords="551,1270,548,1447,542,1569,532,1699,517,1829,495,1948,466,2045,447,2083,427,2112,414,2124,399,2131,396,2126,411,2119,423,2109,443,2081,461,2043,490,1946,511,1828,527,1699,537,1568,542,1447,546,1270"/>
+<area shape="rect" id="Node000003" href="$class_c_crossbow.html#a135e9c515bc981e6be880394b2c1974f" title="Deploys the crossbow weapon." alt="" coords="20,107,156,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,290,245,218,209,180,169,148,147,136,149,131,172,143,213,176,249,214,302,287"/>
+<area shape="rect" id="Node000004" href="$class_c_shotgun.html#a20d3ca7fd13f66597b84df1531011dfc" title="Deploys the shotgun for use." alt="" coords="25,157,151,184"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="288,292,235,244,203,220,169,198,144,187,146,182,172,194,206,215,238,240,292,288"/>
+<area shape="rect" id="Node000005" href="$class_c_glock.html#a8a1e6d95afb2af53710e09663a19d1aa" title="Deploys the Glock weapon." alt="" coords="32,208,144,235"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="267,296,170,249,138,238,140,233,172,244,270,291"/>
+<area shape="rect" id="Node000006" href="$class_c_crowbar.html#a935809b916f8d8ecc6f3f13f6237a0f8" title="Deploys the crowbar weapon." alt="" coords="25,259,151,285"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="229,305,151,288,152,283,231,300"/>
+<area shape="rect" id="Node000007" href="$class_c_python.html#acbf5eeadfdcd0563517bbcfb863dcc54" title="Deploys the Python weapon for use." alt="" coords="28,309,148,336"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="230,325,148,325,148,320,230,320"/>
+<area shape="rect" id="Node000008" href="$class_c_m_p5.html#afaffb2b6c0d790ff31e8b84938dd4151" title="Deploys the MP5 weapon." alt="" coords="35,360,141,387"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="231,345,142,365,141,359,230,340"/>
+<area shape="rect" id="Node000009" href="$class_c_rpg.html#ab5a12cdd15b75941a9936fed5b83398c" title="Deploys the RPG weapon." alt="" coords="37,411,139,437"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="232,352,220,358,206,369,197,379,187,390,172,401,140,415,138,410,169,396,183,386,193,376,202,365,217,354,230,347"/>
+<area shape="rect" id="Node000010" href="$class_c_gauss.html#ae3a0b677d24814a7607df46385391e09" title="Deploys the Gauss weapon." alt="" coords="30,461,146,488"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="233,349,221,358,204,380,197,403,191,428,172,451,148,466,145,461,169,447,186,425,192,402,199,378,217,354,230,345"/>
+<area shape="rect" id="Node000011" href="$class_c_egon.html#a8dd65175df536f7b8d45d172bc4ec349" title="Deploys the Egon weapon." alt="" coords="34,512,142,539"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="233,348,221,358,207,375,200,393,197,428,194,465,187,484,172,502,144,519,141,514,169,498,182,481,189,464,192,428,195,391,203,373,217,354,230,344"/>
+<area shape="rect" id="Node000012" href="$class_c_hgun.html#ab4f25b64be0fd9eac28005559d13f568" title="Deploys the hornet gun for use." alt="" coords="34,563,142,589"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="233,347,221,358,204,382,197,405,196,429,198,453,199,478,198,503,190,528,173,552,159,563,144,570,142,565,156,559,169,549,185,525,193,502,194,478,192,454,190,429,192,404,199,379,217,354,230,343"/>
+<area shape="rect" id="Node000013" href="$class_c_hand_grenade.html#a400bdfb17058df26b3a95920853bda50" title="Deploys the hand grenade for use." alt="" coords="9,613,167,640"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="233,347,221,358,201,388,193,418,193,448,198,479,202,509,202,540,193,572,173,603,158,615,154,611,169,600,189,569,196,539,196,509,192,479,188,449,188,417,196,386,217,354,230,343"/>
+<area shape="rect" id="Node000014" href="$class_c_satchel.html#a38be26d50209259d99649d31369d2c65" title="Deploys the satchel charge." alt="" coords="27,5,149,32"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="308,287,290,234,261,169,221,103,197,72,169,46,148,34,151,29,172,42,201,69,226,99,266,166,295,232,313,286"/>
+<area shape="rect" id="Node000015" href="$class_c_tripmine.html#a26016a64978ba554a76266bb9df692fe" title="Deploys the tripmine weapon." alt="" coords="24,56,152,83"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="304,288,283,244,254,193,215,141,169,97,149,86,152,81,172,93,219,138,258,190,288,242,309,286"/>
+<area shape="poly" id="edge33_Node000042_Node000045" title=" " alt="" coords="244,1219,166,1228,165,1222,243,1214"/>
+<area shape="poly" id="edge38_Node000051_Node000041" title=" " alt="" coords="248,1516,218,1505,154,1470,105,1435,108,1430,157,1465,220,1500,250,1511"/>
+</map>

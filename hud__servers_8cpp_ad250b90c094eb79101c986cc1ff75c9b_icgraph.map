@@ -1,0 +1,9 @@
+<map id="ServersGetInfo" name="ServersGetInfo">
+<area shape="rect" id="Node000001" title="Retrieves information string for a server in the global server browser." alt="" coords="473,79,578,105"/>
+<area shape="rect" id="Node000002" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a633a7c71728a5ffc19265ce5d949e0b7" title=" " alt="" coords="216,5,425,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,78,425,70,426,65,458,73"/>
+<area shape="rect" id="Node000004" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a6cc322ee5288941ee884c42edf905472" title=" " alt="" coords="216,104,425,179"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="458,111,426,119,425,114,457,106"/>
+<area shape="rect" id="Node000003" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_connect_handler.html#a149c4c6914502c4593fb06aff3acc470" title=" " alt="" coords="5,5,168,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,45,168,45,168,40,200,40"/>
+</map>

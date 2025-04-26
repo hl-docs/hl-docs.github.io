@@ -1,0 +1,42 @@
+<map id="CSound::FIsSound" name="CSound::FIsSound">
+<area shape="rect" id="Node000001" title="Checks if the sound is an audible sound." alt="" coords="926,183,1056,209"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a78fbd9523265c0a97dd54df554ec4978" title="Makes the monster listen for sounds and smells." alt="" coords="708,81,859,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="947,178,811,111,814,106,949,173"/>
+<area shape="rect" id="Node000009" href="$class_c_base_monster.html#a5d775fb57424d37e708634000ee82d07" title="Returns a pointer to the sound the monster should react to." alt="" coords="689,233,878,260"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="919,216,842,235,840,230,918,211"/>
+<area shape="rect" id="Node000003" href="$class_c_tentacle.html#af67698f0d711df4b4a61eea30d52bca9" title="Main thinking function for the tentacle." alt="" coords="475,107,595,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="693,107,596,117,596,111,692,101"/>
+<area shape="rect" id="Node000006" href="$class_c_roach.html#a87e55ea407a4508497c63e1783079c4e" title="Custom think function for the roach." alt="" coords="459,56,612,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="692,88,612,80,613,74,693,83"/>
+<area shape="rect" id="Node000007" href="$class_c_base_monster.html#acc5ba3ad67a53c37779693145984fb5d" title="Runs the AI logic for the monster." alt="" coords="460,5,610,32"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="732,78,641,47,598,35,600,30,642,41,733,73"/>
+<area shape="rect" id="Node000004" href="$class_c_tentacle.html#af261785d07b904c9655d3fe4575033f7" title="Starts the tentacle&#39;s behavior." alt="" coords="223,107,338,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,123,338,123,338,117,460,117"/>
+<area shape="rect" id="Node000005" href="$class_c_tentacle.html#a7c7c3d9bb192e29e38c5792c09b54c5c" title="Spawns the tentacle entity." alt="" coords="5,107,132,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="207,123,132,123,132,117,207,117"/>
+<area shape="rect" id="Node000008" href="$class_c_bullsquid.html#ac8cb76bc1599fa3fa114091a82e23a54" title="Runs AI logic for the bullsquid." alt="" coords="217,5,344,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="445,21,344,21,344,16,445,16"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="754,225,703,185,640,148,595,133,596,128,642,143,706,181,758,221"/>
+<area shape="rect" id="Node000010" href="$class_c_base_monster.html#a8bb2cae4dbfa3b3d18fd0c3ce5014204" title="Determines the ideal state for the monster based on conditions." alt="" coords="438,309,632,336"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="733,269,642,300,600,311,598,306,641,295,732,263"/>
+<area shape="rect" id="Node000015" href="$class_c_a_grunt.html#a480baa02288a0031f727bf2f94a996dd" title="Retrieves the current schedule for the Alien Grunt." alt="" coords="458,360,612,387"/>
+<area shape="poly" id="edge15_Node000009_Node000015" title=" " alt="" coords="758,272,706,313,642,350,611,362,609,357,640,346,703,308,754,268"/>
+<area shape="rect" id="Node000016" href="$class_c_barney.html#a3341e9848d3c6ddacd909c07db355320" title="Determines the appropriate schedule for the Barney entity." alt="" coords="458,411,612,437"/>
+<area shape="poly" id="edge16_Node000009_Node000016" title=" " alt="" coords="767,275,717,339,682,373,643,401,614,414,611,409,640,396,679,368,713,335,763,272"/>
+<area shape="rect" id="Node000017" href="$class_c_i_slave.html#aa5699c34a6145e260f2216419df3a7e8" title="Retrieves the current schedule for the CISlave entity." alt="" coords="462,157,609,184"/>
+<area shape="poly" id="edge17_Node000009_Node000017" title=" " alt="" coords="732,230,641,199,598,187,600,182,642,193,733,225"/>
+<area shape="rect" id="Node000018" href="$class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="453,208,617,235"/>
+<area shape="poly" id="edge18_Node000009_Node000018" title=" " alt="" coords="674,238,617,232,618,227,674,233"/>
+<area shape="rect" id="Node000019" href="$class_c_houndeye.html#a6169fa33c726dacf6887da0d86bb6e27" title="Retrieves the schedule of a specific type for the Houndeye." alt="" coords="429,259,641,285"/>
+<area shape="poly" id="edge19_Node000009_Node000019" title=" " alt="" coords="674,260,642,264,642,258,674,255"/>
+<area shape="rect" id="Node000011" href="$class_c_barney.html#a1d81ae7db44d6b09ca5097a7619bb689" title="Retrieves the ideal state for the Barney entity." alt="" coords="201,360,360,387"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="450,342,352,362,350,357,449,337"/>
+<area shape="rect" id="Node000012" href="$class_c_bullsquid.html#ae7044f0690fd497f04b1319c40ed24c9" title="Determines the ideal state for the bullsquid." alt="" coords="195,411,366,437"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="442,344,430,350,416,362,407,375,398,388,382,401,357,413,355,408,380,396,394,385,403,372,412,358,428,346,439,340"/>
+<area shape="rect" id="Node000013" href="$class_c_scientist.html#a5f4158da2e426c5e0983d5ef6dc3aeb1" title="Determines the ideal state for the scientist." alt="" coords="196,259,365,285"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="449,308,350,289,352,283,450,303"/>
+<area shape="rect" id="Node000014" href="$class_c_squad_monster.html#a35efd3259d25ae761e62bd81b7c0d2ab" title="Gets the ideal state for the squad monster." alt="" coords="180,309,381,336"/>
+<area shape="poly" id="edge14_Node000010_Node000014" title=" " alt="" coords="422,325,381,325,381,320,422,320"/>
+<area shape="rect" id="Node000020" href="$class_c_houndeye.html#a30498cea7548a29ba46dc6659906aee4" title="Retrieves the current schedule for the Houndeye." alt="" coords="195,208,366,235"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="449,258,350,238,352,233,450,252"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBaseMonster::ShouldFadeOnDeath" name="CBaseMonster::ShouldFadeOnDeath">
+<area shape="rect" id="Node000001" title="Determines if the monster should fade on death." alt="" coords="258,5,442,48"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#afcaee6b6757f8abf93b6d0208cad8b49" title="Calls the gibbing process for the monster." alt="" coords="5,13,210,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,29,210,29,210,24,242,24"/>
+</map>

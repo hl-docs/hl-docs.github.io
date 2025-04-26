@@ -1,0 +1,21 @@
+<map id="CBasePlayer::IsObserver" name="CBasePlayer::IsObserver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="618,59,785,86"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="27,79,140,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="644,57,559,34,450,15,391,10,330,9,269,13,210,24,179,35,150,50,104,81,101,77,147,46,177,30,209,19,268,8,330,3,391,4,451,10,560,29,646,52"/>
+<area shape="rect" id="Node000003" href="$client_8cpp.html#a2bdc7b8c8b206cea10e51dbb42e9a848" title="Processes a player&#39;s chat message." alt="" coords="249,34,327,60"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="603,69,327,52,327,47,603,64"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a7f5feb230658678c68b8a15de717dafb" title="Finds the next player to observe." alt="" coords="414,135,570,178"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="653,95,549,137,546,132,651,90"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player.html#a67d681ca046700f5f9ef025ef68baabe" title="Attempts to change the observer mode." alt="" coords="210,135,366,178"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="603,90,415,126,367,137,366,132,413,121,602,85"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="234,62,141,83,140,77,233,56"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="401,133,366,126,245,108,140,99,141,93,246,103,366,121,402,128"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#ad908da7573b1f65c426973168a9001e0" title="Checks the current observer target." alt="" coords="5,228,162,271"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="424,186,367,204,260,228,162,243,162,238,259,222,365,199,422,181"/>
+<area shape="rect" id="Node000006" href="$class_c_base_player.html#a679cf9d7919345390f759e3e81fb1304" title="Handles input buttons in observer mode." alt="" coords="5,140,162,183"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="407,185,366,192,288,199,209,192,162,185,163,179,210,187,288,193,366,187,406,179"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="398,159,366,159,366,154,398,154"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="202,133,128,109,130,104,204,128"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="227,187,133,230,131,225,224,182"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="194,162,162,162,162,157,194,156"/>
+</map>

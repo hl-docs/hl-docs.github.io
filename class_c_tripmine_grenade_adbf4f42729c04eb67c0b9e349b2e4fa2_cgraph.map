@@ -1,0 +1,13 @@
+<map id="CTripmineGrenade::DelayDeathThink" name="CTripmineGrenade::DelayDeathThink">
+<area shape="rect" id="Node000001" title="Handles the delayed death of the tripmine grenade." alt="" coords="5,73,209,116"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="328,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,70,256,41,312,26,313,31,257,47,171,75"/>
+<area shape="rect" id="Node000003" href="$class_c_grenade.html#a26b11375db7cf44d49526d15f1a23ed9" title="Handles the explosion of the grenade." alt="" coords="284,56,418,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,81,268,75,269,80,209,87"/>
+<area shape="rect" id="Node000004" href="$class_c_tripmine_grenade.html#aae52016134c8b6f80e7496447e83d769" title="Kills the beam associated with the tripmine grenade." alt="" coords="257,107,445,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,103,242,106,241,111,209,108"/>
+<area shape="rect" id="Node000006" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="296,157,406,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="171,114,257,143,283,150,281,155,256,148,169,119"/>
+<area shape="rect" id="Node000005" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="493,107,593,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="445,117,477,117,477,123,445,123"/>
+</map>

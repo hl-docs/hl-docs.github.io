@@ -1,0 +1,7 @@
+<map id="UTIL_BloodStream" name="UTIL_BloodStream">
+<area shape="rect" id="Node000001" title="Emits a blood stream effect at a specified origin and direction." alt="" coords="5,31,135,57"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="195,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,33,179,27,180,32,135,38"/>
+<area shape="rect" id="Node000003" href="$util_8cpp.html#a7e962acd5dc76628b0a5aabf9c0fdfe2" title="Determines if blood should be shown based on the color." alt="" coords="183,56,342,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,50,168,54,167,59,135,55"/>
+</map>

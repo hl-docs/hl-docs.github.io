@@ -1,0 +1,20 @@
+<map id="CBasePlayer::Observer_CheckProperties" name="CBasePlayer::Observer_CheckProperties">
+<area shape="rect" id="Node000001" title="Checks and updates observer properties." alt="" coords="5,48,162,91"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="407,5,537,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,45,166,29,209,16,256,9,303,6,391,8,391,13,303,12,256,15,210,21,167,34,128,50"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a955b38f5e8b65166fbec7dc8150eb967" title=" " alt="" coords="237,31,321,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,57,221,49,222,54,162,62"/>
+<area shape="rect" id="Node000005" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="212,81,346,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="162,77,197,81,196,87,162,82"/>
+<area shape="rect" id="Node000006" href="$dlls_2util_8cpp.html#a635672430658b60f1b5123f296b47b2b" title="Retrieves a player entity by its index." alt="" coords="210,132,348,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="139,89,211,118,227,124,225,129,209,122,137,94"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="627,56,673,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="522,30,613,56,611,61,521,35"/>
+<area shape="rect" id="Node000007" href="$util_8h.html#a8d413eb5831b3a96c79d4236801a487e" title=" " alt="" coords="430,81,513,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="332,129,414,107,416,112,333,134"/>
+<area shape="rect" id="Node000008" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="396,132,547,159"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="348,143,380,143,380,148,348,148"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="516,129,546,118,612,86,614,91,548,122,518,134"/>
+<area shape="rect" id="Node000009" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="595,132,705,159"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="547,143,580,143,580,148,547,148"/>
+</map>

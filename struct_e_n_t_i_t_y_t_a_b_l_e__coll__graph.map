@@ -1,0 +1,11 @@
+<map id="ENTITYTABLE" name="ENTITYTABLE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,352,112,379"/>
+<area shape="rect" id="Node000002" href="$structedict__s.html" title=" " alt="" coords="87,101,150,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,138,62,153,51,179,45,207,42,264,49,315,57,351,52,352,44,316,37,264,39,206,46,177,58,151,72,135"/>
+<area shape="rect" id="Node000004" href="$structentvars__s.html" title=" " alt="" coords="160,352,237,379"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="112,143,102,182,96,230,99,281,106,304,117,326,136,344,161,355,159,360,133,349,113,330,101,306,94,281,90,230,97,181,107,142"/>
+<area shape="rect" id="Node000003" href="$structlink__s.html" title=" " alt="" coords="91,8,146,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,50,121,101,116,101,116,50"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="163,11,170,15,173,22,164,31,147,33,146,28,162,26,168,21,166,19,161,16"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="203,336,211,298,215,250,210,199,202,176,191,154,173,136,150,126,152,121,176,132,195,150,207,174,215,198,220,250,216,298,209,337"/>
+</map>

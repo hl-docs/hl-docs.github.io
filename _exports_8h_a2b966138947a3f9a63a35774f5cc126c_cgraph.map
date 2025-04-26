@@ -1,0 +1,15 @@
+<map id="HUD_Shutdown" name="HUD_Shutdown">
+<area shape="rect" id="Node000001" title="Called by the engine when the client is shutting down." alt="" coords="5,31,118,57"/>
+<area shape="rect" id="Node000002" href="$cdll__int_8cpp.html#ae9db983d63ab65a049f1936a743c78ee" title="Unloads the particle manager module." alt="" coords="166,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,33,150,29,151,34,119,39"/>
+<area shape="rect" id="Node000003" href="$input_8cpp.html#a008e70499ad7bf8a7daba5914d0806fc" title="Shuts down the input system cleanly." alt="" coords="189,56,296,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,49,174,57,173,62,118,55"/>
+<area shape="rect" id="Node000004" href="$inputw32_8cpp.html#a781003199e06bab03bde6ff7051bdcbe" title="Cleans up mouse input and threads before shutting down." alt="" coords="370,31,467,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="295,59,354,51,355,56,296,64"/>
+<area shape="rect" id="Node000007" href="$input_8cpp.html#a5f36773f3c6f7e2cfdcf4ca23a6f1042" title="Cleans up the key binding list." alt="" coords="367,81,470,108"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="296,74,352,82,351,88,295,80"/>
+<area shape="rect" id="Node000005" href="$hud__benchtrace_8cpp.html#aa488fcf48429890274a9975cf007c3ae" title=" " alt="" coords="551,5,625,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="467,34,536,24,536,29,468,39"/>
+<area shape="rect" id="Node000006" href="$inputw32_8cpp.html#a9d9aefec0e1714a85d514c780555e58f" title="Deactivates mouse input, disabling it temporarily (e.g., in menus)." alt="" coords="518,56,658,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="468,49,503,54,502,59,467,54"/>
+</map>

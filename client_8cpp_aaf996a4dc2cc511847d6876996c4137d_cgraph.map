@@ -1,0 +1,5 @@
+<map id="Entity_Encode" name="Entity_Encode">
+<area shape="rect" id="Node000001" title="Encodes the entity state for network transmission." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="Node000002" href="$client_8cpp.html#ae85a353aded5ea9b5128cfecfd78675f" title="Initializes the fields for entity state delta encoding." alt="" coords="160,5,267,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,16,144,16,144,21,112,21"/>
+</map>

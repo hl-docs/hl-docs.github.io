@@ -1,0 +1,5 @@
+<map id="CISlave::BeamGlow" name="CISlave::BeamGlow">
+<area shape="rect" id="Node000001" title="Brightens all beams created by the CISlave entity." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="Node000002" href="$class_c_beam.html#a748210777faa6527930615023e2c6c1b" title=" " alt="" coords="189,5,343,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,16,173,16,173,21,141,21"/>
+</map>

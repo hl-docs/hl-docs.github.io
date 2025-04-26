@@ -1,0 +1,13 @@
+<map id="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::getCellRenderer" name="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::getCellRenderer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,7,215,81"/>
+<area shape="rect" id="Node000002" href="$hud__servers_8cpp.html#ad250b90c094eb79101c986cc1ff75c9b" title="Retrieves information string for a server in the global server browser." alt="" coords="273,5,379,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,29,258,24,258,29,215,34"/>
+<area shape="rect" id="Node000005" href="$hud__servers_8cpp.html#a8912073a35ca401bf9a12fc70bd6a169" title="Checks if the global server browser instance is currently querying." alt="" coords="263,56,389,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="215,54,248,58,247,63,214,59"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#a6cc4f6b05dbafb306f38f4e8923ebe29" title="Gets the key/value info string of a specified server." alt="" coords="437,5,618,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,16,421,16,421,21,379,21"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_servers.html#a0cf574be6e6cfb2849ded46f773a2d45" title="Returns a pointer to the server at the specified index." alt="" coords="666,5,828,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="618,16,651,16,651,21,618,21"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_servers.html#ac4bbea23ddc5ec12833dfe32d63acae4" title="Checks if the server browser is currently querying for servers." alt="" coords="445,56,611,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="390,67,429,67,429,72,390,72"/>
+</map>

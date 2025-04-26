@@ -1,0 +1,108 @@
+<map id="UTIL_FindEntityByString" name="UTIL_FindEntityByString">
+<area shape="rect" id="Node000001" title="Finds an entity by a specific string value." alt="" coords="1191,196,1354,223"/>
+<area shape="rect" id="Node000002" href="$class_c_i_slave.html#ad55695628e24ec56c572cec2fbbb2994" title="Calls for help from other CISlave entities." alt="" coords="973,28,1113,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1247,186,1201,140,1141,92,1110,73,1078,58,1080,53,1112,68,1145,87,1204,136,1251,183"/>
+<area shape="rect" id="Node000004" href="$class_c_squad_monster.html#add4bf353f68eb5e56308658744d7d10c" title="Recruits squad members of the same classification." alt="" coords="943,101,1143,128"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1223,192,1076,131,1078,126,1225,187"/>
+<area shape="rect" id="Node000006" href="$class_c_trigger_change_target.html#a1c4691783a50af3d356a8db871a4263e" title="Activates the change target trigger." alt="" coords="953,196,1133,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1176,212,1134,212,1134,207,1176,207"/>
+<area shape="rect" id="Node000007" href="$util_8cpp.html#aeaab76538c4c0af63d171a342d50a5f2" title="Finds an entity by its classname." alt="" coords="946,840,1140,867"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1264,238,1052,840,1047,839,1259,236"/>
+<area shape="rect" id="Node000066" href="$util_8cpp.html#ac7208d3b999edf48e038c35e54bc0572" title="Finds an entity by its targetname." alt="" coords="944,335,1142,361"/>
+<area shape="poly" id="edge39_Node000001_Node000066" title=" " alt="" coords="1237,233,1068,336,1066,332,1234,229"/>
+<area shape="rect" id="Node000003" href="$class_c_i_slave.html#a4920d0d204e09f4465c80ad466a99842" title="Plays the alert sound for the CISlave entity." alt="" coords="704,5,841,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="957,37,841,27,841,22,958,32"/>
+<area shape="rect" id="Node000005" href="$class_c_squad_monster.html#a8387f3a0bc6b767e7a565034ff67b1f7" title="Starts the monster&#39;s behavior." alt="" coords="674,56,871,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="944,101,856,86,856,81,945,96"/>
+<area shape="rect" id="Node000008" href="$class_c_i_slave.html#af4815f788cf77d66bcffd1251f8ac595" title="Checks if the CISlave can perform a secondary range attack." alt="" coords="677,1051,868,1077"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1030,882,1009,919,979,962,941,1005,896,1041,870,1053,868,1048,893,1036,937,1001,975,959,1005,916,1026,879"/>
+<area shape="rect" id="Node000009" href="$class_c_nihilanth.html#a4560640eab2afe5e0588cae23e9f82f0" title="Handles the command use behavior for the Nihilanth." alt="" coords="687,512,858,539"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="1034,826,1019,767,993,693,974,654,951,617,924,582,893,553,876,542,857,535,859,530,879,538,896,549,928,579,956,614,979,652,998,691,1024,766,1039,824"/>
+<area shape="rect" id="Node000013" href="$player_8cpp.html#af4e30b65cb5287444e22a6ddfc16f2df" title="Selects a spawn point for a player." alt="" coords="699,563,846,589"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="1031,826,1013,777,985,716,945,655,921,627,893,604,871,591,846,584,847,579,873,586,896,599,925,623,950,651,990,714,1018,775,1036,824"/>
+<area shape="rect" id="Node000017" href="$class_c_talk_monster.html#a9a225b79b1dbafafea9679dd07a085aa" title="Enumerates friends of the talk monster." alt="" coords="679,1000,866,1027"/>
+<area shape="poly" id="edge15_Node000007_Node000017" title=" " alt="" coords="1023,881,970,937,935,966,896,990,867,1002,865,997,893,986,932,962,966,933,1019,877"/>
+<area shape="rect" id="Node000031" href="$class_c_osprey.html#ad4d8b0aac8c96e39aa32dcf4daded587" title="Finds all grunts to resupply." alt="" coords="173,1177,324,1204"/>
+<area shape="poly" id="edge19_Node000007_Node000031" title=" " alt="" coords="1039,882,1025,940,999,1013,980,1051,957,1087,929,1119,896,1146,864,1157,809,1166,652,1180,325,1192,324,1187,652,1174,808,1161,863,1152,893,1142,925,1115,952,1084,975,1048,994,1011,1020,939,1034,881"/>
+<area shape="rect" id="Node000033" href="$class_c_talk_monster.html#a693e0bae60c6782b25652633a1a46d40" title="Finds the nearest friend or player." alt="" coords="683,664,862,707"/>
+<area shape="poly" id="edge21_Node000007_Node000033" title=" " alt="" coords="1019,830,965,775,931,746,893,721,861,707,863,702,896,716,934,741,969,771,1023,826"/>
+<area shape="rect" id="Node000046" href="$class_c_apache.html#a1061b3164a9c579f303bc67c1fc5aaa2" title="Handles the flight behavior for the Apache." alt="" coords="715,731,830,757"/>
+<area shape="poly" id="edge26_Node000007_Node000046" title=" " alt="" coords="1008,833,956,801,894,772,830,755,831,749,896,767,958,797,1011,829"/>
+<area shape="rect" id="Node000047" href="$class_c_osprey.html#aa698c252f80a33605c2b1c6b291fc8a3" title="Manages the flight path of the Osprey." alt="" coords="716,1203,829,1229"/>
+<area shape="poly" id="edge27_Node000007_Node000047" title=" " alt="" coords="1040,883,1026,946,1000,1027,981,1071,958,1113,930,1152,896,1186,865,1205,830,1214,828,1209,862,1200,893,1182,926,1149,953,1110,977,1068,995,1026,1021,944,1035,882"/>
+<area shape="rect" id="Node000051" href="$class_c_rpg_rocket.html#aa575d2c9a7f9bb666f6d9f61f2248cee" title="Updates the rocket&#39;s direction to follow the laser spot." alt="" coords="687,781,858,808"/>
+<area shape="poly" id="edge30_Node000007_Node000051" title=" " alt="" coords="966,839,894,823,840,811,842,806,895,817,967,833"/>
+<area shape="rect" id="Node000056" href="$client_8cpp.html#a2bdc7b8c8b206cea10e51dbb42e9a848" title="Processes a player&#39;s chat message." alt="" coords="448,1101,526,1128"/>
+<area shape="poly" id="edge32_Node000007_Node000056" title=" " alt="" coords="1036,883,1018,931,990,989,949,1046,924,1071,896,1092,849,1114,799,1129,747,1138,695,1141,599,1137,526,1126,527,1120,600,1131,695,1136,746,1132,797,1124,847,1109,893,1087,921,1067,945,1043,985,986,1013,928,1031,881"/>
+<area shape="rect" id="Node000057" href="$class_c_half_life_multiplay.html#a2b701054eaec1059bc12195dbd348dd9" title="Handles player spawning logic." alt="" coords="710,832,835,875"/>
+<area shape="poly" id="edge34_Node000007_Node000057" title=" " alt="" coords="930,856,835,856,835,851,930,851"/>
+<area shape="rect" id="Node000058" href="$class_c_nihilanth_h_v_r.html#a603cee085b92dc62e37d579afc9e5dfa" title="Finds a random entity by classname." alt="" coords="658,899,887,925"/>
+<area shape="poly" id="edge35_Node000007_Node000058" title=" " alt="" coords="967,873,895,889,842,901,840,896,894,884,966,868"/>
+<area shape="rect" id="Node000059" href="$class_c_g_man.html#a2b30f3821411992c20c3a2798bacd78e" title="Starts a specific task for the G&#45;Man." alt="" coords="708,949,837,976"/>
+<area shape="poly" id="edge36_Node000007_Node000059" title=" " alt="" coords="1011,878,958,910,896,940,838,956,837,951,894,935,956,905,1008,873"/>
+<area shape="rect" id="Node000060" href="$util_8cpp.html#aad218710c21baba28ecc2749e15a47e1" title="Finds an entity by a generic name, searching by targetname first." alt="" coords="693,613,852,640"/>
+<area shape="poly" id="edge37_Node000007_Node000060" title=" " alt="" coords="1027,827,1007,787,977,740,939,693,893,654,873,644,851,637,853,632,875,639,896,650,943,689,982,737,1011,785,1032,824"/>
+<area shape="rect" id="Node000010" href="$class_c_nihilanth.html#a67b74f80caebad7cfa6efe5e0c3fe379" title="Handles the startup think behavior for the Nihilanth." alt="" coords="407,407,568,433"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="675,510,649,503,572,469,511,436,513,432,574,465,651,497,677,505"/>
+<area shape="rect" id="Node000012" href="$class_c_nihilanth.html#ad65d7dd51649616d51a05f55c980f3f1" title="Handles the startup use behavior for the Nihilanth." alt="" coords="411,504,564,531"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="672,525,564,522,564,517,672,520"/>
+<area shape="rect" id="Node000011" href="$class_c_nihilanth.html#af4a7daca0fab2778ee5f871884d80f49" title="Spawns the Nihilanth entity in the game world." alt="" coords="185,407,312,433"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="391,423,312,423,312,417,391,417"/>
+<area shape="rect" id="Node000014" href="$class_c_game_rules.html#aeabf3c58c138d64a55882daac35ad25f" title="Gets the spawn spot for the player." alt="" coords="372,555,602,581"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="683,576,603,574,603,569,683,571"/>
+<area shape="rect" id="Node000015" href="$client_8cpp.html#aed185af0311f8df95d3174c6a616eeda" title="Handles commands from the client." alt="" coords="192,828,305,855"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="379,591,374,595,346,621,323,652,288,719,266,783,255,828,250,827,261,781,283,717,318,649,342,618,370,591,376,587"/>
+<area shape="rect" id="Node000018" href="$class_c_talk_monster.html#a00ee871010398e924a7681f582cafb4e" title="Alerts nearby friends of the talk monster." alt="" coords="398,1051,577,1077"/>
+<area shape="poly" id="edge16_Node000017_Node000018" title=" " alt="" coords="679,1033,567,1053,566,1047,678,1027"/>
+<area shape="rect" id="Node000022" href="$class_c_talk_monster.html#a00e1852d5fc02ebb132ded6e7377dfca" title="Limits the number of followers for the talk monster." alt="" coords="391,949,583,976"/>
+<area shape="poly" id="edge17_Node000017_Node000022" title=" " alt="" coords="678,999,566,979,567,974,679,994"/>
+<area shape="rect" id="Node000026" href="$class_c_talk_monster.html#a0089a9b4b7d952cc29450c00f2e37a35" title="Stops nearby friends from talking." alt="" coords="390,1000,585,1027"/>
+<area shape="poly" id="edge18_Node000017_Node000026" title=" " alt="" coords="664,1016,585,1016,585,1011,664,1011"/>
+<area shape="rect" id="Node000032" href="$class_c_osprey.html#ab0830f5d42d9096475ad4a6bd5d73894" title="Spawns the Osprey entity." alt="" coords="5,1177,125,1204"/>
+<area shape="poly" id="edge20_Node000031_Node000032" title=" " alt="" coords="157,1193,125,1193,125,1188,157,1188"/>
+<area shape="rect" id="Node000034" href="$class_c_talk_monster.html#a2b595cc5a75a165134fc688e5b267353" title="Attempts to greet the player for the first time they are seen." alt="" coords="404,824,570,851"/>
+<area shape="poly" id="edge22_Node000033_Node000034" title=" " alt="" coords="670,709,652,721,642,732,635,743,629,766,623,791,616,803,604,814,572,831,570,826,601,810,611,799,618,788,624,765,630,741,637,728,649,717,667,705"/>
+<area shape="rect" id="Node000041" href="$class_c_talk_monster.html#a4c3d998262953f633db307b6c196a903" title="Attempts to start a conversation or make a statement." alt="" coords="400,672,574,699"/>
+<area shape="poly" id="edge23_Node000033_Node000041" title=" " alt="" coords="667,688,575,688,575,683,667,683"/>
+<area shape="rect" id="Node000042" href="$class_c_talk_monster.html#ab655f22c2212418de53f37a2e6367ec9" title="Lets the player know the talk monster knows he&#39;s staring at them." alt="" coords="403,723,571,749"/>
+<area shape="poly" id="edge24_Node000033_Node000042" title=" " alt="" coords="668,707,567,725,566,719,667,701"/>
+<area shape="rect" id="Node000043" href="$class_c_talk_monster.html#a05e5cae94116f04682a70233979012d3" title="Handles damage taken by the talk monster." alt="" coords="395,773,580,800"/>
+<area shape="poly" id="edge25_Node000033_Node000043" title=" " alt="" coords="670,713,652,721,638,731,628,742,619,753,604,764,574,775,573,770,601,759,615,749,624,738,634,727,649,716,667,708"/>
+<area shape="rect" id="Node000048" href="$class_c_osprey.html#af9af646ec5052760f0d54cd9a72a386f" title="Handles the flying behavior of the Osprey." alt="" coords="423,1203,552,1229"/>
+<area shape="poly" id="edge28_Node000047_Node000048" title=" " alt="" coords="701,1219,552,1219,552,1213,701,1213"/>
+<area shape="poly" id="edge29_Node000048_Node000031" title=" " alt="" coords="406,1210,324,1201,325,1196,407,1205"/>
+<area shape="rect" id="Node000052" href="$class_c_rpg_rocket.html#ad41642b66d6e741207d671249c262968" title="Handles the thinking process after the rocket is ignited." alt="" coords="405,875,569,901"/>
+<area shape="poly" id="edge31_Node000051_Node000052" title=" " alt="" coords="673,813,652,822,637,832,628,843,619,854,604,865,571,878,569,873,601,860,615,850,624,840,634,828,649,818,671,808"/>
+<area shape="poly" id="edge33_Node000056_Node000015" title=" " alt="" coords="432,1115,400,1107,370,1091,342,1065,318,1034,283,966,261,902,250,856,255,855,266,900,288,964,323,1031,346,1061,374,1087,402,1102,433,1110"/>
+<area shape="rect" id="Node000061" href="$class_c_scripted_sentence.html#a4d6b7118c26cf8d5431a1b91470e968b" title="Starts the scripted sentence for the target monster." alt="" coords="417,605,558,648"/>
+<area shape="poly" id="edge38_Node000060_Node000061" title=" " alt="" coords="678,629,558,629,558,624,678,624"/>
+<area shape="poly" id="edge40_Node000066_Node000009" title=" " alt="" coords="1026,375,973,440,937,474,896,502,859,517,857,512,893,498,934,470,970,436,1022,372"/>
+<area shape="poly" id="edge54_Node000066_Node000010" title=" " alt="" coords="929,365,651,401,569,412,568,407,650,396,929,360"/>
+<area shape="poly" id="edge41_Node000066_Node000013" title=" " alt="" coords="1032,376,1012,416,982,465,943,513,896,553,872,565,847,572,845,567,870,560,893,548,940,509,978,462,1007,414,1027,374"/>
+<area shape="poly" id="edge56_Node000066_Node000060" title=" " alt="" coords="1036,377,1019,427,990,489,950,551,925,579,896,604,875,615,853,623,851,618,873,610,893,599,921,575,945,548,985,486,1014,425,1031,375"/>
+<area shape="rect" id="Node000067" href="$class_c_func_mortar_field.html#a92248dcf3add21da8b045c63ade674e2" title="Activates the mortar field to drop bombs." alt="" coords="681,107,864,133"/>
+<area shape="poly" id="edge42_Node000066_Node000067" title=" " alt="" coords="1015,325,978,285,940,236,927,210,920,187,912,167,893,147,864,132,866,128,896,143,916,164,925,185,932,208,945,233,982,281,1019,321"/>
+<area shape="rect" id="Node000069" href="$class_c_nihilanth.html#a4ed6459161906e00ac47759243266ca5" title="Handles animation events for the Nihilanth." alt="" coords="677,208,868,235"/>
+<area shape="poly" id="edge44_Node000066_Node000069" title=" " alt="" coords="1013,326,960,286,927,266,894,249,860,238,862,233,896,244,930,261,963,282,1016,322"/>
+<area shape="rect" id="Node000070" href="$class_c_apache.html#a316f59455c212231ad0729fe886af1a7" title="Handles the hunt think behavior for the Apache." alt="" coords="702,157,843,184"/>
+<area shape="poly" id="edge45_Node000066_Node000070" title=" " alt="" coords="1019,325,955,253,921,219,893,198,869,188,842,180,844,175,870,183,896,194,924,215,958,249,1023,321"/>
+<area shape="rect" id="Node000073" href="$class_c_nihilanth.html#aeeae715d59d17d600b704c366b6cd425" title="Determines the next activity for the Nihilanth." alt="" coords="694,309,851,336"/>
+<area shape="poly" id="edge49_Node000066_Node000073" title=" " alt="" coords="928,340,851,333,852,327,929,335"/>
+<area shape="rect" id="Node000074" href="$class_c_beam.html#a596e716af1ef961dea870f043509f02f" title="Finds a random target entity by name." alt="" coords="678,259,867,285"/>
+<area shape="poly" id="edge50_Node000066_Node000074" title=" " alt="" coords="990,331,894,300,847,289,848,283,895,295,992,326"/>
+<area shape="rect" id="Node000081" href="$class_c_nihilanth.html#acb653bb0d25ec0ffebefa7a7d80f60f0" title="Selects a random target entity by name." alt="" coords="670,411,875,437"/>
+<area shape="poly" id="edge53_Node000066_Node000081" title=" " alt="" coords="983,369,895,395,829,413,827,407,894,389,981,364"/>
+<area shape="rect" id="Node000082" href="$class_c_game_player_team.html#ae0e740d02fd8e6fb36b9eb95d7ba9bc1" title="Retrieves the team name associated with a target." alt="" coords="650,461,895,488"/>
+<area shape="poly" id="edge55_Node000066_Node000082" title=" " alt="" coords="1016,374,963,414,930,435,896,452,862,463,860,458,894,447,927,430,960,410,1013,370"/>
+<area shape="rect" id="Node000068" href="$class_c_func_mortar_field.html#a24cd63eac1b2dd8ac58a1883e38d2c48" title="Spawns the mortar field in the game." alt="" coords="402,107,573,133"/>
+<area shape="poly" id="edge43_Node000067_Node000068" title=" " alt="" coords="665,123,573,123,573,117,665,117"/>
+<area shape="rect" id="Node000071" href="$class_c_apache.html#a2f084431649929e10419c257e2099c09" title="Spawns the Apache entity." alt="" coords="188,183,309,209"/>
+<area shape="poly" id="edge46_Node000070_Node000071" title=" " alt="" coords="687,177,310,196,309,190,687,172"/>
+<area shape="rect" id="Node000072" href="$class_c_apache.html#a4bf21e624e27555d2eba96ebfd59cc54" title="Handles the startup use behavior for the Apache." alt="" coords="414,208,561,235"/>
+<area shape="poly" id="edge47_Node000070_Node000072" title=" " alt="" coords="688,188,562,211,561,206,687,183"/>
+<area shape="poly" id="edge48_Node000072_Node000071" title=" " alt="" coords="398,215,309,205,310,200,398,209"/>
+<area shape="rect" id="Node000075" href="$class_c_lightning.html#a742db6e2243ce75f3a0531030b4df499" title="Think function for the lightning strike." alt="" coords="410,309,565,336"/>
+<area shape="poly" id="edge51_Node000074_Node000075" title=" " alt="" coords="679,291,566,312,565,306,678,286"/>
+<area shape="rect" id="Node000079" href="$class_c_laser.html#accba3ab9092b0d53df1433c63ce24ee0" title="Think function for the laser strike." alt="" coords="420,259,555,285"/>
+<area shape="poly" id="edge52_Node000074_Node000079" title=" " alt="" coords="663,275,555,275,555,269,663,269"/>
+</map>

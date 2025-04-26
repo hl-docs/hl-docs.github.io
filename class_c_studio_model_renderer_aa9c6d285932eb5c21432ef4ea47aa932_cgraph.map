@@ -1,0 +1,11 @@
+<map id="CStudioModelRenderer::StudioProcessGait" name="CStudioModelRenderer::StudioProcessGait">
+<area shape="rect" id="Node000001" title="Processes the player&#39;s gait and adjusts the torso and animation parameters." alt="" coords="5,39,160,81"/>
+<area shape="rect" id="Node000002" href="$class_c_studio_model_renderer.html#ab997bf7e27d78746eb0224c76a577bf5" title="Estimates the gait (movement) of the player based on their velocity or the previous position." alt="" coords="208,5,362,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,45,192,39,193,44,160,50"/>
+<area shape="rect" id="Node000005" href="$class_c_studio_model_renderer.html#a89b13f278f6b0de0063b4ffb2b5dabfe" title="Calculates blend value based on pitch angle for player animation blending." alt="" coords="208,72,362,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="160,70,193,76,192,81,159,75"/>
+<area shape="rect" id="Node000003" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="410,13,470,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,24,394,24,394,29,363,29"/>
+<area shape="rect" id="Node000004" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="518,13,562,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="471,24,503,24,503,29,471,29"/>
+</map>

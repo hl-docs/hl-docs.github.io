@@ -1,0 +1,110 @@
+<map id="EMIT_SOUND_DYN" name="EMIT_SOUND_DYN">
+<area shape="rect" id="Node000001" title=" " alt="" coords="500,1145,638,1172"/>
+<area shape="rect" id="Node000002" href="$class_c_bloater.html#a7423e52dd8adec2fcea52aea9bf66322" title="Plays the alert sound for the bloater." alt="" coords="276,5,419,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,1130,554,902,532,556,516,381,497,226,475,109,463,69,450,46,436,34,419,26,421,21,439,30,454,42,468,67,480,107,503,225,522,381,537,556,559,902,569,1130"/>
+<area shape="rect" id="Node000003" href="$class_c_head_crab.html#aeb074da8e02cba13c83f0145282f520d" title="Emits an alert sound for the headcrab." alt="" coords="268,56,427,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="564,1130,553,911,530,582,515,415,496,268,474,156,462,119,450,96,426,80,429,75,454,93,467,117,479,155,501,267,520,414,536,581,558,911,569,1130"/>
+<area shape="rect" id="Node000004" href="$class_c_leech.html#aa30f6110d5b7fa76cea046c9abb06534" title="Plays the alert sound for the leech." alt="" coords="279,107,416,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="564,1130,552,920,529,607,513,449,494,309,473,204,462,168,450,147,434,135,415,127,417,122,437,130,454,144,467,166,478,202,500,309,518,448,534,607,557,920,569,1129"/>
+<area shape="rect" id="Node000008" href="$class_c_zombie.html#a92c97dcd6dd36613bf766473f1efc7b6" title="Plays an alert sound for the zombie." alt="" coords="275,157,420,184"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="564,1130,551,929,527,633,511,483,493,351,472,251,461,218,450,198,436,186,419,179,421,174,439,182,454,194,466,216,477,250,498,350,517,482,533,632,556,929,569,1129"/>
+<area shape="rect" id="Node000009" href="$class_c_bloater.html#a76016ef3ef7aa0c766c469617eff49f3" title="Plays the attack sound for the bloater." alt="" coords="277,208,418,235"/>
+<area shape="poly" id="edge6_Node000001_Node000009" title=" " alt="" coords="566,1130,565,952,561,824,553,686,539,549,519,422,505,367,489,318,471,279,450,248,435,236,417,229,419,224,438,232,454,245,475,276,494,317,510,365,524,421,545,548,559,686,567,824,571,951,571,1130"/>
+<area shape="rect" id="Node000011" href="$class_c_leech.html#a3931922aa17f142df39d508a56a05277" title="Plays the attack sound for the leech." alt="" coords="273,259,422,285"/>
+<area shape="poly" id="edge8_Node000001_Node000011" title=" " alt="" coords="565,1130,562,963,548,715,534,587,513,469,486,372,469,334,450,306,437,294,420,285,423,281,440,290,454,302,474,332,491,370,519,468,539,586,553,715,568,962,571,1130"/>
+<area shape="rect" id="Node000013" href="$class_c_zombie.html#ab60191688fa9164221b4de331f1aa703" title="Plays an attack sound for the zombie." alt="" coords="270,360,425,387"/>
+<area shape="poly" id="edge10_Node000001_Node000013" title=" " alt="" coords="565,1130,560,978,544,758,530,645,510,542,483,457,468,425,450,401,424,383,427,379,454,397,472,422,488,455,515,541,535,645,549,758,566,978,570,1129"/>
+<area shape="rect" id="Node000014" href="$class_c_zombie.html#a9d4333be431f93a5ee3373d04918084c" title="Handles animation events specific to the zombie." alt="" coords="9,335,191,361"/>
+<area shape="poly" id="edge30_Node000001_Node000014" title=" " alt="" coords="566,1129,566,966,562,852,554,728,540,607,519,496,505,448,489,407,471,374,450,350,415,327,375,313,332,306,289,306,205,318,139,337,138,331,204,313,288,301,333,301,376,307,417,322,454,346,475,371,494,405,510,447,524,495,545,606,559,728,567,851,571,966,571,1129"/>
+<area shape="rect" id="Node000015" href="$class_c_barney.html#ad3c4068f7bdf9a91a2644714083149df" title="Fires a pistol at the enemy." alt="" coords="260,411,435,437"/>
+<area shape="poly" id="edge12_Node000001_Node000015" title=" " alt="" coords="564,1130,557,989,539,787,524,684,505,589,480,511,466,481,450,458,426,440,429,436,454,454,470,478,485,509,510,587,530,683,544,786,563,988,570,1129"/>
+<area shape="rect" id="Node000017" href="$class_c_crossbow_bolt.html#a4a97ce5329386cdcf27b34cbceeab1a3" title="Handles the touch event for the crossbow bolt." alt="" coords="12,473,188,500"/>
+<area shape="poly" id="edge13_Node000001_Node000017" title=" " alt="" coords="565,1130,558,996,541,808,526,713,507,626,481,557,467,530,450,511,417,488,380,472,340,463,299,459,219,463,152,475,151,470,218,458,299,454,341,458,382,467,420,483,454,507,471,527,486,554,512,625,532,712,546,808,564,996,570,1130"/>
+<area shape="rect" id="Node000022" href="$class_c_breakable.html#a7e71101789fc64019c2b9c19e35a9d7f" title="Plays a sound when the breakable entity takes damage." alt="" coords="257,715,438,741"/>
+<area shape="poly" id="edge14_Node000001_Node000022" title=" " alt="" coords="566,1130,563,1055,549,953,534,900,514,847,486,798,450,755,434,744,437,740,454,751,490,795,518,845,539,898,554,952,569,1054,571,1130"/>
+<area shape="rect" id="Node000028" href="$class_c_barney.html#a76ea397d36f66c0734247a598d13ae1a" title="Plays the death sound for the Barney entity." alt="" coords="272,765,423,792"/>
+<area shape="poly" id="edge15_Node000001_Node000028" title=" " alt="" coords="565,1130,559,1063,542,976,527,929,508,884,482,842,450,806,421,789,424,785,454,802,487,839,512,882,532,927,547,974,564,1063,570,1130"/>
+<area shape="rect" id="Node000029" href="$class_c_head_crab.html#a08939d0098d815e4325caefc261b0211" title="Emits a death sound for the headcrab." alt="" coords="264,816,431,843"/>
+<area shape="poly" id="edge16_Node000001_Node000029" title=" " alt="" coords="563,1131,554,1073,535,998,521,960,502,922,479,887,450,857,429,844,432,839,454,853,483,884,507,919,526,957,540,997,560,1072,568,1130"/>
+<area shape="rect" id="Node000030" href="$class_c_i_slave.html#a803619edc9b21723857da031ac42b8ff" title="Plays the death sound for the CISlave entity." alt="" coords="276,867,419,893"/>
+<area shape="poly" id="edge17_Node000001_Node000030" title=" " alt="" coords="561,1131,549,1082,528,1021,496,960,475,932,450,907,418,891,421,886,454,903,479,928,500,957,533,1019,554,1081,566,1130"/>
+<area shape="rect" id="Node000031" href="$class_c_squeak.html#ac62277c8b3349f2029d6be99e07b91c7" title="Deploys the squeak weapon." alt="" coords="286,917,409,944"/>
+<area shape="poly" id="edge18_Node000001_Node000031" title=" " alt="" coords="557,1131,543,1092,521,1045,490,998,450,958,430,947,408,939,410,934,433,942,454,954,494,994,525,1042,548,1090,562,1130"/>
+<area shape="rect" id="Node000032" href="$class_c_breakable.html#a7920746bea8c47175abe7162461a8a62" title="Handles the death of the breakable entity." alt="" coords="290,968,405,995"/>
+<area shape="poly" id="edge19_Node000001_Node000032" title=" " alt="" coords="552,1133,512,1069,484,1036,451,1009,429,998,405,991,406,986,431,993,453,1004,488,1033,517,1066,557,1130"/>
+<area shape="rect" id="Node000035" href="$util_8h.html#ac75bb342e268546b5fbbfa0fc293f602" title=" " alt="" coords="295,563,400,589"/>
+<area shape="poly" id="edge20_Node000001_Node000035" title=" " alt="" coords="563,1130,552,1016,530,860,514,781,496,709,475,650,450,610,427,593,399,583,401,578,429,588,454,606,479,648,501,707,520,780,535,859,557,1016,568,1129"/>
+<area shape="rect" id="Node000067" href="$class_c_glock.html#a522286710931a6ab18933b60f455e4ff" title="Fires the Glock with specified parameters." alt="" coords="36,527,164,553"/>
+<area shape="poly" id="edge27_Node000001_Node000067" title=" " alt="" coords="564,1130,557,1003,539,828,524,739,505,659,480,594,466,570,450,553,416,530,377,515,335,507,293,505,211,513,145,529,143,524,210,508,292,500,336,502,378,510,418,525,454,549,470,567,485,592,510,657,529,738,544,827,562,1003,570,1129"/>
+<area shape="rect" id="Node000096" href="$class_c_gauss.html#aaecea70db9dcf7f3bab83d1f802e46be" title="Handles the secondary attack for the Gauss weapon." alt="" coords="12,584,188,611"/>
+<area shape="poly" id="edge52_Node000001_Node000096" title=" " alt="" coords="563,1130,551,1025,529,883,514,811,495,746,474,694,450,659,433,647,407,637,340,621,263,610,188,604,189,599,263,605,341,616,409,632,435,643,454,655,479,691,500,745,519,810,534,882,556,1024,568,1130"/>
+<area shape="rect" id="Node000097" href="$class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="40,660,160,687"/>
+<area shape="poly" id="edge57_Node000001_Node000097" title=" " alt="" coords="562,1130,550,1033,527,904,512,839,494,781,473,735,450,705,418,683,382,667,344,658,304,653,227,653,161,662,160,657,227,648,305,647,345,652,384,662,421,678,454,701,478,732,499,780,517,838,532,903,555,1032,567,1130"/>
+<area shape="rect" id="Node000106" href="$class_c_func_mortar_field.html#a92248dcf3add21da8b045c63ade674e2" title="Activates the mortar field to drop bombs." alt="" coords="256,1019,439,1045"/>
+<area shape="poly" id="edge25_Node000001_Node000106" title=" " alt="" coords="544,1136,503,1096,478,1076,451,1060,423,1048,425,1043,453,1055,481,1072,507,1092,548,1132"/>
+<area shape="rect" id="Node000108" href="$class_c_osprey.html#aa698c252f80a33605c2b1c6b291fc8a3" title="Manages the flight path of the Osprey." alt="" coords="291,1069,404,1096"/>
+<area shape="poly" id="edge26_Node000001_Node000108" title=" " alt="" coords="525,1141,451,1111,403,1097,405,1092,453,1105,527,1136"/>
+<area shape="rect" id="Node000114" href="$class_c_head_crab.html#a7460c3db52e83ee272daf47fe452f758" title="Handles animation events specific to the headcrab." alt="" coords="249,1120,446,1147"/>
+<area shape="poly" id="edge28_Node000001_Node000114" title=" " alt="" coords="484,1152,446,1147,447,1142,485,1146"/>
+<area shape="rect" id="Node000115" href="$class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="260,1171,435,1197"/>
+<area shape="poly" id="edge29_Node000001_Node000115" title=" " alt="" coords="485,1171,435,1177,435,1171,484,1166"/>
+<area shape="rect" id="Node000116" href="$class_c_squeak_grenade.html#a1c95a185a0ce662810f8ad450bf105e8" title="Handles the thinking behavior of the squeak grenade." alt="" coords="5,1247,195,1273"/>
+<area shape="poly" id="edge31_Node000001_Node000116" title=" " alt="" coords="529,1182,493,1198,453,1212,387,1228,319,1241,195,1256,195,1251,318,1235,385,1223,451,1207,491,1193,527,1177"/>
+<area shape="rect" id="Node000118" href="$class_c_bloater.html#a73aaf9278d7d7f59d8076c44ec05e065" title="Plays the idle sound for the bloater." alt="" coords="279,1323,416,1349"/>
+<area shape="poly" id="edge32_Node000001_Node000118" title=" " alt="" coords="557,1188,517,1251,488,1285,453,1313,417,1329,415,1324,451,1308,484,1281,512,1248,552,1185"/>
+<area shape="rect" id="Node000119" href="$class_c_head_crab.html#af819f71386ed212dd86c1021c73831b3" title=" " alt="" coords="271,1373,424,1400"/>
+<area shape="poly" id="edge33_Node000001_Node000119" title=" " alt="" coords="562,1188,548,1227,525,1275,494,1323,454,1363,425,1378,422,1374,450,1359,490,1320,521,1272,543,1225,557,1186"/>
+<area shape="rect" id="Node000120" href="$class_c_zombie.html#a5feff94f32e94b6da37bde556d81a4e7" title="Plays an idle sound for the zombie." alt="" coords="279,1424,416,1451"/>
+<area shape="poly" id="edge34_Node000001_Node000120" title=" " alt="" coords="566,1188,554,1237,533,1298,500,1361,479,1389,454,1414,436,1425,417,1433,415,1428,434,1420,450,1410,475,1386,496,1358,528,1296,549,1235,561,1186"/>
+<area shape="rect" id="Node000121" href="$class_c_roach.html#a9a3606fc1fde8c3e911c6522fd28804c" title="Handles the death of the roach." alt="" coords="294,1475,401,1501"/>
+<area shape="poly" id="edge35_Node000001_Node000121" title=" " alt="" coords="568,1187,560,1246,540,1321,526,1360,507,1398,483,1434,454,1465,429,1480,402,1487,401,1482,427,1475,450,1461,479,1430,502,1396,521,1358,535,1319,554,1245,563,1187"/>
+<area shape="rect" id="Node000122" href="$class_c_squeak_grenade.html#acdfaa31cc87d25c6c2fb7654c41fbfe8" title="Handles the death of the squeak grenade." alt="" coords="266,1272,429,1299"/>
+<area shape="poly" id="edge36_Node000001_Node000122" title=" " alt="" coords="545,1185,504,1221,453,1256,409,1274,407,1269,451,1251,501,1217,542,1181"/>
+<area shape="rect" id="Node000123" href="$class_c_head_crab.html#a02dcd3f87db2dda0f2c983b7b1fc8609" title="Handles the touch event for the headcrab when it is in the air." alt="" coords="268,1576,427,1603"/>
+<area shape="poly" id="edge38_Node000001_Node000123" title=" " alt="" coords="571,1188,567,1262,551,1361,537,1414,516,1467,489,1516,454,1559,426,1578,423,1573,450,1555,484,1513,511,1464,531,1412,546,1360,562,1261,566,1188"/>
+<area shape="rect" id="Node000124" href="$class_c_head_crab.html#a54cf7f81b28c2cffab8f20eb229f3362" title="Starts the specified task for the headcrab." alt="" coords="24,1551,176,1577"/>
+<area shape="poly" id="edge53_Node000001_Node000124" title=" " alt="" coords="571,1188,566,1256,550,1345,535,1392,515,1438,488,1480,454,1515,433,1528,405,1537,333,1552,252,1561,176,1565,176,1560,251,1555,332,1547,404,1532,431,1523,450,1511,484,1476,510,1435,530,1390,544,1344,561,1255,565,1188"/>
+<area shape="rect" id="Node000125" href="$class_c_item.html#a0b328e25414e14ee1a88fc0cbbd30f21" title="Makes the item visible and ready for interaction." alt="" coords="284,1627,411,1653"/>
+<area shape="poly" id="edge40_Node000001_Node000125" title=" " alt="" coords="567,1188,553,1284,530,1412,514,1477,497,1536,476,1584,454,1617,434,1630,412,1638,410,1633,432,1626,450,1613,472,1581,492,1534,509,1476,525,1411,548,1283,562,1187"/>
+<area shape="rect" id="Node000135" href="$class_c_barney.html#ad2ce63f8eb340a8802415dc455ac5708" title="Plays the pain sound for the Barney entity." alt="" coords="276,1677,419,1704"/>
+<area shape="poly" id="edge41_Node000001_Node000135" title=" " alt="" coords="568,1188,556,1294,533,1437,518,1510,500,1576,478,1630,454,1667,438,1679,420,1687,418,1682,435,1675,450,1664,474,1628,495,1574,513,1509,528,1436,550,1293,563,1187"/>
+<area shape="rect" id="Node000136" href="$class_c_bloater.html#a75a7b186356d62ce25d3f0af9a8a5fcc" title="Plays the pain sound for the bloater." alt="" coords="276,1728,419,1755"/>
+<area shape="poly" id="edge42_Node000001_Node000136" title=" " alt="" coords="569,1187,558,1302,537,1461,521,1542,503,1616,480,1676,454,1718,438,1730,420,1738,418,1733,435,1725,450,1714,476,1674,498,1614,516,1541,531,1460,553,1302,563,1187"/>
+<area shape="rect" id="Node000138" href="$class_c_head_crab.html#a68afb4561f267fc59fc22e169bcc8ce8" title="Emits a pain sound for the headcrab." alt="" coords="268,1779,427,1805"/>
+<area shape="poly" id="edge43_Node000001_Node000138" title=" " alt="" coords="569,1188,560,1312,540,1486,525,1575,506,1656,482,1723,469,1749,454,1769,428,1786,425,1781,450,1765,464,1746,478,1721,501,1655,520,1574,535,1485,555,1311,564,1187"/>
+<area shape="rect" id="Node000139" href="$class_c_i_slave.html#ae031245a70cad142469e0cf63d78b64e" title="Plays the pain sound for the CISlave entity." alt="" coords="280,1829,415,1856"/>
+<area shape="poly" id="edge44_Node000001_Node000139" title=" " alt="" coords="569,1188,562,1321,543,1511,528,1608,509,1696,484,1769,470,1798,454,1819,436,1832,416,1841,414,1836,434,1828,450,1815,465,1795,479,1767,504,1695,523,1607,538,1510,557,1321,564,1187"/>
+<area shape="rect" id="Node000140" href="$class_c_zombie.html#ad7e0b94f49895b1b4d7d43c2156786de" title="Plays a pain sound for the zombie." alt="" coords="276,1880,419,1907"/>
+<area shape="poly" id="edge45_Node000001_Node000140" title=" " alt="" coords="570,1187,564,1330,546,1535,532,1640,512,1736,486,1815,471,1846,454,1870,438,1882,420,1890,418,1885,436,1878,450,1866,466,1844,481,1813,507,1735,526,1639,541,1534,558,1330,565,1187"/>
+<area shape="rect" id="Node000142" href="$class_c_roach.html#a7494e1d02736375a1d768a6497f23cd7" title="Picks a new destination for the roach to run to." alt="" coords="271,1931,424,1957"/>
+<area shape="poly" id="edge46_Node000001_Node000142" title=" " alt="" coords="570,1188,566,1340,549,1559,535,1673,515,1776,488,1862,472,1895,454,1920,441,1931,426,1939,423,1934,438,1927,450,1917,468,1892,483,1860,510,1775,530,1672,544,1559,560,1339,565,1188"/>
+<area shape="rect" id="Node000083" href="$class_c_tripmine_grenade.html#aaed0d096f0eb79fbb48d6928c07fedfa" title="Handles the power&#45;up state of the tripmine grenade." alt="" coords="7,1999,193,2041"/>
+<area shape="poly" id="edge47_Node000001_Node000083" title=" " alt="" coords="571,1188,569,1349,564,1463,555,1585,541,1707,520,1819,507,1867,492,1910,474,1945,454,1971,436,1984,410,1994,344,2009,268,2017,194,2021,194,2016,268,2012,344,2003,409,1989,433,1979,450,1967,470,1942,487,1908,502,1866,515,1817,536,1706,550,1585,559,1463,563,1349,565,1187"/>
+<area shape="rect" id="Node000145" href="$class_c_squeak.html#aab1d5bba9733a843bb02c7334957f06e" title="Handles the primary attack for the squeak weapon." alt="" coords="265,2083,430,2109"/>
+<area shape="poly" id="edge48_Node000001_Node000145" title=" " alt="" coords="571,1188,571,1366,567,1493,559,1631,545,1769,524,1896,510,1952,494,2001,475,2041,454,2073,432,2089,429,2084,450,2069,471,2039,489,1999,505,1950,519,1895,539,1769,553,1631,561,1493,565,1366,566,1188"/>
+<area shape="rect" id="Node000146" href="$class_c_crossbow.html#a0dcb70fbe4e0f06213d865ff3ca0adce" title="Reloads the crossbow weapon." alt="" coords="280,2133,415,2160"/>
+<area shape="poly" id="edge49_Node000001_Node000146" title=" " alt="" coords="569,1188,556,1388,533,1685,517,1835,498,1967,477,2068,466,2102,454,2123,437,2137,416,2145,414,2140,434,2132,450,2120,461,2100,472,2066,493,1966,511,1834,527,1685,551,1388,564,1188"/>
+<area shape="rect" id="Node000147" href="$class_c_shotgun.html#a589b3787e0f81e8657b2f54cffe22f83" title="Reloads the shotgun." alt="" coords="284,2235,411,2261"/>
+<area shape="poly" id="edge50_Node000001_Node000147" title=" " alt="" coords="569,1188,558,1405,534,1732,519,1897,500,2044,479,2156,467,2194,454,2218,435,2234,412,2244,410,2239,432,2229,450,2214,462,2192,473,2154,495,2043,513,1897,529,1731,552,1404,564,1187"/>
+<area shape="rect" id="Node000150" href="$class_c_shotgun.html#a06bb237b962c62cca6f409466dea4782" title="Handles the idle state of the shotgun." alt="" coords="23,2209,177,2236"/>
+<area shape="poly" id="edge58_Node000001_Node000150" title=" " alt="" coords="569,1188,558,1398,536,1712,520,1871,501,2010,479,2116,467,2152,454,2174,435,2187,407,2198,336,2213,254,2221,178,2225,177,2219,254,2216,335,2208,406,2193,432,2183,450,2170,462,2150,474,2115,496,2009,515,1870,530,1712,553,1398,564,1188"/>
+<area shape="rect" id="Node000151" href="$util_8h.html#a8a4601b94eb359b1b48670b4c5bc4e15" title=" " alt="" coords="293,2032,402,2059"/>
+<area shape="poly" id="edge54_Node000001_Node000151" title=" " alt="" coords="571,1187,568,1355,553,1603,539,1731,519,1849,491,1947,474,1986,454,2015,431,2033,403,2043,402,2038,428,2028,450,2012,469,1983,486,1945,513,1848,534,1730,548,1602,562,1355,565,1187"/>
+<area shape="rect" id="Node000159" href="$class_c_squeak_grenade.html#a467a14aaaf74643e1464c390110eb92a" title="Handles the touch behavior of the squeak grenade." alt="" coords="243,2285,452,2328"/>
+<area shape="poly" id="edge56_Node000001_Node000159" title=" " alt="" coords="569,1188,559,1415,536,1760,520,1936,501,2091,479,2209,467,2250,454,2275,442,2287,438,2283,450,2272,462,2248,474,2208,496,2090,515,1935,531,1760,553,1415,564,1187"/>
+<area shape="rect" id="Node000005" href="$class_c_leech.html#a990a0f4bc1bd4f677981b5434cf48264" title="Switches the leech&#39;s state based on conditions." alt="" coords="11,107,189,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="263,123,190,123,190,117,263,117"/>
+<area shape="rect" id="Node000010" href="$class_c_bloater.html#a928bf0ffa55424b5e5d42411e3ab7cfe" title="Handles animation events specific to the bloater." alt="" coords="9,208,191,235"/>
+<area shape="poly" id="edge7_Node000009_Node000010" title=" " alt="" coords="261,224,191,224,191,219,261,219"/>
+<area shape="rect" id="Node000012" href="$class_c_leech.html#a7e9fc3a93162c2366abdd17e24cb4947" title="Handles animation events for the leech." alt="" coords="12,259,188,285"/>
+<area shape="poly" id="edge9_Node000011_Node000012" title=" " alt="" coords="257,275,188,275,188,269,257,269"/>
+<area shape="poly" id="edge11_Node000013_Node000014" title=" " alt="" coords="254,367,191,360,192,355,255,361"/>
+<area shape="poly" id="edge21_Node000035_Node000017" title=" " alt="" coords="300,559,194,517,150,503,152,498,196,512,302,554"/>
+<area shape="poly" id="edge22_Node000035_Node000067" title=" " alt="" coords="280,569,164,552,165,547,280,564"/>
+<area shape="poly" id="edge23_Node000035_Node000096" title=" " alt="" coords="280,584,189,592,188,587,279,579"/>
+<area shape="poly" id="edge24_Node000035_Node000097" title=" " alt="" coords="298,598,137,662,135,657,296,593"/>
+<area shape="poly" id="edge37_Node000122_Node000116" title=" " alt="" coords="250,1278,195,1272,195,1267,251,1273"/>
+<area shape="poly" id="edge39_Node000123_Node000124" title=" " alt="" coords="252,1582,176,1574,176,1569,253,1577"/>
+<area shape="poly" id="edge51_Node000147_Node000150" title=" " alt="" coords="268,2243,177,2233,178,2228,269,2237"/>
+<area shape="poly" id="edge55_Node000151_Node000083" title=" " alt="" coords="277,2041,193,2032,194,2027,277,2036"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoSort" name="anonymous_namespace{vgui_ServerBrowser::cpp}::ServerBrowserTablePanel::DoSort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,215,80"/>
+<area shape="rect" id="Node000002" href="$hud__servers_8cpp.html#a5b40bd582b22110d0a8c35df4b66f2d3" title="Sorts the servers in the global server browser by a specified field." alt="" coords="263,29,351,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,40,247,40,247,45,215,45"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#abc932c1494ebad070f85b5cb2d4de5c9" title="Sorts the server list by the specified field." alt="" coords="399,29,570,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="351,40,383,40,383,45,351,45"/>
+<area shape="rect" id="Node000004" href="$hud__servers_8cpp.html#a9b978150e6d467b9331ee9da4fa6a0f3" title="C&#45;style compare function for use with qsort." alt="" coords="618,29,743,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,40,603,40,603,45,571,45"/>
+<area shape="rect" id="Node000005" href="$hud__servers_8cpp.html#a7f6ba08f26ef473bd55f336aecfa9753" title="Wrapper for CompareField for use with qsort, assumes ascending sort order." alt="" coords="791,29,950,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="743,40,775,40,775,45,743,45"/>
+<area shape="rect" id="Node000006" href="$hud__servers_8cpp.html#ae43e1b962ca384ca82262c942c744490" title="Compares two servers based on a specific field value." alt="" coords="998,29,1099,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="950,40,983,40,983,45,950,45"/>
+</map>

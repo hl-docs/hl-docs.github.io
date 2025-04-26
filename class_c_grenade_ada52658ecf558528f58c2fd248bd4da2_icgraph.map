@@ -1,0 +1,5 @@
+<map id="CGrenade::SlideTouch" name="CGrenade::SlideTouch">
+<area shape="rect" id="Node000001" title="Handles the sliding logic for the grenade." alt="" coords="260,5,411,32"/>
+<area shape="rect" id="Node000002" href="$class_c_grenade.html#ae0ef7b8fe706328b74f8eb134495d042" title="Creates and shoots a satchel charge." alt="" coords="5,5,212,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,21,212,21,212,16,244,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CSquadMonster::SquadPasteEnemyInfo" name="CSquadMonster::SquadPasteEnemyInfo">
+<area shape="rect" id="Node000001" title="Pastes enemy information from the squad leader to the squad members." alt="" coords="254,5,447,48"/>
+<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#a60382d8ab644a49ab5f354ab70d18985" title="Checks if the specified enemy is valid." alt="" coords="5,13,206,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,29,206,29,206,24,238,24"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TeamFortressViewport::AllowedToPrintText" name="TeamFortressViewport::AllowedToPrintText">
+<area shape="rect" id="Node000001" title="Determines if the HUD is allowed to print text messages." alt="" coords="5,5,157,48"/>
+<area shape="rect" id="Node000002" href="$class_c_menu_panel.html#a528f8164358f2a99dd5f27e49a1e0cb6" title=" " alt="" coords="205,13,373,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,24,189,24,189,29,157,29"/>
+</map>

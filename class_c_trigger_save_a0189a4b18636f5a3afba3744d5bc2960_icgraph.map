@@ -1,0 +1,5 @@
+<map id="CTriggerSave::SaveTouch" name="CTriggerSave::SaveTouch">
+<area shape="rect" id="Node000001" title="Handles the touch event for the save trigger." alt="" coords="198,5,366,32"/>
+<area shape="rect" id="Node000002" href="$class_c_trigger_save.html#ab952fb9894ed5487dfdfe82e098e9048" title="Initializes the save trigger entity." alt="" coords="5,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,21,150,21,150,16,182,16"/>
+</map>

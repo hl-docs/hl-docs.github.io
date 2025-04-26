@@ -1,0 +1,9 @@
+<map id="CStudioModelRenderer::StudioCalcBoneQuaterion" name="CStudioModelRenderer::StudioCalcBoneQuaterion">
+<area shape="rect" id="Node000001" title="Calculates the bone orientation (quaternion) for a given animation frame." alt="" coords="5,48,184,91"/>
+<area shape="rect" id="Node000002" href="$studio__util_8cpp.html#a16042b88ad22f3297b1176f950366e2d" title="Converts Euler angles to a quaternion." alt="" coords="232,5,349,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,45,220,34,222,39,180,50"/>
+<area shape="rect" id="Node000003" href="$studio__util_8cpp.html#ab621fbc786bcd3a0e31c5d3e6e2417bf" title="Performs spherical linear interpolation (SLERP) between two quaternions." alt="" coords="233,56,348,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,67,217,67,217,72,184,72"/>
+<area shape="rect" id="Node000004" href="$studio__util_8cpp.html#a746b1664af98bddc08e0f1803a908282" title="Compares two 3D vectors for equality." alt="" coords="235,107,346,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,89,222,100,220,105,179,94"/>
+</map>

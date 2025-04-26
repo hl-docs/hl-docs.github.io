@@ -1,0 +1,7 @@
+<map id="CHAssassin::CheckRangeAttack1" name="CHAssassin::CheckRangeAttack1">
+<area shape="rect" id="Node000001" title="Checks if a range attack can be performed." alt="" coords="5,31,226,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="306,5,352,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,28,290,21,290,26,226,34"/>
+<area shape="rect" id="Node000003" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="274,56,384,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,54,259,58,258,64,226,60"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CBaseMonster::CanPlaySequence" name="CBaseMonster::CanPlaySequence">
+<area shape="rect" id="Node000001" title="Determines whether the monster can play a scripted sequence." alt="" coords="250,56,472,83"/>
+<area shape="rect" id="Node000002" href="$class_c_cine_monster.html#a5aca305f7ced606869ced6a4a25ab3a4" title="Finds a viable entity for the cinematic sequence." alt="" coords="18,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,55,174,35,175,30,275,50"/>
+<area shape="rect" id="Node000003" href="$class_c_cine_monster.html#ab755f476fe0e9643edff63048d5d3c0a" title="Possesses the target entity for the cinematic sequence." alt="" coords="5,56,202,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,72,202,72,202,67,234,67"/>
+<area shape="rect" id="Node000004" href="$class_c_cine_a_i.html#ae04d30265d62327173aec404b5335888" title="Possesses the target entity for the cinematic sequence." alt="" coords="23,107,184,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,89,175,109,174,103,274,84"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CWeaponCycler::Deploy" name="CWeaponCycler::Deploy">
+<area shape="rect" id="Node000001" title="Deploys the weapon cycler for the player." alt="" coords="5,43,169,69"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player_weapon.html#a779897e704f928df0580fbe2c4040c53" title="Sends a weapon animation to the HUD." alt="" coords="220,5,374,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,42,204,37,205,42,169,47"/>
+<area shape="rect" id="Node000004" href="$com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="217,72,377,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,65,201,69,201,75,169,70"/>
+<area shape="rect" id="Node000003" href="$com__weapons_8cpp.html#a96b37f8ec986c5310d38973eed01aee1" title="Sets the weapon model animation." alt="" coords="425,13,588,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,24,409,24,409,29,374,29"/>
+</map>

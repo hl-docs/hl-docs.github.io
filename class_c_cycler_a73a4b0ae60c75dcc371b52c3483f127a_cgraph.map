@@ -1,0 +1,5 @@
+<map id="CCycler::Think" name="CCycler::Think">
+<area shape="rect" id="Node000001" title="Think function for the cycler." alt="" coords="5,13,112,40"/>
+<area shape="rect" id="Node000002" href="$class_c_base_animating.html#aa9127b550661e9f715d816858edf0a8e" title="Advances the animation frame based on the current time." alt="" coords="160,5,360,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,24,144,24,144,29,112,29"/>
+</map>

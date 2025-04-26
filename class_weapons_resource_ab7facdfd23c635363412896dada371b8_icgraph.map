@@ -1,0 +1,7 @@
+<map id="WeaponsResource::LoadWeaponSprites" name="WeaponsResource::LoadWeaponSprites">
+<area shape="rect" id="Node000001" title="Loads the sprites for a specific weapon." alt="" coords="541,5,756,48"/>
+<area shape="rect" id="Node000002" href="$class_weapons_resource.html#ad8dae32a4f0c934f0142de999c770f3f" title=" " alt="" coords="283,13,493,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,29,493,29,493,24,525,24"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_ammo.html#a8985e497fa1d9a8153bab5aba358e3f9" title="Handles the registration of a new weapon type for the HUD." alt="" coords="5,13,235,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,29,235,29,235,24,267,24"/>
+</map>

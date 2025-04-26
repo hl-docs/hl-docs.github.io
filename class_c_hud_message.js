@@ -1,0 +1,25 @@
+var class_c_hud_message =
+[
+    [ "Draw", "class_c_hud_message.html#aa50d164eed66799f2c71b912f1d49d80", null ],
+    [ "FadeBlend", "class_c_hud_message.html#a7ac85a310a2044b168fa4f9f27d21e8e", null ],
+    [ "Init", "class_c_hud_message.html#a8d0e7bc6e8244e3bc0dd411f4f596411", null ],
+    [ "MessageAdd", "class_c_hud_message.html#a70b2edd30443387f27a73611f9efe0aa", null ],
+    [ "MessageAdd", "class_c_hud_message.html#a80a092765f6a40219a43d39c857e28c5", null ],
+    [ "MessageDrawScan", "class_c_hud_message.html#ac4f6211ad067ee182fb920aa9e8c5d5e", null ],
+    [ "MessageScanNextChar", "class_c_hud_message.html#ace4b7ed967839add94c9946f47decc08", null ],
+    [ "MessageScanStart", "class_c_hud_message.html#ade1b1f5f9515efd4b304c75f2f9f6e4d", null ],
+    [ "MsgFunc_GameTitle", "class_c_hud_message.html#aa3a61c649d9b7a6c60033403bd870f46", null ],
+    [ "MsgFunc_HudText", "class_c_hud_message.html#a6fa9a95c3ded9661fca67c6073271fac", null ],
+    [ "MsgFunc_HudTextPro", "class_c_hud_message.html#a70e261d5f7994ac8b55332bfb7838615", null ],
+    [ "Reset", "class_c_hud_message.html#a0ec5336d651fc77702c390fffd2e4da3", null ],
+    [ "VidInit", "class_c_hud_message.html#a49a36644cbd791617b95012090766998", null ],
+    [ "XPosition", "class_c_hud_message.html#a17a0bce777ad18cd27e7ca89d868e45f", null ],
+    [ "YPosition", "class_c_hud_message.html#a3dec33cca1a74026ff9ee9e5fd191bfa", null ],
+    [ "m_gameTitleTime", "class_c_hud_message.html#a433c9f62f367805c2dd038b55545cf71", null ],
+    [ "m_HUD_title_half", "class_c_hud_message.html#a8bb744c0063d19648b20ebb0ec6025c8", null ],
+    [ "m_HUD_title_life", "class_c_hud_message.html#a3cea6ee36f2c0b43c2179d61d7f53346", null ],
+    [ "m_parms", "class_c_hud_message.html#ae016a2a8579b83c42d4614a66205f5a6", null ],
+    [ "m_pGameTitle", "class_c_hud_message.html#a378fb872691eff547cc0ed1466ebf96a", null ],
+    [ "m_pMessages", "class_c_hud_message.html#a04ac5ae3658d04743ae3d17ea5d93ab5", null ],
+    [ "m_startTime", "class_c_hud_message.html#ae402a2ab7114d7e84286b0a81d8e2979", null ]
+];

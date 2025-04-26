@@ -1,0 +1,5 @@
+<map id="DbgInitModuleSettings" name="DbgInitModuleSettings">
+<area shape="rect" id="Node000001" title="Retrieves the module&#45;specific settings from the registry." alt="" coords="145,5,296,32"/>
+<area shape="rect" id="Node000002" href="$_wxdebug_8cpp.html#aacf890d56b028491e93fe4ab20e242ff" title="Initializes the debugging library." alt="" coords="5,5,97,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,21,97,21,97,16,129,16"/>
+</map>

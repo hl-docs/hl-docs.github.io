@@ -1,0 +1,13 @@
+<map id="EMIT_GROUPID_SUIT" name="EMIT_GROUPID_SUIT">
+<area shape="rect" id="Node000001" title="Plays a random sentence from a group over the HEV suit speaker." alt="" coords="5,31,158,57"/>
+<area shape="rect" id="Node000002" href="$sound_8cpp.html#ad5bac6fb2a8f8936883cec9d753d1200" title="Plays a random sentence from a group by index." alt="" coords="206,31,366,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,41,190,41,190,47,158,47"/>
+<area shape="rect" id="Node000003" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="417,5,555,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,31,401,27,401,32,367,36"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#aae0ad5b2266f4050c68b37d8477281fd" title="Picks a random sentence from a group using the LRU list." alt="" coords="414,56,557,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="367,52,399,56,398,61,366,57"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="610,5,760,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="555,16,594,16,594,21,555,21"/>
+<area shape="rect" id="Node000006" href="$sound_8cpp.html#a57fa29b2f0199ba8b97999f6be440b76" title="Initializes the Least Recently Used (LRU) list for sentence groups." alt="" coords="605,56,765,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="557,67,590,67,590,72,557,72"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CBaseMonster::PushEnemy" name="CBaseMonster::PushEnemy">
+<area shape="rect" id="Node000001" title="Remembers the last few enemies encountered." alt="" coords="494,35,680,61"/>
+<area shape="rect" id="Node000002" href="$class_c_i_slave.html#ad55695628e24ec56c572cec2fbbb2994" title="Calls for help from other CISlave entities." alt="" coords="281,5,420,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,37,420,30,421,25,479,32"/>
+<area shape="rect" id="Node000004" href="$class_c_squad_monster.html#ad3f3d4a9e52985a9c64a9b0246d6ae0b" title="Makes all squad members angry at the same enemy." alt="" coords="255,56,446,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="479,64,447,68,446,63,478,59"/>
+<area shape="rect" id="Node000003" href="$class_c_i_slave.html#a4920d0d204e09f4465c80ad466a99842" title="Plays the alert sound for the CISlave entity." alt="" coords="38,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,21,174,21,174,16,265,16"/>
+<area shape="rect" id="Node000005" href="$class_c_squad_monster.html#a35efd3259d25ae761e62bd81b7c0d2ab" title="Gets the ideal state for the squad monster." alt="" coords="5,64,207,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,80,207,80,207,75,239,75"/>
+</map>

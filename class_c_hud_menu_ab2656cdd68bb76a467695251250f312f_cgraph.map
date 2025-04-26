@@ -1,0 +1,5 @@
+<map id="CHudMenu::InitHUDData" name="CHudMenu::InitHUDData">
+<area shape="rect" id="Node000001" title="Initializes internal menu data." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_menu.html#a1c80829b41ec238df21e13ddd8864020" title="Resets the current menu display state." alt="" coords="218,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CPathTrack::Nearest" name="CPathTrack::Nearest">
+<area shape="rect" id="Node000001" title="Finds the nearest path track to a given position." alt="" coords="5,31,148,57"/>
+<area shape="rect" id="Node000002" href="$class_c_path_track.html#a7c88acc042e1fbbca05de3d1d871c88e" title="Retrieves the next path track in the sequence." alt="" coords="196,5,341,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,32,180,28,181,33,149,37"/>
+<area shape="rect" id="Node000003" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="215,56,322,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,51,200,58,200,63,148,56"/>
+<area shape="rect" id="Node000004" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="389,56,432,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,67,373,67,373,72,322,72"/>
+</map>

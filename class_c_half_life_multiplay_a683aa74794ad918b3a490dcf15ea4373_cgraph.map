@@ -1,0 +1,9 @@
+<map id="CHalfLifeMultiplay::CHalfLifeMultiplay" name="CHalfLifeMultiplay::CHalfLifeMultiplay">
+<area shape="rect" id="Node000001" title="Constructor for the CHalfLifeMultiplay class." alt="" coords="5,5,138,48"/>
+<area shape="rect" id="Node000002" href="$class_c_half_life_multiplay.html#a7b3c59e50609a60e92bb46602f2b0ed6" title="Refreshes skill data for multiplayer mode." alt="" coords="186,5,311,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,24,170,24,170,29,138,29"/>
+<area shape="rect" id="Node000003" href="$class_c_game_rules.html#a37e3225131e0a6804b34a51fdabc868d" title="Refreshes the skill data based on the current skill level." alt="" coords="359,13,561,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,24,343,24,343,29,311,29"/>
+<area shape="rect" id="Node000004" href="$skill_8cpp.html#a9b053753ee170bcaccfbd5dbf5908f08" title="Retrieves the skill variable value based on the current skill level." alt="" coords="609,13,702,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="562,24,593,24,593,29,562,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PM_CatagorizeTextureType" name="PM_CatagorizeTextureType">
+<area shape="rect" id="Node000001" title="Analyzes the texture under the player." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="Node000002" href="$pm__shared_8c.html#ad69b0264310e1758470f45f9cb82488e" title="Finds the type of a texture by its name." alt="" coords="235,5,379,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,16,219,16,219,21,187,21"/>
+</map>

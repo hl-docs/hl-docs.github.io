@@ -1,0 +1,5 @@
+<map id="CSoundEnt::InsertSound" name="CSoundEnt::InsertSound">
+<area shape="rect" id="Node000001" title="Inserts a sound into the sound list." alt="" coords="5,5,170,32"/>
+<area shape="rect" id="Node000002" href="$class_c_sound_ent.html#a40144b8235a778dfabbeaa8bbc9ba665" title="Allocates a sound from the free list to the active list." alt="" coords="218,5,382,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,21,170,21"/>
+</map>

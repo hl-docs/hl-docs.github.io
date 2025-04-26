@@ -1,0 +1,110 @@
+<map id="Vector::CopyToArray" name="Vector::CopyToArray">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1111,705,1253,732"/>
+<area shape="rect" id="Node000002" href="$sound_8cpp.html#ae7f94736c8f551c681c9e646be307c99" title="Plays a sound based on the texture hit by a trace line." alt="" coords="656,5,838,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1176,690,1167,613,1147,504,1112,382,1089,321,1061,264,1016,190,973,136,921,92,847,46,822,35,824,30,850,42,924,88,977,132,1020,187,1065,261,1094,319,1118,380,1152,503,1172,612,1181,690"/>
+<area shape="rect" id="Node000006" href="$dlls_2util_8cpp.html#ad146598f5113a09b2d852650c03fe2b2" title="Emits an ambient sound at a specified origin." alt="" coords="897,275,1063,301"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1166,692,985,303,990,300,1171,690"/>
+<area shape="rect" id="Node000023" href="$dlls_2util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="903,1136,1057,1163"/>
+<area shape="poly" id="edge25_Node000001_Node000023" title=" " alt="" coords="1171,747,990,1137,985,1135,1166,745"/>
+<area shape="rect" id="Node000077" href="$dlls_2util_8cpp.html#a3989d857830dd5d2a4afd8094748c686" title="Moves an entity to a specified origin." alt="" coords="914,1861,1046,1888"/>
+<area shape="poly" id="edge56_Node000001_Node000077" title=" " alt="" coords="1178,748,986,1861,981,1860,1173,747"/>
+<area shape="rect" id="Node000003" href="$class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="450,5,570,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="640,21,571,21,571,16,640,16"/>
+<area shape="rect" id="Node000004" href="$class_c_crowbar.html#a75fe911c0db1c8068051588cbfa2c6e9" title="Handles the primary attack action of the crowbar." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="434,21,174,21,174,16,434,16"/>
+<area shape="rect" id="Node000005" href="$class_c_crowbar.html#ae3b7f4f2780a8f6c7ed0709d2bc0deb9" title="Handles the second swing of the crowbar." alt="" coords="222,31,375,57"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="435,30,376,37,375,32,434,25"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="206,36,174,32,174,26,207,30"/>
+<area shape="poly" id="edge16_Node000006_Node000002" title=" " alt="" coords="960,263,894,148,882,117,876,91,867,69,847,46,829,35,832,30,850,42,872,66,881,90,887,115,899,146,964,260"/>
+<area shape="rect" id="Node000007" href="$class_c_controller_zap_ball.html#a2665f8d17989725d1ce631a634eee6ab" title="Handles the explode touch event for the controller zap ball." alt="" coords="683,56,811,99"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="963,262,918,188,885,147,847,113,811,94,813,89,850,108,889,144,922,185,968,259"/>
+<area shape="rect" id="Node000009" href="$class_c_tentacle.html#a73eddacca442f40da46b6573de94f0a5" title="Handles the tentacle&#39;s animation events." alt="" coords="652,123,842,149"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="957,264,911,212,880,186,847,164,821,152,823,147,850,159,884,182,914,209,961,260"/>
+<area shape="rect" id="Node000010" href="$class_c_ambient_generic.html#a7b00bbb12bc5310fca94ecbecff8d5ea" title="Precaches the sound file for the ambient generic entity." alt="" coords="654,173,840,200"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="945,268,900,240,848,214,814,203,815,198,850,210,902,236,948,263"/>
+<area shape="rect" id="Node000012" href="$class_c_ambient_generic.html#a968b37b0a83d8a916df41264c90c8065" title="Think function for ramping pitch and volume." alt="" coords="649,224,845,251"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="900,273,811,254,812,249,901,268"/>
+<area shape="rect" id="Node000013" href="$class_c_speaker.html#a52f9986f3c7edc06853ffb7e69d99825" title="Think function for the speaker entity." alt="" coords="664,325,830,352"/>
+<area shape="poly" id="edge14_Node000006_Node000013" title=" " alt="" coords="901,308,812,327,811,322,900,303"/>
+<area shape="rect" id="Node000015" href="$class_c_ambient_generic.html#af829515a5276ea14b739584763554e1e" title="Toggles the ambient sound on or off." alt="" coords="651,275,843,301"/>
+<area shape="poly" id="edge17_Node000006_Node000015" title=" " alt="" coords="881,291,844,291,844,285,881,285"/>
+<area shape="rect" id="Node000016" href="$class_c_i_slave.html#aa4c57db62d0120725f29a0789f6f3aea" title="Creates a heavy damage beam directed forward." alt="" coords="683,477,811,504"/>
+<area shape="poly" id="edge19_Node000006_Node000016" title=" " alt="" coords="968,317,950,351,924,392,890,433,850,468,812,484,810,479,847,463,886,429,919,389,945,349,964,314"/>
+<area shape="rect" id="Node000018" href="$class_c_nihilanth_h_v_r.html#ae6c7e59112d110fcaed166a10866d1c7" title="Handles the zap think behavior for the Nihilanth Hover entity." alt="" coords="663,376,831,403"/>
+<area shape="poly" id="edge21_Node000006_Node000018" title=" " alt="" coords="948,313,902,340,850,366,815,378,814,373,848,362,900,336,945,308"/>
+<area shape="rect" id="Node000022" href="$class_c_nihilanth_h_v_r.html#a95b0a04a3e0b2702b9f85d6fd5d5edda" title="Handles the zap touch behavior for the Nihilanth Hover entity." alt="" coords="661,427,833,453"/>
+<area shape="poly" id="edge23_Node000006_Node000022" title=" " alt="" coords="961,316,914,367,884,394,850,417,823,429,821,424,847,412,880,390,911,364,957,312"/>
+<area shape="rect" id="Node000008" href="$class_c_controller_zap_ball.html#a7a3ddde34cacb2850805dc19819dc1a3" title="Spawns the controller zap ball entity." alt="" coords="446,56,574,99"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="667,80,575,80,575,75,667,75"/>
+<area shape="rect" id="Node000011" href="$class_c_ambient_generic.html#a0d09758c5a14172511411d866a20b541" title="Spawns the ambient generic sound entity." alt="" coords="425,224,595,251"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="667,206,576,226,575,221,665,201"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="633,240,596,240,596,235,633,235"/>
+<area shape="rect" id="Node000014" href="$class_c_speaker.html#ae66e20b75e6913b46a8f67ac99b14d62" title="Spawns the speaker entity." alt="" coords="448,325,573,352"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="649,341,573,341,573,336,649,336"/>
+<area shape="poly" id="edge18_Node000015_Node000011" title=" " alt="" coords="665,273,575,254,576,249,667,268"/>
+<area shape="rect" id="Node000017" href="$class_c_i_slave.html#aa8c4d2f514c2b3e8300d74741d0d3f58" title="Handles animation events for the CISlave entity." alt="" coords="423,528,597,555"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="669,510,577,530,575,525,668,505"/>
+<area shape="rect" id="Node000019" href="$class_c_nihilanth_h_v_r.html#acc6b4e52001653a9ca7f00a049f56e70" title="Initializes the zap behavior for the Nihilanth Hover entity." alt="" coords="434,401,587,428"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="648,403,588,409,587,404,648,397"/>
+<area shape="poly" id="edge24_Node000022_Node000019" title=" " alt="" coords="646,432,587,426,588,420,647,427"/>
+<area shape="poly" id="edge46_Node000023_Node000017" title=" " alt="" coords="974,1121,963,1000,939,832,922,747,901,670,876,609,862,586,847,569,830,559,806,551,742,541,669,538,598,539,598,534,669,533,743,536,807,546,832,554,850,565,866,582,881,606,906,669,927,746,944,831,968,999,979,1120"/>
+<area shape="rect" id="Node000024" href="$class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="663,629,831,656"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="977,1120,974,1035,969,978,958,916,942,852,919,788,888,729,847,677,820,659,823,654,850,673,892,726,924,786,947,850,963,915,974,977,980,1034,982,1120"/>
+<area shape="rect" id="Node000039" href="$class_c_i_slave.html#aedb32a778cb8a00a8eaa2619e7e256c0" title="Creates a beam from the CISlave&#39;s arm to nearby geometry." alt="" coords="682,579,812,605"/>
+<area shape="poly" id="edge29_Node000023_Node000039" title=" " alt="" coords="973,1121,958,1010,932,859,915,783,895,714,872,657,847,619,831,607,812,600,814,595,833,603,851,615,877,655,900,712,920,782,938,858,964,1009,978,1120"/>
+<area shape="rect" id="Node000040" href="$class_c_osprey.html#a66582dbb172aee31627e205e338cf799" title="Handles the deployment of grunts." alt="" coords="435,1068,586,1095"/>
+<area shape="poly" id="edge31_Node000023_Node000040" title=" " alt="" coords="972,1121,956,1028,929,906,912,845,892,791,870,748,847,721,796,691,771,684,748,682,724,684,699,692,647,721,607,757,576,802,552,853,536,905,525,956,518,1002,514,1068,509,1067,513,1001,519,955,531,903,547,851,571,800,603,754,644,717,697,687,723,679,748,676,773,679,798,686,850,717,875,745,897,789,917,844,934,905,961,1027,977,1120"/>
+<area shape="rect" id="Node000045" href="$class_c_nihilanth.html#a83a64b08f6d4f33bf8d777d1bf3bd321" title="Handles the dying think behavior for the Nihilanth." alt="" coords="671,731,823,757"/>
+<area shape="poly" id="edge32_Node000023_Node000045" title=" " alt="" coords="975,1121,968,1049,948,955,932,905,910,856,882,811,847,771,822,756,825,752,850,767,886,808,915,854,937,903,953,954,973,1049,980,1120"/>
+<area shape="rect" id="Node000050" href="$class_c_osprey.html#acb7f8a95c86b47d03d0701ca95483d2f" title="Handles the dying behavior of the Osprey." alt="" coords="675,781,819,808"/>
+<area shape="poly" id="edge33_Node000023_Node000050" title=" " alt="" coords="973,1121,963,1058,941,977,925,935,904,893,878,855,847,822,818,806,821,801,850,818,882,852,909,891,930,933,946,976,968,1057,978,1120"/>
+<area shape="rect" id="Node000052" href="$class_c_func_tank_gun.html#ab0bcc8917ab233e04ac5e627567e1b60" title="Fire the tank&#39;s gun." alt="" coords="676,832,818,859"/>
+<area shape="poly" id="edge34_Node000023_Node000052" title=" " alt="" coords="971,1122,958,1068,935,1001,898,931,875,900,847,873,817,857,819,852,850,869,879,896,903,928,939,998,963,1067,976,1120"/>
+<area shape="rect" id="Node000053" href="$class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="672,883,822,909"/>
+<area shape="poly" id="edge35_Node000023_Node000053" title=" " alt="" coords="968,1122,952,1078,927,1024,892,969,871,945,847,924,821,910,823,905,850,919,875,941,897,966,932,1021,957,1076,973,1120"/>
+<area shape="rect" id="Node000054" href="$class_c_func_tank_mortar.html#a9f01f781cbd963cbab65deedb79ce3cd" title="Fires the mortar&#39;s cannon." alt="" coords="670,933,824,960"/>
+<area shape="poly" id="edge36_Node000023_Node000054" title=" " alt="" coords="964,1123,945,1089,919,1048,886,1008,847,974,824,962,826,958,850,970,890,1004,924,1045,950,1086,968,1121"/>
+<area shape="rect" id="Node000055" href="$class_c_apache.html#a4dec3a8d3c44e626a7caa26fdc4ee4e6" title="Fires the Apache&#39;s gun." alt="" coords="683,984,811,1011"/>
+<area shape="poly" id="edge37_Node000023_Node000055" title=" " alt="" coords="957,1125,911,1074,880,1047,847,1025,811,1010,813,1006,850,1020,884,1043,914,1070,961,1122"/>
+<area shape="rect" id="Node000056" href="$class_c_apache.html#af1b93fabfef8a18496d482656e48881b" title="Fires a rocket from the Apache." alt="" coords="674,1035,820,1061"/>
+<area shape="poly" id="edge38_Node000023_Node000056" title=" " alt="" coords="945,1129,900,1102,848,1076,814,1064,815,1059,850,1071,902,1097,948,1125"/>
+<area shape="rect" id="Node000057" href="$class_c_apache.html#a1061b3164a9c579f303bc67c1fc5aaa2" title="Handles the flight behavior for the Apache." alt="" coords="690,1085,804,1112"/>
+<area shape="poly" id="edge39_Node000023_Node000057" title=" " alt="" coords="900,1135,804,1114,805,1108,901,1130"/>
+<area shape="rect" id="Node000058" href="$class_c_nihilanth.html#a489d5c7175d050a612c6ec041d1767a1" title="Manages the flight behavior of the Nihilanth." alt="" coords="687,1136,807,1163"/>
+<area shape="poly" id="edge40_Node000023_Node000058" title=" " alt="" coords="887,1152,807,1152,807,1147,887,1147"/>
+<area shape="rect" id="Node000059" href="$class_c_osprey.html#aa698c252f80a33605c2b1c6b291fc8a3" title="Manages the flight path of the Osprey." alt="" coords="691,1187,803,1213"/>
+<area shape="poly" id="edge41_Node000023_Node000059" title=" " alt="" coords="901,1169,804,1190,803,1185,900,1164"/>
+<area shape="rect" id="Node000060" href="$class_c_rpg_rocket.html#aa575d2c9a7f9bb666f6d9f61f2248cee" title="Updates the rocket&#39;s direction to follow the laser spot." alt="" coords="662,1237,832,1264"/>
+<area shape="poly" id="edge42_Node000023_Node000060" title=" " alt="" coords="948,1174,902,1202,850,1228,815,1239,814,1234,848,1223,900,1197,945,1169"/>
+<area shape="rect" id="Node000065" href="$class_c_a_grunt.html#a98010193093d0262b00b94d3daa58ec2" title="Handles animation events for the Alien Grunt entity." alt="" coords="656,1288,838,1315"/>
+<area shape="poly" id="edge43_Node000023_Node000065" title=" " alt="" coords="961,1177,914,1229,884,1256,850,1278,823,1290,821,1285,847,1274,880,1251,911,1225,957,1173"/>
+<area shape="rect" id="Node000066" href="$class_c_h_assassin.html#a3f9283db83b1e86ec67dd86ba5e4fe0a" title="Handles animation events for the assassin." alt="" coords="645,1339,849,1365"/>
+<area shape="poly" id="edge44_Node000023_Node000066" title=" " alt="" coords="968,1178,950,1213,924,1254,890,1294,850,1329,827,1341,825,1336,847,1324,886,1291,919,1251,945,1210,964,1175"/>
+<area shape="rect" id="Node000067" href="$class_c_ichthyosaur.html#a39bd2b60f055a6de092f0e0279a1cea4" title="Handles animation events for the ichthyosaur." alt="" coords="659,1389,835,1432"/>
+<area shape="poly" id="edge45_Node000023_Node000067" title=" " alt="" coords="973,1178,956,1222,931,1276,896,1331,874,1357,850,1379,833,1391,830,1386,847,1375,870,1353,891,1328,926,1273,951,1220,968,1176"/>
+<area shape="rect" id="Node000044" href="$class_c_osprey.html#af1461410a46ad89b3788af9d6fbea4f2" title="Handles the hover behavior of the Osprey." alt="" coords="675,1456,819,1483"/>
+<area shape="poly" id="edge47_Node000023_Node000044" title=" " alt="" coords="977,1179,965,1235,942,1308,925,1346,905,1382,880,1416,850,1446,820,1462,818,1458,847,1442,876,1413,900,1379,920,1343,937,1306,960,1234,972,1178"/>
+<area shape="rect" id="Node000068" href="$class_c_apache.html#a316f59455c212231ad0729fe886af1a7" title="Handles the hunt think behavior for the Apache." alt="" coords="677,1507,817,1533"/>
+<area shape="poly" id="edge49_Node000023_Node000068" title=" " alt="" coords="979,1178,970,1244,949,1330,932,1375,911,1420,884,1461,850,1497,819,1514,816,1510,847,1493,879,1457,906,1417,927,1373,944,1328,965,1243,974,1178"/>
+<area shape="rect" id="Node000071" href="$class_c_controller.html#ad96e1fa03b116227f2d4e2faab927dfe" title="Looks up the appropriate floating sequence for the controller monster." alt="" coords="665,1557,829,1584"/>
+<area shape="poly" id="edge50_Node000023_Node000071" title=" " alt="" coords="981,1178,974,1252,956,1352,939,1405,917,1457,887,1505,850,1547,831,1560,828,1556,847,1543,883,1502,912,1454,934,1403,950,1350,969,1252,975,1178"/>
+<area shape="rect" id="Node000072" href="$class_c_nihilanth.html#aeeae715d59d17d600b704c366b6cd425" title="Determines the next activity for the Nihilanth." alt="" coords="668,1608,826,1635"/>
+<area shape="poly" id="edge51_Node000023_Node000072" title=" " alt="" coords="982,1178,979,1260,973,1315,962,1373,946,1434,923,1494,891,1549,850,1598,828,1613,825,1608,847,1594,887,1546,918,1491,941,1432,957,1372,967,1314,973,1260,977,1178"/>
+<area shape="rect" id="Node000073" href="$class_c_apache_h_v_r.html#a14dbb34315ebec9b5598b6a765a37434" title="Spawns the Apache HVR (Helicopter&#45;launched Rocket)." alt="" coords="673,1659,821,1685"/>
+<area shape="poly" id="edge52_Node000023_Node000073" title=" " alt="" coords="977,1179,962,1283,935,1424,918,1495,898,1559,875,1612,851,1649,823,1666,820,1661,847,1645,871,1610,893,1558,913,1493,930,1422,957,1282,972,1178"/>
+<area shape="rect" id="Node000074" href="$class_c_env_light.html#a5775c06be54f6f9e91d843c56d3d0f7c" title="Spawns the environment light entity in the game." alt="" coords="684,1709,810,1736"/>
+<area shape="poly" id="edge53_Node000023_Node000074" title=" " alt="" coords="978,1179,964,1292,939,1448,921,1528,901,1600,877,1659,851,1699,832,1712,812,1720,810,1715,830,1708,847,1695,873,1656,896,1598,916,1526,933,1447,959,1292,973,1178"/>
+<area shape="rect" id="Node000075" href="$class_c_tripmine_grenade.html#addce686623ef4ac3b4d6ee1239a0b82f" title="Spawns the tripmine grenade entity." alt="" coords="659,1760,835,1787"/>
+<area shape="poly" id="edge54_Node000023_Node000075" title=" " alt="" coords="979,1178,967,1300,942,1472,925,1560,904,1639,879,1705,866,1730,851,1750,835,1762,832,1757,847,1746,861,1728,875,1703,899,1638,920,1558,937,1471,961,1300,974,1177"/>
+<area shape="rect" id="Node000076" href="$class_c_osprey.html#a55901934daee4ae792a68a2cf71651f5" title="Updates the goal entity for the Osprey." alt="" coords="673,1811,821,1837"/>
+<area shape="poly" id="edge55_Node000023_Node000076" title=" " alt="" coords="979,1178,968,1310,945,1497,928,1592,907,1680,881,1751,867,1779,850,1801,823,1818,820,1814,847,1797,862,1776,876,1749,902,1678,923,1591,940,1496,963,1310,974,1178"/>
+<area shape="rect" id="Node000025" href="$class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="424,629,597,656"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="648,654,597,654,597,649,648,649"/>
+<area shape="poly" id="edge28_Node000025_Node000024" title=" " alt="" coords="613,631,663,631,663,637,613,636"/>
+<area shape="poly" id="edge30_Node000039_Node000017" title=" " alt="" coords="666,578,575,558,576,553,668,572"/>
+<area shape="poly" id="edge48_Node000044_Node000040" title=" " alt="" coords="660,1457,644,1446,606,1404,576,1357,553,1305,536,1253,516,1159,510,1095,515,1095,522,1158,541,1252,558,1303,581,1354,610,1401,647,1442,663,1453"/>
+<area shape="rect" id="Node000078" href="$class_c_controller.html#a785c37b7963a6f24ea7a4e4b6615c956" title="Executes a move for the controller monster." alt="" coords="661,1861,833,1888"/>
+<area shape="poly" id="edge57_Node000077_Node000078" title=" " alt="" coords="898,1877,833,1877,833,1872,898,1872"/>
+<area shape="rect" id="Node000079" href="$class_c_flying_monster.html#a26d74b7b4e6820298b8919c9cea88e87" title="Executes the movement of the flying monster." alt="" coords="648,1912,846,1939"/>
+<area shape="poly" id="edge58_Node000077_Node000079" title=" " alt="" coords="901,1894,812,1914,811,1909,900,1889"/>
+</map>

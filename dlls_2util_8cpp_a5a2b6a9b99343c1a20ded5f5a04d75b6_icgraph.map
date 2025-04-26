@@ -1,0 +1,10 @@
+<map id="FixedSigned16" name="FixedSigned16">
+<area shape="rect" id="Node000001" title="Converts a float value to a fixed signed 16&#45;bit integer." alt="" coords="546,5,654,32"/>
+<area shape="rect" id="Node000002" href="$dlls_2util_8cpp.html#ad1b3d7095d7ca2fd69eb5fc68dfcd363" title="Displays a HUD message to a specific entity." alt="" coords="368,5,498,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="531,21,499,21,499,16,531,16"/>
+<area shape="rect" id="Node000003" href="$class_c_game_text.html#a7f9fce5855479583cb9c8032debc3f30" title="Activates the game text entity." alt="" coords="5,5,127,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,21,127,21,127,16,352,16"/>
+<area shape="rect" id="Node000004" href="$dlls_2util_8cpp.html#a9530e833f9072bdf01dd0b8e4ef86d62" title="Displays a HUD message to all players." alt="" coords="175,31,320,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="353,32,321,37,320,31,352,27"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="159,34,127,30,127,24,160,29"/>
+</map>

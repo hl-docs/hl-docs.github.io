@@ -1,0 +1,7 @@
+<map id="CAM_StartDistance" name="CAM_StartDistance">
+<area shape="rect" id="Node000001" title="Starts using the mouse to change the camera distance (zoom in/out)." alt="" coords="5,31,142,57"/>
+<area shape="rect" id="Node000002" href="$class_c_hud.html#ac1037bffa140abd71efd359593e0c571" title="Returns the current mouse sensitivity value." alt="" coords="190,5,331,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,32,174,28,174,33,142,37"/>
+<area shape="rect" id="Node000003" href="$in__camera_8cpp.html#a8def09b6eb617f8358f4a18349120a1b" title="Gets the current mouse cursor position." alt="" coords="193,56,328,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,51,178,55,177,61,141,56"/>
+</map>

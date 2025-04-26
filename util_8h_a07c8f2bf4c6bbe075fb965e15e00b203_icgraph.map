@@ -1,0 +1,108 @@
+<map id="UTIL_SetOrigin" name="UTIL_SetOrigin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="709,1190,818,1217"/>
+<area shape="rect" id="Node000002" href="$class_c_barnacle.html#a4226dea19f1c30a28fed856cc5007484" title="The main think function for the barnacle." alt="" coords="473,62,644,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="759,1175,751,951,733,612,719,440,703,288,683,172,671,133,659,109,636,91,640,87,663,106,676,131,688,171,708,287,725,439,738,611,756,951,764,1175"/>
+<area shape="rect" id="Node000003" href="$class_c_barnacle.html#a7288eb00da0ada4f605b04dbc5aa3cf6" title="Spawns the barnacle entity." alt="" coords="238,50,367,77"/>
+<area shape="poly" id="edge35_Node000001_Node000003" title=" " alt="" coords="759,1175,755,938,740,578,728,395,710,235,688,115,674,75,659,52,623,27,581,13,536,8,490,11,445,18,403,29,336,52,334,47,401,23,444,13,489,5,536,3,582,8,625,23,663,48,679,73,693,113,716,234,733,395,746,577,760,937,765,1174"/>
+<area shape="rect" id="Node000004" href="$class_c_crossbow_bolt.html#a4a97ce5329386cdcf27b34cbceeab1a3" title="Handles the touch event for the crossbow bolt." alt="" coords="470,163,646,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="759,1175,750,968,731,659,718,502,701,364,682,260,671,225,659,204,645,192,649,188,663,200,676,223,687,259,706,364,723,502,736,658,755,968,764,1175"/>
+<area shape="rect" id="Node000005" href="$class_c_crossbow_bolt.html#a91e2aa33dbf7f1406968f7ad85e32d69" title="Spawns the crossbow bolt entity." alt="" coords="224,126,381,153"/>
+<area shape="poly" id="edge38_Node000001_Node000005" title=" " alt="" coords="759,1175,753,957,736,630,723,465,706,319,685,210,673,174,659,153,641,142,614,134,541,127,459,128,382,133,381,128,459,122,542,121,615,129,643,137,663,150,677,172,690,209,712,319,729,464,742,629,758,957,764,1175"/>
+<area shape="rect" id="Node000009" href="$world_8cpp.html#a6ba66347e7dc94ae3d92bcf9c58ac694" title="Copies the properties of an entity to the body queue." alt="" coords="499,214,618,241"/>
+<area shape="poly" id="edge5_Node000001_Node000009" title=" " alt="" coords="758,1175,748,978,728,688,715,542,698,412,680,314,670,281,659,261,640,246,617,236,619,231,643,241,663,258,675,279,685,313,704,412,720,541,734,688,754,978,764,1174"/>
+<area shape="rect" id="Node000010" href="$class_c_base_monster.html#af9318e33ec247805aea67a313ace5025" title="Handles the logic for a monster&#39;s corpse falling." alt="" coords="470,315,647,358"/>
+<area shape="poly" id="edge6_Node000001_Node000010" title=" " alt="" coords="760,1174,760,1011,749,770,737,646,719,531,693,436,677,400,659,372,646,359,649,356,663,368,682,397,698,435,724,530,742,645,754,770,765,1010,765,1174"/>
+<area shape="rect" id="Node000011" href="$class_c_base_monster.html#ab53e862339b77d41592461643599d1ef" title="Initializes the monster&#39;s state when it dies." alt="" coords="198,294,407,321"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="759,1175,750,985,732,706,718,567,702,445,682,353,671,323,659,305,623,281,582,267,538,261,493,261,448,267,407,275,339,296,338,291,405,270,447,261,492,256,538,255,583,261,626,276,663,302,676,320,687,351,707,444,723,566,737,706,755,985,764,1175"/>
+<area shape="rect" id="Node000013" href="$class_c_xen_hull.html#a1192e94e7ae8c22ceccacd12cf5df6fd" title="Creates a new Xen hull entity." alt="" coords="488,382,629,409"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="760,1175,759,1019,748,793,736,676,718,570,693,482,677,448,659,423,645,411,628,404,630,399,648,407,663,419,682,445,698,480,723,568,741,676,753,793,764,1019,765,1175"/>
+<area shape="rect" id="Node000015" href="$class_c_rpg_rocket.html#a4d9f000f14ddbdc04895e000bfa4b272" title="Creates a new RPG rocket entity." alt="" coords="200,2017,405,2043"/>
+<area shape="poly" id="edge10_Node000001_Node000015" title=" " alt="" coords="757,1176,748,1130,731,1074,703,1020,683,997,660,978,605,948,580,940,555,937,531,939,507,946,482,958,457,977,442,999,428,1037,400,1152,376,1305,354,1479,322,1814,307,2017,302,2016,317,1813,349,1478,370,1305,395,1151,422,1035,437,997,453,974,479,954,505,941,530,933,555,932,581,935,607,943,663,973,687,993,707,1017,736,1072,753,1128,762,1175"/>
+<area shape="rect" id="Node000017" href="$cbase_8cpp.html#a28d62ac92a1ba4cfb587a60c412d6926" title="Restores the state of an entity from saved data." alt="" coords="244,575,361,602"/>
+<area shape="poly" id="edge12_Node000001_Node000017" title=" " alt="" coords="759,1175,752,1058,737,897,724,815,707,741,685,681,673,658,660,641,639,628,609,617,529,602,440,595,361,592,361,586,440,589,530,597,610,612,641,623,663,638,677,655,690,679,712,739,729,814,742,896,758,1057,764,1175"/>
+<area shape="rect" id="Node000018" href="$class_c_osprey.html#aa698c252f80a33605c2b1c6b291fc8a3" title="Manages the flight path of the Osprey." alt="" coords="502,433,614,459"/>
+<area shape="poly" id="edge13_Node000001_Node000018" title=" " alt="" coords="760,1174,757,1028,745,817,733,708,715,609,691,528,676,497,659,473,639,459,614,451,616,446,641,454,663,470,680,494,696,526,720,608,738,708,750,816,763,1027,765,1174"/>
+<area shape="rect" id="Node000024" href="$class_c_flocking_flyer.html#a3e8b1f7f43c2fc435271596ccda9facf" title="Handles the leader boid&#39;s behavior." alt="" coords="465,483,652,526"/>
+<area shape="poly" id="edge15_Node000001_Node000024" title=" " alt="" coords="759,1175,754,1041,739,850,726,753,709,664,687,590,674,562,659,540,647,529,650,525,663,536,678,559,692,588,714,662,732,752,744,850,759,1040,764,1174"/>
+<area shape="rect" id="Node000032" href="$class_c_head_crab.html#a7460c3db52e83ee272daf47fe452f758" title="Handles animation events specific to the headcrab." alt="" coords="460,651,657,678"/>
+<area shape="poly" id="edge17_Node000001_Node000032" title=" " alt="" coords="758,1175,749,1068,731,923,718,849,702,783,682,728,659,692,645,681,648,677,663,688,687,726,707,781,723,848,736,922,754,1067,763,1174"/>
+<area shape="rect" id="Node000033" href="$class_c_base_toggle.html#a2b5020905f97cbfb2bf612c459ab7d06" title="Finalizes the linear movement." alt="" coords="458,702,659,729"/>
+<area shape="poly" id="edge18_Node000001_Node000033" title=" " alt="" coords="757,1175,746,1080,726,952,713,888,698,829,680,782,659,749,634,732,637,727,663,746,684,779,703,828,718,886,732,951,751,1079,762,1175"/>
+<area shape="rect" id="Node000035" href="$class_c_base_entity.html#a60735469da02ccfa05eb37408219814f" title="Makes the entity dormant." alt="" coords="467,550,650,577"/>
+<area shape="poly" id="edge19_Node000001_Node000035" title=" " alt="" coords="759,1175,752,1051,736,878,723,789,706,709,685,642,673,617,659,597,635,580,638,575,663,594,677,614,690,640,711,707,728,789,741,877,757,1051,764,1175"/>
+<area shape="rect" id="Node000073" href="$class_c_base_player.html#a7f5feb230658678c68b8a15de717dafb" title="Finds the next player to observe." alt="" coords="480,803,636,846"/>
+<area shape="poly" id="edge22_Node000001_Node000073" title=" " alt="" coords="760,1175,756,1110,741,1026,729,981,711,938,688,896,660,860,635,843,638,839,663,856,693,893,716,935,734,980,747,1025,761,1110,765,1174"/>
+<area shape="rect" id="Node000054" href="$class_c_tripmine_grenade.html#aaed0d096f0eb79fbb48d6928c07fedfa" title="Handles the power&#45;up state of the tripmine grenade." alt="" coords="465,870,651,913"/>
+<area shape="poly" id="edge23_Node000001_Node000054" title=" " alt="" coords="757,1175,748,1124,731,1059,702,992,683,961,660,933,635,915,638,911,663,930,687,958,707,990,736,1058,753,1123,762,1174"/>
+<area shape="rect" id="Node000055" href="$class_c_tripmine_grenade.html#addce686623ef4ac3b4d6ee1239a0b82f" title="Spawns the tripmine grenade entity." alt="" coords="215,815,390,842"/>
+<area shape="poly" id="edge46_Node000001_Node000055" title=" " alt="" coords="757,1175,747,1086,728,970,715,912,699,861,681,820,660,794,620,771,576,760,530,759,483,764,437,775,396,789,331,817,329,812,394,784,436,770,482,759,529,753,577,755,622,766,663,789,685,817,704,859,720,911,733,969,752,1085,762,1174"/>
+<area shape="rect" id="Node000077" href="$class_c_item.html#a906d02e0d0060f972f546d01e791a019" title="Respawns the item at a designated location." alt="" coords="500,987,616,1014"/>
+<area shape="poly" id="edge25_Node000001_Node000077" title=" " alt="" coords="752,1177,739,1142,719,1102,693,1062,660,1028,639,1017,616,1009,617,1004,641,1012,663,1024,697,1058,724,1099,744,1140,757,1175"/>
+<area shape="rect" id="Node000088" href="$class_c_grenade.html#a1dfa3dd6ad98097e4ffbee7a9569cfdb" title="Creates and shoots a contact grenade." alt="" coords="475,1038,641,1065"/>
+<area shape="poly" id="edge26_Node000001_Node000088" title=" " alt="" coords="746,1178,711,1127,687,1101,660,1079,637,1068,639,1063,663,1075,691,1097,715,1123,750,1175"/>
+<area shape="rect" id="Node000090" href="$class_c_grenade.html#ae0ef7b8fe706328b74f8eb134495d042" title="Creates and shoots a satchel charge." alt="" coords="455,1089,661,1115"/>
+<area shape="poly" id="edge27_Node000001_Node000090" title=" " alt="" coords="735,1181,701,1154,660,1130,630,1119,632,1114,662,1125,704,1150,738,1177"/>
+<area shape="rect" id="Node000091" href="$class_c_grenade.html#ae966d7a535a9771cf3e84c81eaf1fbdc" title="Creates and shoots a timed grenade." alt="" coords="480,1139,636,1166"/>
+<area shape="poly" id="edge28_Node000001_Node000091" title=" " alt="" coords="693,1189,661,1181,615,1169,616,1164,662,1176,695,1184"/>
+<area shape="rect" id="Node000094" href="$class_c_recharge.html#a8daa80d31c7c3d5c921524a9345f7e7f" title="Spawns the recharge entity in the game." alt="" coords="492,1190,624,1217"/>
+<area shape="poly" id="edge29_Node000001_Node000094" title=" " alt="" coords="694,1206,625,1206,625,1201,694,1201"/>
+<area shape="rect" id="Node000095" href="$class_c_wall_health.html#a605f03b005e1c1945ab37cf16c6c7905" title="Spawns the wall health entity in the game." alt="" coords="488,1241,628,1267"/>
+<area shape="poly" id="edge30_Node000001_Node000095" title=" " alt="" coords="695,1223,662,1231,616,1243,615,1238,661,1226,693,1218"/>
+<area shape="rect" id="Node000096" href="$class_c_tentacle.html#a7c7c3d9bb192e29e38c5792c09b54c5c" title="Spawns the tentacle entity." alt="" coords="495,1291,621,1318"/>
+<area shape="poly" id="edge31_Node000001_Node000096" title=" " alt="" coords="738,1230,704,1257,662,1282,623,1296,621,1291,660,1277,701,1253,735,1226"/>
+<area shape="rect" id="Node000097" href="$class_c_airtank.html#aa0dd52579b35b6b82b346dfa44a805eb" title="Spawns the airtank entity in the game." alt="" coords="499,1342,617,1369"/>
+<area shape="poly" id="edge32_Node000001_Node000097" title=" " alt="" coords="750,1232,715,1284,691,1310,663,1332,641,1343,618,1350,617,1345,639,1338,660,1328,687,1306,711,1280,746,1229"/>
+<area shape="rect" id="Node000098" href="$class_c_apache.html#a2f084431649929e10419c257e2099c09" title="Spawns the Apache entity." alt="" coords="498,1393,619,1419"/>
+<area shape="poly" id="edge33_Node000001_Node000098" title=" " alt="" coords="757,1232,744,1267,724,1308,697,1349,663,1383,642,1395,620,1402,618,1397,640,1390,660,1379,693,1345,719,1305,739,1265,752,1230"/>
+<area shape="rect" id="Node000099" href="$class_c_apache_h_v_r.html#a14dbb34315ebec9b5598b6a765a37434" title="Spawns the Apache HVR (Helicopter&#45;launched Rocket)." alt="" coords="484,1443,632,1470"/>
+<area shape="poly" id="edge34_Node000001_Node000099" title=" " alt="" coords="760,1233,750,1277,732,1332,704,1387,685,1412,663,1434,634,1450,632,1445,660,1429,681,1408,699,1384,727,1329,745,1276,755,1232"/>
+<area shape="rect" id="Node000100" href="$class_c_func_rotating.html#a80cb8b777d098fdba450cc9953ec27d0" title="Spawns the func_rotating entity." alt="" coords="481,1494,635,1521"/>
+<area shape="poly" id="edge36_Node000001_Node000100" title=" " alt="" coords="763,1232,756,1286,739,1354,727,1389,710,1424,689,1456,663,1484,637,1500,634,1495,660,1480,685,1453,705,1421,722,1387,734,1352,751,1285,758,1232"/>
+<area shape="rect" id="Node000101" href="$class_c_pendulum.html#a538f8c330e1366965f343a36e2593a2b" title="Spawns the func_pendulum entity." alt="" coords="491,1545,626,1571"/>
+<area shape="poly" id="edge37_Node000001_Node000101" title=" " alt="" coords="765,1233,761,1295,746,1376,733,1419,716,1461,693,1501,663,1535,646,1547,627,1554,625,1549,644,1542,660,1531,688,1497,711,1459,728,1418,741,1375,755,1294,760,1232"/>
+<area shape="rect" id="Node000041" href="$class_c_pushable.html#a7dc12c6652e12e9faaa2b7c4ceda1c8d" title="Spawns the pushable entity." alt="" coords="493,1595,624,1622"/>
+<area shape="poly" id="edge39_Node000001_Node000041" title=" " alt="" coords="761,1233,748,1315,727,1420,699,1520,682,1559,663,1585,645,1598,625,1606,623,1601,643,1593,659,1582,677,1556,694,1518,722,1419,743,1314,756,1232"/>
+<area shape="rect" id="Node000102" href="$class_c_func_tank_controls.html#abbe58694313b3b21e5a500f283a5f3c7" title="Spawns the func_tank_controls entity." alt="" coords="487,1646,630,1689"/>
+<area shape="poly" id="edge40_Node000001_Node000102" title=" " alt="" coords="762,1232,750,1323,730,1444,701,1559,683,1604,663,1636,648,1648,632,1657,629,1652,646,1644,659,1632,679,1602,696,1557,725,1443,745,1323,756,1232"/>
+<area shape="rect" id="Node000103" href="$class_c_weapon_cycler.html#af913c690ba5ec8047f13f5956d7677cd" title="Spawns the weapon cycler entity." alt="" coords="477,1713,639,1739"/>
+<area shape="poly" id="edge41_Node000001_Node000103" title=" " alt="" coords="763,1233,754,1336,735,1477,722,1548,706,1613,687,1666,663,1703,641,1718,638,1713,659,1699,682,1664,701,1611,717,1547,730,1476,749,1336,758,1232"/>
+<area shape="rect" id="Node000080" href="$class_c_item.html#a359997ac350228e7c69926d15f464901" title="Spawns the item in the game." alt="" coords="507,1763,609,1790"/>
+<area shape="poly" id="edge42_Node000001_Node000080" title=" " alt="" coords="764,1233,756,1346,739,1502,726,1581,709,1653,688,1713,663,1753,639,1770,611,1778,609,1773,636,1765,659,1750,684,1710,704,1652,720,1580,733,1501,751,1346,758,1232"/>
+<area shape="rect" id="Node000021" href="$class_c_osprey.html#ab0830f5d42d9096475ad4a6bd5d73894" title="Spawns the Osprey entity." alt="" coords="499,1814,618,1841"/>
+<area shape="poly" id="edge43_Node000001_Node000021" title=" " alt="" coords="764,1233,758,1356,742,1527,729,1614,712,1693,690,1759,678,1784,663,1804,643,1819,619,1827,618,1822,640,1814,659,1800,673,1782,685,1757,707,1692,724,1613,737,1526,753,1355,759,1233"/>
+<area shape="rect" id="Node000104" href="$class_c_satchel_charge.html#a6f1633725613bd8ec801217668bf2ef2" title="Spawns the satchel charge entity." alt="" coords="477,1865,639,1891"/>
+<area shape="poly" id="edge44_Node000001_Node000104" title=" " alt="" coords="764,1232,760,1364,745,1550,732,1646,715,1733,692,1805,679,1833,663,1855,641,1870,638,1866,659,1851,674,1830,687,1803,710,1732,727,1645,740,1550,754,1364,759,1232"/>
+<area shape="rect" id="Node000105" href="$class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="473,1915,643,1942"/>
+<area shape="poly" id="edge45_Node000001_Node000105" title=" " alt="" coords="765,1233,762,1374,748,1575,736,1679,718,1773,694,1852,680,1882,663,1905,645,1919,642,1915,659,1902,675,1879,689,1850,713,1772,730,1678,743,1575,756,1373,759,1232"/>
+<area shape="rect" id="Node000106" href="$class_c_laser_spot.html#af0bbdf24e5a1c305085900420cc614d6" title="Initializes the laser spot entity upon spawning." alt="" coords="490,1966,626,1993"/>
+<area shape="poly" id="edge47_Node000001_Node000106" title=" " alt="" coords="765,1232,763,1382,751,1599,739,1711,721,1813,696,1898,681,1931,663,1956,647,1969,628,1977,626,1972,644,1964,659,1952,676,1928,691,1896,716,1812,734,1710,746,1599,758,1382,760,1232"/>
+<area shape="rect" id="Node000110" href="$class_c_rpg_rocket.html#a00ade43973324c13861559813d396761" title="Initializes the RPG rocket entity upon spawning." alt="" coords="488,2017,629,2043"/>
+<area shape="poly" id="edge48_Node000001_Node000110" title=" " alt="" coords="765,1232,765,1391,755,1623,742,1743,724,1853,698,1944,682,1980,663,2007,648,2019,630,2027,628,2022,645,2015,659,2003,677,1977,693,1942,719,1852,737,1742,749,1623,760,1391,760,1232"/>
+<area shape="rect" id="Node000030" href="$class_c_flocking_flyer_flock.html#a18af3413e29b762b9727e0c0db25f7ab" title="Spawns the individual boids in the flock." alt="" coords="488,2067,628,2110"/>
+<area shape="poly" id="edge50_Node000001_Node000030" title=" " alt="" coords="765,1232,765,1399,755,1645,743,1773,725,1891,699,1989,682,2028,663,2057,648,2071,630,2080,627,2076,645,2067,659,2054,678,2025,694,1987,720,1890,738,1773,750,1645,760,1399,760,1232"/>
+<area shape="rect" id="Node000111" href="$class_c_base_spectator.html#a537b0a6af3fda3e8d2823162854df1d0" title="Called when the spectator enters an impulse command." alt="" coords="468,2134,648,2177"/>
+<area shape="poly" id="edge51_Node000001_Node000111" title=" " alt="" coords="763,1233,753,1424,733,1707,719,1849,703,1975,684,2070,674,2103,663,2124,651,2136,647,2132,659,2121,669,2101,679,2069,698,1974,714,1848,727,1706,748,1424,758,1232"/>
+<area shape="rect" id="Node000113" href="$class_c_func_wall_toggle.html#a2446a5c24b01611da0c6c99e1ccab1c9" title="Turns off the func_wall_toggle entity." alt="" coords="472,2201,644,2227"/>
+<area shape="poly" id="edge52_Node000001_Node000113" title=" " alt="" coords="764,1232,755,1437,736,1741,722,1895,706,2030,686,2133,675,2169,663,2191,647,2204,643,2200,659,2187,671,2166,681,2132,701,2029,717,1894,731,1740,750,1436,759,1232"/>
+<area shape="rect" id="Node000114" href="$class_c_func_wall_toggle.html#a3967f401507f7dda916de10cf176d7c1" title="Turns on the func_wall_toggle entity." alt="" coords="472,2251,645,2278"/>
+<area shape="poly" id="edge53_Node000001_Node000114" title=" " alt="" coords="764,1232,756,1446,738,1766,724,1929,707,2072,687,2181,676,2218,663,2241,647,2254,644,2250,659,2238,671,2216,682,2180,702,2071,719,1928,732,1766,750,1446,759,1232"/>
+<area shape="rect" id="Node000115" href="$class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="487,2302,629,2329"/>
+<area shape="poly" id="edge54_Node000001_Node000115" title=" " alt="" coords="764,1232,757,1455,739,1792,726,1962,709,2113,688,2228,677,2267,663,2292,648,2305,631,2313,628,2308,645,2300,659,2288,672,2265,683,2227,704,2113,720,1962,734,1791,751,1455,759,1232"/>
+<area shape="rect" id="Node000108" href="$class_c_rpg.html#ad4a3f48988a71608428af2fd51110e00" title="Updates the position of the laser spot based on the player&#39;s aim." alt="" coords="238,2269,367,2295"/>
+<area shape="poly" id="edge55_Node000001_Node000108" title=" " alt="" coords="765,1232,760,1466,745,1821,732,2001,715,2159,692,2279,679,2319,663,2343,644,2358,622,2369,577,2379,528,2378,479,2369,432,2353,389,2334,324,2298,326,2294,391,2329,434,2348,480,2363,529,2373,576,2374,621,2364,641,2353,659,2339,674,2316,687,2277,710,2158,727,2000,740,1821,755,1466,759,1232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,73,367,69,367,64,457,68"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="454,164,381,154,382,148,455,159"/>
+<area shape="poly" id="edge7_Node000010_Node000011" title=" " alt="" coords="454,328,407,322,408,317,454,322"/>
+<area shape="rect" id="Node000014" href="$class_c_xen_spore_large.html#a5c9ef3663cc7a76ef324f5d5d02330bc" title="Spawns a large Xen spore entity." alt="" coords="220,382,385,409"/>
+<area shape="poly" id="edge9_Node000013_Node000014" title=" " alt="" coords="472,398,385,398,385,393,472,393"/>
+<area shape="rect" id="Node000016" href="$class_c_rpg.html#a953326b14bfe1e7acdf5d72ba8b3fd80" title="Handles the primary attack for the RPG weapon." alt="" coords="5,2101,150,2127"/>
+<area shape="poly" id="edge11_Node000015_Node000016" title=" " alt="" coords="251,2052,117,2103,115,2098,249,2047"/>
+<area shape="rect" id="Node000019" href="$class_c_osprey.html#af9af646ec5052760f0d54cd9a72a386f" title="Handles the flying behavior of the Osprey." alt="" coords="238,433,367,459"/>
+<area shape="poly" id="edge14_Node000018_Node000019" title=" " alt="" coords="487,449,367,449,367,443,487,443"/>
+<area shape="rect" id="Node000025" href="$class_c_flocking_flyer.html#a7a0dbdc8429f9c73445821529c81986b" title="Handles the follower boid&#39;s behavior." alt="" coords="204,483,401,526"/>
+<area shape="poly" id="edge16_Node000024_Node000025" title=" " alt="" coords="449,507,401,507,401,502,449,502"/>
+<area shape="poly" id="edge20_Node000035_Node000017" title=" " alt="" coords="451,577,362,586,361,580,451,571"/>
+<area shape="poly" id="edge24_Node000054_Node000055" title=" " alt="" coords="453,869,359,845,361,840,454,863"/>
+<area shape="poly" id="edge49_Node000110_Node000015" title=" " alt="" coords="472,2033,405,2033,405,2027,472,2027"/>
+<area shape="poly" id="edge56_Node000108_Node000016" title=" " alt="" coords="269,2261,96,2130,99,2126,272,2257"/>
+</map>

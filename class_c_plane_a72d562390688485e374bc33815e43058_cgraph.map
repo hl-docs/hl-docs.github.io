@@ -1,0 +1,5 @@
+<map id="CPlane::PointInFront" name="CPlane::PointInFront">
+<area shape="rect" id="Node000001" title="Checks if a point is in front of the plane." alt="" coords="5,5,147,32"/>
+<area shape="rect" id="Node000002" href="$vector_8h.html#ab6bf8c8e0cfd0bcc25efbb2a828e96d0" title=" " alt="" coords="195,5,281,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,16,179,16,179,21,147,21"/>
+</map>

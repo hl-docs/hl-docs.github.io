@@ -1,0 +1,9 @@
+<map id="CNihilanthHVR::ZapThink" name="CNihilanthHVR::ZapThink">
+<area shape="rect" id="Node000001" title="Handles the zap think behavior for the Nihilanth Hover entity." alt="" coords="445,31,612,57"/>
+<area shape="rect" id="Node000002" href="$class_c_nihilanth_h_v_r.html#acc6b4e52001653a9ca7f00a049f56e70" title="Initializes the zap behavior for the Nihilanth Hover entity." alt="" coords="244,31,397,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,47,397,47,397,41,430,41"/>
+<area shape="rect" id="Node000003" href="$class_c_nihilanth.html#a4ed6459161906e00ac47759243266ca5" title="Handles animation events for the Nihilanth." alt="" coords="5,5,196,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,36,196,32,196,27,228,31"/>
+<area shape="rect" id="Node000004" href="$class_c_nihilanth.html#afec4fca1ac12bb835a25099cff981f3f" title="Shoots energy balls from the Nihilanth." alt="" coords="25,56,176,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="228,57,177,63,176,58,228,52"/>
+</map>

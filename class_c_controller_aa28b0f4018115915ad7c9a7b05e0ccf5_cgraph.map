@@ -1,0 +1,7 @@
+<map id="CController::GibMonster" name="CController::GibMonster">
+<area shape="rect" id="Node000001" title="Gibbles the controller monster." alt="" coords="5,31,166,57"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a6a033e1188148db8087817fe87f359fa" title="Creates gibs and removes the monster&#39;s model." alt="" coords="214,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,32,198,28,198,34,167,37"/>
+<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="255,56,355,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,51,240,59,239,65,166,56"/>
+</map>

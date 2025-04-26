@@ -1,0 +1,21 @@
+<map id="CSquidSpit::Shoot" name="CSquidSpit::Shoot">
+<area shape="rect" id="Node000001" title="Shoots the squid spit entity." alt="" coords="5,107,134,133"/>
+<area shape="rect" id="Node000002" href="$class_c_squid_spit.html#a14d52fbcc75a7c71cfcad8253701f8e9" title="Animates the squid spit entity." alt="" coords="182,5,324,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,104,128,73,180,42,193,36,195,41,183,46,131,78,90,108"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="404,107,450,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,117,388,117,388,123,134,123"/>
+<area shape="rect" id="Node000004" href="$cbase_8h.html#afdb9a60de9742917308f705391b22517" title=" " alt="" coords="207,56,299,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,103,191,84,192,89,121,109"/>
+<area shape="rect" id="Node000007" href="$class_c_squid_spit.html#aa0f86a4ecd83b280589178c28688c57d" title="Spawns the squid spit entity." alt="" coords="186,157,320,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="121,131,188,150,186,155,120,137"/>
+<area shape="rect" id="Node000009" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="199,208,307,235"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="90,132,131,162,183,194,195,199,193,204,180,198,128,167,86,136"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="300,80,389,107,388,112,299,85"/>
+<area shape="rect" id="Node000005" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="372,56,481,83"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="300,67,357,67,357,72,300,72"/>
+<area shape="rect" id="Node000006" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="398,5,455,32"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="299,53,382,29,384,34,300,58"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="301,154,388,128,389,133,302,159"/>
+<area shape="rect" id="Node000008" href="$hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="377,157,477,184"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="320,168,361,168,361,173,320,173"/>
+</map>

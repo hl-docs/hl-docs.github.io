@@ -1,0 +1,9 @@
+<map id="CGamePlayerTeam" name="CGamePlayerTeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,140,256"/>
+<area shape="rect" id="Node000002" href="$class_c_rule_point_entity.html" title=" " alt="" coords="12,155,133,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,197,75,229,70,229,70,197"/>
+<area shape="rect" id="Node000003" href="$class_c_rule_entity.html" title=" " alt="" coords="27,80,118,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,122,75,154,70,154,70,122"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="25,5,120,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="75,48,75,80,70,80,70,48"/>
+</map>

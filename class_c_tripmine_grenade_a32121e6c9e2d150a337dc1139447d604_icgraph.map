@@ -1,0 +1,5 @@
+<map id="CTripmineGrenade::Precache" name="CTripmineGrenade::Precache">
+<area shape="rect" id="Node000001" title="Preloads the resources needed by the tripmine grenade." alt="" coords="229,5,420,32"/>
+<area shape="rect" id="Node000002" href="$class_c_tripmine_grenade.html#addce686623ef4ac3b4d6ee1239a0b82f" title="Spawns the tripmine grenade entity." alt="" coords="5,5,181,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,21,181,21,181,16,213,16"/>
+</map>

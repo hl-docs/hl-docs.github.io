@@ -1,0 +1,11 @@
+<map id="CBasePlayer::CheatImpulseCommands" name="CBasePlayer::CheatImpulseCommands">
+<area shape="rect" id="Node000001" title="Handles cheat impulse commands from the player." alt="" coords="888,5,1072,48"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#a5beb9665d986eed23a0cc5614ad4ceb3" title="Handles impulse commands from the player." alt="" coords="623,13,840,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="872,29,840,29,840,24,872,24"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#a5955eb567a5fdb38a2debe6b5de3be29" title="Finalizes the player&#39;s items for the current frame." alt="" coords="381,13,575,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="608,29,576,29,576,24,608,24"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#a70caf2bd9eb6b169f0adbdea94f9e987" title="Handles the player&#39;s post&#45;think logic." alt="" coords="170,13,333,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,29,333,29,333,24,365,24"/>
+<area shape="rect" id="Node000005" href="$client_8cpp.html#ab04e2fadfb0c84166a0fc589d6f430e1" title="Called after the physics simulation for a player." alt="" coords="5,13,122,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="154,29,122,29,122,24,154,24"/>
+</map>

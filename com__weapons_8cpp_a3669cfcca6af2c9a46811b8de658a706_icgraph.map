@@ -1,0 +1,9 @@
+<map id="HUD_GetWeaponAnim" name="HUD_GetWeaponAnim">
+<area shape="rect" id="Node000001" title="Gets the current weapon animation." alt="" coords="488,5,643,32"/>
+<area shape="rect" id="Node000002" href="$hl__weapons_8cpp.html#a7f536b4e474cf3eafb01428429fc7bbe" title="Runs the weapon logic on the client&#45;side during prediction." alt="" coords="272,5,440,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,21,441,21,441,16,473,16"/>
+<area shape="rect" id="Node000003" href="$hl__weapons_8cpp.html#a1b6fe5f64f2a0a1dc0e3ee9749c4eddb" title="Called after player movement prediction is done on the client." alt="" coords="92,5,224,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,21,225,21,225,16,257,16"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,5,44,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,21,44,21,44,16,76,16"/>
+</map>

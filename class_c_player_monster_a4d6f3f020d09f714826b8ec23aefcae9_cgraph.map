@@ -1,0 +1,5 @@
+<map id="CPlayerMonster::HandleAnimEvent" name="CPlayerMonster::HandleAnimEvent">
+<area shape="rect" id="Node000001" title="Handles animation events specific to the player monster." alt="" coords="5,5,198,48"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a39aef199e5a7d7558f2fdac85ee6c30a" title="Handles animation events for the monster." alt="" coords="246,5,431,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,24,230,24,230,29,198,29"/>
+</map>

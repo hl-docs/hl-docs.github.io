@@ -1,0 +1,38 @@
+<map id="CBaseMonster::CheckTraceHullAttack" name="CBaseMonster::CheckTraceHullAttack">
+<area shape="rect" id="Node000001" title="Checks for a trace hull attack." alt="" coords="5,183,190,226"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="833,27,879,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,181,161,121,196,89,236,63,315,33,398,15,482,5,565,3,643,6,713,13,818,30,817,35,712,18,643,12,565,8,483,10,399,20,317,39,239,68,200,93,165,124,115,184"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="251,78,403,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,180,236,126,275,109,278,113,239,131,138,185"/>
+<area shape="rect" id="Node000005" href="$class_c_base_entity.html#a0d309e1fd8c1295d12a96d81494e5495" title=" " alt="" coords="252,141,402,167"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="189,182,248,169,249,174,190,187"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#aa8c66d085116b719beff9fb1c3d0e45d" title="Inflicts damage on the entity." alt="" coords="238,191,416,218"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="190,202,222,202,222,207,190,207"/>
+<area shape="rect" id="Node000014" href="$util_8cpp.html#a267f6958c406f7b3ed629515d6afdda9" title="Makes aim vectors based on the provided angles." alt="" coords="250,242,404,269"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="190,222,249,235,248,241,189,227"/>
+<area shape="rect" id="Node000016" href="$util_8cpp.html#ab05f77512c119287424cb3a712bf6364" title="Makes vectors based on the provided angles." alt="" coords="261,293,393,319"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="135,224,183,252,239,278,257,285,255,290,237,283,181,256,132,229"/>
+<area shape="rect" id="Node000017" href="$util_8cpp.html#af140262dc39fcaf8706ee5f956ae6892" title="Traces a hull between two points." alt="" coords="273,343,381,370"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="119,224,170,277,203,305,239,329,259,338,257,343,236,334,200,309,166,281,115,228"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="394,75,464,63,663,46,817,39,817,44,663,51,464,69,395,80"/>
+<area shape="rect" id="Node000004" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="481,78,590,105"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="403,89,465,89,465,94,403,94"/>
+<area shape="rect" id="Node000007" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="500,153,571,179"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="402,188,484,173,485,178,403,193"/>
+<area shape="rect" id="Node000009" href="$class_vector.html#a966ceea95c14747fe5c7c81ad8ef56de" title=" " alt="" coords="473,203,598,230"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="417,207,457,209,457,215,416,212"/>
+<area shape="rect" id="Node000013" href="$bmodels_8cpp.html#ae188671969a2ab14d622833f93364a19" title="Calculates the origin of a bounding model." alt="" coords="474,254,596,281"/>
+<area shape="poly" id="edge15_Node000006_Node000013" title=" " alt="" coords="378,216,417,227,477,246,476,251,415,232,377,221"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="504,153,498,144,502,134,515,128,535,126,557,128,569,135,566,140,556,134,535,131,516,133,506,138,503,143,508,151"/>
+<area shape="rect" id="Node000008" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="654,102,785,129"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="570,154,653,131,654,136,572,159"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="744,99,818,58,821,62,747,104"/>
+<area shape="rect" id="Node000010" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="666,178,773,205"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="598,205,651,198,651,203,598,211"/>
+<area shape="rect" id="Node000012" href="$class_vector.html#adc7052514a833f0fbb5ee306a5550ea0" title=" " alt="" coords="667,229,772,255"/>
+<area shape="poly" id="edge14_Node000009_Node000012" title=" " alt="" coords="598,222,652,230,651,235,598,228"/>
+<area shape="rect" id="Node000011" href="$pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="834,178,878,205"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="773,189,818,189,818,194,773,194"/>
+<area shape="rect" id="Node000015" href="$class_vector.html#af917fe18f291bf4953dd03ead0fa2043" title=" " alt="" coords="464,305,606,331"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="378,267,417,278,477,297,476,302,415,283,377,272"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CTalkMonster::TargetDistance" name="CTalkMonster::TargetDistance">
+<area shape="rect" id="Node000001" title="Calculates the distance to the target entity." alt="" coords="218,31,414,57"/>
+<area shape="rect" id="Node000002" href="$class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="5,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,34,170,30,170,25,203,29"/>
+<area shape="rect" id="Node000003" href="$class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="17,56,158,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,59,158,64,158,59,202,54"/>
+</map>

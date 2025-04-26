@@ -1,0 +1,15 @@
+<map id="CNihilanthHVR::RemoveTouch" name="CNihilanthHVR::RemoveTouch">
+<area shape="rect" id="Node000001" title="Handles the remove touch behavior for the Nihilanth Hover entity." alt="" coords="5,56,202,83"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="250,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,53,241,34,242,39,163,58"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a8a4601b94eb359b1b48670b4c5bc4e15" title=" " alt="" coords="260,56,370,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,67,245,67,245,72,202,72"/>
+<area shape="rect" id="Node000007" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="265,107,365,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="163,81,250,102,249,107,162,86"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="474,5,520,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,16,458,16,458,21,381,21"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="428,56,566,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="370,67,413,67,413,72,370,72"/>
+<area shape="rect" id="Node000006" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="614,56,765,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="567,67,599,67,599,72,567,72"/>
+</map>

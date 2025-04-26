@@ -1,0 +1,25 @@
+<map id="CCineMonster::FindEntity" name="CCineMonster::FindEntity">
+<area shape="rect" id="Node000001" title="Finds a viable entity for the cinematic sequence." alt="" coords="5,157,176,184"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a8ce285b0df20fb1d2baea8b06fecda68" title="Determines whether the monster can play a scripted sequence." alt="" coords="224,5,446,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,155,148,100,183,68,222,42,235,36,238,40,225,46,186,72,152,103,104,158"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="283,56,387,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,154,163,127,223,99,267,84,269,89,225,104,165,132,116,159"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="531,107,588,133"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="156,154,223,143,384,127,515,119,515,124,384,132,224,148,157,159"/>
+<area shape="rect" id="Node000006" href="$util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="224,157,446,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="176,168,208,168,208,173,176,173"/>
+<area shape="rect" id="Node000007" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="299,232,371,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="138,182,285,228,283,233,136,187"/>
+<area shape="rect" id="Node000010" href="$class_c_base_entity.html#a50acf4d846cc583e41c17df62cc917c1" title=" " alt="" coords="231,283,439,309"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="108,183,157,225,190,249,225,268,241,275,239,280,223,273,187,253,154,230,104,187"/>
+<area shape="rect" id="Node000011" href="$hl__baseentity_8cpp.html#acd888661f1fbf14bbb8eb22f0c96d6e2" title=" " alt="" coords="253,333,417,360"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="102,183,148,249,184,287,225,319,239,326,237,331,222,324,180,291,144,253,98,186"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="528,56,590,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="388,67,513,67,513,72,388,72"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="388,78,516,108,515,113,387,84"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="297,233,290,223,295,213,310,207,335,205,361,208,376,214,373,219,360,213,335,211,311,213,298,217,296,223,301,230"/>
+<area shape="rect" id="Node000008" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="494,232,624,259"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="371,243,479,243,479,248,371,248"/>
+<area shape="rect" id="Node000009" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="672,232,719,259"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="625,243,656,243,656,248,625,248"/>
+</map>

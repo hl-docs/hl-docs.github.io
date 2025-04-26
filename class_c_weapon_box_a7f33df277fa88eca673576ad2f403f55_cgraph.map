@@ -1,0 +1,20 @@
+<map id="CWeaponBox::PackWeapon" name="CWeaponBox::PackWeapon">
+<area shape="rect" id="Node000001" title="Adds a weapon to the weapon box." alt="" coords="5,81,193,108"/>
+<area shape="rect" id="Node000002" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="282,5,413,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,78,240,41,268,34,269,39,241,47,136,83"/>
+<area shape="rect" id="Node000004" href="$class_c_weapon_box.html#acdb4ed5f282c7dd76be50b17a7b8652c" title="Checks if a weapon is already packed in the weapon box." alt="" coords="257,56,438,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,82,241,77,242,83,193,88"/>
+<area shape="rect" id="Node000008" href="$class_c_base_player_item.html#af8b3a67efac34602f0850207592bb11c" title=" " alt="" coords="502,107,683,133"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="193,97,487,112,486,117,193,102"/>
+<area shape="rect" id="Node000009" href="$class_c_base_player.html#a5b4154f1753165d759f7f6f64944c784" title="Removes a player item from the player&#39;s inventory." alt="" coords="241,157,454,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="145,106,241,136,286,150,285,155,240,141,144,111"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="570,5,616,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,16,554,16,554,21,413,21"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#af3d512e29e6ff959a6b16ce79714a4bd" title=" " alt="" coords="541,56,645,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="438,67,525,67,525,72,438,72"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="416,81,510,100,509,106,415,86"/>
+<area shape="rect" id="Node000006" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="731,31,794,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="645,59,715,48,716,54,645,64"/>
+<area shape="rect" id="Node000007" href="$util_8h.html#a378662f944239a9a9f1252f29d9a0a77" title=" " alt="" coords="734,81,791,108"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="645,74,719,86,718,91,645,80"/>
+</map>

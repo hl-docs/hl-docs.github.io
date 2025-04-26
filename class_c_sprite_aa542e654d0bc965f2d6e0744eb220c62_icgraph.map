@@ -1,0 +1,33 @@
+<map id="CSprite::SetTransparency" name="CSprite::SetTransparency">
+<area shape="rect" id="Node000001" title=" " alt="" coords="896,208,1066,235"/>
+<area shape="rect" id="Node000002" href="$class_c_egon.html#ae2b2d53ffc64083f45f8ffb3bc62ea82" title="Creates the visual effects for the Egon weapon." alt="" coords="709,43,848,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="950,200,795,72,798,68,953,196"/>
+<area shape="rect" id="Node000007" href="$class_c_func_tank.html#ac221b3b78619f24277ef52412ddf9210" title="Fire the tank&#39;s weapon." alt="" coords="720,132,837,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="929,204,847,173,817,162,819,157,849,168,931,199"/>
+<area shape="rect" id="Node000013" href="$class_c_laser.html#a342e8890a619193a366405b609a70be9" title="Spawns the laser effect entity." alt="" coords="724,183,833,209"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="880,211,833,205,834,200,881,206"/>
+<area shape="rect" id="Node000014" href="$class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="723,233,834,260"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="881,237,834,242,833,237,880,231"/>
+<area shape="rect" id="Node000015" href="$class_c_xen_p_light.html#a71b483921cb19cbda76a4e2b992b6e7c" title="Spawns the Xen plant light entity." alt="" coords="711,284,846,311"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="931,243,849,274,819,286,817,281,847,270,929,238"/>
+<area shape="rect" id="Node000016" href="$class_c_stomp.html#a2f37ca54538079dea72f3af6e9504a6d" title="Updates the stomp effect each frame." alt="" coords="725,335,832,361"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="956,247,908,286,849,325,824,337,822,332,847,320,905,282,952,243"/>
+<area shape="rect" id="Node000003" href="$class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="508,5,650,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="693,43,650,35,651,29,694,38"/>
+<area shape="rect" id="Node000004" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="359,5,449,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,21,450,21,450,16,492,16"/>
+<area shape="rect" id="Node000005" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="205,5,311,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="343,21,312,21,312,16,343,16"/>
+<area shape="rect" id="Node000006" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,5,157,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="189,21,157,21,157,16,189,16"/>
+<area shape="rect" id="Node000008" href="$class_c_func_tank_gun.html#ab0bcc8917ab233e04ac5e627567e1b60" title="Fire the tank&#39;s gun." alt="" coords="508,56,650,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="733,128,660,97,626,86,628,81,662,92,735,123"/>
+<area shape="rect" id="Node000009" href="$class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="504,107,654,133"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="704,139,654,132,655,127,704,133"/>
+<area shape="rect" id="Node000010" href="$class_c_func_tank_rocket.html#a7ee02fc1025b230754266887ee2e8eee" title="Fires the RPG rocket entity." alt="" coords="500,157,658,184"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="704,157,659,163,658,158,704,152"/>
+<area shape="rect" id="Node000011" href="$class_c_func_tank_mortar.html#a9f01f781cbd963cbab65deedb79ce3cd" title="Fires the mortar&#39;s cannon." alt="" coords="502,208,656,235"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="724,167,710,173,662,198,630,210,628,205,660,194,708,168,722,162"/>
+<area shape="rect" id="Node000012" href="$class_c_func_tank.html#a40ca7f35fc5b4fdbce00945b716c245b" title="Tracks and aims the tank at a target." alt="" coords="497,259,661,285"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="716,169,710,173,695,191,687,210,679,229,662,249,642,260,640,256,659,245,675,227,682,208,690,188,707,169,713,164"/>
+</map>

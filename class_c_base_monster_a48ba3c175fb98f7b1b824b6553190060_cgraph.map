@@ -1,0 +1,62 @@
+<map id="CBaseMonster::BuildNearestRoute" name="CBaseMonster::BuildNearestRoute">
+<area shape="rect" id="Node000001" title="Builds the nearest route to a specified threat." alt="" coords="5,435,195,478"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#afcbb5ee692729f28d1985fac676d178f" title="Builds a route to a specified goal." alt="" coords="243,164,421,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,433,166,354,241,258,301,199,304,203,245,262,170,357,117,436"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1003,139,1134,166"/>
+<area shape="poly" id="edge26_Node000001_Node000004" title=" " alt="" coords="142,432,284,366,375,330,468,302,540,288,602,285,710,292,761,294,814,291,872,278,937,251,953,241,962,229,971,215,985,201,1027,172,1030,176,988,205,975,219,966,232,956,244,940,256,874,283,815,296,761,299,709,297,602,290,540,294,470,307,376,336,286,371,144,437"/>
+<area shape="rect" id="Node000009" href="$class_c_graph.html#adbbee537db23fa9de2ed7dfc6b85c7ed" title="Finds the nearest node to a given origin point based on node types." alt="" coords="745,367,919,394"/>
+<area shape="poly" id="edge27_Node000001_Node000009" title=" " alt="" coords="195,433,242,426,374,410,506,397,730,382,730,388,506,403,374,415,243,431,195,439"/>
+<area shape="rect" id="Node000015" href="$class_c_graph.html#abf132d4ad203632f16ceb1e91aa09f2b" title="Determines the hull index for a given entity based on its properties." alt="" coords="769,418,895,444"/>
+<area shape="poly" id="edge28_Node000001_Node000015" title=" " alt="" coords="195,450,753,431,753,436,195,456"/>
+<area shape="rect" id="Node000023" href="$pm__math_8c.html#a9c4d0048c3779f963f8f7b40473102c8" title="Calculates the length (magnitude) of a vector." alt="" coords="302,468,362,495"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="195,464,287,474,286,479,195,469"/>
+<area shape="rect" id="Node000025" href="$class_c_graph.html#af4bdc27116ba648492a9f38d7ddc90b1" title="Determines the next node in the route from the current node to the destination." alt="" coords="245,519,419,546"/>
+<area shape="poly" id="edge31_Node000001_Node000025" title=" " alt="" coords="161,476,243,504,266,511,265,516,242,509,159,481"/>
+<area shape="rect" id="Node000026" href="$class_c_graph.html#a73559756ea74d3f5daef7c05603ca551" title=" " alt="" coords="280,570,384,596"/>
+<area shape="poly" id="edge32_Node000001_Node000026" title=" " alt="" coords="128,476,179,516,244,555,267,564,265,569,241,560,176,520,125,480"/>
+<area shape="rect" id="Node000027" href="$util_8cpp.html#a650cbdeb617328c7c1dec4299cdc3ea3" title="Traces a line between two points." alt="" coords="277,620,387,647"/>
+<area shape="poly" id="edge33_Node000001_Node000027" title=" " alt="" coords="118,476,169,541,204,576,244,606,263,615,261,620,241,610,201,580,165,544,113,479"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#aa7e5760495e6b7c505c702968953cda4" title="Checks if the monster can walk a straight line to a given location." alt="" coords="725,38,939,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,162,360,136,389,104,426,72,468,48,503,37,540,29,615,22,687,24,750,32,750,37,687,30,615,27,541,34,505,42,470,53,429,77,393,107,364,139,344,165"/>
+<area shape="rect" id="Node000008" href="$class_c_base_monster.html#a1120348215e49b77aad02f8b1bd84b9a" title="Finds a node route to a specified destination." alt="" coords="469,316,677,343"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="356,189,539,305,536,310,353,194"/>
+<area shape="rect" id="Node000016" href="$class_c_base_monster.html#a6091bd14ccaea38f6c3f9568a7d62802" title="Attempts to triangulate a path around local obstacles." alt="" coords="480,63,666,90"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="353,161,404,130,468,99,489,92,490,97,470,104,406,135,355,166"/>
+<area shape="rect" id="Node000018" href="$class_c_base_monster.html#a28ab3d040f2fb0e0f43bc4a43773a645" title="Classifies the movement goal based on the movement flags." alt="" coords="476,114,671,140"/>
+<area shape="poly" id="edge20_Node000002_Node000018" title=" " alt="" coords="398,161,491,141,492,147,400,166"/>
+<area shape="rect" id="Node000019" href="$class_c_base_monster.html#aaa1f439f7231cedb7807f843abdcf12c" title="Initializes a new route for the monster." alt="" coords="486,215,660,242"/>
+<area shape="poly" id="edge21_Node000002_Node000019" title=" " alt="" coords="400,189,492,208,491,214,398,194"/>
+<area shape="rect" id="Node000020" href="$class_c_base_monster.html#afb9f133ee39d74c0a7bcd50feda4973b" title="Simplifies the monster&#39;s route by removing unnecessary nodes." alt="" coords="476,164,671,191"/>
+<area shape="poly" id="edge22_Node000002_Node000020" title=" " alt="" coords="421,175,460,175,460,180,421,180"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="914,62,940,74,956,87,965,100,974,112,988,125,997,130,995,134,985,129,970,116,961,103,952,90,937,78,912,67"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1198,88,1244,115"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="870,34,926,18,998,5,1036,3,1076,4,1114,11,1151,23,1183,46,1206,73,1202,77,1179,49,1149,28,1113,16,1075,10,1036,8,998,11,927,23,871,40"/>
+<area shape="rect" id="Node000006" href="$util_8cpp.html#a07c8f2bf4c6bbe075fb965e15e00b203" title="Sets the origin of an entity." alt="" coords="1014,88,1123,115"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="898,62,1000,84,999,89,897,67"/>
+<area shape="rect" id="Node000007" href="$util_8cpp.html#a1e92dcf0a858a8ca61a31bcbfc168bff" title="Converts a vector to a yaw angle." alt="" coords="1010,38,1127,64"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="939,48,995,48,995,54,939,54"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1114,136,1149,124,1183,112,1184,118,1151,129,1116,141"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="1123,99,1182,99,1182,104,1123,104"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="646,341,746,361,745,366,645,346"/>
+<area shape="rect" id="Node000010" href="$class_c_graph.html#aaa365031686991b434983979820ff128" title="Finds the shortest path from the start node to the destination node." alt="" coords="745,316,919,343"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="678,327,729,327,729,332,678,332"/>
+<area shape="poly" id="edge16_Node000008_Node000015" title=" " alt="" coords="599,341,656,372,726,403,755,412,753,417,724,408,654,377,597,346"/>
+<area shape="rect" id="Node000011" href="$class_c_queue_priority.html#a5b16b6a3e9390669b0257bc11676c850" title=" " alt="" coords="991,367,1146,394"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="898,341,988,360,987,366,897,346"/>
+<area shape="rect" id="Node000012" href="$class_c_queue_priority.html#a31e33f101521e79df1b4a5c788e73a26" title="Inserts a value into the priority queue." alt="" coords="994,266,1143,292"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="897,313,987,293,988,299,898,318"/>
+<area shape="rect" id="Node000013" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="1001,215,1136,242"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="894,313,937,295,951,285,961,274,970,263,985,251,996,245,999,250,988,256,974,266,965,277,955,289,940,300,896,318"/>
+<area shape="rect" id="Node000014" href="$class_c_queue_priority.html#afa63f50edcffcfa663460d146e0f543d" title="Removes the smallest item from the priority queue." alt="" coords="987,316,1150,343"/>
+<area shape="poly" id="edge15_Node000010_Node000014" title=" " alt="" coords="920,327,971,327,971,332,920,332"/>
+<area shape="poly" id="edge18_Node000016_Node000003" title=" " alt="" coords="667,64,710,60,710,65,667,70"/>
+<area shape="rect" id="Node000017" href="$pm__math_8c.html#aecf9648658d7ca4c7c51497f0f235b80" title="Calculates the cross product of two vectors." alt="" coords="782,88,882,115"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="667,83,767,92,766,98,667,88"/>
+<area shape="rect" id="Node000021" href="$monsters_8cpp.html#aeaf867db3644fa8563ab05cc93b0f726" title=" " alt="" coords="790,215,874,242"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="646,189,775,214,774,220,645,194"/>
+<area shape="rect" id="Node000022" href="$monsters_8cpp.html#a76029d7e263a2f6d01ca64a8eb7976cb" title="Determines if a route can be simplified." alt="" coords="778,164,886,191"/>
+<area shape="poly" id="edge25_Node000020_Node000022" title=" " alt="" coords="671,175,763,175,763,180,671,180"/>
+<area shape="poly" id="edge24_Node000021_Node000013" title=" " alt="" coords="875,226,985,226,985,231,875,231"/>
+<area shape="rect" id="Node000024" href="$pm__math_8c.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="552,468,595,495"/>
+<area shape="poly" id="edge30_Node000023_Node000024" title=" " alt="" coords="362,479,536,479,536,484,362,484"/>
+</map>

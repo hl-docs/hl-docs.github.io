@@ -1,0 +1,7 @@
+<map id="CBigMomma::GetNodeRange" name="CBigMomma::GetNodeRange">
+<area shape="rect" id="Node000001" title="Retrieves the node range from the target entity." alt="" coords="214,31,406,57"/>
+<area shape="rect" id="Node000002" href="$class_c_big_momma.html#aff57c1e6079c3ee1dbf6e7026988e423" title="Runs a task for Big Momma." alt="" coords="8,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,34,163,30,164,25,198,29"/>
+<area shape="rect" id="Node000003" href="$class_c_big_momma.html#a5b08b3d01ea66e18ff8f58c974ff714c" title="Starts a task for Big Momma." alt="" coords="5,56,166,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,59,166,63,166,58,198,54"/>
+</map>

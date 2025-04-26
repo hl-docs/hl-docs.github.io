@@ -1,0 +1,13 @@
+<map id="CMonsterMaker::MakeMonster" name="CMonsterMaker::MakeMonster">
+<area shape="rect" id="Node000001" title="Creates a new monster." alt="" coords="680,31,881,57"/>
+<area shape="rect" id="Node000002" href="$class_c_monster_maker.html#ab077bb0e8ff47bdeb29601a24fc8f8c5" title="Drops one monster from the monster maker each time called." alt="" coords="215,5,395,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,41,395,26,396,21,665,35"/>
+<area shape="rect" id="Node000004" href="$class_c_monster_maker.html#ad2a5595990138fd355c9ce46048d010a" title="Creates a new monster at regular intervals." alt="" coords="444,56,632,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="665,59,633,62,633,57,665,53"/>
+<area shape="rect" id="Node000003" href="$class_c_monster_maker.html#ae162cb9792bd9c49670b5b2a0d207e53" title="Spawns the monster maker in the game." alt="" coords="5,56,166,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,39,147,58,146,53,228,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="428,72,166,72,166,67,428,67"/>
+<area shape="rect" id="Node000005" href="$class_c_monster_maker.html#a3eafef130bef1576ada5bf903ed5c6f7" title="Activates or deactivates the monster maker." alt="" coords="214,107,396,133"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="459,89,370,109,369,103,458,84"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="228,105,146,86,147,81,230,100"/>
+</map>

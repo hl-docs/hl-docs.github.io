@@ -1,0 +1,5 @@
+<map id="CHudFlashlight::Init" name="CHudFlashlight::Init">
+<area shape="rect" id="Node000001" title="Initializes the flashlight HUD element." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud.html#aee3f9153b3045531340a6b60652db401" title="Adds a new HUD element to the list of HUD components." alt="" coords="188,5,325,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,16,172,16,172,21,140,21"/>
+</map>

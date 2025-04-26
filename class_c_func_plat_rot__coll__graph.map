@@ -1,0 +1,37 @@
+<map id="CFuncPlatRot" name="CFuncPlatRot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="844,935,947,961"/>
+<area shape="rect" id="Node000002" href="$class_c_func_plat.html" title=" " alt="" coords="754,859,837,885"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="826,893,880,932,877,936,823,897"/>
+<area shape="rect" id="Node000003" href="$class_c_base_plat_train.html" title=" " alt="" coords="677,780,789,807"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="755,817,787,857,783,860,751,821"/>
+<area shape="rect" id="Node000004" href="$class_c_base_toggle.html" title="Base class for toggleable entities." alt="" coords="569,701,667,728"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="651,735,715,777,712,782,648,739"/>
+<area shape="rect" id="Node000005" href="$class_c_base_animating.html" title="Base class for entities with animation capabilities." alt="" coords="406,531,524,557"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="488,567,609,699,605,703,484,571"/>
+<area shape="rect" id="Node000006" href="$class_c_base_delay.html" title="Base class for entities with delayed actions." alt="" coords="418,429,512,456"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="468,472,468,531,462,531,462,472"/>
+<area shape="rect" id="Node000007" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="287,304,381,331"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="361,340,453,427,450,431,357,344"/>
+<area shape="poly" id="edge12_Node000007_Node000007" title=" " alt="" coords="382,300,400,305,408,317,404,327,394,333,366,334,366,329,393,328,400,324,403,318,397,309,381,305"/>
+<area shape="rect" id="Node000008" href="$structentvars__s.html" title=" " alt="" coords="5,16,82,43"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="97,42,149,56,180,67,211,95,239,126,284,194,315,258,332,303,327,305,310,260,279,197,234,129,207,98,177,72,147,61,96,47"/>
+<area shape="rect" id="Node000009" href="$structedict__s.html" title=" " alt="" coords="29,304,93,331"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="33,58,29,70,20,119,17,158,19,196,29,245,41,277,55,303,50,305,36,279,24,246,14,197,11,158,15,118,24,69,28,56"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="51,290,43,246,37,128,40,43,45,44,43,128,48,245,56,289"/>
+<area shape="rect" id="Node000013" href="$class_e_h_a_n_d_l_e.html" title="Represents a handle to an entity in the game." alt="" coords="125,480,207,507"/>
+<area shape="poly" id="edge18_Node000013_Node000009" title=" " alt="" coords="78,343,161,478,156,481,74,345"/>
+<area shape="rect" id="Node000010" href="$structlink__s.html" title=" " alt="" coords="120,16,175,43"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="151,58,146,144,137,196,121,247,100,280,77,305,73,302,96,277,116,244,132,195,141,144,146,58"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="170,5,181,3,192,6,199,15,202,30,197,47,186,55,171,55,156,45,159,41,172,50,184,50,193,44,197,29,194,18,189,11,181,8,171,10"/>
+<area shape="rect" id="Node000011" href="$struct_t_y_p_e_d_e_s_c_r_i_p_t_i_o_n.html" title=" " alt="" coords="522,16,664,43"/>
+<area shape="poly" id="edge21_Node000001_Node000011" title=" " alt="" coords="661,45,757,79,810,103,861,133,907,169,945,211,959,235,970,260,977,287,979,316,979,874,975,894,962,912,927,936,924,932,958,908,970,892,974,873,974,316,972,288,965,262,955,237,941,214,904,173,858,138,807,108,755,84,659,50"/>
+<area shape="poly" id="edge20_Node000003_Node000011" title=" " alt="" coords="616,53,651,99,691,162,708,198,722,236,732,276,735,316,736,716,736,780,730,780,730,716,730,316,727,277,717,238,703,200,686,164,647,102,612,57"/>
+<area shape="poly" id="edge19_Node000004_Node000011" title=" " alt="" coords="599,58,608,152,617,269,622,530,621,701,616,701,617,530,612,270,603,152,593,59"/>
+<area shape="poly" id="edge15_Node000005_Node000011" title=" " alt="" coords="507,37,411,49,371,59,345,72,323,93,307,115,297,136,291,158,278,270,269,319,270,339,278,364,293,393,312,420,358,467,405,503,444,528,441,533,402,508,354,471,308,423,289,396,273,367,265,340,264,318,273,269,286,157,292,134,302,112,319,90,342,67,370,54,410,44,506,32"/>
+<area shape="poly" id="edge14_Node000006_Node000011" title=" " alt="" coords="589,59,556,192,531,279,502,366,474,430,469,428,497,365,526,278,551,191,584,57"/>
+<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="508,41,473,52,442,72,416,98,395,129,377,162,364,197,346,260,338,304,333,303,341,258,359,195,373,160,390,126,412,95,438,67,470,48,506,36"/>
+<area shape="rect" id="Node000012" href="$class_vector.html" title=" " alt="" coords="818,531,877,557"/>
+<area shape="poly" id="edge22_Node000001_Node000012" title=" " alt="" coords="872,568,879,580,892,616,898,645,898,713,898,873,898,934,893,934,893,873,893,714,892,646,887,617,874,583,868,571"/>
+<area shape="poly" id="edge16_Node000004_Node000012" title=" " alt="" coords="809,567,780,584,695,649,633,703,629,699,691,645,777,579,806,563"/>
+<area shape="poly" id="edge17_Node000004_Node000013" title=" " alt="" coords="199,513,325,590,408,635,494,675,569,699,568,705,492,680,405,640,322,595,196,518"/>
+</map>

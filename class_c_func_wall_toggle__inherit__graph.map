@@ -1,0 +1,7 @@
+<map id="CFuncWallToggle" name="CFuncWallToggle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,129,181"/>
+<area shape="rect" id="Node000002" href="$class_c_func_wall.html" title=" " alt="" coords="24,80,110,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,122,70,154,64,154,64,122"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html" title="Base class for all entities in the game." alt="" coords="20,5,114,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,48,70,80,64,80,64,48"/>
+</map>

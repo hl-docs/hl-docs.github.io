@@ -1,0 +1,5 @@
+<map id="CBaseMonster::PBestScent" name="CBaseMonster::PBestScent">
+<area shape="rect" id="Node000001" title="Returns a pointer to the scent the monster should react to." alt="" coords="220,5,405,32"/>
+<area shape="rect" id="Node000002" href="$class_c_bullsquid.html#af10f35cb1f44373b59e1efb77ac0d31c" title="Determines the appropriate schedule for the bullsquid." alt="" coords="5,5,172,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,21,172,21,172,16,204,16"/>
+</map>

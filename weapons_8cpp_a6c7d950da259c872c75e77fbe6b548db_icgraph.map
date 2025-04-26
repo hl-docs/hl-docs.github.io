@@ -1,0 +1,104 @@
+<map id="SpawnBlood" name="SpawnBlood">
+<area shape="rect" id="Node000001" title="Spawns blood effects at a specified location." alt="" coords="1170,132,1263,159"/>
+<area shape="rect" id="Node000002" href="$class_c_a_grunt.html#a98010193093d0262b00b94d3daa58ec2" title="Handles animation events for the Alien Grunt entity." alt="" coords="939,31,1120,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1189,123,1158,96,1121,72,1093,60,1095,56,1123,67,1161,92,1193,119"/>
+<area shape="rect" id="Node000003" href="$class_c_a_grunt.html#a3a7ab70573301ac5de185133eb31698d" title="Handles trace attacks on the Alien Grunt." alt="" coords="955,81,1104,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1154,131,1081,111,1082,106,1156,126"/>
+<area shape="rect" id="Node000004" href="$class_c_base_monster.html#a37eb12ce5728617367790c76eb33bd95" title="Handles a trace attack on an entity." alt="" coords="937,132,1122,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1155,148,1122,148,1122,143,1155,143"/>
+<area shape="rect" id="Node000009" href="$class_c_base_entity.html#a7b55b66f1ee672cbe6d1b902c9aa70c6" title="Handles a trace attack on an entity." alt="" coords="943,569,1116,596"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1206,174,1039,570,1034,568,1201,172"/>
+<area shape="rect" id="Node000077" href="$class_c_base_player.html#a9dea5c0c60291bfd32869264814f7a29" title="Handles the trace attack on the player." alt="" coords="942,620,1117,647"/>
+<area shape="poly" id="edge52_Node000001_Node000077" title=" " alt="" coords="1216,175,1207,272,1190,402,1178,467,1163,527,1145,576,1124,610,1109,622,1106,617,1120,606,1140,574,1158,525,1173,466,1185,401,1202,271,1211,174"/>
+<area shape="rect" id="Node000005" href="$class_c_barney.html#a44b1506e7c28c7a352643ef8f76e4f96" title="Handles the trace attack for the Barney entity." alt="" coords="709,5,859,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="942,127,935,122,918,103,910,83,903,64,887,46,858,32,860,27,890,42,908,61,915,81,922,100,938,118,945,123"/>
+<area shape="rect" id="Node000006" href="$class_c_big_momma.html#a88920fba18577ac8f049eb5ff8a002c2" title="Handles trace attacks on the Big Momma entity." alt="" coords="697,56,871,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="955,129,936,122,911,110,888,97,852,86,854,81,890,92,914,105,938,118,957,124"/>
+<area shape="rect" id="Node000007" href="$class_c_gargantua.html#a1c707338c0a88f2742b3d06cab056cb5" title="Handles trace attacks on the Gargantua." alt="" coords="700,107,868,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="921,137,869,131,869,126,921,132"/>
+<area shape="rect" id="Node000008" href="$class_c_i_slave.html#ab9aefa852821d71a206d0a662228b52f" title="Handles trace attacks on the CISlave entity." alt="" coords="713,157,855,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="921,159,856,166,855,161,921,154"/>
+<area shape="rect" id="Node000010" href="$class_c_beam.html#aafcea136a37e72db7974b6dde109ea44" title="Damages entities along the beam&#39;s path." alt="" coords="707,645,861,672"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="957,604,938,610,914,623,890,636,854,647,852,642,888,631,911,618,936,606,955,599"/>
+<area shape="rect" id="Node000021" href="$class_c_crossbow_bolt.html#a4a97ce5329386cdcf27b34cbceeab1a3" title="Handles the touch event for the crossbow bolt." alt="" coords="211,797,387,824"/>
+<area shape="poly" id="edge13_Node000009_Node000021" title=" " alt="" coords="942,607,939,610,923,631,916,653,916,697,918,720,916,743,908,765,891,787,860,812,826,832,791,848,754,859,676,872,597,874,520,867,449,855,340,827,342,822,450,850,521,862,597,869,675,867,752,854,789,843,824,827,857,808,887,783,903,763,911,742,912,720,911,698,911,652,918,629,935,606,938,603"/>
+<area shape="rect" id="Node000026" href="$class_c_grenade.html#aa589fe24eba1486263fcb1a311746d91" title="Handles the bounce logic for the grenade." alt="" coords="701,949,867,976"/>
+<area shape="poly" id="edge15_Node000009_Node000026" title=" " alt="" coords="941,608,939,610,924,630,913,649,905,689,907,728,915,768,923,809,925,849,916,891,906,911,891,933,866,951,863,947,887,929,901,909,911,889,920,849,917,809,909,769,902,729,899,689,908,648,919,627,935,606,937,604"/>
+<area shape="rect" id="Node000031" href="$class_c_controller_zap_ball.html#a2665f8d17989725d1ce631a634eee6ab" title="Handles the explode touch event for the controller zap ball." alt="" coords="720,1000,848,1043"/>
+<area shape="poly" id="edge17_Node000009_Node000031" title=" " alt="" coords="941,608,939,610,921,633,910,657,903,680,900,703,904,750,914,797,925,844,929,891,927,916,920,940,908,965,891,990,872,1006,849,1016,847,1011,869,1001,887,986,904,962,915,938,921,915,924,891,920,845,909,798,899,751,895,703,898,679,905,655,917,631,935,606,937,604"/>
+<area shape="rect" id="Node000033" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="488,595,578,621"/>
+<area shape="poly" id="edge19_Node000009_Node000033" title=" " alt="" coords="945,605,938,610,923,629,916,649,909,669,890,686,834,711,810,716,785,717,736,708,678,686,662,675,652,661,644,648,630,636,605,624,578,617,580,612,607,619,633,631,648,644,657,659,665,671,681,682,737,703,786,712,809,711,833,706,887,682,904,666,911,647,918,626,935,606,942,601"/>
+<area shape="rect" id="Node000036" href="$class_c_gauss.html#aa472ab616d54f8009b2cefead62ff726" title=" " alt="" coords="484,899,582,925"/>
+<area shape="poly" id="edge21_Node000009_Node000036" title=" " alt="" coords="941,607,939,610,917,643,910,677,912,712,918,746,924,781,925,816,916,849,890,882,868,896,835,905,752,916,661,919,583,917,583,912,661,914,752,911,834,900,866,891,887,878,911,847,920,815,919,782,913,747,906,712,904,677,912,641,935,606,937,604"/>
+<area shape="rect" id="Node000041" href="$class_c_base_entity.html#a15af332e90bc937aaf7db2cd88860858" title="Fires bullets from an entity." alt="" coords="702,1168,866,1195"/>
+<area shape="poly" id="edge23_Node000009_Node000041" title=" " alt="" coords="941,608,939,610,928,626,920,646,910,697,906,759,906,825,906,957,902,1013,891,1056,872,1091,848,1123,803,1170,799,1166,844,1119,868,1088,886,1054,896,1012,901,957,900,825,901,758,905,697,915,645,924,623,935,606,937,604"/>
+<area shape="rect" id="Node000051" href="$class_c_base_entity.html#ad0a18d26443b6e5cbb9ac190ac412965" title="Fires bullets from a player." alt="" coords="702,208,866,251"/>
+<area shape="poly" id="edge30_Node000009_Node000051" title=" " alt="" coords="1021,555,1008,494,983,416,965,375,944,335,918,298,887,265,865,250,868,246,890,261,922,294,948,332,970,373,988,414,1013,493,1026,553"/>
+<area shape="rect" id="Node000056" href="$class_c_crossbow.html#a51becd1d4131174516a44142fc273aae" title="Fires a sniper bolt in multiplayer mode." alt="" coords="695,275,873,301"/>
+<area shape="poly" id="edge35_Node000009_Node000056" title=" " alt="" coords="1019,555,1004,503,978,438,939,371,915,341,887,315,868,304,871,300,890,311,919,338,944,368,982,436,1009,501,1024,554"/>
+<area shape="rect" id="Node000057" href="$class_c_gargantua.html#a7267dc2632f1e44de89bb701f336bd2d" title="Applies flame damage to entities within a specified range." alt="" coords="693,325,875,352"/>
+<area shape="poly" id="edge37_Node000009_Node000057" title=" " alt="" coords="1016,556,998,513,970,462,933,410,911,386,887,366,866,355,869,350,890,362,915,382,937,406,975,459,1002,511,1021,554"/>
+<area shape="rect" id="Node000058" href="$combat_8cpp.html#a3a20dd1e4e2f4832037c6797d4ffef37" title="Inflicts damage to entities within a certain radius." alt="" coords="729,747,839,773"/>
+<area shape="poly" id="edge38_Node000009_Node000058" title=" " alt="" coords="943,606,939,610,926,624,920,638,915,668,911,699,903,715,890,730,866,746,840,755,838,750,864,741,887,726,899,712,905,697,910,667,915,637,922,621,935,606,939,602"/>
+<area shape="rect" id="Node000065" href="$class_c_squeak_grenade.html#a467a14aaaf74643e1464c390110eb92a" title="Handles the touch behavior of the squeak grenade." alt="" coords="679,376,889,419"/>
+<area shape="poly" id="edge46_Node000009_Node000065" title=" " alt="" coords="1008,558,958,495,925,462,887,433,866,422,869,417,890,428,928,458,962,492,1013,555"/>
+<area shape="rect" id="Node000067" href="$class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="724,443,844,469"/>
+<area shape="poly" id="edge48_Node000009_Node000067" title=" " alt="" coords="1000,561,950,521,888,484,844,469,845,464,890,479,953,517,1004,557"/>
+<area shape="rect" id="Node000070" href="$class_c_breakable.html#af29a4267eca08a5632937d2ce114428a" title="Handles trace attacks on the breakable entity." alt="" coords="701,493,867,520"/>
+<area shape="poly" id="edge49_Node000009_Node000070" title=" " alt="" coords="978,566,888,535,846,523,848,518,889,529,979,561"/>
+<area shape="rect" id="Node000071" href="$class_c_i_slave.html#aa4c57db62d0120725f29a0789f6f3aea" title="Creates a heavy damage beam directed forward." alt="" coords="720,544,848,571"/>
+<area shape="poly" id="edge50_Node000009_Node000071" title=" " alt="" coords="927,575,848,567,848,561,928,570"/>
+<area shape="rect" id="Node000073" href="$class_c_nihilanth_h_v_r.html#ae6c7e59112d110fcaed166a10866d1c7" title="Handles the zap think behavior for the Nihilanth Hover entity." alt="" coords="700,595,868,621"/>
+<area shape="poly" id="edge51_Node000009_Node000073" title=" " alt="" coords="928,596,869,602,868,597,928,590"/>
+<area shape="rect" id="Node000011" href="$class_c_beam.html#ae1f4097d553f01e28b39ed6752f6201e" title=" " alt="" coords="437,443,630,469"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="691,645,677,635,662,616,655,597,653,558,651,519,644,501,630,483,614,472,617,468,633,479,648,499,656,518,658,557,660,595,667,614,681,631,694,641"/>
+<area shape="rect" id="Node000016" href="$class_c_lightning.html#a2e360b22a6ac28c84bf395bf64fbe7a7" title="Think function for applying damage with the lightning effect." alt="" coords="449,493,618,520"/>
+<area shape="poly" id="edge11_Node000010_Node000016" title=" " alt="" coords="691,644,678,635,666,623,658,610,653,583,647,558,641,546,630,534,612,523,614,518,633,530,645,543,652,556,658,582,663,608,670,620,681,631,694,640"/>
+<area shape="rect" id="Node000017" href="$class_c_laser.html#ae877e46fde9a7ec6e98da554aa879b59" title="Fires the laser at a specific point." alt="" coords="466,544,601,571"/>
+<area shape="poly" id="edge12_Node000010_Node000017" title=" " alt="" coords="691,642,678,636,662,623,653,610,644,597,630,585,600,572,602,567,633,580,648,593,657,607,666,619,681,631,693,637"/>
+<area shape="rect" id="Node000022" href="$class_c_crossbow_bolt.html#a91e2aa33dbf7f1406968f7ad85e32d69" title="Spawns the crossbow bolt entity." alt="" coords="5,797,163,824"/>
+<area shape="poly" id="edge14_Node000021_Node000022" title=" " alt="" coords="195,813,163,813,163,808,195,808"/>
+<area shape="rect" id="Node000027" href="$class_c_grenade.html#ae966d7a535a9771cf3e84c81eaf1fbdc" title="Creates and shoots a timed grenade." alt="" coords="455,949,611,976"/>
+<area shape="poly" id="edge16_Node000026_Node000027" title=" " alt="" coords="685,965,612,965,612,960,685,960"/>
+<area shape="rect" id="Node000032" href="$class_c_controller_zap_ball.html#a7a3ddde34cacb2850805dc19819dc1a3" title="Spawns the controller zap ball entity." alt="" coords="469,1000,597,1043"/>
+<area shape="poly" id="edge18_Node000031_Node000032" title=" " alt="" coords="704,1024,598,1024,598,1019,704,1019"/>
+<area shape="rect" id="Node000034" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="246,595,352,621"/>
+<area shape="poly" id="edge20_Node000033_Node000034" title=" " alt="" coords="473,611,353,611,353,605,473,605"/>
+<area shape="rect" id="Node000037" href="$class_c_gauss.html#a19bac5d571cf3e432ea8cc6ecdf74a21" title="Initiates the firing process for the Gauss weapon." alt="" coords="236,899,362,925"/>
+<area shape="poly" id="edge22_Node000036_Node000037" title=" " alt="" coords="469,915,363,915,363,909,469,909"/>
+<area shape="rect" id="Node000042" href="$class_c_barney.html#ad3c4068f7bdf9a91a2644714083149df" title="Fires a pistol at the enemy." alt="" coords="446,1067,621,1093"/>
+<area shape="poly" id="edge24_Node000041_Node000042" title=" " alt="" coords="744,1162,691,1135,630,1108,595,1096,596,1091,632,1103,693,1130,747,1158"/>
+<area shape="rect" id="Node000044" href="$class_c_func_tank_gun.html#ab0bcc8917ab233e04ac5e627567e1b60" title="Fire the tank&#39;s gun." alt="" coords="463,1117,604,1144"/>
+<area shape="poly" id="edge25_Node000041_Node000044" title=" " alt="" coords="699,1167,602,1147,603,1142,700,1162"/>
+<area shape="rect" id="Node000045" href="$class_c_glock.html#a522286710931a6ab18933b60f455e4ff" title="Fires the Glock with specified parameters." alt="" coords="469,1168,597,1195"/>
+<area shape="poly" id="edge26_Node000041_Node000045" title=" " alt="" coords="686,1184,598,1184,598,1179,686,1179"/>
+<area shape="rect" id="Node000048" href="$class_c_turret.html#ae642cdeddbe6352e2218c5053a3b7af6" title="Fires bullets from the turret." alt="" coords="481,1219,586,1245"/>
+<area shape="poly" id="edge27_Node000041_Node000048" title=" " alt="" coords="700,1201,587,1224,586,1219,699,1196"/>
+<area shape="rect" id="Node000049" href="$class_c_mini_turret.html#a4db93a54b67833203cd5fc677bbeb5f6" title="Fires bullets from the mini turret." alt="" coords="469,1269,598,1296"/>
+<area shape="poly" id="edge28_Node000041_Node000049" title=" " alt="" coords="747,1205,693,1233,632,1260,596,1271,595,1266,630,1255,691,1228,744,1200"/>
+<area shape="rect" id="Node000050" href="$class_c_sentry.html#af5410a4d53dca6fb73018457fd66b202" title="Handles the shooting behavior of the sentry." alt="" coords="478,1320,588,1347"/>
+<area shape="poly" id="edge29_Node000041_Node000050" title=" " alt="" coords="762,1208,706,1260,671,1287,632,1310,590,1326,588,1321,630,1306,668,1283,703,1256,758,1204"/>
+<area shape="rect" id="Node000052" href="$class_c_python.html#a5e20c90592da8cd4200cceb46d578b59" title="Handles the primary attack for the Python weapon." alt="" coords="452,115,614,141"/>
+<area shape="poly" id="edge31_Node000051_Node000052" title=" " alt="" coords="688,204,678,198,663,187,653,176,644,166,630,156,603,144,605,140,633,151,648,162,657,173,667,183,681,194,691,199"/>
+<area shape="rect" id="Node000053" href="$class_c_m_p5.html#a73c394c755dc96a8577bcabffa0c75e8" title="Handles the primary attack of the MP5." alt="" coords="459,165,607,192"/>
+<area shape="poly" id="edge32_Node000051_Node000053" title=" " alt="" coords="686,212,603,195,604,190,687,207"/>
+<area shape="rect" id="Node000054" href="$class_c_shotgun.html#a66705b9405c78f0a5d7101b127e8fdfa" title="Handles the primary attack of the shotgun." alt="" coords="449,216,618,243"/>
+<area shape="poly" id="edge33_Node000051_Node000054" title=" " alt="" coords="686,232,618,232,618,227,686,227"/>
+<area shape="rect" id="Node000055" href="$class_c_shotgun.html#a43e2c385f1d48938956d7e3107127a84" title="Handles the secondary attack of the shotgun." alt="" coords="440,267,626,293"/>
+<area shape="poly" id="edge34_Node000051_Node000055" title=" " alt="" coords="687,252,604,269,603,263,686,246"/>
+<area shape="rect" id="Node000025" href="$class_c_crossbow.html#a088e3d420a0cb3943cf33cf126323a32" title="Handles the primary attack of the crossbow weapon." alt="" coords="444,317,622,344"/>
+<area shape="poly" id="edge36_Node000056_Node000025" title=" " alt="" coords="687,307,616,319,615,314,686,302"/>
+<area shape="poly" id="edge43_Node000058_Node000033" title=" " alt="" coords="713,750,678,730,659,706,653,681,647,657,640,646,630,635,605,622,578,614,579,609,607,617,633,631,645,643,652,655,658,680,664,703,681,726,716,745"/>
+<area shape="poly" id="edge44_Node000058_Node000036" title=" " alt="" coords="749,784,558,900,556,896,746,779"/>
+<area shape="rect" id="Node000059" href="$class_c_apache.html#a0200a9f51d83be5df1ba7f2552bc79a2" title="Handles the dying think behavior for the Apache." alt="" coords="460,645,606,672"/>
+<area shape="poly" id="edge39_Node000058_Node000059" title=" " alt="" coords="713,746,678,730,663,719,653,708,644,697,630,686,603,675,605,670,633,682,648,693,657,704,667,715,681,726,715,741"/>
+<area shape="rect" id="Node000061" href="$class_c_osprey.html#acb7f8a95c86b47d03d0701ca95483d2f" title="Handles the dying behavior of the Osprey." alt="" coords="461,696,605,723"/>
+<area shape="poly" id="edge40_Node000058_Node000061" title=" " alt="" coords="713,749,602,726,603,721,715,743"/>
+<area shape="rect" id="Node000063" href="$class_c_crossbow_bolt.html#a8589ee9b0d73b1ab5ffbbffaa0427459" title="Handles the explosion effect for the crossbow bolt." alt="" coords="435,747,631,773"/>
+<area shape="poly" id="edge41_Node000058_Node000063" title=" " alt="" coords="714,763,632,763,632,757,714,757"/>
+<area shape="rect" id="Node000064" href="$class_c_b_mortar.html#a5515a9059d1b09ad9632e6d6e328fe93" title="Handles touch interactions for the CBMortar entity." alt="" coords="474,797,593,824"/>
+<area shape="poly" id="edge45_Node000058_Node000064" title=" " alt="" coords="715,777,594,801,593,796,714,771"/>
+<area shape="poly" id="edge42_Node000063_Node000021" title=" " alt="" coords="454,780,364,799,363,794,453,775"/>
+<area shape="rect" id="Node000066" href="$class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="448,384,618,411"/>
+<area shape="poly" id="edge47_Node000065_Node000066" title=" " alt="" coords="664,400,619,400,619,395,664,395"/>
+</map>

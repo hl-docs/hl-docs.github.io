@@ -1,0 +1,5 @@
+<map id="CGamePlayerHurt::RemoveOnFire" name="CGamePlayerHurt::RemoveOnFire">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,5,430,32"/>
+<area shape="rect" id="Node000002" href="$class_c_game_player_hurt.html#aada0bd6c34d5a7607bdf719efab662d1" title="Activates the game player hurt entity." alt="" coords="5,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,21,163,21,163,16,195,16"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="msurface_s" name="msurface_s">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,192,192,219"/>
+<area shape="rect" id="Node000006" href="$structdecal__s.html" title=" " alt="" coords="115,283,181,309"/>
+<area shape="poly" id="edge8_Node000006_Node000001" title=" " alt="" coords="115,230,105,244,106,258,114,270,127,280,123,284,111,274,100,260,100,242,111,227"/>
+<area shape="rect" id="Node000002" href="$structmplane__s.html" title=" " alt="" coords="5,101,83,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,136,135,189,131,193,69,140"/>
+<area shape="rect" id="Node000003" href="$structmtexinfo__t.html" title=" " alt="" coords="107,101,189,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,144,151,191,145,191,145,144"/>
+<area shape="rect" id="Node000004" href="$structtexture__s.html" title=" " alt="" coords="110,8,186,35"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,50,151,101,145,101,145,50"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="203,12,212,21,204,31,186,33,186,28,202,26,207,21,199,16"/>
+<area shape="rect" id="Node000005" href="$structcolor24.html" title=" " alt="" coords="212,101,276,128"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="225,142,198,170,168,193,165,189,194,166,222,138"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="157,268,159,243,151,220,156,218,164,242,162,268"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="198,287,208,296,199,305,182,307,181,302,197,300,203,296,195,291"/>
+</map>

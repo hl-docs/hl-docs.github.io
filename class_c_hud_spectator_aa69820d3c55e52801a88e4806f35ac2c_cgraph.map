@@ -1,0 +1,5 @@
+<map id="CHudSpectator::DeathMessage" name="CHudSpectator::DeathMessage">
+<area shape="rect" id="Node000001" title="Adds a dead player icon to the overview after a kill." alt="" coords="5,13,210,40"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#ae1883e1b072c31d47f87fe25c31d0f5e" title="Adds an entity to the internal list of overview entities." alt="" coords="258,5,448,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,242,24,242,29,210,29"/>
+</map>

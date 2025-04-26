@@ -1,0 +1,5 @@
+<map id="UTIL_GetNextBestWeapon" name="UTIL_GetNextBestWeapon">
+<area shape="rect" id="Node000001" title="Retrieves the next best weapon for a player." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="Node000002" href="$class_c_game_rules.html#a1c1261ddbabfa1dcdb1f4b04a9b7a71b" title=" " alt="" coords="231,5,460,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,16,215,16,215,21,183,21"/>
+</map>

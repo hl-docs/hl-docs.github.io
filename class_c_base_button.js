@@ -1,0 +1,36 @@
+var class_c_base_button =
+[
+    [ "BUTTON_CODE", "class_c_base_button.html#a446291d5e3052ed1c62e0dba9e3d63c2", [
+      [ "BUTTON_NOTHING", "class_c_base_button.html#a446291d5e3052ed1c62e0dba9e3d63c2ac18b5fb5e23f724b702f32d3ee2701dd", null ],
+      [ "BUTTON_ACTIVATE", "class_c_base_button.html#a446291d5e3052ed1c62e0dba9e3d63c2a7f43b5090d5c286b862688ab43c0782e", null ],
+      [ "BUTTON_RETURN", "class_c_base_button.html#a446291d5e3052ed1c62e0dba9e3d63c2ac92362b08b95b19edfcae5f0e99894c5", null ]
+    ] ],
+    [ "ButtonActivate", "class_c_base_button.html#a979524cd17dbdcfb1aa71817904b5bd7", null ],
+    [ "ButtonBackHome", "class_c_base_button.html#aca9cf4012a08dffe79128ab0bafa0fba", null ],
+    [ "ButtonResponseToTouch", "class_c_base_button.html#a67266c3d0b93cfece476f1eaae389f30", null ],
+    [ "ButtonReturn", "class_c_base_button.html#a7c4ec672410f32f1f3008409fe777b89", null ],
+    [ "ButtonShot", "class_c_base_button.html#a3d12f368fa8b551130f2d4dbbd11ef5c", null ],
+    [ "ButtonSpark", "class_c_base_button.html#a76b37b422259d66edafc3f106aca846a", null ],
+    [ "ButtonTouch", "class_c_base_button.html#a3bac76de72c1f4981ce1c5f021f0431b", null ],
+    [ "ButtonUse", "class_c_base_button.html#a8fd92acf133124bddea1334d3e8be26f", null ],
+    [ "KeyValue", "class_c_base_button.html#a3b4006f6a742fc5b28ab9dc0f530f4f5", null ],
+    [ "ObjectCaps", "class_c_base_button.html#a544e24e1ab684f6a8ba2d9b867a6c6a3", null ],
+    [ "Precache", "class_c_base_button.html#adbb7812fd5072d7d7b6cb778315d5eef", null ],
+    [ "Restore", "class_c_base_button.html#abd321fdc54dda8e668f8678d19df89b0", null ],
+    [ "RotSpawn", "class_c_base_button.html#a0378a2cf0fccb9d37246c7c3385ec637", null ],
+    [ "Save", "class_c_base_button.html#ac80dc7079ec1bf1597f15b50198409d0", null ],
+    [ "SparkSoundCache", "class_c_base_button.html#af1ddbabff9916710e523966e04225ba5", null ],
+    [ "Spawn", "class_c_base_button.html#a5eae01688c33be4ada622a6f7cd9d3ca", null ],
+    [ "TakeDamage", "class_c_base_button.html#a64525735e7e495aa67a55953e08e75f0", null ],
+    [ "TriggerAndWait", "class_c_base_button.html#a26f3cfcfea37ef5c8b1143a1332d958e", null ],
+    [ "m_bLockedSentence", "class_c_base_button.html#a23ad34b1e5bef1ffb669b28abe23afae", null ],
+    [ "m_bLockedSound", "class_c_base_button.html#acb1f74113072deead7c864f6f8934eeb", null ],
+    [ "m_bUnlockedSentence", "class_c_base_button.html#a48d34efe30fed477f4d2c0e4656a3403", null ],
+    [ "m_bUnlockedSound", "class_c_base_button.html#a2cfa21acf7c91ab9da36694a731755ec", null ],
+    [ "m_fRotating", "class_c_base_button.html#aa5d7a59a7ba61d6e155f427e7325b5cd", null ],
+    [ "m_fStayPushed", "class_c_base_button.html#a7f10a8ecd6eced8b3f8635cca71fbf8b", null ],
+    [ "m_ls", "class_c_base_button.html#aa48a45c26da21a8fbf413f63e9dbc252", null ],
+    [ "m_SaveData", "class_c_base_button.html#ac7aee80fd4cd429946094adfa7980214", null ],
+    [ "m_sounds", "class_c_base_button.html#ad618d63b3625756bb8ba66c5e820b2e3", null ],
+    [ "m_strChangeTarget", "class_c_base_button.html#a865c28d8f2b6edcfc871dbb06dd9ff30", null ]
+];

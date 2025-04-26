@@ -1,0 +1,9 @@
+<map id="CController::RunAI" name="CController::RunAI">
+<area shape="rect" id="Node000001" title="Runs the AI for the controller monster." alt="" coords="5,56,134,83"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="187,5,321,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,53,187,34,188,39,122,58"/>
+<area shape="rect" id="Node000003" href="$class_c_sprite.html#a5a37a021b1046066b146454e608086c6" title="Creates a new sprite entity." alt="" coords="182,56,326,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,67,166,67,166,72,134,72"/>
+<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="200,107,308,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,81,188,99,187,105,120,86"/>
+</map>

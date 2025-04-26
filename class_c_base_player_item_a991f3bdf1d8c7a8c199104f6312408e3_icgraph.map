@@ -1,0 +1,31 @@
+<map id="CBasePlayerItem::FallInit" name="CBasePlayerItem::FallInit">
+<area shape="rect" id="Node000001" title="Initializes the fall behavior for a weapon." alt="" coords="210,335,378,361"/>
+<area shape="rect" id="Node000002" href="$class_c_glock.html#a589fd9c6a9107ee8f05cdc6696e2a1d5" title="Spawns the Glock weapon entity in the game." alt="" coords="28,5,139,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,320,273,262,250,189,233,150,213,112,189,77,160,46,138,33,141,28,163,42,193,74,217,109,238,148,255,187,278,261,291,319"/>
+<area shape="rect" id="Node000003" href="$class_c_crowbar.html#a6bd497a17fe93d12e8a6823c99ebbbb1" title="Spawns the crowbar weapon in the game." alt="" coords="21,56,146,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,320,268,272,243,212,207,150,185,122,160,97,142,86,145,81,163,93,189,118,212,147,248,209,273,270,288,319"/>
+<area shape="rect" id="Node000004" href="$class_c_python.html#a2f458380a2c07b16056d5f67c1cf280f" title="Spawns the Python weapon entity in the game." alt="" coords="24,107,143,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="279,321,262,283,236,236,202,188,160,147,141,136,143,132,163,143,206,185,240,233,266,280,284,319"/>
+<area shape="rect" id="Node000005" href="$class_c_m_p5.html#a801e8004d6d93fdb894129c0559cda66" title="Spawns the MP5 weapon in the game." alt="" coords="31,157,136,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="274,323,227,260,196,227,160,198,135,186,137,181,163,194,199,223,231,257,278,320"/>
+<area shape="rect" id="Node000006" href="$class_c_crossbow.html#abd17c583dc3cf97dddb0410cdb49fbdb" title="Spawns the crossbow weapon." alt="" coords="16,208,151,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="265,326,218,287,160,249,134,238,137,233,163,244,221,283,269,322"/>
+<area shape="rect" id="Node000007" href="$class_c_shotgun.html#a89ffe2791072456f7cfb21207253f6e9" title="Spawns the shotgun in the game." alt="" coords="21,259,146,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="243,331,161,300,128,288,129,283,163,295,245,326"/>
+<area shape="rect" id="Node000008" href="$class_c_rpg.html#aaef680e5c8bd47f54546248699d4258f" title="Initializes the RPG weapon." alt="" coords="33,309,134,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="194,339,134,331,134,326,194,333"/>
+<area shape="rect" id="Node000009" href="$class_c_gauss.html#aba890fe183b5a6a6204661afde8480f3" title="Spawns the Gauss weapon entity." alt="" coords="26,360,141,387"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="194,363,142,369,141,364,194,357"/>
+<area shape="rect" id="Node000010" href="$class_c_egon.html#ac6f840f6e538862668a6595d2d8fbc6c" title="Spawns the Egon weapon." alt="" coords="30,411,137,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="245,370,163,401,129,413,128,408,161,396,243,365"/>
+<area shape="rect" id="Node000011" href="$class_c_hgun.html#a4daaf95c0227730842a29b4264c46961" title="Spawns the hornet gun entity in the game." alt="" coords="30,461,137,488"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="269,374,221,413,163,452,137,463,134,458,160,447,218,409,265,370"/>
+<area shape="rect" id="Node000012" href="$class_c_hand_grenade.html#af24bc5457a6b8c57eeb6ca1f93b02cd8" title="Spawns the hand grenade entity in the game." alt="" coords="5,512,162,539"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="278,376,231,439,199,473,163,502,141,514,138,509,160,498,196,469,227,436,274,373"/>
+<area shape="rect" id="Node000013" href="$class_c_satchel.html#a59106b198a7c41da4262103905760c54" title="Spawns the satchel charge entity." alt="" coords="23,563,144,589"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="284,377,266,416,240,463,206,511,163,553,143,564,141,560,160,549,202,508,236,460,262,413,279,375"/>
+<area shape="rect" id="Node000014" href="$class_c_tripmine.html#ad06b0966a06951edfb377c01aeaefe2d" title="Spawns the tripmine weapon." alt="" coords="20,613,147,640"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="288,377,273,426,248,487,212,549,189,578,163,603,145,615,142,610,160,599,185,574,207,546,243,484,268,424,283,376"/>
+<area shape="rect" id="Node000015" href="$class_c_squeak.html#af7e2d49c5f8a316ab223b42d6162f78b" title="Spawns the squeak weapon." alt="" coords="23,664,144,691"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="291,377,278,435,255,509,238,548,217,587,193,622,163,654,146,666,143,661,160,650,189,619,213,584,233,546,250,507,273,434,286,376"/>
+</map>

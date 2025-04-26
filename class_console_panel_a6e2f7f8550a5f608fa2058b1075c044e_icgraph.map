@@ -1,0 +1,5 @@
+<map id="ConsolePanel::vprintf" name="ConsolePanel::vprintf">
+<area shape="rect" id="Node000001" title="Prints formatted text to the console using a va_list." alt="" coords="191,5,333,32"/>
+<area shape="rect" id="Node000002" href="$class_console_panel.html#af1bf7a4719ee540c05ae811534ebd9b9" title="Prints formatted text to the console." alt="" coords="5,5,143,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,21,143,21,143,16,175,16"/>
+</map>

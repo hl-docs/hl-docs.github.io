@@ -1,0 +1,37 @@
+<map id="CBaseEntity::GetNextTarget" name="CBaseEntity::GetNextTarget">
+<area shape="rect" id="Node000001" title="Retrieves the next target for the entity." alt="" coords="828,157,1014,184"/>
+<area shape="rect" id="Node000002" href="$class_c_gun_target.html#a38e9b5c18bc707048b3e69ce47ef502b" title="Activates the gun target and sets its position." alt="" coords="631,5,776,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="896,147,845,97,813,70,778,46,754,35,756,30,781,42,816,65,849,93,900,144"/>
+<area shape="rect" id="Node000003" href="$class_c_trigger_camera.html#ae65572e4e66660944b1c6bb08d7537e2" title="Moves the camera along the specified path." alt="" coords="627,56,780,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="878,152,779,104,737,86,740,81,781,99,881,148"/>
+<area shape="rect" id="Node000005" href="$class_c_trigger_camera.html#a1e79aa0cb1ea8697bb3d48299a216ce2" title="Activates the camera trigger." alt="" coords="191,56,336,83"/>
+<area shape="poly" id="edge20_Node000001_Node000005" title=" " alt="" coords="814,157,336,83,337,78,814,152"/>
+<area shape="rect" id="Node000006" href="$class_c_func_train.html#a211bdc141766100801e90fa74409fd6f" title="Moves the train to the next target." alt="" coords="642,220,765,247"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="858,191,753,222,752,217,857,186"/>
+<area shape="rect" id="Node000008" href="$class_c_func_train.html#af808699034e8b9637e42694dd2e46a3e" title="Resets the train&#39;s state and prepares it for movement." alt="" coords="394,157,570,184"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="812,173,570,173,570,168,812,168"/>
+<area shape="rect" id="Node000011" href="$class_c_gun_target.html#adc7769185a2d6280e0e0588f26ddfac5" title="Moves the gun target to the next position." alt="" coords="641,385,766,412"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="906,199,855,273,820,316,781,355,735,387,732,383,778,351,816,312,851,270,901,196"/>
+<area shape="rect" id="Node000012" href="$class_c_gun_target.html#a982c0a528722b78e1524ed335996e5bc" title="Activates the gun target based on user input." alt="" coords="421,360,542,387"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="889,195,781,261,683,311,580,351,543,362,541,357,578,345,681,306,778,256,886,191"/>
+<area shape="rect" id="Node000004" href="$class_c_trigger_camera.html#aa8a467fa056991dd8a4225f7784d6819" title="Follows the target entity." alt="" coords="384,5,579,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="626,55,543,35,544,30,628,49"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="612,72,336,72,336,67,612,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,39,325,58,323,53,405,34"/>
+<area shape="rect" id="Node000007" href="$class_c_func_train.html#ac2d6b9b55ee55e832290266a914f6927" title="Activates the train and teleports it to the first target." alt="" coords="411,208,552,235"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="626,232,553,228,553,223,627,227"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="643,218,579,199,537,187,538,182,580,193,644,213"/>
+<area shape="rect" id="Node000009" href="$class_c_func_train.html#a3e000ea0a1493c70b6110f16fea6ce10" title="Activates the train based on the use type." alt="" coords="423,259,541,285"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="627,249,542,264,541,259,626,244"/>
+<area shape="rect" id="Node000010" href="$class_c_func_train.html#a8268a02b756dd238bec28447462639b0" title="Waits for a specified duration before moving to the next target." alt="" coords="421,309,543,336"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="680,259,635,286,580,312,544,323,542,318,578,307,632,282,678,254"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="519,302,578,283,660,245,662,249,580,288,521,307"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="625,392,542,383,543,378,626,387"/>
+<area shape="rect" id="Node000015" href="$class_c_gun_target.html#aeaed0a73b61760346108561c2d9e6868" title="Waits for a specified duration before proceeding." alt="" coords="419,411,544,437"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="635,418,545,428,545,422,634,412"/>
+<area shape="rect" id="Node000013" href="$class_c_gun_target.html#adcc4d0b590238328cb786d674f41c03d" title="Starts the gun target&#39;s operation." alt="" coords="200,360,327,387"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="406,376,327,376,327,371,406,371"/>
+<area shape="rect" id="Node000014" href="$class_c_gun_target.html#aec59ac077de4324c0e6ac4a67cc8afc7" title="Spawns the gun target entity and initializes its properties." alt="" coords="5,360,143,387"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="185,376,143,376,143,371,185,371"/>
+<area shape="poly" id="edge17_Node000015_Node000011" title=" " alt="" coords="551,405,640,395,641,400,551,410"/>
+</map>

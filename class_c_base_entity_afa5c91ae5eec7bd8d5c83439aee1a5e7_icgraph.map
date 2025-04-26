@@ -1,0 +1,18 @@
+<map id="CBaseEntity::DamageDecal" name="CBaseEntity::DamageDecal">
+<area shape="rect" id="Node000001" title="Gets the damage decal for the entity." alt="" coords="1142,31,1326,57"/>
+<area shape="rect" id="Node000002" href="$weapons_8cpp.html#a902fe745ed0c9e3870eb063a18bfa076" title="Determines the appropriate damage decal for an entity." alt="" coords="955,5,1057,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1127,35,1057,27,1058,22,1127,30"/>
+<area shape="rect" id="Node000008" href="$class_c_breakable.html#a86864d4a126f8436212c4adc6bfb33aa" title="Retrieves the damage decal for a specific damage type." alt="" coords="917,56,1094,83"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1127,59,1095,62,1095,57,1127,53"/>
+<area shape="rect" id="Node000003" href="$weapons_8cpp.html#adb51dcd1401bd3c8f182c50044c8c715" title="Applies a gunshot decal to a surface." alt="" coords="766,5,869,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="939,21,870,21,870,16,939,16"/>
+<area shape="rect" id="Node000004" href="$class_c_crowbar.html#a1f5f173fa4655c01ef1fcd1e174a99a0" title="Plays the hit sound when the crowbar makes contact." alt="" coords="591,5,718,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="750,21,718,21,718,16,750,16"/>
+<area shape="rect" id="Node000005" href="$class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="423,5,543,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="576,21,544,21,544,16,576,16"/>
+<area shape="rect" id="Node000006" href="$class_c_crowbar.html#a75fe911c0db1c8068051588cbfa2c6e9" title="Handles the primary attack action of the crowbar." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="407,21,174,21,174,16,407,16"/>
+<area shape="rect" id="Node000007" href="$class_c_crowbar.html#ae3b7f4f2780a8f6c7ed0709d2bc0deb9" title="Handles the second swing of the crowbar." alt="" coords="222,31,375,57"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="408,32,375,36,375,31,407,26"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="206,36,174,32,174,26,207,30"/>
+</map>

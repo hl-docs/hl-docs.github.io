@@ -1,0 +1,5 @@
+<map id="CBloodSplat::Spray" name="CBloodSplat::Spray">
+<area shape="rect" id="Node000001" title="Handles the spraying of blood from the blood splat." alt="" coords="194,5,329,32"/>
+<area shape="rect" id="Node000002" href="$class_c_blood_splat.html#a9db84e41dcad88056aeab7f06c3e87bd" title="Initializes the blood splat entity." alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,21,146,21,146,16,178,16"/>
+</map>

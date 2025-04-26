@@ -1,0 +1,30 @@
+<map id="MatrixCopy" name="MatrixCopy">
+<area shape="rect" id="Node000001" title="Copies a 3x4 matrix." alt="" coords="1108,141,1195,168"/>
+<area shape="rect" id="Node000002" href="$class_c_studio_model_renderer.html#a8c62517ae5284df3d4a81e4dca87ad7a" title="Merges bone transformations from a sub&#45;model into the current model." alt="" coords="906,133,1060,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1092,157,1060,157,1060,152,1092,152"/>
+<area shape="rect" id="Node000009" href="$class_c_studio_model_renderer.html#a7751b40e93d620b7e3fc7fca9a17854d" title="Saves the bone transformations for the studio model." alt="" coords="906,66,1060,109"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1101,137,1038,112,1040,107,1103,132"/>
+<area shape="rect" id="Node000010" href="$class_c_studio_model_renderer.html#afdbf19623a68fbc4c6c9e63e9f590caf" title="Prepares the bone transformations (rotation and position) for rendering the model." alt="" coords="906,221,1060,264"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="1112,178,1027,223,1024,218,1109,173"/>
+<area shape="rect" id="Node000003" href="$class_c_game_studio_model_renderer.html#a8cdb66bddf12c8764c44e739a6e26ee5" title="Handles the actual drawing of the player model." alt="" coords="431,16,620,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="905,130,857,116,734,84,620,59,622,53,735,79,858,110,906,125"/>
+<area shape="rect" id="Node000006" href="$class_c_studio_model_renderer.html#afe23a9a2eb5efe2286e7f9add748bc6d" title="Draws the studio model with transformations and effects." alt="" coords="449,154,603,197"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="891,178,858,182,723,188,603,184,603,179,723,183,857,177,890,173"/>
+<area shape="rect" id="Node000008" href="$class_c_studio_model_renderer.html#ac436db615780b919854e618961ad8d28" title="Renders a player model in the studio." alt="" coords="686,125,840,168"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="890,154,841,152,841,147,891,148"/>
+<area shape="rect" id="Node000004" href="$class_c_game_studio_model_renderer.html#a63196fe886f28fdfdedf4e0b24c8211c" title="Draws the player model on the screen." alt="" coords="194,16,383,58"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,40,384,40,384,34,415,34"/>
+<area shape="rect" id="Node000005" href="$_game_studio_model_renderer_8cpp.html#ab59c170be1e5f319fdf78e61e00188c1" title="Draws a player model using the studio renderer." alt="" coords="5,24,146,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,40,146,40,146,34,179,34"/>
+<area shape="rect" id="Node000007" href="$_game_studio_model_renderer_8cpp.html#a09d976038ea076a8f622859017b29b86" title="Draws a generic studio model." alt="" coords="219,162,358,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="433,178,358,178,358,173,433,173"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="671,160,604,169,603,164,670,155"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="939,60,900,38,857,21,797,11,735,8,675,12,621,19,620,14,675,7,735,3,797,5,858,16,902,33,941,55"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="890,90,783,96,725,104,669,116,615,134,568,156,565,151,613,129,668,110,724,99,783,91,890,84"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="892,115,841,128,840,123,890,110"/>
+<area shape="poly" id="edge14_Node000010_Node000006" title=" " alt="" coords="931,273,896,288,858,300,805,311,762,317,719,314,667,300,628,279,593,253,542,199,546,196,597,249,631,275,669,295,720,309,762,312,804,306,857,294,894,283,929,268"/>
+<area shape="poly" id="edge15_Node000010_Node000008" title=" " alt="" coords="917,217,813,171,815,166,919,212"/>
+<area shape="rect" id="Node000011" href="$class_c_game_studio_model_renderer.html#a6ab9526f25aed11c834b1286372e3804" title="Sets up the bones for rendering the current studio model." alt="" coords="668,242,858,285"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="891,254,858,257,858,252,890,249"/>
+<area shape="poly" id="edge17_Node000011_Node000003" title=" " alt="" coords="724,234,666,182,546,61,550,57,670,178,727,230"/>
+</map>

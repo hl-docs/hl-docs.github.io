@@ -1,0 +1,5 @@
+<map id="CSprite::Animate" name="CSprite::Animate">
+<area shape="rect" id="Node000001" title="Animates the sprite." alt="" coords="5,5,126,32"/>
+<area shape="rect" id="Node000002" href="$class_c_sprite.html#a1ceacbcb997d27b2d1cdc7f65cf98a8b" title="Turns off the sprite effect." alt="" coords="174,5,287,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,16,158,16,158,21,126,21"/>
+</map>

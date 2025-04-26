@@ -1,0 +1,13 @@
+<map id="CNihilanthHVR::TeleportThink" name="CNihilanthHVR::TeleportThink">
+<area shape="rect" id="Node000001" title="Handles the teleport think behavior for the Nihilanth Hover entity." alt="" coords="5,56,198,83"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="246,5,380,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,53,239,34,240,39,161,58"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a8a4601b94eb359b1b48670b4c5bc4e15" title=" " alt="" coords="258,56,368,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,67,243,67,243,72,198,72"/>
+<area shape="rect" id="Node000006" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="263,107,363,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="161,81,248,102,247,107,160,86"/>
+<area shape="rect" id="Node000004" href="$sound_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title="Emits a dynamic sound for an entity." alt="" coords="428,56,566,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="368,67,413,67,413,72,368,72"/>
+<area shape="rect" id="Node000005" href="$sound_8cpp.html#a2a1c9925f864923cf6fbecdcdbbd7e44" title="Converts a sentence name to a sentence number." alt="" coords="614,56,765,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="567,67,599,67,599,72,567,72"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CHGrunt::FOkToSpeak" name="CHGrunt::FOkToSpeak">
+<area shape="rect" id="Node000001" title="Checks if the grunt is allowed to speak." alt="" coords="408,31,563,57"/>
+<area shape="rect" id="Node000002" href="$class_c_h_grunt.html#a98161db2d3c804ab103577b597b2f974" title="Plays idle sounds for the grunt." alt="" coords="206,5,343,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,36,343,29,343,24,393,30"/>
+<area shape="rect" id="Node000003" href="$class_c_h_grunt.html#ac28b31bbd5144fa79560d4a61a3b6e71" title="Speaks a cued sentence for the grunt." alt="" coords="189,56,360,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="393,58,361,62,360,56,393,52"/>
+<area shape="rect" id="Node000004" href="$class_c_h_grunt.html#a489abde51cc63bb8147fa6a0e62284e6" title="Starts a task for the grunt." alt="" coords="5,56,141,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,72,141,72,141,67,173,67"/>
+</map>

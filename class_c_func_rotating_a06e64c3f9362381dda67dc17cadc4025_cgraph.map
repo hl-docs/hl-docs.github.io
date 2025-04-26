@@ -1,0 +1,13 @@
+<map id="CFuncRotating::SpinDown" name="CFuncRotating::SpinDown">
+<area shape="rect" id="Node000001" title="Decelerates the rotating entity to a standstill." alt="" coords="5,56,179,83"/>
+<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="473,5,611,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,53,169,32,226,16,286,8,347,5,458,8,457,13,347,10,287,13,227,21,170,37,122,58"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="519,56,565,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,67,504,67,504,72,179,72"/>
+<area shape="rect" id="Node000004" href="$class_c_func_rotating.html#a17f9dec77173e35c8af550692695d15b" title="Ramps the pitch and volume of the rotating entity&#39;s sound." alt="" coords="227,31,425,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,57,211,54,211,59,179,63"/>
+<area shape="rect" id="Node000005" href="$class_c_func_rotating.html#ae40420a2851d0a0dbe7424f736d7224b" title="Rotates the func_rotating entity." alt="" coords="249,132,403,159"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="136,81,227,111,268,124,266,129,226,116,135,86"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="425,30,457,26,458,31,426,35"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="426,53,504,62,503,68,425,58"/>
+</map>

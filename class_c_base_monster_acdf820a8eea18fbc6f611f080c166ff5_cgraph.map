@@ -1,0 +1,9 @@
+<map id="CBaseMonster::CineCleanup" name="CBaseMonster::CineCleanup">
+<area shape="rect" id="Node000001" title="Cleans up the cinematic sequence for the monster." alt="" coords="5,56,194,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="273,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,53,257,26,258,31,155,58"/>
+<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="242,56,350,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,67,226,67,226,72,194,72"/>
+<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="246,107,346,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,81,231,101,230,106,154,86"/>
+</map>

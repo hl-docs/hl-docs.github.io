@@ -1,0 +1,58 @@
+<map id="CBaseEntity::SUB_UseTargets" name="CBaseEntity::SUB_UseTargets">
+<area shape="rect" id="Node000001" title="Executes the targets associated with the entity." alt="" coords="860,512,1062,539"/>
+<area shape="rect" id="Node000002" href="$class_c_func_tank.html#ac221b3b78619f24277ef52412ddf9210" title="Fire the tank&#39;s weapon." alt="" coords="669,132,786,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="941,500,735,160,739,158,946,497"/>
+<area shape="rect" id="Node000008" href="$class_c_item.html#a92d5989b83410dd24bd2ab138814fe0d" title="Handles the touch event for the item." alt="" coords="666,309,789,336"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="942,500,889,425,853,385,810,350,788,339,790,334,813,346,856,381,894,422,946,497"/>
+<area shape="rect" id="Node000019" href="$class_c_button_target.html#abb0a4991bdb4d81f8db4f422586f0887" title="Uses the button target entity." alt="" coords="660,360,795,387"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="935,502,881,451,847,424,810,401,784,390,786,385,813,396,850,420,884,447,939,498"/>
+<area shape="rect" id="Node000021" href="$class_c_multi_source.html#a9b6110ea6323e3411bee6a26cdd0d50e" title="Uses the multi&#45;source entity." alt="" coords="662,411,793,437"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="921,506,870,479,811,452,779,441,781,435,813,447,872,474,924,502"/>
+<area shape="rect" id="Node000022" href="$class_c_fade.html#af2b633031bf922e8b1f91a69eac33f01" title="Uses the fade effect." alt="" coords="682,461,773,488"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="881,511,773,487,774,482,882,506"/>
+<area shape="rect" id="Node000023" href="$class_c_message.html#a474acfbc942a011f5d4cb427ed35d72d" title="Uses the message effect." alt="" coords="670,512,785,539"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="844,528,785,528,785,523,844,523"/>
+<area shape="rect" id="Node000024" href="$class_c_game_team_master.html#a85aba10b728ccebb2edf9103e18162c3" title="Activates the game team master entity." alt="" coords="643,563,812,589"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="882,545,793,565,792,559,881,540"/>
+<area shape="rect" id="Node000025" href="$class_c_game_team_set.html#a30b51b42f8dc2778a00924b67ec48d85" title="Activates the game team set entity." alt="" coords="653,613,802,640"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="924,549,872,577,813,604,781,615,779,610,811,599,870,572,921,544"/>
+<area shape="rect" id="Node000026" href="$class_c_game_player_hurt.html#aada0bd6c34d5a7607bdf719efab662d1" title="Activates the game player hurt entity." alt="" coords="649,664,806,691"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="939,552,884,604,850,631,813,654,786,666,784,661,810,650,847,626,881,599,935,548"/>
+<area shape="rect" id="Node000027" href="$class_c_game_counter.html#a8f1923e52decd992afccf77085f4839c" title="Activates the game counter entity." alt="" coords="657,715,798,741"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="946,554,894,629,856,670,813,705,790,717,788,712,810,700,853,666,889,625,942,551"/>
+<area shape="rect" id="Node000028" href="$class_c_game_counter_set.html#a457698e9fe9b584da1dfb7cabc926a48" title="Activates the game counter set entity." alt="" coords="647,765,808,792"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="951,554,932,598,902,653,862,708,839,733,813,756,793,767,790,763,810,751,835,729,858,705,897,650,927,596,947,552"/>
+<area shape="rect" id="Node000003" href="$class_c_func_tank_gun.html#ab0bcc8917ab233e04ac5e627567e1b60" title="Fire the tank&#39;s gun." alt="" coords="431,5,572,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="700,123,653,84,594,46,566,35,568,30,597,42,656,79,703,119"/>
+<area shape="rect" id="Node000004" href="$class_c_func_tank_laser.html#a575ba44be3e55e01d4b53fb6669bf131" title="Fires the tank laser at the target." alt="" coords="427,56,576,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="678,128,594,97,557,86,558,81,596,92,680,123"/>
+<area shape="rect" id="Node000005" href="$class_c_func_tank_rocket.html#a7ee02fc1025b230754266887ee2e8eee" title="Fires the RPG rocket entity." alt="" coords="422,107,580,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="653,140,581,132,581,126,654,134"/>
+<area shape="rect" id="Node000006" href="$class_c_func_tank_mortar.html#a9f01f781cbd963cbab65deedb79ce3cd" title="Fires the mortar&#39;s cannon." alt="" coords="424,157,578,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="654,156,579,165,579,159,653,151"/>
+<area shape="rect" id="Node000007" href="$class_c_func_tank.html#a40ca7f35fc5b4fdbce00945b716c245b" title="Tracks and aims the tank at a target." alt="" coords="420,208,583,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="680,167,596,199,558,210,557,205,594,193,678,162"/>
+<area shape="rect" id="Node000009" href="$class_c_item.html#a0b328e25414e14ee1a88fc0cbbd30f21" title="Makes the item visible and ready for interaction." alt="" coords="438,259,564,285"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="650,308,564,289,565,283,651,303"/>
+<area shape="rect" id="Node000012" href="$class_c_item.html#a359997ac350228e7c69926d15f464901" title="Spawns the item in the game." alt="" coords="450,372,552,399"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="663,343,553,374,552,369,661,338"/>
+<area shape="rect" id="Node000010" href="$class_c_item.html#a906d02e0d0060f972f546d01e791a019" title="Respawns the item at a designated location." alt="" coords="220,245,337,272"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="422,270,337,265,337,259,423,265"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="339,275,408,295,476,305,546,312,666,319,666,324,545,318,476,311,406,300,338,280"/>
+<area shape="rect" id="Node000011" href="$class_c_health_kit.html#acb9f2abcf36806a3ebaf96bd1b8d1742" title="Handles the interaction when a player touches the health kit." alt="" coords="5,245,150,272"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="204,261,150,261,150,256,204,256"/>
+<area shape="rect" id="Node000013" href="$class_c_health_kit.html#ae861e3da9a5b1364b519309e5df257fa" title="Spawns the health kit entity in the game." alt="" coords="213,296,344,323"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="447,369,358,337,323,326,325,321,360,332,449,364"/>
+<area shape="rect" id="Node000014" href="$class_c_item_suit.html#abf06311e225e5dcb8bb406788d56359a" title="Spawns the suit item in the game." alt="" coords="216,347,341,373"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="435,381,341,370,342,364,435,375"/>
+<area shape="rect" id="Node000015" href="$class_c_item_battery.html#a03d90de6fd4be09f0aaf30514e7a5c9e" title="Spawns the battery item in the game." alt="" coords="206,397,351,424"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="435,395,351,405,351,400,435,390"/>
+<area shape="rect" id="Node000016" href="$class_c_item_antidote.html#a9bd1052a5fd1051235e6c808133b5d09" title="Spawns the antidote item in the game." alt="" coords="203,448,354,475"/>
+<area shape="poly" id="edge16_Node000012_Node000016" title=" " alt="" coords="436,404,408,413,360,438,329,450,327,445,358,434,406,408,434,399"/>
+<area shape="rect" id="Node000017" href="$class_c_item_security.html#aeec5d00364b4a4fee15640378acc526b" title="Spawns the security item in the game." alt="" coords="203,499,354,525"/>
+<area shape="poly" id="edge17_Node000012_Node000017" title=" " alt="" coords="436,399,409,413,393,431,385,449,378,469,361,489,341,500,338,496,357,485,373,466,380,447,388,428,405,409,434,394"/>
+<area shape="rect" id="Node000018" href="$class_c_item_long_jump.html#a8760d3081b607076c61a1dce4302367d" title="Spawns the long jump item in the game." alt="" coords="198,549,359,576"/>
+<area shape="poly" id="edge18_Node000012_Node000018" title=" " alt="" coords="436,397,409,413,396,427,389,442,385,474,381,506,374,523,361,539,344,551,341,547,357,535,369,520,376,505,380,473,384,441,392,425,405,409,434,392"/>
+<area shape="rect" id="Node000020" href="$class_c_button_target.html#a6ac5f92fb0d25a80aab1c352365ce337" title="Handles damage taken by the button target entity." alt="" coords="407,423,595,449"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="664,394,596,413,555,425,553,419,595,408,663,389"/>
+</map>

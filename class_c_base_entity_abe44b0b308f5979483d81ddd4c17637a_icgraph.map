@@ -1,0 +1,116 @@
+<map id="CBaseEntity::FVisible" name="CBaseEntity::FVisible">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1795,576,1944,603"/>
+<area shape="rect" id="Node000002" href="$class_c_talk_monster.html#a2b595cc5a75a165134fc688e5b267353" title="Attempts to greet the player for the first time they are seen." alt="" coords="1324,5,1490,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1861,561,1848,501,1825,420,1791,332,1769,289,1745,248,1693,178,1645,128,1589,88,1513,46,1484,35,1486,30,1515,42,1592,84,1649,124,1697,174,1749,245,1774,286,1796,330,1830,419,1853,500,1866,560"/>
+<area shape="rect" id="Node000009" href="$class_c_talk_monster.html#a5820f22d91be7aa3aca22deaf1d31b23" title="Determines if the talk monster is allowed to speak." alt="" coords="1562,259,1747,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1849,565,1663,287,1667,284,1853,562"/>
+<area shape="rect" id="Node000021" href="$class_c_bullsquid.html#af10f35cb1f44373b59e1efb77ac0d31c" title="Determines the appropriate schedule for the bullsquid." alt="" coords="1571,551,1738,577"/>
+<area shape="poly" id="edge30_Node000001_Node000021" title=" " alt="" coords="1779,581,1738,576,1738,571,1780,576"/>
+<area shape="rect" id="Node000022" href="$class_c_squeak_grenade.html#a1c95a185a0ce662810f8ad450bf105e8" title="Handles the thinking behavior of the squeak grenade." alt="" coords="1312,601,1502,628"/>
+<area shape="poly" id="edge31_Node000001_Node000022" title=" " alt="" coords="1780,597,1502,612,1502,607,1779,592"/>
+<area shape="rect" id="Node000024" href="$class_c_base_monster.html#aeee91047385ca6a6e0c455d01440b485" title="Searches for visible enemies or food within a specified distance." alt="" coords="1583,765,1726,792"/>
+<area shape="poly" id="edge33_Node000001_Node000024" title=" " alt="" coords="1843,615,1673,767,1670,763,1839,611"/>
+<area shape="rect" id="Node000045" href="$class_c_hornet.html#a275f461503bb47ba390a0b93b9834cb2" title="Tracks the target for the hornet." alt="" coords="1335,917,1479,944"/>
+<area shape="poly" id="edge67_Node000001_Node000045" title=" " alt="" coords="1862,618,1846,659,1821,709,1789,760,1749,806,1718,830,1685,851,1614,885,1543,908,1480,922,1479,917,1541,903,1612,880,1682,847,1715,826,1745,802,1785,757,1817,706,1841,657,1857,616"/>
+<area shape="rect" id="Node000003" href="$class_c_talk_monster.html#a73cd9db7d1bd90bad36b49a739c07709" title="Runs a task for the talk monster." alt="" coords="1070,56,1230,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1321,38,1222,58,1221,53,1320,33"/>
+<area shape="rect" id="Node000006" href="$class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="1067,157,1232,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1311,40,1302,46,1291,58,1284,70,1279,95,1273,122,1266,135,1254,147,1234,160,1231,155,1251,143,1262,132,1268,120,1274,94,1279,68,1287,55,1299,42,1308,35"/>
+<area shape="rect" id="Node000004" href="$class_c_barney.html#ac4774636a01edd847b7b0da86c6b8b88" title="Runs a task for the Barney entity." alt="" coords="847,56,978,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1054,72,978,72,978,67,1054,67"/>
+<area shape="rect" id="Node000005" href="$class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="842,107,983,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1070,89,979,109,978,103,1068,84"/>
+<area shape="rect" id="Node000007" href="$class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="845,208,980,235"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1070,190,979,210,978,205,1068,185"/>
+<area shape="rect" id="Node000008" href="$class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="840,157,985,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1052,173,986,173,986,168,1052,168"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="1631,247,1559,140,1547,112,1540,88,1531,67,1512,46,1489,33,1492,28,1515,42,1536,64,1545,86,1552,110,1564,137,1636,244"/>
+<area shape="poly" id="edge26_Node000009_Node000008" title=" " alt="" coords="1567,258,1513,249,1382,233,1280,224,1178,215,1047,199,981,187,982,182,1047,193,1178,210,1281,219,1383,228,1514,244,1568,253"/>
+<area shape="rect" id="Node000010" href="$class_c_barney.html#a53be54510d569974b88611524a9aed5d" title="Plays the alert sound for the Barney entity." alt="" coords="1335,259,1479,285"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1546,275,1479,275,1479,269,1546,269"/>
+<area shape="rect" id="Node000011" href="$class_c_talk_monster.html#abc1c9c38f909137e049c06d8662c8f7f" title="Checks if the talk monster can play a sentence." alt="" coords="1300,309,1514,336"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="1571,292,1476,311,1475,306,1570,286"/>
+<area shape="rect" id="Node000012" href="$class_c_talk_monster.html#a4c3d998262953f633db307b6c196a903" title="Attempts to start a conversation or make a statement." alt="" coords="1320,56,1494,83"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="1636,246,1587,175,1552,136,1512,104,1474,86,1477,81,1515,99,1556,133,1591,172,1640,243"/>
+<area shape="rect" id="Node000013" href="$class_c_talk_monster.html#ab655f22c2212418de53f37a2e6367ec9" title="Lets the player know the talk monster knows he&#39;s staring at them." alt="" coords="1323,157,1491,184"/>
+<area shape="poly" id="edge15_Node000009_Node000013" title=" " alt="" coords="1614,253,1513,205,1460,187,1461,182,1515,200,1616,249"/>
+<area shape="rect" id="Node000014" href="$class_c_barney.html#a3341e9848d3c6ddacd909c07db355320" title="Determines the appropriate schedule for the Barney entity." alt="" coords="835,411,990,437"/>
+<area shape="poly" id="edge17_Node000009_Node000014" title=" " alt="" coords="1622,297,1573,326,1515,351,1446,369,1386,381,1283,388,1179,389,1118,393,1047,401,982,413,981,407,1047,396,1118,388,1179,384,1283,383,1385,375,1444,364,1513,345,1570,321,1619,292"/>
+<area shape="rect" id="Node000015" href="$class_c_talk_monster.html#ae515b8494d6b2f42f65fff34e7d6decb" title="Retrieves a schedule of a specific type for the talk monster." alt="" coords="1315,411,1499,453"/>
+<area shape="poly" id="edge18_Node000009_Node000015" title=" " alt="" coords="1632,299,1581,346,1515,394,1477,413,1475,408,1512,390,1577,342,1628,295"/>
+<area shape="rect" id="Node000019" href="$class_c_scientist.html#a5b7c1d139be3ab3df59b7fa15e16a34e" title="Makes the scientist scream." alt="" coords="1083,107,1217,133"/>
+<area shape="poly" id="edge23_Node000009_Node000019" title=" " alt="" coords="1632,248,1582,194,1549,168,1513,148,1475,134,1437,124,1357,113,1282,111,1217,115,1217,109,1282,106,1358,108,1438,119,1477,129,1515,143,1552,164,1586,191,1636,244"/>
+<area shape="rect" id="Node000020" href="$class_c_talk_monster.html#a9a37fafae9d69460413e6441fc36a9c3" title="Attempts to make the talk monster comment on a smell." alt="" coords="1058,461,1242,488"/>
+<area shape="poly" id="edge27_Node000009_Node000020" title=" " alt="" coords="1645,300,1627,340,1599,387,1562,432,1540,452,1515,468,1477,484,1437,495,1396,501,1355,504,1277,501,1211,491,1212,486,1277,495,1355,499,1396,496,1436,490,1475,479,1512,463,1536,448,1558,429,1595,384,1622,338,1640,298"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="1304,72,1230,72,1230,67,1304,67"/>
+<area shape="poly" id="edge14_Node000012_Node000006" title=" " alt="" coords="1370,93,1316,121,1253,148,1216,159,1215,154,1251,143,1313,116,1367,88"/>
+<area shape="poly" id="edge16_Node000013_Node000006" title=" " alt="" coords="1307,173,1233,173,1233,168,1307,168"/>
+<area shape="rect" id="Node000016" href="$class_c_barney.html#ad83e9b695592b5d2a4ae6bc2cd0b4de3" title="Retrieves the schedule of type for the Barney entity." alt="" coords="1052,411,1247,437"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1299,431,1248,430,1248,424,1300,426"/>
+<area shape="rect" id="Node000017" href="$class_c_scientist.html#a5d4b1925bdf5e414ea2f371fc8a3d0a1" title="Retrieves a specific schedule type for the scientist." alt="" coords="1047,512,1252,539"/>
+<area shape="poly" id="edge21_Node000015_Node000017" title=" " alt="" coords="1349,463,1253,503,1214,514,1213,509,1251,497,1347,458"/>
+<area shape="poly" id="edge20_Node000016_Node000014" title=" " alt="" coords="1036,427,990,427,990,421,1036,421"/>
+<area shape="rect" id="Node000018" href="$class_c_scientist.html#a1c9ea382473cb4b18941f5c503917798" title="Determines the appropriate schedule for the scientist." alt="" coords="830,487,995,513"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="1031,515,995,511,995,506,1032,510"/>
+<area shape="poly" id="edge24_Node000019_Node000005" title=" " alt="" coords="1067,123,983,123,983,117,1067,117"/>
+<area shape="poly" id="edge25_Node000019_Node000008" title=" " alt="" coords="1070,140,979,159,978,154,1068,135"/>
+<area shape="poly" id="edge28_Node000020_Node000014" title=" " alt="" coords="1068,460,978,441,979,435,1070,455"/>
+<area shape="poly" id="edge29_Node000020_Node000018" title=" " alt="" coords="1042,489,995,494,995,489,1042,484"/>
+<area shape="rect" id="Node000023" href="$class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="1065,563,1235,589"/>
+<area shape="poly" id="edge32_Node000022_Node000023" title=" " alt="" coords="1299,601,1235,591,1236,586,1300,596"/>
+<area shape="poly" id="edge57_Node000024_Node000022" title=" " alt="" coords="1621,758,1512,680,1432,631,1434,626,1515,675,1624,753"/>
+<area shape="rect" id="Node000025" href="$class_c_base_turret.html#ac5d610d943c3839668ba12cf4529be10" title="Handles the auto&#45;search behavior of the turret." alt="" coords="1307,689,1507,716"/>
+<area shape="poly" id="edge34_Node000024_Node000025" title=" " alt="" coords="1593,763,1453,719,1454,714,1594,758"/>
+<area shape="rect" id="Node000031" href="$class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="826,771,999,797"/>
+<area shape="poly" id="edge60_Node000024_Node000031" title=" " alt="" coords="1567,782,1000,786,1000,781,1567,777"/>
+<area shape="rect" id="Node000040" href="$class_c_base_monster.html#acc5ba3ad67a53c37779693145984fb5d" title="Runs the AI logic for the monster." alt="" coords="1332,816,1482,843"/>
+<area shape="poly" id="edge58_Node000024_Node000040" title=" " alt="" coords="1571,798,1476,818,1475,813,1570,793"/>
+<area shape="rect" id="Node000042" href="$class_c_leech.html#a990a0f4bc1bd4f677981b5434cf48264" title="Switches the leech&#39;s state based on conditions." alt="" coords="1318,867,1496,893"/>
+<area shape="poly" id="edge61_Node000024_Node000042" title=" " alt="" coords="1620,803,1571,831,1515,857,1478,869,1477,864,1513,852,1569,826,1618,798"/>
+<area shape="poly" id="edge64_Node000024_Node000045" title=" " alt="" coords="1629,804,1564,863,1541,888,1515,908,1481,921,1479,916,1512,903,1537,884,1560,859,1625,800"/>
+<area shape="rect" id="Node000026" href="$class_c_base_turret.html#a0c00f8f68597ffc6be41e1e7e880497b" title="Initializes the turret&#39;s state." alt="" coords="188,613,337,640"/>
+<area shape="poly" id="edge35_Node000025_Node000026" title=" " alt="" coords="1357,686,1306,669,1252,655,1158,638,1084,631,914,629,688,629,337,629,337,624,688,624,914,624,1084,626,1159,633,1253,649,1308,664,1358,681"/>
+<area shape="rect" id="Node000030" href="$class_c_base_turret.html#a732fe94be3c994ac82fbed600ebdfcc4" title="Retires the turret." alt="" coords="1082,664,1217,691"/>
+<area shape="poly" id="edge39_Node000025_Node000030" title=" " alt="" coords="1291,694,1217,687,1218,681,1292,689"/>
+<area shape="rect" id="Node000027" href="$class_c_mini_turret.html#a1e952284488c7dceb845b8c843f3ffe7" title="Spawns the mini turret entity." alt="" coords="5,613,140,640"/>
+<area shape="poly" id="edge36_Node000026_Node000027" title=" " alt="" coords="172,629,140,629,140,624,172,624"/>
+<area shape="rect" id="Node000028" href="$class_c_sentry.html#aec10a8f84bda6bb7f70e9f2554ef352c" title="Spawns the sentry entity." alt="" coords="15,715,130,741"/>
+<area shape="poly" id="edge37_Node000026_Node000028" title=" " alt="" coords="198,649,189,654,175,666,166,679,156,692,141,705,119,716,117,712,138,700,152,688,161,676,171,663,186,650,195,645"/>
+<area shape="rect" id="Node000029" href="$class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="17,664,128,691"/>
+<area shape="poly" id="edge38_Node000026_Node000029" title=" " alt="" coords="195,647,126,666,125,661,194,642"/>
+<area shape="poly" id="edge40_Node000030_Node000031" title=" " alt="" coords="1105,700,945,772,943,768,1103,695"/>
+<area shape="rect" id="Node000037" href="$class_c_base_turret.html#aab170b6bc93d774ec41e38e252234287" title="Handles the use behavior for the turret." alt="" coords="390,664,547,691"/>
+<area shape="poly" id="edge56_Node000030_Node000037" title=" " alt="" coords="1066,680,548,680,548,675,1066,675"/>
+<area shape="rect" id="Node000032" href="$class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="385,777,552,804"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="810,796,553,799,553,794,810,791"/>
+<area shape="rect" id="Node000034" href="$class_c_base_turret.html#aca75241a920a6e589920143208c8562c" title="Deploys the turret." alt="" coords="618,715,760,741"/>
+<area shape="poly" id="edge44_Node000031_Node000034" title=" " alt="" coords="840,769,744,744,746,739,842,764"/>
+<area shape="rect" id="Node000039" href="$class_c_base_turret.html#a0bf51cb491da64e2246751fd0460255c" title="Handles the damage behavior of the turret." alt="" coords="600,840,778,867"/>
+<area shape="poly" id="edge54_Node000031_Node000039" title=" " alt="" coords="853,805,736,842,734,837,851,800"/>
+<area shape="poly" id="edge42_Node000032_Node000031" title=" " alt="" coords="568,779,825,775,825,781,568,784"/>
+<area shape="rect" id="Node000033" href="$class_c_turret.html#abbdf253e3a38f63841f6530a38e10ec1" title="Handles the spin&#45;up behavior of the turret." alt="" coords="195,777,330,804"/>
+<area shape="poly" id="edge43_Node000032_Node000033" title=" " alt="" coords="370,793,330,793,330,788,370,788"/>
+<area shape="poly" id="edge45_Node000034_Node000025" title=" " alt="" coords="775,722,1306,704,1306,709,775,728"/>
+<area shape="rect" id="Node000035" href="$class_c_sentry.html#ad41a4a063ab7c1cef57d01e32bde0d5f" title="Handles damage taken by the sentry." alt="" coords="393,715,545,741"/>
+<area shape="poly" id="edge46_Node000034_Node000035" title=" " alt="" coords="603,731,545,731,545,725,603,725"/>
+<area shape="poly" id="edge49_Node000034_Node000037" title=" " alt="" coords="612,713,529,694,530,689,614,708"/>
+<area shape="rect" id="Node000036" href="$class_c_sentry.html#a39059cd1ff9888979c51b1a4fe4d7c28" title="Handles touch interactions for the sentry." alt="" coords="188,715,337,741"/>
+<area shape="poly" id="edge47_Node000035_Node000036" title=" " alt="" coords="377,731,338,731,338,725,377,725"/>
+<area shape="poly" id="edge48_Node000036_Node000028" title=" " alt="" coords="172,731,131,731,131,725,172,725"/>
+<area shape="rect" id="Node000038" href="$class_c_base_turret.html#a6ad46595be0146d679745f122dff6c8b" title="Spawns the base turret entity." alt="" coords="192,664,333,691"/>
+<area shape="poly" id="edge50_Node000037_Node000038" title=" " alt="" coords="375,680,333,680,333,675,375,675"/>
+<area shape="poly" id="edge51_Node000038_Node000027" title=" " alt="" coords="194,662,125,643,126,638,195,657"/>
+<area shape="poly" id="edge52_Node000038_Node000028" title=" " alt="" coords="195,698,126,717,125,711,194,693"/>
+<area shape="poly" id="edge53_Node000038_Node000029" title=" " alt="" coords="177,680,128,680,128,675,177,675"/>
+<area shape="poly" id="edge55_Node000039_Node000032" title=" " alt="" coords="624,838,518,807,519,802,626,833"/>
+<area shape="rect" id="Node000041" href="$class_c_bullsquid.html#ac8cb76bc1599fa3fa114091a82e23a54" title="Runs AI logic for the bullsquid." alt="" coords="1087,816,1213,843"/>
+<area shape="poly" id="edge59_Node000040_Node000041" title=" " alt="" coords="1316,832,1213,832,1213,827,1316,827"/>
+<area shape="rect" id="Node000043" href="$class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="1082,867,1218,893"/>
+<area shape="poly" id="edge62_Node000042_Node000043" title=" " alt="" coords="1302,883,1218,883,1218,877,1302,877"/>
+<area shape="rect" id="Node000044" href="$class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="856,867,969,893"/>
+<area shape="poly" id="edge63_Node000043_Node000044" title=" " alt="" coords="1066,883,969,883,969,877,1066,877"/>
+<area shape="rect" id="Node000046" href="$class_c_hornet.html#a0845e7a20faeace07303c47c670c431b" title="Starts tracking the target for the hornet." alt="" coords="1082,917,1218,944"/>
+<area shape="poly" id="edge65_Node000045_Node000046" title=" " alt="" coords="1319,933,1218,933,1218,928,1319,928"/>
+<area shape="rect" id="Node000047" href="$class_c_hornet.html#a7d03243e49c6325891e6d9884450fa29" title="Spawns the hornet entity." alt="" coords="855,917,970,944"/>
+<area shape="poly" id="edge66_Node000046_Node000047" title=" " alt="" coords="1066,933,971,933,971,928,1066,928"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Game_AddObjects" name="Game_AddObjects">
+<area shape="rect" id="Node000001" title="Adds client&#45;side game objects such as beam effects." alt="" coords="5,31,137,57"/>
+<area shape="rect" id="Node000002" href="$hl__objects_8cpp.html#aaedc26d16500e52428868f44d76b7d13" title="Updates the positions and lifetimes of the client&#45;side beam effects." alt="" coords="185,31,288,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,41,169,41,169,47,137,47"/>
+<area shape="rect" id="Node000003" href="$hl__weapons_8cpp.html#aa2dc68495163aa09554d94ad05cac13a" title="Retrieves the last known predicted position of the Egon beam." alt="" coords="336,5,458,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,33,320,28,321,33,289,38"/>
+<area shape="rect" id="Node000004" href="$cl__dll_2util_8cpp.html#a58962d1663038f4d0f0ce1bf95390bdb" title="Performs a vector multiplication (adds a scaled vector to another)." alt="" coords="358,56,437,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="289,50,343,58,342,63,288,55"/>
+</map>

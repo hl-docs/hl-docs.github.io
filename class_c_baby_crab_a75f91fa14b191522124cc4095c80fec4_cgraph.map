@@ -1,0 +1,7 @@
+<map id="CBabyCrab::GetScheduleOfType" name="CBabyCrab::GetScheduleOfType">
+<area shape="rect" id="Node000001" title="Retrieves the schedule of the specified type for the baby headcrab." alt="" coords="5,13,217,40"/>
+<area shape="rect" id="Node000002" href="$class_c_head_crab.html#a5b09a6aac7782b6f0406cbcd27948800" title="Retrieves the schedule of the specified type for the headcrab." alt="" coords="265,13,476,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,24,249,24,249,29,217,29"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#a37d35f03fc503f5043dab72ec5cc0736" title="Retrieves a schedule of a specific type for the monster." alt="" coords="524,5,714,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,24,509,24,509,29,476,29"/>
+</map>

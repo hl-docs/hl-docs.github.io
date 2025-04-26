@@ -1,0 +1,5 @@
+<map id="CFuncPlatRot::HitBottom" name="CFuncPlatRot::HitBottom">
+<area shape="rect" id="Node000001" title="Handles the event when the platform hits the bottom." alt="" coords="255,5,423,32"/>
+<area shape="rect" id="Node000002" href="$class_c_func_track_change.html#ad89e56032f6380bd3b37c9c55e1c76a7" title="Handles the event when the track change entity hits the bottom." alt="" coords="5,5,207,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,21,207,21,207,16,239,16"/>
+</map>

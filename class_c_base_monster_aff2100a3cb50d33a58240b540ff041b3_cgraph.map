@@ -1,0 +1,5 @@
+<map id="CBaseMonster::SetActivity" name="CBaseMonster::SetActivity">
+<area shape="rect" id="Node000001" title="Sets the monster&#39;s activity to a new activity." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="Node000002" href="$animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="231,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,16,215,16,215,21,183,21"/>
+</map>

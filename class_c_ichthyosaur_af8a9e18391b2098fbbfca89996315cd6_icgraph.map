@@ -1,0 +1,5 @@
+<map id="CIchthyosaur::Swim" name="CIchthyosaur::Swim">
+<area shape="rect" id="Node000001" title="Updates the ichthyosaur&#39;s swimming behavior." alt="" coords="237,5,374,32"/>
+<area shape="rect" id="Node000002" href="$class_c_ichthyosaur.html#ace8284a24b562b26adb3f46b6850ceb8" title="Handles the ichthyosaur&#39;s thinking logic." alt="" coords="5,5,189,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,21,189,21,189,16,221,16"/>
+</map>

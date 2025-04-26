@@ -1,0 +1,9 @@
+<map id="CGauss::Spawn" name="CGauss::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the Gauss weapon entity." alt="" coords="5,56,121,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="230,5,276,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,53,214,26,215,31,117,58"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player_item.html#a991f3bdf1d8c7a8c199104f6312408e3" title="Initializes the fall behavior for a weapon." alt="" coords="169,56,337,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,67,153,67,153,72,121,72"/>
+<area shape="rect" id="Node000004" href="$class_c_gauss.html#a6e601e00f1dcd84dfa135f2c4214dfff" title="Pre&#45;caches the resources needed for the Gauss weapon." alt="" coords="187,107,319,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,81,186,100,185,105,115,86"/>
+</map>

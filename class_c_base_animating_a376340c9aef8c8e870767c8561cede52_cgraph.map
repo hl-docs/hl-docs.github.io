@@ -1,0 +1,5 @@
+<map id="CBaseAnimating::ExtractBbox" name="CBaseAnimating::ExtractBbox">
+<area shape="rect" id="Node000001" title="Extracts the bounding box for a specified sequence." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="252,5,298,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,16,236,16,236,21,204,21"/>
+</map>

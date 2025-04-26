@@ -1,0 +1,5 @@
+<map id="CHudAmmo::Reset" name="CHudAmmo::Reset">
+<area shape="rect" id="Node000001" title="Resets the ammo HUD to its default state." alt="" coords="170,5,303,32"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_ammo.html#a093db8dab3dcca28eb23ee87b4b41f15" title="Initializes the Ammo HUD." alt="" coords="5,5,122,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
+</map>

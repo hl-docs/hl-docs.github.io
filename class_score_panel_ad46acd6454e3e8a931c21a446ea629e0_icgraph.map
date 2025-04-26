@@ -1,0 +1,15 @@
+<map id="ScorePanel::Initialize" name="ScorePanel::Initialize">
+<area shape="rect" id="Node000001" title="Initializes or resets the scoreboard data." alt="" coords="650,72,793,99"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a5473469282eaaea27c9a0eafe21fd277" title="Initializes the TeamFortressViewport, resets data and hides menus." alt="" coords="444,35,596,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="634,75,596,70,597,64,635,70"/>
+<area shape="rect" id="Node000007" href="$class_score_panel.html#af0f5ef33142b69ea3051a38bacdceaac" title="Constructs the scoreboard panel and initializes its layout." alt="" coords="438,101,602,128"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="635,101,603,105,602,100,634,95"/>
+<area shape="rect" id="Node000003" href="$class_team_fortress_viewport.html#aacf8ea3f9311effbcb873b677272d989" title="Constructor for the TeamFortressViewport class." alt="" coords="231,5,390,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,46,390,40,391,35,430,41"/>
+<area shape="rect" id="Node000004" href="$vgui__int_8cpp.html#a5b59510079d53a6f58522389266e4673" title="Initializes the VGUI system and sets up the root panel and viewport." alt="" coords="261,72,360,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="429,71,361,81,360,76,429,66"/>
+<area shape="rect" id="Node000005" href="$cdll__int_8cpp.html#a9b6af20be4779961bb84fc32bcfa2f80" title="Initializes the video settings for the HUD." alt="" coords="92,72,183,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="245,88,184,88,184,83,245,83"/>
+<area shape="rect" id="Node000006" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,72,44,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="76,88,44,88,44,83,76,83"/>
+</map>

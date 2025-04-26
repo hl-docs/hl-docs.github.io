@@ -1,0 +1,5 @@
+<map id="CBasePlayer::SendAmmoUpdate" name="CBasePlayer::SendAmmoUpdate">
+<area shape="rect" id="Node000001" title="Sends an update of the player&#39;s ammo to the client." alt="" coords="5,5,220,32"/>
+<area shape="rect" id="Node000002" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="268,5,402,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,16,252,16,252,21,220,21"/>
+</map>

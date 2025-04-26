@@ -1,0 +1,7 @@
+<map id="CHudHealth::MsgFunc_Health" name="CHudHealth::MsgFunc_Health">
+<area shape="rect" id="Node000001" title="Handles the health message from the server." alt="" coords="5,23,158,65"/>
+<area shape="rect" id="Node000002" href="$parsemsg_8h.html#a5f7862a164381d74145f6d6121872059" title=" " alt="" coords="206,5,310,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,30,190,26,191,31,158,36"/>
+<area shape="rect" id="Node000003" href="$parsemsg_8h.html#a2e779435e6d1130e70976b30a8bad97d" title=" " alt="" coords="209,56,307,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,52,194,57,193,63,158,58"/>
+</map>

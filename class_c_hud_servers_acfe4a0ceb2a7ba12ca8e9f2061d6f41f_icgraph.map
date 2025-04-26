@@ -1,0 +1,13 @@
+<map id="CHudServers::RulesResponse" name="CHudServers::RulesResponse">
+<area shape="rect" id="Node000001" title="Handles game rules response from a specific server." alt="" coords="833,31,1028,57"/>
+<area shape="rect" id="Node000002" href="$hud__servers_8cpp.html#a4bc3b62b9e4a64ea9c0399afe9473fa9" title="Callback handler for rules response from a server." alt="" coords="642,5,754,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="817,34,754,27,755,22,818,29"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_servers.html#a073a73a11b1aa39a49ec295d0214c30f" title="Sends a rules request to a specific server to retrieve server rules." alt="" coords="611,56,785,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="817,59,785,63,785,57,817,54"/>
+<area shape="rect" id="Node000004" href="$hud__servers_8cpp.html#a1562482aafe5e8d3deac6c63faab8fa6" title="Requests server rules from a specified server using the global browser." alt="" coords="473,56,563,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="596,72,564,72,564,67,596,67"/>
+<area shape="rect" id="Node000005" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_server_browser_table_panel.html#a945ad02bb3f393641297070fc10bc977" title=" " alt="" coords="216,32,425,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="457,72,425,72,425,67,457,67"/>
+<area shape="rect" id="Node000006" href="$classanonymous__namespace_02vgui___server_browser_8cpp_03_1_1_ping_handler.html#aa9ceec816930776d5bf73d714d171b30" title=" " alt="" coords="5,32,168,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="200,72,168,72,168,67,200,67"/>
+</map>

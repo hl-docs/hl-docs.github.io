@@ -1,0 +1,5 @@
+<map id="CBarney::BarneyFirePistol" name="CBarney::BarneyFirePistol">
+<area shape="rect" id="Node000001" title="Fires a pistol at the enemy." alt="" coords="235,5,410,32"/>
+<area shape="rect" id="Node000002" href="$class_c_barney.html#ad67727fb91de9879016a9f7778114c67" title="Handles animation events for the Barney entity." alt="" coords="5,5,187,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,21,187,21,187,16,219,16"/>
+</map>

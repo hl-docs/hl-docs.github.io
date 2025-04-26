@@ -1,0 +1,17 @@
+<map id="CGameTeamMaster::IsTriggered" name="CGameTeamMaster::IsTriggered">
+<area shape="rect" id="Node000001" title="Checks if the game team master entity is triggered by the activator." alt="" coords="5,81,214,108"/>
+<area shape="rect" id="Node000002" href="$class_c_game_team_master.html#a6a8cc5c761303c5fcd4d5ab30441d2c3" title="Checks if the activator&#39;s team matches the team conditions." alt="" coords="262,81,475,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,92,246,92,246,97,214,97"/>
+<area shape="rect" id="Node000003" href="$class_c_game_team_master.html#ae122f3f168e55c87bbbe00380cd3e5e6" title=" " alt="" coords="523,5,723,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,78,522,41,550,34,551,39,524,47,410,83"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#acdd61dd12f1226cebaa6ed4c0443f165" title=" " alt="" coords="550,56,696,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,81,534,75,535,81,476,87"/>
+<area shape="rect" id="Node000005" href="$class_c_game_team_master.html#a476462b620645286a9e1ad2302abc667" title="Retrieves the team ID associated with the game team master." alt="" coords="529,107,718,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="476,103,513,106,513,112,475,108"/>
+<area shape="rect" id="Node000007" href="$dlls_2util_8cpp.html#a1a9aba4a358b854b8ae3472733ad3563" title="Checks if two team names match." alt="" coords="559,157,688,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="410,106,524,143,551,150,550,156,522,148,408,111"/>
+<area shape="rect" id="Node000006" href="$class_c_game_rules.html#a6ac8b5103c534e1738920c410c0ca5b5" title=" " alt="" coords="771,107,1010,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="718,117,756,117,756,123,718,123"/>
+<area shape="rect" id="Node000008" href="$class_c_game_rules.html#af37c18627f790989d05ede42541cc1ad" title=" " alt="" coords="804,157,977,184"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="688,168,789,168,789,173,688,173"/>
+</map>

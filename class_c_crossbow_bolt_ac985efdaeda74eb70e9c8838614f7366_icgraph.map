@@ -1,0 +1,11 @@
+<map id="CCrossbowBolt::BubbleThink" name="CCrossbowBolt::BubbleThink">
+<area shape="rect" id="Node000001" title="Handles the bubble effect for the crossbow bolt." alt="" coords="853,5,1042,32"/>
+<area shape="rect" id="Node000002" href="$class_c_crossbow_bolt.html#a91e2aa33dbf7f1406968f7ad85e32d69" title="Spawns the crossbow bolt entity." alt="" coords="647,5,805,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="837,21,805,21,805,16,837,16"/>
+<area shape="rect" id="Node000003" href="$class_c_crossbow_bolt.html#a9ca035606c3bacbf18eeb64b5fadf3cf" title="Creates a new crossbow bolt entity." alt="" coords="420,5,599,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="632,21,600,21,600,16,632,16"/>
+<area shape="rect" id="Node000004" href="$class_c_crossbow.html#ad6a24e0cb3497003ba02cf2711ad48b9" title="Fires a regular bolt from the crossbow." alt="" coords="232,5,372,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="404,21,372,21,372,16,404,16"/>
+<area shape="rect" id="Node000005" href="$class_c_crossbow.html#a088e3d420a0cb3943cf33cf126323a32" title="Handles the primary attack of the crossbow weapon." alt="" coords="5,5,184,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="216,21,184,21,184,16,216,16"/>
+</map>

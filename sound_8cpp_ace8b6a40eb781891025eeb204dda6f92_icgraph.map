@@ -1,0 +1,9 @@
+<map id="EMIT_GROUPNAME_SUIT" name="EMIT_GROUPNAME_SUIT">
+<area shape="rect" id="Node000001" title="Plays a random sentence from a group by name over the HEV suit speaker." alt="" coords="535,5,714,32"/>
+<area shape="rect" id="Node000002" href="$class_c_base_player.html#aebf63f8339fd2d9a509aae71c71429ba" title="Plays the death sound for the player." alt="" coords="311,5,487,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,21,488,21,488,16,520,16"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#af1d440839effa9fa57471b81d59bc933" title="Handles the player&#39;s death." alt="" coords="126,5,263,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,21,263,21,263,16,295,16"/>
+<area shape="rect" id="Node000004" href="$client_8cpp.html#a01bb3d0e374fc1885d67a3e4269a235a" title="Handles the player&#39;s suicide command." alt="" coords="5,5,78,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,21,78,21,78,16,110,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBaseMonster::SetTurnActivity" name="CBaseMonster::SetTurnActivity">
+<area shape="rect" id="Node000001" title="Sets the turn activity for the monster." alt="" coords="5,5,208,32"/>
+<area shape="rect" id="Node000002" href="$animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="256,5,361,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,16,240,16,240,21,208,21"/>
+</map>

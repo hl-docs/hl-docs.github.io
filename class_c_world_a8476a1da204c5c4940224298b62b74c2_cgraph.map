@@ -1,0 +1,7 @@
+<map id="CWorld::KeyValue" name="CWorld::KeyValue">
+<area shape="rect" id="Node000001" title="Processes key&#45;value pairs for the world entity." alt="" coords="5,31,134,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#af85fd4a00ff9f105fe81a6afb47df8b4" title=" " alt="" coords="230,5,292,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,33,214,22,215,27,135,38"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a9e6ca2cdb795cd1985554668a08a3857" title=" " alt="" coords="182,56,340,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,50,166,54,166,59,134,55"/>
+</map>

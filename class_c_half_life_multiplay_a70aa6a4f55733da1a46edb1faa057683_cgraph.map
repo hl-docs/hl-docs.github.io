@@ -1,0 +1,19 @@
+<map id="CHalfLifeMultiplay::CanHavePlayerItem" name="CHalfLifeMultiplay::CanHavePlayerItem">
+<area shape="rect" id="Node000001" title="Determines if a player can have a specific weapon." alt="" coords="5,124,148,167"/>
+<area shape="rect" id="Node000002" href="$class_c_game_rules.html#aa99c959689aeee3e0651bb97dcbae437" title="Checks if the player can have a specific item." alt="" coords="196,107,415,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,135,180,131,180,137,148,140"/>
+<area shape="rect" id="Node000009" href="$class_c_base_player_item.html#a3f6e430f31323a72e455ba445efd2939" title=" " alt="" coords="223,157,388,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="148,151,208,157,207,162,148,156"/>
+<area shape="rect" id="Node000003" href="$class_c_game_rules.html#a16ad07959990820b5ccb608266052056" title="Checks if the player can have more ammo of a specific type." alt="" coords="467,31,662,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,104,462,67,490,59,491,64,464,72,348,109"/>
+<area shape="rect" id="Node000006" href="$class_c_base_player.html#acf65e846866c0c0bb9c303c8cc11d62e" title="Checks if the player already has a specific item." alt="" coords="470,81,660,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="415,107,453,103,454,108,416,112"/>
+<area shape="rect" id="Node000007" href="$class_c_base_player_item.html#aaf655b98580ee225b568f4ca90e0de1d" title=" " alt="" coords="463,132,666,159"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="416,128,448,131,447,137,415,133"/>
+<area shape="rect" id="Node000008" href="$class_c_base_player_item.html#a6abf912d6f83cafe942e9fd10e03729d" title=" " alt="" coords="467,183,663,209"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="379,131,416,143,440,156,464,168,485,175,483,180,462,173,438,160,414,148,377,136"/>
+<area shape="rect" id="Node000004" href="$class_c_base_player.html#adcbfba519d919bf60ee0d943907219ea" title="Retrieves the amount of a specific type of ammo in the player&#39;s inventory." alt="" coords="715,5,909,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="662,31,699,28,699,33,663,37"/>
+<area shape="rect" id="Node000005" href="$class_c_base_player.html#a672bb131a284c013918e754c2cf59dd1" title="Gets the index of a specific ammo type." alt="" coords="714,56,910,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="663,51,699,55,698,60,662,57"/>
+</map>

@@ -1,0 +1,70 @@
+<map id="TeamFortressViewport::ShowCommandMenu" name="TeamFortressViewport::ShowCommandMenu">
+<area shape="rect" id="Node000001" title="Displays the command menu corresponding to the specified index." alt="" coords="5,412,158,455"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#ad9fcc35f44452924983aa174266d0369" title="Hides the current command menu and resets the armed states of its buttons." alt="" coords="220,442,372,484"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,441,205,448,204,453,158,447"/>
+<area shape="rect" id="Node000006" href="$class_team_fortress_viewport.html#a2ec7d2d99d1041391910b9cb74799a27" title="Sets the current command menu to the provided menu." alt="" coords="461,342,643,384"/>
+<area shape="poly" id="edge22_Node000001_Node000006" title=" " alt="" coords="121,409,161,391,205,376,266,365,329,358,445,355,445,360,329,364,267,370,206,381,163,396,123,414"/>
+<area shape="rect" id="Node000008" href="$class_team_fortress_viewport.html#a3eed3123a3dcc44d7dba06104691bbb4" title="Updates the state and visibility of the mouse cursor." alt="" coords="753,522,904,564"/>
+<area shape="poly" id="edge38_Node000001_Node000008" title=" " alt="" coords="119,453,160,475,207,494,276,512,349,526,494,543,628,548,737,546,737,551,628,553,493,548,348,532,275,518,205,499,158,480,116,458"/>
+<area shape="rect" id="Node000012" href="$class_team_fortress_viewport.html#afc9c5415b7278d8ed24fe573eec53188" title="Hides all currently visible VGUI menus." alt="" coords="220,600,372,643"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="98,454,143,515,173,549,207,579,224,590,221,595,204,584,169,553,139,518,94,457"/>
+<area shape="rect" id="Node000018" href="$class_c_command_menu.html#a89fa4d89b24411db27870612f89d3468" title="Tries to find a button that has a key bound to the input and presses it." alt="" coords="206,391,386,418"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="158,420,190,416,190,421,158,426"/>
+<area shape="rect" id="Node000019" href="$class_team_fortress_viewport.html#ab0fdedc3e78d62271a90e31c3a2714ca" title="Updates the visibility and positions of the buttons in the command menu." alt="" coords="215,158,377,200"/>
+<area shape="poly" id="edge23_Node000001_Node000019" title=" " alt="" coords="99,410,265,211,269,214,103,414"/>
+<area shape="rect" id="Node000003" href="$class_c_command_menu.html#a7816c9c115b2d4bd0d5a30a6f81e1a70" title="Clears all buttons of their armed (highlighted) state." alt="" coords="450,432,654,475"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,457,434,455,434,460,372,463"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="360,438,385,427,408,410,433,394,447,388,449,393,435,399,411,415,387,432,363,443"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="372,474,434,484,738,528,737,534,434,490,372,479"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="503,432,501,422,510,413,526,408,552,406,579,408,595,414,593,419,578,413,552,411,527,413,512,418,507,424,509,431"/>
+<area shape="rect" id="Node000004" href="$class_c_command_menu.html#acd640eeda24dfb8914b187e614bd23b8" title=" " alt="" coords="717,459,940,486"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="654,458,702,461,702,466,654,463"/>
+<area shape="rect" id="Node000005" href="$class_command_button.html#a38816dbe2213fb5d0579d399d41e42c2" title=" " alt="" coords="727,408,930,435"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="654,439,711,432,712,438,655,444"/>
+<area shape="rect" id="Node000007" href="$class_c_command_menu.html#ad3cdbbf95342ade61e7d8bbfbadd911d" title="Makes this menu and all parent menus in the chain visible." alt="" coords="728,358,929,384"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="643,363,713,365,713,370,643,368"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="785,359,777,349,782,339,800,333,829,331,860,334,876,340,874,345,859,339,828,336,801,338,786,343,782,348,789,355"/>
+<area shape="rect" id="Node000009" href="$voice__status_8h.html#ab4b2a95bba24ec77021a8688020cf234" title=" " alt="" coords="1025,504,1155,531"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="904,533,1009,523,1010,528,905,538"/>
+<area shape="rect" id="Node000010" href="$inputw32_8cpp.html#ad4c638a7e3ecee100b6da72b6c3a08c2" title="Resets the mouse cursor position to the center of the screen." alt="" coords="1033,555,1147,582"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="905,548,1018,559,1017,564,904,553"/>
+<area shape="rect" id="Node000011" href="$inputw32_8cpp.html#aa5217af39cdd520ec88085d8bb46f9ad" title="Atomically exchanges the value of a variable." alt="" coords="1259,555,1440,582"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1147,566,1244,566,1244,571,1147,571"/>
+<area shape="rect" id="Node000013" href="$class_team_fortress_viewport.html#a4a8a293c5dfc6f0ca89848ac41ef2c5f" title="Hides the topmost VGUI menu and displays the next one in the stack." alt="" coords="476,600,627,643"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="372,619,460,619,460,624,372,624"/>
+<area shape="poly" id="edge19_Node000013_Node000008" title=" " alt="" coords="627,597,737,566,739,571,629,603"/>
+<area shape="rect" id="Node000014" href="$class_c_menu_panel.html#abcb26ed12377f30a04ddcef6f3de1fc7" title=" " alt="" coords="760,588,897,615"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="628,613,745,605,745,610,628,619"/>
+<area shape="rect" id="Node000015" href="$class_c_menu_panel.html#a3046b1756dceb70b53dcfb22a30259cb" title=" " alt="" coords="737,639,920,666"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="628,627,721,638,721,643,628,633"/>
+<area shape="rect" id="Node000016" href="$class_team_fortress_viewport.html#ab85b483933e62b6d7cd879f325724a27" title="Sets the current VGUI menu to the provided menu." alt="" coords="753,690,904,732"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="617,641,718,675,740,682,739,687,717,680,615,646"/>
+<area shape="rect" id="Node000017" href="$class_c_menu_panel.html#a589b0b1b05bbecf609caede27b8137b5" title=" " alt="" coords="1023,698,1157,724"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="905,708,1007,708,1007,714,905,714"/>
+<area shape="poly" id="edge21_Node000018_Node000006" title=" " alt="" coords="382,388,445,377,445,383,383,393"/>
+<area shape="rect" id="Node000020" href="$class_c_command_menu.html#a4ff791457ab39db932447e808bda2c5c" title="Recalculates the positions of the menu and ensures that submenus fit on the screen...." alt="" coords="453,40,650,83"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="326,155,375,123,433,92,448,86,450,91,435,97,378,128,329,159"/>
+<area shape="rect" id="Node000021" href="$class_c_command_menu.html#a87f073800d2916d06843591d74c5076a" title="Recalculates the visibility of buttons in the menu." alt="" coords="453,267,650,310"/>
+<area shape="poly" id="edge25_Node000019_Node000021" title=" " alt="" coords="349,198,487,258,485,263,347,203"/>
+<area shape="rect" id="Node000023" href="$class_c_command_menu.html#ac707212b7601683bcb2d912e83784e81" title="Removes all buttons from the command menu." alt="" coords="434,107,669,134"/>
+<area shape="poly" id="edge29_Node000019_Node000023" title=" " alt="" coords="376,156,433,143,470,135,471,140,435,148,378,162"/>
+<area shape="rect" id="Node000024" href="$class_team_fortress_viewport.html#a059863d7fd8bc8478845a8523f8cb7eb" title="Updates the player menu with a list of active players." alt="" coords="476,158,627,200"/>
+<area shape="poly" id="edge30_Node000019_Node000024" title=" " alt="" coords="377,176,460,176,460,182,377,182"/>
+<area shape="poly" id="edge27_Node000021_Node000005" title=" " alt="" coords="636,308,671,327,687,345,695,362,703,379,719,394,727,399,724,403,716,398,699,382,690,365,683,348,668,332,633,312"/>
+<area shape="poly" id="edge28_Node000021_Node000021" title=" " alt="" coords="503,267,501,257,510,248,526,242,552,240,579,243,595,249,593,254,578,248,552,246,527,247,512,252,507,258,509,266"/>
+<area shape="rect" id="Node000022" href="$class_command_button.html#a64fd038ae02cac9fffc42344415182a9" title=" " alt="" coords="736,267,921,310"/>
+<area shape="poly" id="edge26_Node000021_Node000022" title=" " alt="" coords="651,286,721,286,721,291,651,291"/>
+<area shape="rect" id="Node000025" href="$class_c_command_menu.html#a9f014bfae3ef2626bfe56f8b7c686561" title="Adds a button to the command menu." alt="" coords="733,216,924,243"/>
+<area shape="poly" id="edge31_Node000024_Node000025" title=" " alt="" coords="628,190,738,210,737,216,627,195"/>
+<area shape="rect" id="Node000026" href="$class_command_button.html#a8282a0e10256715473d1cd87ce1a4d55" title="Assigns a key that triggers this button." alt="" coords="988,107,1192,134"/>
+<area shape="poly" id="edge36_Node000024_Node000026" title=" " alt="" coords="626,166,648,156,668,144,679,131,685,117,689,88,694,60,702,46,716,34,746,17,773,7,799,3,824,4,877,15,940,34,974,45,1007,61,1060,95,1057,100,1004,66,972,50,939,39,876,21,823,9,799,8,774,12,748,22,719,38,706,49,699,62,694,89,690,119,683,133,671,148,651,161,628,170"/>
+<area shape="rect" id="Node000028" href="$class_team_fortress_viewport.html#a581a2504cd06f12a1dded0202d998e4c" title="Retrieves information about all players from the engine." alt="" coords="753,48,904,91"/>
+<area shape="poly" id="edge34_Node000024_Node000028" title=" " alt="" coords="627,160,668,143,682,133,691,123,701,112,716,101,737,90,740,95,719,105,705,115,695,126,686,137,671,148,629,165"/>
+<area shape="rect" id="Node000029" href="$class_c_hud_spectator.html#a0b5731784e3b1196d0c52c5d4dea8a5c" title="Determines if a given entity is an active player that can be spectated." alt="" coords="729,115,928,142"/>
+<area shape="poly" id="edge35_Node000024_Node000029" title=" " alt="" coords="627,162,737,142,738,147,628,168"/>
+<area shape="rect" id="Node000030" href="$class_command_button.html#a99958528a2f7097f260769a981808ae1" title="Sets the parent menu reference." alt="" coords="721,166,936,192"/>
+<area shape="poly" id="edge37_Node000024_Node000030" title=" " alt="" coords="628,176,706,176,706,182,628,182"/>
+<area shape="poly" id="edge32_Node000025_Node000026" title=" " alt="" coords="903,213,939,202,1001,172,1054,140,1057,145,1004,177,941,207,904,218"/>
+<area shape="rect" id="Node000027" href="$class_command_button.html#acb27b01843689ff846ca33c714e01c3d" title="Updates the button text, adding key binding if applicable." alt="" coords="1240,107,1459,134"/>
+<area shape="poly" id="edge33_Node000026_Node000027" title=" " alt="" coords="1192,118,1224,118,1224,123,1192,123"/>
+</map>

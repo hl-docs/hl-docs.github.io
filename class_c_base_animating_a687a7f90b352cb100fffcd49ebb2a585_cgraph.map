@@ -1,0 +1,7 @@
+<map id="CBaseAnimating::InitBoneControllers" name="CBaseAnimating::InitBoneControllers">
+<area shape="rect" id="Node000001" title="Initializes the bone controllers for the animation." alt="" coords="5,23,179,65"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="252,5,298,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,29,236,21,237,27,180,35"/>
+<area shape="rect" id="Node000003" href="$animation_8cpp.html#a1b19ea5042a5d8c43ffc782247eb2d46" title="Sets the controller value for a specific bone controller." alt="" coords="227,56,323,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,53,211,58,211,63,179,59"/>
+</map>

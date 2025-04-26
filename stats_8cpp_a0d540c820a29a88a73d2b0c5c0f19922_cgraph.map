@@ -1,0 +1,9 @@
+<map id="UpdateStats" name="UpdateStats">
+<area shape="rect" id="Node000001" title="Updates the game statistics for a given player." alt="" coords="5,56,99,83"/>
+<area shape="rect" id="Node000002" href="$stats_8cpp.html#ad43ebe523ab39061075a3c3ef4624f34" title="Retrieves the damage value for a given type of ammunition." alt="" coords="191,5,298,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,54,146,41,175,34,177,39,147,47,100,59"/>
+<area shape="rect" id="Node000003" href="$class_c_base_player.html#a672bb131a284c013918e754c2cf59dd1" title="Gets the index of a specific ammo type." alt="" coords="147,56,342,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,67,131,67,131,72,99,72"/>
+<area shape="rect" id="Node000004" href="$stats_8cpp.html#a3d700bdcc69a51a485c56602d9e75a52" title="Updates the statistics file with the current game data." alt="" coords="187,107,302,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,79,147,92,175,100,174,105,146,97,98,84"/>
+</map>

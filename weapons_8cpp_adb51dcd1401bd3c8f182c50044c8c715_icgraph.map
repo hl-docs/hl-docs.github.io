@@ -1,0 +1,12 @@
+<map id="DecalGunshot" name="DecalGunshot">
+<area shape="rect" id="Node000001" title="Applies a gunshot decal to a surface." alt="" coords="766,5,869,32"/>
+<area shape="rect" id="Node000002" href="$class_c_crowbar.html#a1f5f173fa4655c01ef1fcd1e174a99a0" title="Plays the hit sound when the crowbar makes contact." alt="" coords="591,5,718,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="750,21,718,21,718,16,750,16"/>
+<area shape="rect" id="Node000003" href="$class_c_crowbar.html#a2b416a96e620e44624ed7e0c50045343" title="Performs the swing action of the crowbar." alt="" coords="423,5,543,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="576,21,544,21,544,16,576,16"/>
+<area shape="rect" id="Node000004" href="$class_c_crowbar.html#a75fe911c0db1c8068051588cbfa2c6e9" title="Handles the primary attack action of the crowbar." alt="" coords="5,5,174,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,21,174,21,174,16,407,16"/>
+<area shape="rect" id="Node000005" href="$class_c_crowbar.html#ae3b7f4f2780a8f6c7ed0709d2bc0deb9" title="Handles the second swing of the crowbar." alt="" coords="222,31,375,57"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="408,32,375,36,375,31,407,26"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="206,36,174,32,174,26,207,30"/>
+</map>

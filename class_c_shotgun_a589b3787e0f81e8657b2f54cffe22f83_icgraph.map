@@ -1,0 +1,9 @@
+<map id="CShotgun::Reload" name="CShotgun::Reload">
+<area shape="rect" id="Node000001" title="Reloads the shotgun." alt="" coords="240,56,366,83"/>
+<area shape="rect" id="Node000002" href="$class_c_shotgun.html#a66705b9405c78f0a5d7101b127e8fdfa" title="Handles the primary attack of the shotgun." alt="" coords="14,5,183,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,54,155,35,156,30,232,49"/>
+<area shape="rect" id="Node000003" href="$class_c_shotgun.html#a43e2c385f1d48938956d7e3107127a84" title="Handles the secondary attack of the shotgun." alt="" coords="5,56,192,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,72,192,72,192,67,224,67"/>
+<area shape="rect" id="Node000004" href="$class_c_shotgun.html#a06bb237b962c62cca6f409466dea4782" title="Handles the idle state of the shotgun." alt="" coords="21,107,176,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="232,90,156,109,155,103,231,84"/>
+</map>

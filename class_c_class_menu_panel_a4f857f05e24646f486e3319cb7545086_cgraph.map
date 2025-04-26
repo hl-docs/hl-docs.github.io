@@ -1,0 +1,5 @@
+<map id="CClassMenuPanel::SlotInput" name="CClassMenuPanel::SlotInput">
+<area shape="rect" id="Node000001" title="Handles number key input for selecting a class." alt="" coords="5,13,193,40"/>
+<area shape="rect" id="Node000002" href="$class_team_fortress_viewport.html#a86de1013232de4022c62305f514adaae" title=" " alt="" coords="241,5,392,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,24,225,24,225,29,193,29"/>
+</map>

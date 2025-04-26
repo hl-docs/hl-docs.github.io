@@ -1,0 +1,5 @@
+<map id="CGibShooter::Precache" name="CGibShooter::Precache">
+<area shape="rect" id="Node000001" title="Precaches the gib shooter resources." alt="" coords="196,5,354,32"/>
+<area shape="rect" id="Node000002" href="$class_c_gib_shooter.html#a8beafaed4dea03cb6f24f123f98f0680" title="Spawns the gib shooter entity." alt="" coords="5,5,148,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,21,148,21,148,16,180,16"/>
+</map>

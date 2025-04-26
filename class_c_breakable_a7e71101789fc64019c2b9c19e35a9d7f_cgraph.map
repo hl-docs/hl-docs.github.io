@@ -1,0 +1,7 @@
+<map id="CBreakable::DamageSound" name="CBreakable::DamageSound">
+<area shape="rect" id="Node000001" title="Plays a sound when the breakable entity takes damage." alt="" coords="5,31,187,57"/>
+<area shape="rect" id="Node000002" href="$hl__baseentity_8cpp.html#a464fac9ff9efc5f95dce4c44deb02689" title=" " alt="" coords="235,5,373,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,30,219,26,219,32,188,36"/>
+<area shape="rect" id="Node000003" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="281,56,327,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,52,266,62,265,67,187,58"/>
+</map>

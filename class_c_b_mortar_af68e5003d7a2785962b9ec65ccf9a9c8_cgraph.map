@@ -1,0 +1,7 @@
+<map id="CBMortar::Spawn" name="CBMortar::Spawn">
+<area shape="rect" id="Node000001" title="Spawns a CBMortar entity." alt="" coords="5,31,129,57"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="204,5,250,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,32,188,22,189,27,130,37"/>
+<area shape="rect" id="Node000003" href="$hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="177,56,277,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,51,161,56,161,62,129,56"/>
+</map>

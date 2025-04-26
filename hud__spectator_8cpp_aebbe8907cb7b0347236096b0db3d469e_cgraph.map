@@ -1,0 +1,5 @@
+<map id="SpectatorSpray" name="SpectatorSpray">
+<area shape="rect" id="Node000001" title="Handles spraying a spectator decal in the world." alt="" coords="5,5,117,32"/>
+<area shape="rect" id="Node000002" href="$cl__dll_2util_8cpp.html#ae6cc39e5b358630713ea4671ef0fd080" title="Scales a vector by a given factor." alt="" coords="165,5,257,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,16,149,16,149,21,117,21"/>
+</map>

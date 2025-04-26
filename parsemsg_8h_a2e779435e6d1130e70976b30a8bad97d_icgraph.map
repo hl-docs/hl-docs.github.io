@@ -1,0 +1,107 @@
+<map id="READ_BYTE" name="READ_BYTE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1525,1344,1623,1371"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#a68d7dab5a05bf25c71781a8bd6e97625" title="Processes director messages to control the spectator mode." alt="" coords="303,247,518,274"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1569,1329,1563,1117,1548,800,1536,640,1519,499,1499,394,1487,359,1475,338,1432,304,1390,286,1349,279,1307,282,1213,301,1160,310,1100,314,878,314,773,310,668,301,491,277,492,272,669,296,773,305,878,308,1100,308,1159,305,1212,296,1306,277,1349,274,1392,280,1434,299,1479,335,1492,356,1504,392,1525,499,1541,639,1553,799,1569,1116,1575,1329"/>
+<area shape="rect" id="Node000005" href="$class_team_fortress_viewport.html#aeb494989102ce63626486d1c839ba0e9" title="Handles message that sets whether spectators are allowed." alt="" coords="1282,348,1433,391"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1569,1329,1560,1131,1542,837,1529,688,1514,557,1496,458,1485,425,1475,405,1456,389,1432,379,1434,374,1458,384,1479,401,1490,423,1501,457,1519,557,1535,688,1548,836,1566,1130,1574,1329"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_ammo.html#a4eeca3208eb7b8a503a9ba1a121a1a26" title="Handles the AmmoPickup message, adding ammo to the player&#39;s history." alt="" coords="1238,415,1477,442"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1569,1329,1560,1140,1542,862,1529,722,1513,598,1495,505,1485,474,1475,455,1461,444,1465,440,1479,452,1490,472,1500,504,1519,598,1534,721,1547,861,1565,1140,1574,1329"/>
+<area shape="rect" id="Node000007" href="$class_c_hud_ammo.html#a7b85d8976d8cf638870b3fab91bfa6bf" title="Handles the AmmoX message, updating the ammo count for a specific ammo type." alt="" coords="1255,466,1460,492"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1569,1329,1559,1148,1540,887,1527,755,1512,640,1494,552,1485,523,1475,506,1459,494,1462,489,1479,503,1489,521,1499,551,1517,639,1532,755,1545,886,1564,1148,1574,1328"/>
+<area shape="rect" id="Node000008" href="$class_c_hud_benchmark.html#ac3dbd817dab4d3eef7edc136861acb77" title="Handles the &quot;Bench&quot; network message from the server." alt="" coords="1267,516,1448,559"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1570,1329,1570,1173,1561,946,1549,829,1532,721,1507,633,1492,599,1475,573,1462,561,1447,553,1450,548,1465,557,1479,569,1497,596,1512,631,1537,720,1554,828,1566,946,1576,1173,1576,1329"/>
+<area shape="rect" id="Node000009" href="$class_c_hud.html#ae21a7ff16a65f742113fbaa48e51a922" title="Handles concussion effect messages." alt="" coords="1271,583,1444,610"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1570,1329,1570,1182,1559,969,1548,860,1530,760,1506,678,1492,647,1475,623,1461,612,1444,604,1446,599,1463,607,1479,620,1496,644,1511,676,1536,759,1553,859,1565,969,1575,1182,1576,1329"/>
+<area shape="rect" id="Node000010" href="$class_c_hud_ammo.html#a342b61ca6d69cb53c2fabcb2f180d7e2" title="Updates the HUD state with the current weapon and clip count." alt="" coords="1243,634,1472,660"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1570,1329,1568,1190,1556,993,1544,892,1527,800,1504,725,1490,696,1475,674,1461,663,1464,659,1479,670,1495,693,1509,723,1533,799,1550,891,1561,993,1573,1190,1575,1329"/>
+<area shape="rect" id="Node000011" href="$class_c_hud_health.html#a4afde2702e7d9946b75b7e249f4925aa" title="Handles the damage message from the server." alt="" coords="1281,684,1434,727"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1569,1329,1565,1203,1550,1026,1538,936,1522,854,1501,786,1488,760,1475,741,1456,726,1433,716,1435,711,1459,721,1479,737,1493,758,1506,784,1527,853,1544,935,1556,1026,1570,1202,1575,1328"/>
+<area shape="rect" id="Node000012" href="$class_c_hud.html#ab66b692cc6f04215cdd7fe4dc512ea14" title="Processes damage received by the player." alt="" coords="1272,751,1443,778"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1569,1329,1564,1212,1549,1050,1536,968,1520,893,1500,832,1488,809,1475,791,1460,780,1442,772,1444,767,1463,775,1479,788,1492,806,1505,830,1525,892,1542,967,1554,1049,1569,1211,1574,1329"/>
+<area shape="rect" id="Node000013" href="$class_c_hud_death_notice.html#ae7ac994f9ff2a5261c28167ec5e56522" title="Handles the &quot;DeathMsg&quot; message received from the server." alt="" coords="1264,802,1451,844"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1568,1330,1560,1225,1543,1084,1531,1012,1515,947,1497,894,1475,858,1449,840,1453,836,1479,854,1501,892,1520,946,1536,1011,1548,1083,1565,1225,1574,1329"/>
+<area shape="rect" id="Node000014" href="$class_team_fortress_viewport.html#acab1c02636871fd8c9a45539cf21bca1" title="Handles the message for detpack state." alt="" coords="1282,868,1433,911"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1567,1329,1557,1237,1539,1116,1511,1000,1494,955,1475,925,1455,910,1432,900,1435,895,1458,905,1479,921,1499,953,1516,998,1544,1115,1562,1236,1573,1328"/>
+<area shape="rect" id="Node000015" href="$class_team_fortress_viewport.html#a3cd5344f7cb3059dacd15b27131dadb3" title="Handles the message for feigning state." alt="" coords="1282,935,1433,978"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1566,1329,1554,1251,1534,1149,1507,1053,1492,1016,1475,991,1456,977,1433,968,1435,963,1458,972,1479,988,1496,1014,1512,1052,1539,1148,1559,1250,1571,1329"/>
+<area shape="rect" id="Node000016" href="$class_c_hud_flashlight.html#a11de8f18953487edcaec9364c2844a11" title="Handles the flashlight battery status update message." alt="" coords="1272,1002,1443,1044"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1569,1329,1564,1272,1550,1199,1538,1161,1522,1123,1501,1089,1475,1058,1460,1047,1442,1038,1445,1033,1463,1042,1479,1054,1505,1086,1526,1121,1543,1159,1555,1198,1569,1271,1575,1328"/>
+<area shape="rect" id="Node000017" href="$class_c_hud_flashlight.html#ac71e122030dcdee5109908a8610e5971" title="Handles the flashlight power status update message." alt="" coords="1272,1068,1443,1111"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1566,1330,1557,1284,1541,1229,1514,1173,1496,1147,1475,1125,1442,1106,1445,1101,1478,1121,1500,1144,1519,1170,1546,1227,1563,1283,1572,1328"/>
+<area shape="rect" id="Node000018" href="$class_c_hud.html#a93faf87bede9035fe8924d82a592f1ac" title="Handles game mode updates." alt="" coords="1263,1135,1452,1162"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1563,1330,1552,1294,1534,1252,1509,1210,1475,1176,1451,1162,1454,1158,1478,1172,1513,1207,1539,1250,1557,1292,1568,1328"/>
+<area shape="rect" id="Node000019" href="$class_c_hud_geiger.html#ae39d5b3473743297339ad7170777565b" title="Handles the incoming Geiger counter message and updates its range." alt="" coords="1281,1186,1434,1228"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="1555,1332,1522,1286,1500,1262,1475,1243,1434,1223,1436,1219,1478,1238,1504,1259,1526,1283,1560,1329"/>
+<area shape="rect" id="Node000020" href="$class_c_hud_health.html#aa9e3085fc753d989fdc40d6120a90d68" title="Handles the health message from the server." alt="" coords="1281,1252,1434,1295"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="1535,1339,1476,1309,1433,1295,1435,1290,1478,1304,1538,1334"/>
+<area shape="rect" id="Node000021" href="$class_c_hud_ammo.html#aa00eb3d159fea7b165756e54ab1681f6" title="Handles hiding or displaying the weapon HUD based on the message." alt="" coords="1240,1319,1475,1346"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="1509,1353,1475,1349,1475,1343,1509,1347"/>
+<area shape="rect" id="Node000022" href="$class_c_hud.html#a41c8adaa5565c50ad78d6276a7a21175" title="Handles the &quot;Logo&quot; HUD message." alt="" coords="1282,1370,1433,1396"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="1509,1368,1434,1377,1433,1372,1509,1363"/>
+<area shape="rect" id="Node000023" href="$class_team_fortress_viewport.html#aa3e065e7b121377c4521dedcdaa5fc2c" title="Handles the message of the message of the day (MOTD)." alt="" coords="1282,1420,1433,1463"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="1538,1381,1478,1411,1435,1426,1433,1420,1476,1406,1535,1377"/>
+<area shape="rect" id="Node000024" href="$class_team_fortress_viewport.html#acb86ecef78fd41c5ebfb6434e4fd2709" title="Handles the message indicating random player class selection." alt="" coords="1279,1487,1436,1530"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="1560,1386,1526,1433,1504,1457,1478,1477,1437,1496,1435,1491,1475,1473,1500,1453,1522,1429,1555,1383"/>
+<area shape="rect" id="Node000025" href="$class_c_hud_say_text.html#aa1ad3ea72d13c3dba3180737bd61e78c" title="Handles incoming say text messages." alt="" coords="1276,1554,1439,1596"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="1568,1387,1556,1423,1538,1465,1512,1507,1478,1544,1441,1564,1438,1559,1475,1540,1508,1504,1533,1463,1551,1421,1563,1385"/>
+<area shape="rect" id="Node000026" href="$class_team_fortress_viewport.html#a31ec50f14a967ae22d296bd75a8ea5ab" title="Handles player score information." alt="" coords="1282,1620,1433,1663"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="1572,1387,1564,1435,1548,1495,1520,1557,1501,1585,1478,1610,1458,1625,1434,1634,1432,1629,1455,1620,1475,1606,1497,1582,1516,1554,1543,1493,1559,1434,1567,1386"/>
+<area shape="rect" id="Node000027" href="$class_c_hud_ammo_secondary.html#a78eb870417c1a9777ac60d4373b5737d" title="Message handler for setting a secondary ammo value." alt="" coords="1276,1687,1439,1730"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="1575,1387,1571,1447,1557,1525,1545,1566,1528,1606,1506,1644,1479,1677,1461,1690,1440,1700,1438,1695,1458,1686,1475,1673,1502,1641,1523,1604,1540,1564,1552,1523,1566,1446,1570,1386"/>
+<area shape="rect" id="Node000028" href="$class_c_hud.html#a2c7fb40d3dcfcde11e5287b6243afd18" title="Handles the &quot;SetFOV&quot; message from the server." alt="" coords="1273,1754,1442,1780"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="1572,1387,1561,1469,1541,1576,1514,1677,1497,1717,1479,1743,1462,1756,1444,1764,1442,1759,1460,1751,1475,1740,1493,1714,1509,1676,1536,1575,1555,1469,1567,1386"/>
+<area shape="rect" id="Node000029" href="$class_c_hud_menu.html#a761210065f228d9138980844463a4cfb" title="Message handler for the ShowMenu message from the server." alt="" coords="1248,1804,1467,1831"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="1573,1387,1563,1479,1545,1601,1532,1662,1517,1718,1499,1763,1479,1794,1463,1806,1460,1802,1475,1790,1495,1761,1512,1716,1527,1661,1540,1600,1558,1479,1568,1386"/>
+<area shape="rect" id="Node000030" href="$class_team_fortress_viewport.html#ab0e247b3068e5eef54c4f856c0b51b8e" title="Fades screen in or out when spectating a teleported player." alt="" coords="1282,1855,1433,1898"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="1573,1386,1565,1488,1547,1625,1535,1694,1519,1757,1501,1809,1479,1845,1458,1861,1435,1871,1433,1866,1456,1856,1475,1841,1496,1807,1514,1755,1530,1693,1542,1624,1559,1487,1568,1386"/>
+<area shape="rect" id="Node000031" href="$class_team_fortress_viewport.html#aa822f2e466bcc028663cbc156f896d83" title="Handles spectator information messages." alt="" coords="1282,1922,1433,1964"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="1574,1387,1567,1501,1552,1658,1539,1737,1523,1810,1503,1870,1479,1911,1458,1927,1435,1938,1433,1933,1456,1923,1475,1908,1498,1868,1518,1809,1534,1736,1546,1657,1562,1500,1569,1387"/>
+<area shape="rect" id="Node000032" href="$class_c_hud_status_icons.html#a27c9cabd9d272d1a3f969f65e0863d1f" title="Handles the StatusIcon HUD message." alt="" coords="1265,1988,1450,2031"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="1575,1387,1570,1513,1556,1690,1544,1780,1527,1863,1506,1931,1493,1958,1479,1978,1452,1998,1449,1993,1475,1974,1488,1955,1501,1929,1522,1861,1538,1779,1550,1689,1565,1513,1569,1387"/>
+<area shape="rect" id="Node000033" href="$class_c_hud_status_bar.html#afd98a8be3651b6a9943ecb9177db7713" title="Message handler for the StatusText message." alt="" coords="1271,2055,1444,2098"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="1575,1386,1572,1524,1560,1721,1548,1822,1531,1915,1508,1992,1495,2022,1479,2045,1463,2058,1446,2067,1443,2063,1460,2054,1475,2041,1490,2019,1503,1990,1526,1914,1543,1822,1555,1721,1567,1524,1570,1386"/>
+<area shape="rect" id="Node000034" href="$class_c_hud_status_bar.html#a1ec245c8f38747e4dc3f4bd925cdc228" title="Message handler for the StatusValue message." alt="" coords="1271,2122,1444,2164"/>
+<area shape="poly" id="edge33_Node000001_Node000034" title=" " alt="" coords="1576,1386,1575,1536,1564,1753,1552,1865,1535,1968,1511,2053,1496,2086,1479,2111,1464,2125,1446,2134,1443,2129,1460,2120,1475,2108,1491,2083,1506,2051,1530,1967,1547,1864,1559,1753,1569,1536,1570,1386"/>
+<area shape="rect" id="Node000035" href="$class_team_fortress_viewport.html#adea90003037ee0861cd3e39acbb6fd49" title="Handles team information for players." alt="" coords="1282,2188,1433,2231"/>
+<area shape="poly" id="edge34_Node000001_Node000035" title=" " alt="" coords="1574,1387,1563,1560,1543,1810,1530,1936,1515,2047,1498,2131,1489,2160,1479,2178,1459,2195,1435,2205,1433,2200,1456,2190,1475,2175,1484,2158,1493,2130,1510,2046,1525,1935,1538,1810,1558,1559,1568,1386"/>
+<area shape="rect" id="Node000036" href="$class_team_fortress_viewport.html#ac5be4d5dab97bf313732957449d34f24" title="Handles the message for team names." alt="" coords="1276,2255,1439,2298"/>
+<area shape="poly" id="edge35_Node000001_Node000036" title=" " alt="" coords="1574,1386,1565,1571,1546,1844,1533,1981,1517,2101,1499,2193,1490,2225,1479,2245,1461,2260,1440,2270,1438,2265,1458,2255,1475,2241,1485,2223,1494,2192,1512,2101,1527,1980,1540,1843,1559,1571,1569,1386"/>
+<area shape="rect" id="Node000037" href="$class_c_hud_text_message.html#ae4f4c6911397b70240516c705ffbaafb" title="Message handler for displaying text messages in the game." alt="" coords="1261,188,1454,231"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="1569,1329,1559,1112,1539,785,1526,619,1510,471,1493,357,1484,318,1474,294,1461,275,1444,259,1407,234,1410,229,1448,255,1465,272,1479,291,1489,317,1498,356,1516,470,1531,618,1544,785,1564,1112,1574,1329"/>
+<area shape="rect" id="Node000064" href="$class_c_hud_train.html#a24e176c8ca51739f9540c03f66a5a657" title="Handles the &quot;Train&quot; message sent from the server." alt="" coords="1286,2322,1429,2364"/>
+<area shape="poly" id="edge52_Node000001_Node000064" title=" " alt="" coords="1574,1386,1566,1584,1548,1878,1535,2026,1519,2156,1501,2256,1490,2290,1479,2311,1457,2329,1431,2340,1429,2335,1454,2325,1475,2308,1485,2288,1495,2255,1514,2156,1529,2025,1542,1877,1560,1584,1569,1386"/>
+<area shape="rect" id="Node000065" href="$class_team_fortress_viewport.html#a134495fd5dee19d9922f10c7ec499975" title="Handles the VGUI menu message." alt="" coords="1281,2388,1434,2431"/>
+<area shape="poly" id="edge53_Node000001_Node000065" title=" " alt="" coords="1574,1387,1567,1597,1550,1912,1537,2071,1521,2211,1502,2318,1491,2355,1479,2378,1459,2395,1436,2405,1434,2400,1456,2390,1475,2375,1486,2353,1497,2317,1516,2211,1532,2070,1544,1911,1561,1597,1569,1387"/>
+<area shape="rect" id="Node000066" href="$class_c_hud_ammo.html#a8985e497fa1d9a8153bab5aba358e3f9" title="Handles the registration of a new weapon type for the HUD." alt="" coords="1243,2455,1472,2482"/>
+<area shape="poly" id="edge54_Node000001_Node000066" title=" " alt="" coords="1575,1387,1569,1610,1553,1946,1540,2117,1524,2267,1504,2382,1492,2421,1479,2445,1465,2457,1461,2453,1475,2441,1487,2418,1499,2380,1519,2266,1535,2116,1547,1946,1563,1610,1569,1387"/>
+<area shape="rect" id="Node000067" href="$class_c_hud_ammo.html#a0beb4b8f999e23b293ec69f9910ae0cd" title="Handles the pickup of a weapon by updating the weapon history." alt="" coords="1240,2506,1475,2532"/>
+<area shape="poly" id="edge55_Node000001_Node000067" title=" " alt="" coords="1575,1387,1569,1619,1554,1971,1542,2150,1526,2309,1505,2429,1493,2470,1479,2495,1465,2507,1461,2503,1475,2492,1488,2468,1500,2428,1520,2308,1537,2150,1549,1971,1564,1618,1569,1386"/>
+<area shape="rect" id="Node000003" href="$cdll__int_8cpp.html#a13f8b6e71ea4313e0b97d907191b27bf" title="Handles director messages." alt="" coords="92,247,245,274"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,263,245,263,245,258,287,258"/>
+<area shape="rect" id="Node000004" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,247,44,274"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,263,44,263,44,258,76,258"/>
+<area shape="rect" id="Node000038" href="$class_score_panel.html#a969ce964c31781f6017e57441dae14b3" title="Handles mouse press events on the scoreboard." alt="" coords="1007,196,1190,223"/>
+<area shape="poly" id="edge37_Node000037_Node000038" title=" " alt="" coords="1245,212,1191,212,1191,207,1245,207"/>
+<area shape="rect" id="Node000039" href="$class_c_hud_spectator.html#a75afd7d7417db578dbc10361de2e23ab" title="Sets the current spectator main and inset modes." alt="" coords="575,146,752,172"/>
+<area shape="poly" id="edge38_Node000037_Node000039" title=" " alt="" coords="1245,194,1190,187,953,170,752,163,752,158,953,165,1191,182,1246,188"/>
+<area shape="rect" id="Node000057" href="$class_spectator_panel.html#afb878948b966364bfada314319adb7fc" title="Toggles the visibility of the spectator menu." alt="" coords="1008,95,1190,122"/>
+<area shape="poly" id="edge44_Node000037_Node000057" title=" " alt="" coords="1291,184,1189,143,1140,125,1142,120,1191,138,1293,179"/>
+<area shape="rect" id="Node000059" href="$class_team_fortress_viewport.html#a8d2ef332bdcfc615c3d92badfc78b46e" title="Updates the spectator panel based on current spectator settings." alt="" coords="800,207,959,250"/>
+<area shape="poly" id="edge51_Node000037_Node000059" title=" " alt="" coords="1246,232,1191,238,1099,241,1007,238,959,236,960,230,1007,232,1099,235,1190,232,1246,226"/>
+<area shape="poly" id="edge40_Node000039_Node000002" title=" " alt="" coords="631,183,584,211,528,237,491,249,490,244,526,232,581,207,628,179"/>
+<area shape="rect" id="Node000040" href="$class_spectator_panel.html#a1a544898f388f8e31d9d630b0ae5f73a" title="Handles commands triggered by UI buttons in the spectator panel." alt="" coords="315,19,506,46"/>
+<area shape="poly" id="edge39_Node000039_Node000040" title=" " alt="" coords="625,140,526,85,445,49,447,44,529,81,628,135"/>
+<area shape="rect" id="Node000042" href="$class_c_hud_spectator.html#ad7203888c3889b037e61853f34a97483" title="Handles spectator input buttons that are currently being held down." alt="" coords="293,95,527,122"/>
+<area shape="poly" id="edge41_Node000039_Node000042" title=" " alt="" coords="578,145,480,125,481,120,579,139"/>
+<area shape="rect" id="Node000054" href="$class_c_hud_spectator.html#ad4ca0f1796f5dc68c9e23eadd341a033" title="Initializes all HUD data structures for the spectator." alt="" coords="316,196,504,223"/>
+<area shape="poly" id="edge42_Node000039_Node000054" title=" " alt="" coords="579,179,481,198,480,193,578,173"/>
+<area shape="rect" id="Node000055" href="$hud__spectator_8cpp.html#a8f25474768e1fa175402652ef48447f4" title="Handles the spectator mode command input." alt="" coords="356,146,465,172"/>
+<area shape="poly" id="edge43_Node000039_Node000055" title=" " alt="" coords="560,162,465,162,465,156,560,156"/>
+<area shape="poly" id="edge45_Node000057_Node000040" title=" " alt="" coords="1066,88,1017,58,988,45,958,35,899,22,838,14,715,8,601,12,506,21,505,16,601,7,715,3,839,9,900,17,960,30,990,40,1019,54,1069,83"/>
+<area shape="poly" id="edge46_Node000057_Node000042" title=" " alt="" coords="992,111,528,111,528,106,992,106"/>
+<area shape="rect" id="Node000058" href="$hud__spectator_8cpp.html#a5313dcd1d9d917e9ae65c0f2870214e8" title="Shows or hides the spectator menu." alt="" coords="825,44,934,71"/>
+<area shape="poly" id="edge47_Node000057_Node000058" title=" " alt="" coords="1022,93,934,73,935,68,1023,88"/>
+<area shape="poly" id="edge48_Node000057_Node000059" title=" " alt="" coords="1060,132,922,209,919,204,1058,127"/>
+<area shape="poly" id="edge49_Node000059_Node000002" title=" " alt="" coords="785,237,519,256,518,250,784,232"/>
+<area shape="poly" id="edge50_Node000059_Node000039" title=" " alt="" coords="795,204,707,175,709,170,797,199"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CIchthyosaur::StartTask" name="CIchthyosaur::StartTask">
+<area shape="rect" id="Node000001" title="Starts a specific task for the ichthyosaur." alt="" coords="5,43,167,69"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#ad386ccd1636edf8528a34153aa75a078" title="Sets the monster&#39;s animation sequence by name." alt="" coords="215,5,408,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,43,199,39,199,44,167,48"/>
+<area shape="rect" id="Node000003" href="$class_c_base_monster.html#ad48e6760ee3609d8f13383c10c4a2650" title="Starts a task for the monster." alt="" coords="226,72,397,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,64,211,70,210,75,167,69"/>
+</map>

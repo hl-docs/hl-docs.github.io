@@ -1,0 +1,7 @@
+<map id="CBasePlayer::GetAutoaimVector" name="CBasePlayer::GetAutoaimVector">
+<area shape="rect" id="Node000001" title="Gets the autoaim vector for the player." alt="" coords="5,43,218,69"/>
+<area shape="rect" id="Node000002" href="$class_c_game_rules.html#ab687775a751aae77c8c56794503b8bdd" title=" " alt="" coords="266,5,466,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,41,250,37,251,43,218,46"/>
+<area shape="rect" id="Node000003" href="$util_8cpp.html#ab05f77512c119287424cb3a712bf6364" title="Makes vectors based on the provided angles." alt="" coords="300,72,432,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,66,285,73,284,79,218,71"/>
+</map>

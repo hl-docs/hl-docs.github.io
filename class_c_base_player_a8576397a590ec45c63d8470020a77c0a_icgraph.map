@@ -1,0 +1,27 @@
+<map id="CBasePlayer::SetSuitUpdate" name="CBasePlayer::SetSuitUpdate">
+<area shape="rect" id="Node000001" title="Adds a suit update to the player&#39;s suit playlist." alt="" coords="466,208,655,235"/>
+<area shape="rect" id="Node000002" href="$class_c_crossbow.html#ad6a24e0cb3497003ba02cf2711ad48b9" title="Fires a regular bolt from the crossbow." alt="" coords="255,5,395,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,195,522,161,493,121,458,80,417,46,394,35,397,30,419,42,462,76,498,117,526,158,547,193"/>
+<area shape="rect" id="Node000004" href="$class_c_glock.html#a522286710931a6ab18933b60f455e4ff" title="Fires the Glock with specified parameters." alt="" coords="261,56,389,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="536,198,485,147,452,120,417,97,388,85,390,80,419,92,455,116,488,143,540,194"/>
+<area shape="rect" id="Node000007" href="$class_c_item_battery.html#a9631f254c52c53c92e79fb1dfa87a82b" title="Handles the interaction when a player touches the battery item." alt="" coords="246,107,404,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="523,202,474,174,417,148,383,136,385,131,419,143,476,170,526,197"/>
+<area shape="rect" id="Node000008" href="$class_c_item_antidote.html#abbe86d1bb0b7e1119f307ae0eefc9ece" title="Handles the interaction when a player touches the antidote item." alt="" coords="243,157,407,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="479,207,390,187,391,182,481,202"/>
+<area shape="rect" id="Node000009" href="$class_c_python.html#a5e20c90592da8cd4200cceb46d578b59" title="Handles the primary attack for the Python weapon." alt="" coords="244,208,406,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="450,224,406,224,406,219,450,219"/>
+<area shape="rect" id="Node000010" href="$class_c_m_p5.html#a73c394c755dc96a8577bcabffa0c75e8" title="Handles the primary attack of the MP5." alt="" coords="251,259,399,285"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="481,241,391,261,390,255,479,236"/>
+<area shape="rect" id="Node000011" href="$class_c_shotgun.html#a66705b9405c78f0a5d7101b127e8fdfa" title="Handles the primary attack of the shotgun." alt="" coords="240,309,410,336"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="526,245,476,273,419,300,385,311,383,306,417,295,474,268,523,241"/>
+<area shape="rect" id="Node000012" href="$class_c_m_p5.html#aba5b3ae405e55622c6e5b09cde061b38" title="Handles the secondary attack of the MP5." alt="" coords="242,360,408,387"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="540,248,488,300,455,327,419,350,392,362,390,357,417,346,452,323,485,296,536,245"/>
+<area shape="rect" id="Node000013" href="$class_c_shotgun.html#a43e2c385f1d48938956d7e3107127a84" title="Handles the secondary attack of the shotgun." alt="" coords="232,411,418,437"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="547,250,526,285,498,325,462,366,419,401,397,412,394,408,417,396,458,362,493,322,522,282,543,247"/>
+<area shape="rect" id="Node000003" href="$class_c_crossbow.html#a088e3d420a0cb3943cf33cf126323a32" title="Handles the primary attack of the crossbow weapon." alt="" coords="5,5,184,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,21,184,21,184,16,240,16"/>
+<area shape="rect" id="Node000005" href="$class_c_glock.html#aafaaa550e8e11f3246dd532775c225a3" title="Handles the primary attack of the Glock." alt="" coords="17,56,172,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="245,72,173,72,173,67,245,67"/>
+<area shape="rect" id="Node000006" href="$class_c_glock.html#ae9c7e4c8faef6ab96816690330ddfdc5" title="Handles the secondary attack of the Glock." alt="" coords="8,107,181,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="246,89,159,109,158,103,245,84"/>
+</map>

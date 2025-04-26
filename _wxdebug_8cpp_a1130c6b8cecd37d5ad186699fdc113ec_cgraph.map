@@ -1,0 +1,10 @@
+<map id="DbgInitGlobalSettings" name="DbgInitGlobalSettings">
+<area shape="rect" id="Node000001" title="Initializes global debug settings from the registry." alt="" coords="5,31,152,57"/>
+<area shape="rect" id="Node000002" href="$_wxdebug_8cpp.html#a8aca74e896ad5444f23354382b73f781" title="Initializes key levels for debug settings." alt="" coords="200,5,320,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,31,184,27,185,32,152,36"/>
+<area shape="rect" id="Node000003" href="$_wxdebug_8cpp.html#ae096d7215a41338f0c0e5470696dd17a" title="Logs formatted information to the debugger." alt="" coords="368,31,453,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="152,41,352,41,352,47,152,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,26,353,32,352,37,320,31"/>
+<area shape="rect" id="Node000004" href="$_wxdebug_8cpp.html#ad307067921786b831b158270469acf42" title="Outputs a string to the debug output." alt="" coords="501,31,601,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,41,486,41,486,47,454,47"/>
+</map>

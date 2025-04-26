@@ -1,0 +1,36 @@
+<map id="CBeam::SetScrollRate" name="CBeam::SetScrollRate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1094,132,1246,159"/>
+<area shape="rect" id="Node000002" href="$class_c_beam.html#afb9ead1728a19fcd3e6e2c689cc6f53e" title="Initializes the beam entity." alt="" coords="883,5,1007,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1144,123,1100,83,1045,46,1006,32,1008,27,1047,42,1103,79,1147,119"/>
+<area shape="rect" id="Node000003" href="$class_c_lightning.html#ab55f81ab9ad5a6c6a74943ed85562539" title="Updates the beam variables for the lightning effect." alt="" coords="849,56,1041,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1124,128,1045,97,1006,86,1007,81,1047,92,1126,123"/>
+<area shape="rect" id="Node000005" href="$class_c_egon.html#ae2b2d53ffc64083f45f8ffb3bc62ea82" title="Creates the visual effects for the Egon weapon." alt="" coords="875,107,1015,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1078,138,1015,130,1015,125,1079,132"/>
+<area shape="rect" id="Node000010" href="$class_c_laser.html#a6198b875419d08057990978c150d44d2" title="Handles key&#45;value data for the laser effect entity." alt="" coords="882,157,1008,184"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1079,158,1009,166,1008,161,1078,153"/>
+<area shape="rect" id="Node000011" href="$class_c_tripmine_grenade.html#ade51e8409b8576bc7d1bc08362d43611" title="Creates the beam for the tripmine grenade." alt="" coords="844,208,1046,235"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1126,168,1047,199,1007,210,1006,205,1045,193,1124,163"/>
+<area shape="rect" id="Node000016" href="$class_c_test_effect.html#a0f7cbe0c8417444d53120efc376ec062" title="Think function for the test effect." alt="" coords="869,275,1021,301"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1146,172,1102,210,1047,249,988,277,986,272,1045,244,1098,206,1142,168"/>
+<area shape="rect" id="Node000004" href="$class_c_lightning.html#ad1e95029a213e0d7faccb62f7cf38d3a" title="Activates the lightning effect." alt="" coords="625,56,762,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="833,72,762,72,762,67,833,67"/>
+<area shape="rect" id="Node000006" href="$class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="622,107,765,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="860,123,765,123,765,117,860,117"/>
+<area shape="rect" id="Node000007" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="406,107,496,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="607,123,497,123,497,117,607,117"/>
+<area shape="rect" id="Node000008" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="205,107,311,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="390,123,312,123,312,117,390,117"/>
+<area shape="rect" id="Node000009" href="$class_c_egon.html#af555516a5cb88af6e61dd01304cdc73e" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,107,157,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="189,123,157,123,157,117,189,117"/>
+<area shape="rect" id="Node000012" href="$class_c_tripmine_grenade.html#af562a1755804f7d0a7ba94691ea46a64" title="Handles the beam break state of the tripmine grenade." alt="" coords="591,179,796,221"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="828,223,796,220,796,215,828,218"/>
+<area shape="rect" id="Node000013" href="$class_c_tripmine_grenade.html#aaed0d096f0eb79fbb48d6928c07fedfa" title="Handles the power&#45;up state of the tripmine grenade." alt="" coords="600,245,787,288"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="853,241,787,252,786,247,852,235"/>
+<area shape="poly" id="edge12_Node000012_Node000011" title=" " alt="" coords="812,198,876,205,875,210,811,204"/>
+<area shape="rect" id="Node000014" href="$class_c_tripmine_grenade.html#addce686623ef4ac3b4d6ee1239a0b82f" title="Spawns the tripmine grenade entity." alt="" coords="364,224,539,251"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="584,256,539,251,540,245,585,251"/>
+<area shape="rect" id="Node000015" href="$class_c_tripmine_grenade.html#a8d214ec0fa4cebddcc296ea1ffec11be" title="Handles the warning state of the tripmine grenade." alt="" coords="359,275,543,317"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="585,282,544,287,544,282,584,277"/>
+<area shape="rect" id="Node000017" href="$class_c_test_effect.html#a47a9ec960b1e1d9ac185511e1c0e89c2" title="Uses the test effect." alt="" coords="634,312,753,339"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="854,304,754,319,753,314,853,299"/>
+</map>

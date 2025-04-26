@@ -1,0 +1,130 @@
+<map id="IN_ResetMouse" name="IN_ResetMouse">
+<area shape="rect" id="Node000001" title="Resets the mouse cursor position to the center of the screen." alt="" coords="1518,665,1631,692"/>
+<area shape="rect" id="Node000002" href="$inputw32_8cpp.html#af56401a8a2a0c7275d27c8e36819982a" title="Accumulates mouse movement deltas between frames." alt="" coords="1339,293,1449,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1558,652,1400,322,1404,319,1562,650"/>
+<area shape="rect" id="Node000004" href="$inputw32_8cpp.html#a958e58978808a3c9ac791e9d68932298" title="Processes mouse movement and updates view angles or movement commands accordingly." alt="" coords="1339,976,1449,1003"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1560,707,1406,977,1401,974,1555,704"/>
+<area shape="rect" id="Node000007" href="$class_team_fortress_viewport.html#a3eed3123a3dcc44d7dba06104691bbb4" title="Updates the state and visibility of the mouse cursor." alt="" coords="1318,657,1470,700"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="1502,681,1470,681,1470,676,1502,676"/>
+<area shape="rect" id="Node000003" href="$cdll__int_8cpp.html#aed9fc988b664c4c5cc6bfa49e2f48d6c" title="Exports functions used by the gameUI for UI dialogs." alt="" coords="5,307,44,333"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1373,283,1313,209,1270,164,1219,118,1162,76,1100,41,1034,17,999,10,964,8,430,8,394,11,359,18,324,30,291,46,229,87,174,135,126,186,86,235,36,308,32,305,82,232,122,182,170,131,226,82,289,41,322,25,357,13,393,5,430,3,964,3,1000,5,1035,12,1102,36,1165,71,1223,114,1273,160,1317,205,1377,279"/>
+<area shape="rect" id="Node000005" href="$inputw32_8cpp.html#a6fc0729f79ed19a8a7db6ad81ff64b90" title="Handles movement input from both mouse and joystick." alt="" coords="1158,1283,1228,1309"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1384,1018,1340,1112,1309,1169,1273,1223,1242,1257,1213,1284,1209,1280,1238,1254,1268,1220,1304,1166,1335,1110,1379,1016"/>
+<area shape="rect" id="Node000006" href="$input_8cpp.html#a7217f060254148177c44d7243fc20ae6" title="Creates and sends a movement command to the server." alt="" coords="134,1297,246,1324"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1143,1301,805,1313,573,1317,336,1317,247,1315,247,1310,336,1312,573,1312,805,1308,1142,1296"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="130,1292,107,1278,89,1257,80,1234,72,1198,57,1093,46,957,38,805,27,513,23,334,29,334,32,512,43,805,51,957,63,1093,77,1197,85,1233,94,1255,111,1274,133,1288"/>
+<area shape="rect" id="Node000008" href="$class_team_fortress_viewport.html#ad9fcc35f44452924983aa174266d0369" title="Hides the current command menu and resets the armed states of its buttons." alt="" coords="1118,788,1269,831"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1348,711,1229,790,1226,785,1345,707"/>
+<area shape="rect" id="Node000024" href="$class_team_fortress_viewport.html#acbae3abb9da291154d52e90adc0543fa" title="Displays the command menu corresponding to the specified index." alt="" coords="616,1184,769,1227"/>
+<area shape="poly" id="edge69_Node000007_Node000024" title=" " alt="" coords="1390,716,1377,780,1354,862,1320,950,1298,993,1273,1032,1228,1089,1186,1129,1136,1159,1069,1187,991,1207,911,1217,835,1219,769,1216,769,1211,835,1214,911,1212,990,1202,1067,1181,1134,1154,1182,1125,1224,1086,1268,1029,1294,990,1315,948,1349,860,1372,779,1385,715"/>
+<area shape="rect" id="Node000028" href="$class_spectator_panel.html#afb878948b966364bfada314319adb7fc" title="Toggles the visibility of the spectator menu." alt="" coords="872,1083,1054,1109"/>
+<area shape="poly" id="edge70_Node000007_Node000028" title=" " alt="" coords="1376,715,1330,789,1262,884,1220,934,1174,983,1123,1027,1069,1066,1029,1085,1027,1080,1067,1062,1120,1023,1170,979,1216,930,1258,881,1326,786,1371,712"/>
+<area shape="rect" id="Node000050" href="$class_team_fortress_viewport.html#aeca33c3bab59bf72010004041d8c5364" title="Displays a VGUI menu based on the specified menu ID." alt="" coords="887,368,1039,411"/>
+<area shape="poly" id="edge76_Node000007_Node000050" title=" " alt="" coords="1372,645,1330,582,1301,550,1269,522,1230,501,1195,492,1159,486,1115,472,1054,443,1000,414,1003,409,1056,438,1117,467,1161,481,1197,487,1232,496,1272,518,1305,546,1334,579,1376,642"/>
+<area shape="rect" id="Node000054" href="$class_team_fortress_viewport.html#a1562d3436ecc63eee4ad489626b8b344" title="Hides the scoreboard if it is visible and the game is not in intermission." alt="" coords="887,696,1039,739"/>
+<area shape="poly" id="edge54_Node000007_Node000054" title=" " alt="" coords="1303,696,1271,700,1148,711,1039,717,1038,712,1148,705,1270,695,1303,691"/>
+<area shape="rect" id="Node000057" href="$class_team_fortress_viewport.html#a4a8a293c5dfc6f0ca89848ac41ef2c5f" title="Hides the topmost VGUI menu and displays the next one in the stack." alt="" coords="1118,415,1269,457"/>
+<area shape="poly" id="edge61_Node000007_Node000057" title=" " alt="" coords="1376,645,1334,563,1304,518,1269,478,1244,460,1247,456,1272,474,1308,515,1339,560,1381,642"/>
+<area shape="rect" id="Node000059" href="$class_team_fortress_viewport.html#aa2ca5425c8340af817d1bc25fed69d06" title="Displays the scoreboard if the game is a multiplayer session." alt="" coords="887,568,1039,611"/>
+<area shape="poly" id="edge71_Node000007_Node000059" title=" " alt="" coords="1303,680,1212,673,1115,656,1057,637,1005,614,1007,609,1059,632,1117,651,1213,668,1304,675"/>
+<area shape="rect" id="Node000061" href="$class_team_fortress_viewport.html#a6c45e61d95862e05ecd228041cd43c44" title="Toggles the visibility of the server browser." alt="" coords="1118,532,1269,575"/>
+<area shape="poly" id="edge77_Node000007_Node000061" title=" " alt="" coords="1354,649,1314,619,1269,589,1248,578,1250,573,1272,584,1317,614,1357,645"/>
+<area shape="rect" id="Node000062" href="$class_c_h_l_voice_status_helper.html#a6943189c2f3c25e7f377f9fdb522c5ab" title=" " alt="" coords="1116,599,1270,641"/>
+<area shape="poly" id="edge78_Node000007_Node000062" title=" " alt="" coords="1304,655,1268,644,1269,639,1305,650"/>
+<area shape="rect" id="Node000009" href="$class_c_menu_handler___string_command.html#a3e619e44d50579b42672f0c63120c651" title=" " alt="" coords="860,124,1066,167"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1169,776,1139,720,1114,654,1100,600,1095,553,1094,471,1091,391,1083,345,1066,293,1048,257,1026,223,983,169,987,165,1031,220,1053,254,1071,291,1088,344,1097,390,1099,471,1100,552,1106,599,1119,653,1144,718,1173,773"/>
+<area shape="rect" id="Node000012" href="$class_c_menu_handler___text_window.html#aa84e01da19f1f95b0811ab25ca5ab476" title=" " alt="" coords="600,427,785,469"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="1172,775,1066,558,1035,535,1000,515,927,486,852,467,785,456,786,451,853,462,928,481,1003,511,1038,530,1070,554,1177,773"/>
+<area shape="rect" id="Node000013" href="$class_c_menu_handler___toggle_cvar.html#a01a498ca1e6958ba3967990765d046fa" title=" " alt="" coords="344,889,520,932"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="1173,845,1112,943,1070,1003,1025,1023,965,1038,896,1048,822,1054,749,1055,679,1050,620,1039,574,1022,555,1005,547,985,541,965,526,946,508,935,511,930,529,942,545,962,552,983,560,1002,577,1018,621,1034,680,1045,749,1049,822,1049,896,1043,964,1033,1023,1018,1066,999,1108,940,1168,843"/>
+<area shape="rect" id="Node000014" href="$class_c_menu_handler___spectate_follow.html#a1ec4ad8686d7a6655de3c618d5730dfa" title=" " alt="" coords="862,880,1064,923"/>
+<area shape="poly" id="edge14_Node000008_Node000014" title=" " alt="" coords="1128,840,1069,864,1023,882,1021,877,1067,859,1126,835"/>
+<area shape="rect" id="Node000015" href="$class_team_fortress_viewport.html#a5473469282eaaea27c9a0eafe21fd277" title="Initializes the TeamFortressViewport, resets data and hides menus." alt="" coords="617,848,768,891"/>
+<area shape="poly" id="edge15_Node000008_Node000015" title=" " alt="" coords="1103,823,769,863,768,858,1102,817"/>
+<area shape="rect" id="Node000019" href="$class_team_fortress_viewport.html#aadaa0636ffc22d8ed307fbc373ec084c" title="Handles the key input when the &quot;&#45;commandmenu&quot; action is triggered." alt="" coords="858,947,1068,989"/>
+<area shape="poly" id="edge18_Node000008_Node000019" title=" " alt="" coords="1169,845,1125,892,1099,916,1069,937,1047,948,1045,944,1067,932,1095,912,1122,888,1165,841"/>
+<area shape="rect" id="Node000020" href="$class_team_fortress_viewport.html#a9459e8b460b7deb3889648dfb5cbcb29" title="Handles direct key input and dispatches it to active menus or performs default behavior." alt="" coords="617,176,768,219"/>
+<area shape="poly" id="edge19_Node000008_Node000020" title=" " alt="" coords="1169,776,1140,720,1114,654,1103,608,1101,567,1107,494,1109,461,1104,428,1091,394,1066,358,1042,337,1019,325,994,321,969,320,915,318,886,310,856,294,840,278,831,263,823,247,808,233,768,214,770,209,811,228,827,244,836,260,844,275,859,290,888,305,916,312,969,314,995,315,1020,320,1045,332,1070,354,1096,391,1110,426,1114,461,1113,495,1107,567,1109,608,1119,653,1145,718,1174,773"/>
+<area shape="rect" id="Node000022" href="$class_c_hud.html#aac1f2a93ad7bddebedaa6dcdc8bd3bf3" title="Redraws the HUD elements on the screen." alt="" coords="380,659,484,685"/>
+<area shape="poly" id="edge22_Node000008_Node000022" title=" " alt="" coords="1168,777,1125,727,1098,704,1067,686,1018,673,951,664,872,659,787,658,617,663,485,671,484,665,616,658,787,653,872,654,952,658,1019,667,1069,682,1101,700,1129,723,1172,773"/>
+<area shape="poly" id="edge25_Node000008_Node000024" title=" " alt="" coords="1191,847,1180,907,1159,982,1143,1021,1124,1059,1099,1093,1070,1123,1048,1137,1017,1150,939,1171,851,1188,770,1199,769,1194,850,1183,937,1166,1015,1145,1045,1133,1066,1119,1095,1090,1119,1056,1139,1019,1154,980,1175,906,1186,846"/>
+<area shape="poly" id="edge29_Node000008_Node000028" title=" " alt="" coords="1177,846,1070,1066,1038,1084,1036,1080,1066,1062,1172,844"/>
+<area shape="poly" id="edge47_Node000008_Node000050" title=" " alt="" coords="1170,775,1142,719,1114,654,1100,608,1094,570,1086,534,1066,492,1031,448,992,413,996,409,1034,444,1070,489,1091,533,1099,569,1105,607,1119,652,1147,717,1175,773"/>
+<area shape="rect" id="Node000010" href="$class_c_menu_handler___string_command_watch.html#a771d45c6ec62deed4abd3b066e5efa05" title=" " alt="" coords="589,43,796,85"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="878,121,809,100,770,89,772,83,811,95,880,116"/>
+<area shape="rect" id="Node000011" href="$class_c_menu_handler___string_command_class_select.html#abf8138cd52950b27e57170e9525a7262" title="Executes string command and class&#45;related logic." alt="" coords="589,109,796,152"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="844,142,796,139,796,134,844,136"/>
+<area shape="rect" id="Node000016" href="$class_team_fortress_viewport.html#aacf8ea3f9311effbcb873b677272d989" title="Constructor for the TeamFortressViewport class." alt="" coords="352,772,511,815"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="601,846,507,818,508,813,603,841"/>
+<area shape="rect" id="Node000017" href="$vgui__int_8cpp.html#a5b59510079d53a6f58522389266e4673" title="Initializes the VGUI system and sets up the root panel and viewport." alt="" coords="382,839,481,865"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="601,866,482,858,482,853,602,861"/>
+<area shape="rect" id="Node000021" href="$input_8cpp.html#acae0b9c23c657f3a85229c9d78d8adea" title="Handles keyboard input events for the HUD (Heads&#45;Up Display)." alt="" coords="131,276,249,303"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="602,216,250,281,249,276,601,211"/>
+<area shape="poly" id="edge21_Node000021_Node000003" title=" " alt="" coords="116,306,45,319,44,314,115,300"/>
+<area shape="rect" id="Node000023" href="$cdll__int_8cpp.html#a5ea2cbe1b24757e7b528d2d005111a52" title="Redraws the HUD on each screen frame." alt="" coords="141,541,239,568"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="379,655,335,636,214,571,216,566,337,631,381,650"/>
+<area shape="poly" id="edge24_Node000023_Node000003" title=" " alt="" coords="168,530,33,335,37,332,172,527"/>
+<area shape="rect" id="Node000025" href="$class_spectator_panel.html#a1a544898f388f8e31d9d630b0ae5f73a" title="Handles commands triggered by UI buttons in the spectator panel." alt="" coords="336,1209,527,1236"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="601,1214,528,1219,528,1214,600,1209"/>
+<area shape="rect" id="Node000027" href="$class_team_fortress_viewport.html#a5b444b705fe09a117cc63afa5634965f" title="Activates the player&#39;s special ability based on their class." alt="" coords="356,1260,507,1303"/>
+<area shape="poly" id="edge28_Node000024_Node000027" title=" " alt="" coords="603,1234,508,1262,507,1257,601,1229"/>
+<area shape="rect" id="Node000026" href="$class_c_spectator_handler___command.html#a509a22bc71233c7f1b98bc4c9a30c76b" title=" " alt="" coords="92,1201,288,1244"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="320,1225,289,1225,289,1220,320,1220"/>
+<area shape="poly" id="edge30_Node000028_Node000025" title=" " alt="" coords="870,1115,694,1149,576,1175,553,1187,528,1200,494,1211,492,1206,526,1195,550,1182,574,1169,693,1143,869,1110"/>
+<area shape="rect" id="Node000029" href="$class_c_hud_spectator.html#ad7203888c3889b037e61853f34a97483" title="Handles spectator input buttons that are currently being held down." alt="" coords="575,1083,810,1109"/>
+<area shape="poly" id="edge31_Node000028_Node000029" title=" " alt="" coords="856,1099,810,1099,810,1093,856,1093"/>
+<area shape="rect" id="Node000041" href="$hud__spectator_8cpp.html#a5313dcd1d9d917e9ae65c0f2870214e8" title="Shows or hides the spectator menu." alt="" coords="638,915,747,941"/>
+<area shape="poly" id="edge42_Node000028_Node000041" title=" " alt="" coords="933,1074,856,1003,833,977,824,966,808,956,778,943,747,936,748,931,780,938,811,951,827,962,837,973,860,999,936,1070"/>
+<area shape="rect" id="Node000043" href="$class_team_fortress_viewport.html#a8d2ef332bdcfc615c3d92badfc78b46e" title="Updates the spectator panel based on current spectator settings." alt="" coords="613,965,772,1008"/>
+<area shape="poly" id="edge44_Node000028_Node000043" title=" " alt="" coords="913,1079,746,1011,748,1006,915,1074"/>
+<area shape="rect" id="Node000030" href="$input_8cpp.html#a902e0d6408b8e23bbdc99f852c63e062" title="Called when the secondary attack key is pressed (usually right&#45;click)." alt="" coords="373,1057,490,1084"/>
+<area shape="poly" id="edge32_Node000029_Node000030" title=" " alt="" coords="560,1086,491,1079,491,1074,560,1080"/>
+<area shape="rect" id="Node000033" href="$input_8cpp.html#a08b65730e74679bb3961c3677bcd1e42" title="Called when the primary attack key is pressed (usually left&#45;click)." alt="" coords="377,1108,487,1135"/>
+<area shape="poly" id="edge34_Node000029_Node000033" title=" " alt="" coords="560,1112,488,1119,487,1113,560,1106"/>
+<area shape="rect" id="Node000034" href="$input_8cpp.html#aba1f5db135c4831097d288584d014053" title="Called when the back movement key is pressed." alt="" coords="381,1159,483,1185"/>
+<area shape="poly" id="edge36_Node000029_Node000034" title=" " alt="" coords="623,1116,576,1131,528,1149,484,1162,483,1157,527,1144,575,1125,621,1111"/>
+<area shape="rect" id="Node000035" href="$input_8cpp.html#a31e0127c59d1622fbd626f8780d790f2" title="Called when the duck key is pressed." alt="" coords="381,956,483,983"/>
+<area shape="poly" id="edge38_Node000029_Node000035" title=" " alt="" coords="597,1079,574,1066,557,1049,549,1030,541,1013,526,997,505,986,483,979,484,973,507,981,529,993,546,1010,554,1028,562,1046,577,1062,599,1074"/>
+<area shape="rect" id="Node000036" href="$input_8cpp.html#ae164f20ef2a922a6c1aa604597810542" title="Called when the forward movement key is pressed." alt="" coords="373,1007,491,1033"/>
+<area shape="poly" id="edge40_Node000029_Node000036" title=" " alt="" coords="621,1081,575,1067,527,1048,488,1036,489,1031,528,1043,576,1061,623,1076"/>
+<area shape="rect" id="Node000031" href="$input_8cpp.html#a723d5097c951655a67237406943ca51a" title="Initializes input system and registers all keybindings and variables." alt="" coords="157,1007,223,1033"/>
+<area shape="poly" id="edge33_Node000030_Node000031" title=" " alt="" coords="357,1058,223,1029,224,1024,358,1053"/>
+<area shape="poly" id="edge35_Node000033_Node000031" title=" " alt="" coords="361,1107,335,1098,267,1067,212,1036,215,1031,270,1062,337,1094,363,1102"/>
+<area shape="poly" id="edge37_Node000034_Node000031" title=" " alt="" coords="365,1161,335,1149,293,1122,255,1091,201,1036,205,1032,259,1087,296,1118,337,1144,367,1156"/>
+<area shape="poly" id="edge39_Node000035_Node000031" title=" " alt="" coords="366,986,224,1016,223,1011,365,981"/>
+<area shape="poly" id="edge41_Node000036_Node000031" title=" " alt="" coords="357,1023,224,1023,224,1017,357,1017"/>
+<area shape="rect" id="Node000042" href="$class_c_hud_spectator.html#a699359672bc053ee8c212523c63d3543" title="Initializes the HUD Spectator system and registers commands/variables." alt="" coords="365,595,499,621"/>
+<area shape="poly" id="edge43_Node000041_Node000042" title=" " alt="" coords="622,929,596,920,574,905,551,873,542,841,541,809,546,777,551,745,552,713,545,681,525,648,510,634,491,624,494,620,513,630,529,645,550,679,557,713,556,745,551,778,547,809,547,840,556,870,577,901,599,916,624,924"/>
+<area shape="poly" id="edge45_Node000043_Node000013" title=" " alt="" coords="600,963,575,956,505,935,507,930,576,951,601,958"/>
+<area shape="poly" id="edge46_Node000043_Node000022" title=" " alt="" coords="597,973,573,955,552,924,544,893,543,863,547,832,551,802,552,772,544,742,525,711,506,695,483,685,486,680,509,691,529,708,549,740,557,772,557,803,553,833,549,863,549,892,557,922,577,951,600,968"/>
+<area shape="poly" id="edge48_Node000050_Node000012" title=" " alt="" coords="872,412,786,431,784,425,871,406"/>
+<area shape="poly" id="edge49_Node000050_Node000020" title=" " alt="" coords="896,362,856,331,839,304,833,279,826,256,808,233,789,220,767,211,769,206,791,215,812,229,831,253,838,278,844,302,860,328,899,358"/>
+<area shape="rect" id="Node000051" href="$class_team_fortress_viewport.html#aa3e065e7b121377c4521dedcdaa5fc2c" title="Handles the message of the message of the day (MOTD)." alt="" coords="617,243,768,285"/>
+<area shape="poly" id="edge50_Node000050_Node000051" title=" " alt="" coords="908,362,856,332,833,315,809,300,768,284,770,279,811,295,836,310,859,327,911,358"/>
+<area shape="rect" id="Node000052" href="$class_team_fortress_viewport.html#a134495fd5dee19d9922f10c7ec499975" title="Handles the VGUI menu message." alt="" coords="616,309,769,352"/>
+<area shape="poly" id="edge51_Node000050_Node000052" title=" " alt="" coords="871,372,769,350,770,345,872,367"/>
+<area shape="rect" id="Node000053" href="$hud__spectator_8cpp.html#a1175aa7c226725e5cce2dcc79957752d" title="Displays spectator help text or menu." alt="" coords="641,376,744,403"/>
+<area shape="poly" id="edge52_Node000050_Node000053" title=" " alt="" coords="871,392,745,392,745,387,871,387"/>
+<area shape="poly" id="edge53_Node000053_Node000042" title=" " alt="" coords="626,398,600,405,577,417,551,436,528,459,488,510,459,559,441,595,437,593,455,556,484,507,524,456,548,432,574,412,599,400,625,393"/>
+<area shape="poly" id="edge57_Node000054_Node000015" title=" " alt="" coords="874,743,859,753,843,771,836,791,828,811,812,831,791,845,769,855,767,850,789,840,808,827,824,808,831,789,839,769,856,749,872,738"/>
+<area shape="poly" id="edge58_Node000054_Node000022" title=" " alt="" coords="872,712,484,679,484,674,872,707"/>
+<area shape="rect" id="Node000055" href="$input_8cpp.html#aa2635ac3f0c13062b5789c15cd4f7c5c" title="Called when the scoreboard key is released." alt="" coords="387,721,477,748"/>
+<area shape="poly" id="edge55_Node000054_Node000055" title=" " alt="" coords="872,727,810,731,625,736,477,737,477,732,625,731,810,725,871,722"/>
+<area shape="rect" id="Node000056" href="$hud__spectator_8cpp.html#af8c199aa73fdcead9a483b4778e58e1c" title="Toggles the visibility of the scoreboard." alt="" coords="642,595,743,621"/>
+<area shape="poly" id="edge59_Node000054_Node000056" title=" " alt="" coords="893,692,727,624,729,619,895,687"/>
+<area shape="poly" id="edge56_Node000055_Node000031" title=" " alt="" coords="373,745,354,752,338,762,308,790,281,822,240,893,212,960,197,1007,192,1005,207,958,235,891,277,819,304,786,334,758,352,747,371,740"/>
+<area shape="poly" id="edge60_Node000056_Node000042" title=" " alt="" coords="627,611,499,611,499,605,627,605"/>
+<area shape="poly" id="edge62_Node000057_Node000009" title=" " alt="" coords="1178,401,1162,357,1137,304,1106,250,1066,202,1044,184,1019,170,1022,165,1047,180,1070,198,1110,247,1142,302,1166,355,1183,399"/>
+<area shape="poly" id="edge63_Node000057_Node000012" title=" " alt="" coords="1102,441,785,448,785,443,1102,435"/>
+<area shape="poly" id="edge68_Node000057_Node000020" title=" " alt="" coords="1169,403,1126,346,1098,318,1067,294,992,257,913,232,835,215,768,206,769,200,836,210,914,227,994,253,1069,290,1102,314,1130,343,1173,400"/>
+<area shape="rect" id="Node000058" href="$class_team_fortress_viewport.html#afc9c5415b7278d8ed24fe573eec53188" title="Hides all currently visible VGUI menus." alt="" coords="887,763,1039,805"/>
+<area shape="poly" id="edge64_Node000057_Node000058" title=" " alt="" coords="1158,470,1136,494,1118,521,1106,554,1101,585,1103,641,1104,668,1101,696,1091,723,1070,752,1056,764,1040,773,1038,768,1053,760,1066,749,1086,721,1096,694,1099,668,1098,641,1096,584,1101,553,1114,519,1132,491,1154,466"/>
+<area shape="poly" id="edge65_Node000058_Node000015" title=" " alt="" coords="879,813,763,850,762,845,877,808"/>
+<area shape="poly" id="edge66_Node000058_Node000022" title=" " alt="" coords="872,771,732,745,575,712,482,689,484,683,576,707,733,740,873,766"/>
+<area shape="poly" id="edge67_Node000058_Node000024" title=" " alt="" coords="912,816,883,840,860,869,844,904,837,936,836,966,837,995,839,1025,837,1055,830,1088,812,1123,797,1142,779,1159,741,1186,738,1181,776,1155,793,1139,807,1120,825,1086,832,1054,834,1025,832,995,830,966,831,935,839,902,855,867,880,837,908,812"/>
+<area shape="poly" id="edge74_Node000059_Node000022" title=" " alt="" coords="872,570,805,561,729,557,651,564,613,572,577,585,561,595,553,608,544,621,529,636,479,661,477,656,526,631,540,618,548,605,558,591,574,580,611,567,650,558,729,552,805,555,873,565"/>
+<area shape="poly" id="edge75_Node000059_Node000056" title=" " alt="" coords="872,598,743,607,743,602,872,593"/>
+<area shape="rect" id="Node000060" href="$input_8cpp.html#aa63ffd5777bf8eaab02cbee0999b32b1" title="Called when the scoreboard key is pressed." alt="" coords="639,493,746,520"/>
+<area shape="poly" id="edge72_Node000059_Node000060" title=" " alt="" coords="883,565,809,541,745,523,747,518,811,536,885,560"/>
+<area shape="poly" id="edge73_Node000060_Node000031" title=" " alt="" coords="624,505,557,507,481,518,442,528,405,542,369,561,338,585,294,634,260,692,235,754,217,817,205,877,198,931,194,1006,189,1006,193,931,200,876,212,816,230,752,255,689,290,631,334,581,367,556,402,537,440,523,480,513,557,502,624,500"/>
+</map>

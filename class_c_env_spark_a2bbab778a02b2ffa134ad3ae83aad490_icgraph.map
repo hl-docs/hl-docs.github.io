@@ -1,0 +1,9 @@
+<map id="CEnvSpark::SparkStart" name="CEnvSpark::SparkStart">
+<area shape="rect" id="Node000001" title="Starts the spark effect for the spark environment entity." alt="" coords="388,5,543,32"/>
+<area shape="rect" id="Node000002" href="$class_c_env_spark.html#ab71f692b3c075a7fed13712d1509abeb" title="Stops the spark effect for the spark environment entity." alt="" coords="186,5,340,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,30,340,30,340,25,373,25"/>
+<area shape="rect" id="Node000003" href="$class_c_env_spark.html#a347606543b1028f6c91a6a8c64938795" title="Spawns the spark environment entity." alt="" coords="5,31,138,57"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="394,38,340,47,233,52,138,50,138,45,233,47,340,41,393,33"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="355,7,388,7,388,13,355,12"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="171,34,138,38,137,33,170,28"/>
+</map>

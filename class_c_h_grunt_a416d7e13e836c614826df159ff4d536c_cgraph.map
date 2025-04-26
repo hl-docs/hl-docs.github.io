@@ -1,0 +1,9 @@
+<map id="CHGrunt::Spawn" name="CHGrunt::Spawn">
+<area shape="rect" id="Node000001" title="Spawns the grunt entity." alt="" coords="5,56,124,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="200,5,247,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,53,185,28,187,33,110,58"/>
+<area shape="rect" id="Node000003" href="$animation_8cpp.html#a8562162bf1302b1e5f4c43290ab13da6" title="Sets the body group for a model." alt="" coords="172,56,275,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,67,156,67,156,72,124,72"/>
+<area shape="rect" id="Node000004" href="$hl__baseentity_8cpp.html#ab9f593697c96282971d0db5494d5a833" title=" " alt="" coords="173,107,274,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="110,81,166,99,164,104,108,86"/>
+</map>

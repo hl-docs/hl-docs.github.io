@@ -1,0 +1,19 @@
+<map id="CBaseEntity::IsMoving" name="CBaseEntity::IsMoving">
+<area shape="rect" id="Node000001" title=" " alt="" coords="634,107,787,133"/>
+<area shape="rect" id="Node000002" href="$class_c_talk_monster.html#a4c3d998262953f633db307b6c196a903" title="Attempts to start a conversation or make a statement." alt="" coords="412,81,586,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="619,112,586,108,587,102,619,106"/>
+<area shape="rect" id="Node000009" href="$class_c_controller.html#a8886150858264160340eb0463957f3df" title="Moves the controller monster." alt="" coords="438,132,561,159"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="619,134,562,141,561,135,619,128"/>
+<area shape="rect" id="Node000003" href="$class_c_talk_monster.html#a73cd9db7d1bd90bad36b49a739c07709" title="Runs a task for the talk monster." alt="" coords="201,56,362,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,85,362,81,362,76,397,80"/>
+<area shape="rect" id="Node000006" href="$class_c_talk_monster.html#a547a2a3d7b3ef01e0bb9866da2233f62" title="Starts a task for the talk monster." alt="" coords="199,107,364,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="397,109,365,113,364,108,396,104"/>
+<area shape="rect" id="Node000004" href="$class_c_barney.html#ac4774636a01edd847b7b0da86c6b8b88" title="Runs a task for the Barney entity." alt="" coords="13,5,143,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="209,54,134,35,135,30,211,49"/>
+<area shape="rect" id="Node000005" href="$class_c_scientist.html#a050ff24540718e92f79b0b57d9c0cf7d" title="Runs a task for the scientist." alt="" coords="8,56,148,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="186,72,148,72,148,67,186,67"/>
+<area shape="rect" id="Node000007" href="$class_c_barney.html#a448e84fa7aac58fca4c4b0213332b957" title="Starts a task for the Barney entity." alt="" coords="10,107,146,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="183,123,146,123,146,117,183,117"/>
+<area shape="rect" id="Node000008" href="$class_c_scientist.html#acb112f78e6b26cbf4c38a32a201221ae" title="Starts a task for the scientist." alt="" coords="5,157,151,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="211,140,135,159,134,154,209,135"/>
+</map>

@@ -1,0 +1,26 @@
+var cbase_8cpp =
+[
+    [ "DispatchBlocked", "cbase_8cpp.html#a0f287b8edc8589e57b194f87967a1e58", null ],
+    [ "DispatchKeyValue", "cbase_8cpp.html#a321c6f352ba98d0b444a860784a910fc", null ],
+    [ "DispatchObjectCollsionBox", "cbase_8cpp.html#ad08ccea7a138ecc35eec8e42f616323e", null ],
+    [ "DispatchRestore", "cbase_8cpp.html#a28d62ac92a1ba4cfb587a60c412d6926", null ],
+    [ "DispatchSave", "cbase_8cpp.html#a2dedfd03e4954377e6917418bb8a5297", null ],
+    [ "DispatchSpawn", "cbase_8cpp.html#a6326ab643fb365c162e4d5e636fb820e", null ],
+    [ "DispatchThink", "cbase_8cpp.html#a2d0b9696080ccc24754290cd9e73f575", null ],
+    [ "DispatchTouch", "cbase_8cpp.html#a19125f4a72f08bd9b49dc56794c8b105", null ],
+    [ "DispatchUse", "cbase_8cpp.html#af2273350e19e122512f9df4fae073f5f", null ],
+    [ "EntvarsKeyvalue", "cbase_8cpp.html#af72e744c172f92e7257ad3adfe84d08d", null ],
+    [ "FindGlobalEntity", "cbase_8cpp.html#a18473c1e17dec101c3acfcadb81fb60e", null ],
+    [ "GetEntityAPI", "cbase_8cpp.html#ac75ab389ee8958b58cac250e7083305a", null ],
+    [ "GetEntityAPI2", "cbase_8cpp.html#a8d94ab44c0ca2af1eecc7070f3edf69f", null ],
+    [ "PM_FindTextureType", "cbase_8cpp.html#ad69b0264310e1758470f45f9cb82488e", null ],
+    [ "PM_Init", "cbase_8cpp.html#acfe68b1cdbc3240e88b6d21f351c30e7", null ],
+    [ "PM_Move", "cbase_8cpp.html#a93976be26aeba051339105f9caa17b67", null ],
+    [ "SaveReadFields", "cbase_8cpp.html#abef62dd3552d92763186a8bc825a94eb", null ],
+    [ "SaveWriteFields", "cbase_8cpp.html#a30bb2ddd3cb90f43f41174d94cc1ff5d", null ],
+    [ "SetObjectCollisionBox", "cbase_8cpp.html#ab5eb1b86cc413e8c48365c0dba751ae1", null ],
+    [ "VecBModelOrigin", "cbase_8cpp.html#ae188671969a2ab14d622833f93364a19", null ],
+    [ "g_iSkillLevel", "cbase_8cpp.html#a0e3fbc0aa45c3f074f49492734193227", null ],
+    [ "g_vecAttackDir", "cbase_8cpp.html#a5f474989ef2f3cac43854be0ade3879d", null ],
+    [ "gFunctionTable", "cbase_8cpp.html#ac8d41d9287992bb58340f367aca959d4", null ]
+];

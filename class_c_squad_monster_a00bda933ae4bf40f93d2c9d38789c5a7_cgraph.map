@@ -1,0 +1,9 @@
+<map id="CSquadMonster::SquadRemove" name="CSquadMonster::SquadRemove">
+<area shape="rect" id="Node000001" title="Removes a squad member from the squad." alt="" coords="5,56,211,83"/>
+<area shape="rect" id="Node000002" href="$class_c_squad_monster.html#af6e53dc3a408babffcea2367c5695b01" title=" " alt="" coords="285,5,457,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,53,283,33,284,38,182,58"/>
+<area shape="rect" id="Node000003" href="$class_c_squad_monster.html#a8eecfa90882640b12b51daca63663e50" title=" " alt="" coords="263,56,479,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,67,247,67,247,72,211,72"/>
+<area shape="rect" id="Node000004" href="$class_c_squad_monster.html#a2b887c5d4e97c9b6bb0f7c59c8535cc3" title=" " alt="" coords="259,107,483,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,81,284,101,283,106,181,86"/>
+</map>

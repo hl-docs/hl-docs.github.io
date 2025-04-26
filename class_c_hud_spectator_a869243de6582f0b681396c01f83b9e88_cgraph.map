@@ -1,0 +1,5 @@
+<map id="CHudSpectator::AddOverviewEntity" name="CHudSpectator::AddOverviewEntity">
+<area shape="rect" id="Node000001" title="Adds a new overview entity based on type." alt="" coords="5,5,196,48"/>
+<area shape="rect" id="Node000002" href="$class_c_hud_spectator.html#ae1883e1b072c31d47f87fe25c31d0f5e" title="Adds an entity to the internal list of overview entities." alt="" coords="244,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,24,228,24,228,29,196,29"/>
+</map>

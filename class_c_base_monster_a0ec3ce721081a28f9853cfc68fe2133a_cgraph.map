@@ -1,0 +1,23 @@
+<map id="CBaseMonster::MoveToLocation" name="CBaseMonster::MoveToLocation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,214,132"/>
+<area shape="rect" id="Node000002" href="$class_c_base_monster.html#a0de1976252cc7ba8d42679859a102fd5" title="Refreshes the monster&#39;s route based on its current goal." alt="" coords="262,105,463,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,116,246,116,246,121,214,121"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#ac52839cc1ad59d4b41dd4014d10eba29" title="Retrieves the next target for the entity." alt="" coords="511,105,697,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,116,496,116,496,121,463,121"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="745,5,968,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="626,103,678,72,744,42,767,34,768,39,746,46,681,77,628,107"/>
+<area shape="rect" id="Node000005" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="821,80,892,107"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="697,107,805,96,806,101,698,112"/>
+<area shape="rect" id="Node000008" href="$util_8h.html#a74d0d0416867a0bd6a8f80022bb77c57" title=" " alt="" coords="814,131,899,157"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="698,125,798,136,798,141,697,131"/>
+<area shape="rect" id="Node000009" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="781,181,932,208"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="641,130,746,167,775,175,773,180,745,172,639,135"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="819,81,812,71,817,61,832,55,857,53,883,56,897,62,895,67,882,61,856,59,833,61,820,65,817,71,823,78"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1016,80,1146,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="892,91,1000,91,1000,96,892,96"/>
+<area shape="rect" id="Node000007" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1194,105,1240,132"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1147,103,1179,109,1178,114,1146,108"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="923,178,1178,124,1179,129,924,183"/>
+<area shape="rect" id="Node000010" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="1026,181,1136,208"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="932,192,1010,192,1010,197,932,197"/>
+</map>

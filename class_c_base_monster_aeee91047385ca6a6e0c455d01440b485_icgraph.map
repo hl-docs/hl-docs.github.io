@@ -1,0 +1,58 @@
+<map id="CBaseMonster::Look" name="CBaseMonster::Look">
+<area shape="rect" id="Node000001" title="Searches for visible entities within a specified distance." alt="" coords="1514,213,1657,240"/>
+<area shape="rect" id="Node000002" href="$class_c_base_turret.html#ac5d610d943c3839668ba12cf4529be10" title="Handles the auto&#45;search behavior of the turret." alt="" coords="1265,81,1466,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1547,207,1388,111,1391,106,1550,203"/>
+<area shape="rect" id="Node000008" href="$class_c_base_turret.html#a7104186dea53951fa01257ce6810c8ad" title="Handles the search behavior of the turret." alt="" coords="826,165,999,192"/>
+<area shape="poly" id="edge26_Node000001_Node000008" title=" " alt="" coords="1513,212,1465,204,1339,192,1212,184,1000,180,1000,175,1212,179,1339,186,1466,199,1514,207"/>
+<area shape="rect" id="Node000017" href="$class_c_squeak_grenade.html#a1c95a185a0ce662810f8ad450bf105e8" title="Handles the thinking behavior of the squeak grenade." alt="" coords="1271,213,1460,240"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="1498,229,1461,229,1461,224,1498,224"/>
+<area shape="rect" id="Node000019" href="$class_c_leech.html#a990a0f4bc1bd4f677981b5434cf48264" title="Switches the leech&#39;s state based on conditions." alt="" coords="1276,264,1455,291"/>
+<area shape="poly" id="edge27_Node000001_Node000019" title=" " alt="" coords="1510,247,1427,266,1426,261,1509,241"/>
+<area shape="rect" id="Node000022" href="$class_c_hornet.html#a275f461503bb47ba390a0b93b9834cb2" title="Tracks the target for the hornet." alt="" coords="1293,315,1438,341"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="1556,252,1515,279,1467,305,1434,317,1432,312,1465,300,1512,275,1553,247"/>
+<area shape="rect" id="Node000003" href="$class_c_base_turret.html#a0c00f8f68597ffc6be41e1e7e880497b" title="Initializes the turret&#39;s state." alt="" coords="188,5,337,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1317,78,1269,61,1217,47,1133,31,1066,24,914,21,688,21,337,21,337,16,688,16,914,16,1067,18,1133,26,1218,41,1270,56,1318,73"/>
+<area shape="rect" id="Node000007" href="$class_c_base_turret.html#a732fe94be3c994ac82fbed600ebdfcc4" title="Retires the turret." alt="" coords="1065,56,1200,83"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1250,85,1200,79,1201,74,1250,79"/>
+<area shape="rect" id="Node000004" href="$class_c_mini_turret.html#a1e952284488c7dceb845b8c843f3ffe7" title="Spawns the mini turret entity." alt="" coords="5,5,140,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,21,140,21,140,16,172,16"/>
+<area shape="rect" id="Node000005" href="$class_c_sentry.html#aec10a8f84bda6bb7f70e9f2554ef352c" title="Spawns the sentry entity." alt="" coords="15,107,130,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="198,41,189,46,175,58,166,71,156,84,141,97,119,108,117,104,138,92,152,80,161,68,171,55,186,42,195,37"/>
+<area shape="rect" id="Node000006" href="$class_c_turret.html#aa2207bf50a941d574529e6c70de6fbbb" title="Spawns the turret entity." alt="" coords="17,56,128,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="195,39,126,58,125,53,194,34"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1091,92,942,167,940,162,1089,87"/>
+<area shape="rect" id="Node000014" href="$class_c_base_turret.html#aab170b6bc93d774ec41e38e252234287" title="Handles the use behavior for the turret." alt="" coords="390,56,547,83"/>
+<area shape="poly" id="edge23_Node000007_Node000014" title=" " alt="" coords="1049,72,547,72,547,67,1049,67"/>
+<area shape="rect" id="Node000009" href="$class_c_base_turret.html#af189865900329b7769a335fa66e5f2b1" title="Handles the active thinking behavior of the turret." alt="" coords="385,169,552,196"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="810,190,553,192,553,186,810,185"/>
+<area shape="rect" id="Node000011" href="$class_c_base_turret.html#aca75241a920a6e589920143208c8562c" title="Deploys the turret." alt="" coords="618,107,760,133"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="844,163,742,136,743,131,845,158"/>
+<area shape="rect" id="Node000016" href="$class_c_base_turret.html#a0bf51cb491da64e2246751fd0460255c" title="Handles the damage behavior of the turret." alt="" coords="600,232,778,259"/>
+<area shape="poly" id="edge21_Node000008_Node000016" title=" " alt="" coords="851,200,737,234,736,229,850,194"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="568,171,825,169,825,175,568,177"/>
+<area shape="rect" id="Node000010" href="$class_c_turret.html#abbdf253e3a38f63841f6530a38e10ec1" title="Handles the spin&#45;up behavior of the turret." alt="" coords="195,169,330,196"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="370,185,330,185,330,180,370,180"/>
+<area shape="poly" id="edge12_Node000011_Node000002" title=" " alt="" coords="775,114,1265,96,1265,101,775,119"/>
+<area shape="rect" id="Node000012" href="$class_c_sentry.html#ad41a4a063ab7c1cef57d01e32bde0d5f" title="Handles damage taken by the sentry." alt="" coords="393,107,545,133"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="603,123,545,123,545,117,603,117"/>
+<area shape="poly" id="edge16_Node000011_Node000014" title=" " alt="" coords="612,105,529,86,530,81,614,100"/>
+<area shape="rect" id="Node000013" href="$class_c_sentry.html#a39059cd1ff9888979c51b1a4fe4d7c28" title="Handles touch interactions for the sentry." alt="" coords="188,107,337,133"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="377,123,338,123,338,117,377,117"/>
+<area shape="poly" id="edge15_Node000013_Node000005" title=" " alt="" coords="172,123,131,123,131,117,172,117"/>
+<area shape="rect" id="Node000015" href="$class_c_base_turret.html#a6ad46595be0146d679745f122dff6c8b" title="Spawns the base turret entity." alt="" coords="192,56,333,83"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="375,72,333,72,333,67,375,67"/>
+<area shape="poly" id="edge18_Node000015_Node000004" title=" " alt="" coords="194,54,125,35,126,30,195,49"/>
+<area shape="poly" id="edge19_Node000015_Node000005" title=" " alt="" coords="195,90,126,109,125,103,194,85"/>
+<area shape="poly" id="edge20_Node000015_Node000006" title=" " alt="" coords="177,72,128,72,128,67,177,67"/>
+<area shape="poly" id="edge22_Node000016_Node000009" title=" " alt="" coords="624,230,518,199,519,194,626,225"/>
+<area shape="rect" id="Node000018" href="$class_c_squeak_grenade.html#aa56947022261b500635afc53b288cb5b" title="Spawns the squeak grenade entity." alt="" coords="1047,213,1217,240"/>
+<area shape="poly" id="edge25_Node000017_Node000018" title=" " alt="" coords="1255,229,1218,229,1218,224,1255,224"/>
+<area shape="rect" id="Node000020" href="$class_c_leech.html#a5169ac45eeb1da2fec1903695f16b5b8" title="Handles the leech&#39;s swimming behavior." alt="" coords="1064,264,1200,291"/>
+<area shape="poly" id="edge28_Node000019_Node000020" title=" " alt="" coords="1261,280,1201,280,1201,275,1261,275"/>
+<area shape="rect" id="Node000021" href="$class_c_leech.html#aa131c1facc0d770a5b6bf6f4b41e26cd" title="Spawns the leech entity." alt="" coords="856,264,969,291"/>
+<area shape="poly" id="edge29_Node000020_Node000021" title=" " alt="" coords="1049,280,969,280,969,275,1049,275"/>
+<area shape="rect" id="Node000023" href="$class_c_hornet.html#a0845e7a20faeace07303c47c670c431b" title="Starts tracking the target for the hornet." alt="" coords="1064,315,1200,341"/>
+<area shape="poly" id="edge31_Node000022_Node000023" title=" " alt="" coords="1278,331,1201,331,1201,325,1278,325"/>
+<area shape="rect" id="Node000024" href="$class_c_hornet.html#a7d03243e49c6325891e6d9884450fa29" title="Spawns the hornet entity." alt="" coords="855,315,970,341"/>
+<area shape="poly" id="edge32_Node000023_Node000024" title=" " alt="" coords="1049,331,970,331,970,325,1049,325"/>
+</map>

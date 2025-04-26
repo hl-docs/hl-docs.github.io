@@ -1,0 +1,29 @@
+<map id="CHud::GetSpriteIndex" name="CHud::GetSpriteIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="489,291,636,317"/>
+<area shape="rect" id="Node000002" href="$class_history_resource.html#a07122d66705a20e4c05def6b6692b80d" title="Adds an entry to the ammo history based on sprite name." alt="" coords="238,5,441,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,276,542,226,520,163,486,100,465,71,439,46,421,35,424,30,443,42,469,68,491,97,525,161,547,224,559,275"/>
+<area shape="rect" id="Node000003" href="$class_c_hud_battery.html#a3155870e5a86dbcc2ee35b701355463a" title="Renders the battery status on the screen." alt="" coords="273,56,406,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="551,277,536,236,512,187,480,138,461,116,440,97,405,80,407,75,442,92,465,112,485,135,517,184,540,234,556,275"/>
+<area shape="rect" id="Node000004" href="$class_c_hud_status_icons.html#a403139ab868e275f393f7d4a06fd5c4e" title="Adds or updates a status icon in the active list." alt="" coords="242,107,437,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="546,278,504,212,474,177,440,148,417,136,420,132,442,143,478,173,509,208,550,275"/>
+<area shape="rect" id="Node000007" href="$class_c_hud_death_notice.html#ae7ac994f9ff2a5261c28167ec5e56522" title="Handles the &quot;DeathMsg&quot; message received from the server." alt="" coords="246,157,433,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="534,282,491,248,440,214,415,203,417,198,442,210,494,243,537,278"/>
+<area shape="rect" id="Node000008" href="$class_c_hud_ammo_secondary.html#a4b56da55e4fb184f4ea16127fd61b88c" title="Message handler for setting the secondary ammo icon sprite." alt="" coords="256,224,423,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="494,289,423,270,424,265,495,284"/>
+<area shape="rect" id="Node000009" href="$class_c_hud_health.html#a8ca459dcc5241ff935ffe44fedf4f971" title="Initializes video&#45;related elements like sprites." alt="" coords="272,291,407,317"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="473,307,407,307,407,301,473,301"/>
+<area shape="rect" id="Node000010" href="$class_c_hud_ammo.html#a0dd6e88581a520780def105f1231c784" title="Initializes the weapon HUD by loading sprite resources and setting other parameters." alt="" coords="272,341,407,368"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="486,324,402,343,401,338,485,319"/>
+<area shape="rect" id="Node000011" href="$class_c_hud_death_notice.html#a90747153e6145656b1d471b2cb137d3e" title="Loads the sprite used in the death notice." alt="" coords="255,392,424,419"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="533,329,491,357,442,382,409,394,407,389,440,378,489,352,530,324"/>
+<area shape="rect" id="Node000012" href="$class_c_hud_battery.html#a1d0b4c875bbcfe268dd16dedf2f5956e" title="Initializes battery HUD sprites and dimensions." alt="" coords="270,443,409,469"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="546,332,503,384,474,410,442,433,411,447,409,442,440,428,471,406,499,380,541,329"/>
+<area shape="rect" id="Node000013" href="$class_c_hud_flashlight.html#ab82be3632928b7df0b8bd194e59b437d" title="Initializes the sprites and graphical resources for the flashlight HUD element." alt="" coords="263,493,416,520"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="553,333,536,367,512,408,481,449,443,484,417,496,415,492,439,479,477,445,508,405,531,365,548,330"/>
+<area shape="rect" id="Node000014" href="$class_c_hud_message.html#a49a36644cbd791617b95012090766998" title="Initializes video&#45;dependent resources for the HUD message system." alt="" coords="264,544,415,571"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="557,333,543,377,520,432,487,487,466,512,443,534,416,549,413,544,439,530,462,509,483,484,515,430,538,376,552,331"/>
+<area shape="rect" id="Node000005" href="$class_c_hud.html#ae21a7ff16a65f742113fbaa48e51a922" title="Handles concussion effect messages." alt="" coords="11,77,184,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,109,184,104,185,99,227,104"/>
+<area shape="rect" id="Node000006" href="$class_c_hud_status_icons.html#a27c9cabd9d272d1a3f969f65e0863d1f" title="Handles the StatusIcon HUD message." alt="" coords="5,128,190,171"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="227,136,191,141,190,135,227,131"/>
+</map>

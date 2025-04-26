@@ -1,0 +1,7 @@
+<map id="HUD_GetStudioModelInterface" name="HUD_GetStudioModelInterface">
+<area shape="rect" id="Node000001" title="Provides the studio renderer interface to the engine." alt="" coords="5,13,203,40"/>
+<area shape="rect" id="Node000002" href="$_game_studio_model_renderer_8cpp.html#a917a327f4bbd9319df2a10eacdf363a7" title="Initializes the studio renderer." alt="" coords="251,13,342,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,24,235,24,235,29,203,29"/>
+<area shape="rect" id="Node000003" href="$class_c_studio_model_renderer.html#a014198bcaf6aa569cc20014c7244b9cc" title="Initializes the studio model renderer by retrieving engine variables and transformation matrices." alt="" coords="390,5,544,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,24,375,24,375,29,342,29"/>
+</map>

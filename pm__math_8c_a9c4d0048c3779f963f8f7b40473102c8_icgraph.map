@@ -1,0 +1,7 @@
+<map id="Length" name="Length">
+<area shape="rect" id="Node000001" title="Calculates the length (magnitude) of a vector." alt="" coords="203,31,263,57"/>
+<area shape="rect" id="Node000002" href="$pm__math_8c.html#a451d7fa2f32456fbb7a2804dbe07936b" title="Calculates the angle between two vectors in degrees." alt="" coords="5,5,155,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,39,154,34,155,28,188,34"/>
+<area shape="rect" id="Node000003" href="$pm__math_8c.html#ab2064938c5db0d1ba3f8f2f96abf6f11" title="Calculates the distance between two points." alt="" coords="44,56,116,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,54,117,66,116,61,187,49"/>
+</map>

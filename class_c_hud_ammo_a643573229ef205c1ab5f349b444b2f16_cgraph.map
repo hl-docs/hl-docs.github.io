@@ -1,0 +1,7 @@
+<map id="CHudAmmo::UserCmd_NextWeapon" name="CHudAmmo::UserCmd_NextWeapon">
+<area shape="rect" id="Node000001" title="Selects the next weapon in the inventory, ensuring it has available ammo." alt="" coords="5,31,241,57"/>
+<area shape="rect" id="Node000002" href="$class_weapons_resource.html#a7b20a4d25d14cf8621d1d28b292ab82b" title=" " alt="" coords="289,5,520,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,31,273,28,273,33,242,36"/>
+<area shape="rect" id="Node000003" href="$class_weapons_resource.html#a57d2e816bfbc647a46c29e04c361e6f6" title="Checks if a given weapon has ammo available for use." alt="" coords="304,56,505,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,52,289,56,288,62,241,57"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="CBigMomma::NodeStart" name="CBigMomma::NodeStart">
+<area shape="rect" id="Node000001" title="Starts the node sequence for the Big Momma entity." alt="" coords="5,105,168,132"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a90d239388e5ce21deec0031c1c84dfd8" title=" " alt="" coords="216,5,438,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,103,154,72,215,42,236,34,237,39,217,46,157,77,109,107"/>
+<area shape="rect" id="Node000003" href="$player_8cpp.html#ac700de2b1db0eed74607967167466e43" title=" " alt="" coords="291,80,363,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,107,276,96,276,101,169,113"/>
+<area shape="rect" id="Node000006" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="251,131,403,157"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="169,125,236,132,235,137,168,130"/>
+<area shape="rect" id="Node000008" href="$class_c_base_monster.html#a6b87cb947f539eaf9efc1b9905b328ca" title=" " alt="" coords="238,181,416,208"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="120,130,217,167,244,175,242,180,215,172,118,135"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="289,81,282,71,287,61,302,55,327,53,353,56,368,62,365,67,352,61,327,59,303,61,290,65,288,71,293,78"/>
+<area shape="rect" id="Node000004" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="486,80,616,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="363,91,471,91,471,96,363,96"/>
+<area shape="rect" id="Node000005" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="664,105,711,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="617,103,649,109,648,114,616,108"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="403,136,649,119,649,124,403,141"/>
+<area shape="rect" id="Node000007" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="497,181,606,208"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="390,155,482,176,481,182,389,161"/>
+</map>

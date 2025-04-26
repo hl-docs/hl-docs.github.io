@@ -1,0 +1,9 @@
+<map id="CHGrunt::SetActivity" name="CHGrunt::SetActivity">
+<area shape="rect" id="Node000001" title="Sets the activity for the grunt." alt="" coords="5,56,147,83"/>
+<area shape="rect" id="Node000002" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="232,5,279,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,53,216,27,218,32,127,58"/>
+<area shape="rect" id="Node000003" href="$animation_8cpp.html#a2381271e407303597ec5487dd3045b4c" title="Looks up the activity sequence for a model." alt="" coords="203,56,308,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,67,187,67,187,72,147,72"/>
+<area shape="rect" id="Node000004" href="$animation_8cpp.html#a92fc9f5440af89fa8f81a83d92710a42" title="Looks up the sequence index by its label." alt="" coords="195,107,316,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,81,192,99,190,105,125,86"/>
+</map>

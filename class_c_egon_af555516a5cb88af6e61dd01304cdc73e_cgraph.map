@@ -1,0 +1,118 @@
+<map id="CEgon::PrimaryAttack" name="CEgon::PrimaryAttack">
+<area shape="rect" id="Node000001" title="Executes the primary attack action for the Egon weapon." alt="" coords="5,519,157,546"/>
+<area shape="rect" id="Node000002" href="$class_c_egon.html#afdaa975c32b9f74614b946062b936eb8" title="Executes the attack action for the Egon weapon." alt="" coords="205,519,311,546"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,530,189,530,189,535,157,535"/>
+<area shape="rect" id="Node000003" href="$class_c_base_entity.html#a6999f7ff8caf8c3ff070feb93a803f40" title=" " alt="" coords="1078,393,1208,419"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,518,267,438,287,319,300,258,316,202,335,157,357,127,399,93,440,65,481,42,522,25,564,13,605,5,646,3,687,5,728,11,769,22,852,56,935,106,1020,170,1067,254,1131,378,1126,380,1063,257,1016,173,932,110,850,61,768,27,727,17,686,10,646,8,605,11,565,18,524,30,484,47,443,70,402,97,361,131,340,159,321,204,305,259,292,320,273,438,263,519"/>
+<area shape="rect" id="Node000005" href="$class_c_egon.html#a35de8cf5f46d3c2133a8890f37d98c90" title="Ends the attack action for the Egon weapon." alt="" coords="393,190,522,217"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="265,518,357,361,437,229,442,231,361,363,269,520"/>
+<area shape="rect" id="Node000009" href="$com__weapons_8cpp.html#a1a3740b5cf813994d72bff5651391fd9" title="Returns the current weapon time base on the client." alt="" coords="618,114,778,141"/>
+<area shape="poly" id="edge66_Node000002_Node000009" title=" " alt="" coords="258,518,270,447,291,343,320,242,337,202,357,176,384,156,413,141,477,121,542,113,602,113,602,119,542,119,478,126,415,146,387,161,361,180,342,205,325,244,296,344,275,448,264,519"/>
+<area shape="rect" id="Node000010" href="$class_c_egon.html#a56733b0e176ebb9bce900309e6dc12ce" title="Fires the Egon weapon in the specified direction." alt="" coords="413,519,503,546"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="311,530,397,530,397,535,311,535"/>
+<area shape="rect" id="Node000015" href="$class_c_egon.html#a2013d5b7a0d42525844d5c87f1feb335" title="Retrieves the pulse interval for the Egon weapon." alt="" coords="617,266,779,293"/>
+<area shape="poly" id="edge61_Node000002_Node000015" title=" " alt="" coords="276,517,408,423,503,363,603,309,635,296,637,301,605,314,506,368,411,427,279,521"/>
+<area shape="rect" id="Node000057" href="$class_c_base_player.html#a33b5c8961e4da8133d18270ed4e2b142" title="Gets the player&#39;s gun position." alt="" coords="359,570,556,597"/>
+<area shape="poly" id="edge60_Node000002_Node000057" title=" " alt="" coords="312,544,388,563,387,568,311,549"/>
+<area shape="rect" id="Node000058" href="$class_c_egon.html#aff39cc3052adb6d934e29874dfb6a4d0" title="Checks if the Egon weapon has ammo." alt="" coords="393,621,522,647"/>
+<area shape="poly" id="edge62_Node000002_Node000058" title=" " alt="" coords="275,545,312,576,360,606,379,614,377,619,358,611,309,580,272,549"/>
+<area shape="rect" id="Node000059" href="$class_c_base_player_weapon.html#a075cf49a07ee769bb7feac970e016f95" title="Plays the weapon&#39;s empty click sound when there&#39;s no ammo." alt="" coords="381,671,534,714"/>
+<area shape="poly" id="edge63_Node000002_Node000059" title=" " alt="" coords="269,545,304,600,330,630,361,657,369,663,366,667,357,662,326,634,300,603,264,548"/>
+<area shape="rect" id="Node000061" href="$hl__baseentity_8cpp.html#ab05f77512c119287424cb3a712bf6364" title=" " alt="" coords="392,738,523,765"/>
+<area shape="poly" id="edge65_Node000002_Node000061" title=" " alt="" coords="265,546,275,582,293,630,322,681,340,704,361,724,379,735,376,740,357,728,336,708,317,684,289,632,270,583,260,547"/>
+<area shape="rect" id="Node000004" href="$util_8h.html#a85ee86ef1e88abe327f4266051e2a87d" title=" " alt="" coords="1303,393,1350,419"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1209,403,1288,403,1288,409,1209,409"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="522,193,642,182,787,174,859,174,924,178,979,187,1019,201,1049,230,1080,278,1132,378,1127,380,1075,281,1045,234,1017,206,977,192,923,183,858,179,787,179,643,187,523,198"/>
+<area shape="rect" id="Node000006" href="$class_c_egon.html#a09f810d1f48929332f229e696116f782" title="Destroys the visual effects for the Egon weapon." alt="" coords="1070,1114,1216,1141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="523,205,649,221,721,234,792,251,863,268,921,280,948,289,972,304,996,325,1020,354,1034,380,1045,412,1057,489,1060,580,1058,678,1053,869,1056,951,1069,1013,1093,1061,1122,1101,1117,1104,1088,1064,1063,1015,1051,951,1048,870,1053,678,1055,580,1052,490,1040,413,1029,382,1016,357,993,328,969,308,945,294,920,285,862,273,791,257,720,239,648,226,522,211"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="502,187,638,143,640,148,503,192"/>
+<area shape="rect" id="Node000007" href="$class_c_sprite.html#ac3deb1ce65fc86f888ad074ad676c3a1" title="Expands the sprite over time." alt="" coords="1268,1139,1385,1166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1217,1135,1253,1140,1252,1145,1217,1140"/>
+<area shape="rect" id="Node000008" href="$hl__baseentity_8cpp.html#a10563004053a3899c27ffadd93e43de8" title=" " alt="" coords="1276,1089,1377,1115"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1217,1115,1261,1108,1261,1114,1217,1120"/>
+<area shape="poly" id="edge14_Node000010_Node000003" title=" " alt="" coords="503,529,633,522,791,505,906,485,1017,454,1097,424,1099,429,1019,459,907,491,792,510,633,527,503,534"/>
+<area shape="rect" id="Node000011" href="$weapons_8cpp.html#aff7edc899cc0eebd50494f0d139daccd" title="Applies accumulated multi&#45;damage to an entity." alt="" coords="633,1077,763,1103"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="504,531,533,539,558,556,569,573,577,593,587,643,591,703,592,768,592,895,596,948,607,988,635,1030,669,1064,665,1068,631,1034,602,990,591,948,586,895,586,768,586,703,582,644,572,595,564,575,554,560,531,544,502,536"/>
+<area shape="rect" id="Node000013" href="$weapons_8cpp.html#acbf3bd7aaed4b829055818197d1c086b" title="Resets the global multi&#45;damage accumulator." alt="" coords="634,418,762,445"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="481,516,536,486,603,454,623,447,625,452,605,459,538,491,483,521"/>
+<area shape="rect" id="Node000014" href="$class_c_egon.html#a0a22fc508a505307d7b9571250e0c60b" title="Retrieves the discharge interval for the Egon weapon." alt="" coords="604,469,792,495"/>
+<area shape="poly" id="edge15_Node000010_Node000014" title=" " alt="" coords="503,521,616,497,617,502,504,526"/>
+<area shape="poly" id="edge16_Node000010_Node000015" title=" " alt="" coords="468,517,507,466,554,398,567,373,574,351,584,331,603,309,621,297,624,302,606,313,588,333,579,353,572,375,559,401,512,469,472,520"/>
+<area shape="rect" id="Node000016" href="$class_c_base_entity.html#aac49b2d63719c856ee2df3cb8855a380" title=" " alt="" coords="1068,215,1219,242"/>
+<area shape="poly" id="edge17_Node000010_Node000016" title=" " alt="" coords="485,517,520,493,554,462,570,433,575,406,582,380,590,367,603,353,627,337,651,329,698,327,743,325,766,318,790,303,801,291,807,278,812,252,817,225,825,212,838,201,870,186,904,177,939,174,975,176,1042,189,1098,207,1096,212,1041,194,974,181,939,180,905,182,872,191,841,206,829,216,822,227,817,253,812,280,805,294,793,307,768,323,744,331,698,332,652,334,630,342,606,357,594,370,587,382,580,408,575,435,558,465,524,498,487,521"/>
+<area shape="rect" id="Node000018" href="$class_c_base_player.html#a586acf8c30ca384375771291a602d3c5" title=" " alt="" coords="627,570,769,597"/>
+<area shape="poly" id="edge20_Node000010_Node000018" title=" " alt="" coords="504,540,617,564,616,569,503,545"/>
+<area shape="rect" id="Node000019" href="$class_c_game_rules.html#ad6ac4abfecc4f6ffde18b6232f1a4d9c" title=" " alt="" coords="608,621,788,647"/>
+<area shape="poly" id="edge21_Node000010_Node000019" title=" " alt="" coords="504,536,531,544,558,556,573,569,583,582,591,594,606,607,616,612,613,617,603,611,587,598,578,585,569,572,555,560,529,549,502,541"/>
+<area shape="rect" id="Node000020" href="$combat_8cpp.html#a3a20dd1e4e2f4832037c6797d4ffef37" title="Inflicts damage to entities within a certain radius." alt="" coords="643,798,753,825"/>
+<area shape="poly" id="edge22_Node000010_Node000020" title=" " alt="" coords="504,534,532,541,558,556,579,580,588,603,595,629,607,658,682,783,677,786,602,661,590,630,583,605,574,583,555,560,530,546,503,539"/>
+<area shape="rect" id="Node000028" href="$class_c_base_entity.html#a7b55b66f1ee672cbe6d1b902c9aa70c6" title="Handles a trace attack on an entity." alt="" coords="843,1026,1015,1053"/>
+<area shape="poly" id="edge37_Node000010_Node000028" title=" " alt="" coords="504,531,533,539,558,556,582,592,591,627,590,662,584,697,578,732,576,766,584,800,606,835,628,853,650,862,672,865,696,865,744,867,769,875,793,892,806,907,814,923,818,954,823,984,829,998,842,1012,846,1016,842,1020,838,1016,825,1001,818,985,813,955,808,925,802,910,790,896,766,880,743,872,696,870,672,871,648,868,625,858,602,838,579,802,571,767,572,731,578,696,584,662,585,628,577,594,554,560,531,544,502,537"/>
+<area shape="rect" id="Node000031" href="$hl__weapons_8cpp.html#a5649cf0e9f19a14db94957f669e3ba9f" title="Simulates a trace line that always misses." alt="" coords="874,1077,984,1103"/>
+<area shape="poly" id="edge59_Node000010_Node000031" title=" " alt="" coords="504,531,533,539,558,556,575,578,586,599,595,642,591,685,582,727,574,769,571,810,580,851,590,872,606,892,628,909,649,917,672,918,695,916,744,914,769,920,793,936,807,952,815,968,819,1001,822,1033,829,1048,841,1063,861,1075,858,1080,838,1067,824,1051,817,1034,813,1001,809,970,803,955,790,940,766,925,743,919,696,921,672,924,648,922,625,914,602,896,586,875,575,853,565,811,568,768,577,726,586,684,589,643,581,601,570,581,554,560,531,544,503,536"/>
+<area shape="rect" id="Node000032" href="$class_c_egon.html#a5d7be46967e61c5d47333556ca78669f" title="Updates the visual effects of the Egon weapon." alt="" coords="627,1279,769,1306"/>
+<area shape="poly" id="edge38_Node000010_Node000032" title=" " alt="" coords="504,531,533,539,558,556,572,577,583,604,595,668,600,745,600,828,596,991,598,1061,607,1115,622,1157,642,1198,681,1265,676,1268,637,1201,617,1159,602,1116,593,1061,591,991,595,828,595,745,590,669,577,605,567,580,554,560,531,543,503,536"/>
+<area shape="rect" id="Node000050" href="$class_c_egon.html#ae1e09fa6743d62423f880589e697cc95" title="Uses a specified amount of ammo from the Egon weapon." alt="" coords="633,950,763,977"/>
+<area shape="poly" id="edge50_Node000010_Node000050" title=" " alt="" coords="504,531,533,539,558,556,576,580,588,604,595,627,598,651,595,698,585,744,575,790,571,836,573,859,579,882,590,906,606,930,621,943,618,947,602,933,585,909,574,884,568,860,565,836,569,789,580,743,590,697,593,651,590,629,583,606,572,583,554,560,531,544,503,536"/>
+<area shape="rect" id="Node000051" href="$dlls_2util_8cpp.html#a0c963ac10efb8e051699509cb27356e9" title="Shakes the screen of all clients within a specified radius." alt="" coords="632,367,764,394"/>
+<area shape="poly" id="edge51_Node000010_Node000051" title=" " alt="" coords="469,517,523,462,561,431,603,404,617,397,619,402,606,408,564,435,527,466,473,521"/>
+<area shape="rect" id="Node000012" href="$class_c_base_entity.html#aa8c66d085116b719beff9fb1c3d0e45d" title="Inflicts damage on the entity." alt="" coords="840,1127,1018,1154"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="763,1101,851,1121,850,1126,762,1107"/>
+<area shape="poly" id="edge18_Node000016_Node000004" title=" " alt="" coords="1161,241,1302,380,1298,384,1157,245"/>
+<area shape="rect" id="Node000017" href="$enginecallback_8h.html#a1d29610e4ceeab22fca9a19fa3e5c03a" title=" " alt="" coords="1272,215,1381,242"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="1219,226,1256,226,1256,231,1219,231"/>
+<area shape="poly" id="edge28_Node000020_Node000003" title=" " alt="" coords="705,796,766,696,805,642,838,607,863,592,886,584,928,580,970,576,992,569,1017,556,1051,528,1081,494,1125,431,1129,434,1086,498,1055,531,1019,560,994,574,971,581,928,585,887,590,865,597,841,611,809,645,771,699,709,799"/>
+<area shape="poly" id="edge29_Node000020_Node000004" title=" " alt="" coords="753,819,809,826,876,829,948,824,1017,809,1084,783,1132,753,1173,714,1218,658,1255,600,1283,538,1303,480,1316,434,1321,435,1308,482,1288,540,1260,603,1222,661,1177,717,1135,757,1086,788,1019,814,948,830,876,834,809,831,753,824"/>
+<area shape="poly" id="edge32_Node000020_Node000012" title=" " alt="" coords="714,823,753,871,775,903,794,937,804,964,809,988,810,1032,816,1073,825,1093,842,1114,845,1116,841,1120,838,1117,820,1095,810,1074,805,1033,803,989,799,965,789,939,771,906,749,875,710,827"/>
+<area shape="rect" id="Node000021" href="$hl__baseentity_8cpp.html#aff7edc899cc0eebd50494f0d139daccd" title=" " alt="" coords="864,621,994,647"/>
+<area shape="poly" id="edge23_Node000020_Node000021" title=" " alt="" coords="706,796,756,730,794,691,838,657,849,651,851,656,841,662,798,695,760,733,710,799"/>
+<area shape="rect" id="Node000022" href="$class_c_base_entity.html#ae6e022656fe3a22490a6106abe7fea10" title=" " alt="" coords="845,975,1013,1002"/>
+<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="754,819,775,828,793,841,806,857,813,873,818,903,823,933,829,947,842,961,846,965,842,969,838,965,825,950,817,935,813,904,808,874,802,860,790,845,772,833,752,824"/>
+<area shape="rect" id="Node000024" href="$class_c_base_entity.html#ad97c51b0c772019b11000e971f9fa965" title=" " alt="" coords="855,671,1003,698"/>
+<area shape="poly" id="edge26_Node000020_Node000024" title=" " alt="" coords="713,796,766,753,801,729,838,708,853,701,855,706,841,712,804,733,769,757,716,800"/>
+<area shape="rect" id="Node000025" href="$hl__baseentity_8cpp.html#acbf3bd7aaed4b829055818197d1c086b" title=" " alt="" coords="865,773,993,799"/>
+<area shape="poly" id="edge27_Node000020_Node000025" title=" " alt="" coords="753,803,849,792,850,797,753,808"/>
+<area shape="rect" id="Node000026" href="$cl__dll_2util_8cpp.html#a2c003fe6a673bb4386a4a818596254a9" title="Calculates the length (magnitude) of a 3D vector." alt="" coords="899,722,959,749"/>
+<area shape="poly" id="edge30_Node000020_Node000026" title=" " alt="" coords="735,795,839,758,883,745,884,750,840,763,737,800"/>
+<area shape="poly" id="edge33_Node000020_Node000028" title=" " alt="" coords="754,818,775,827,794,842,809,864,817,886,818,929,819,971,826,992,842,1012,845,1015,841,1019,838,1016,822,994,814,972,812,929,812,887,805,866,790,845,773,832,752,823"/>
+<area shape="rect" id="Node000029" href="$hl__baseentity_8cpp.html#acd888661f1fbf14bbb8eb22f0c96d6e2" title=" " alt="" coords="847,874,1011,901"/>
+<area shape="poly" id="edge34_Node000020_Node000029" title=" " alt="" coords="742,823,872,866,871,871,740,828"/>
+<area shape="rect" id="Node000030" href="$dlls_2util_8cpp.html#a168e867ce033654505b26655314ce1e3" title="Retrieves the contents at a specified point in the game world." alt="" coords="861,925,997,951"/>
+<area shape="poly" id="edge35_Node000020_Node000030" title=" " alt="" coords="754,821,793,841,810,859,818,877,826,894,841,911,849,915,846,920,838,915,821,897,813,879,805,862,790,846,752,826"/>
+<area shape="poly" id="edge36_Node000020_Node000031" title=" " alt="" coords="723,823,759,852,794,893,806,917,812,941,813,983,817,1023,826,1043,841,1063,861,1076,857,1080,838,1067,821,1045,812,1025,808,984,806,941,801,919,789,896,755,856,719,827"/>
+<area shape="rect" id="Node000023" href="$class_c_base_entity.html#ac63a5e1c0bec68ff48cbd01a27f941ae" title=" " alt="" coords="1073,975,1213,1002"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1013,986,1057,986,1057,991,1013,991"/>
+<area shape="rect" id="Node000027" href="$cl__dll_2util_8cpp.html#ab87521a75ef827a85807f89a6c10629a" title=" " alt="" coords="1122,621,1165,647"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="959,727,1017,708,1066,682,1109,654,1112,659,1069,686,1019,713,960,732"/>
+<area shape="rect" id="Node000033" href="$class_c_egon.html#ae2b2d53ffc64083f45f8ffb3bc62ea82" title="Creates the visual effects for the Egon weapon." alt="" coords="859,1229,999,1255"/>
+<area shape="poly" id="edge39_Node000032_Node000033" title=" " alt="" coords="762,1276,850,1257,851,1262,763,1281"/>
+<area shape="rect" id="Node000038" href="$class_c_beam.html#a748210777faa6527930615023e2c6c1b" title=" " alt="" coords="1066,1330,1220,1357"/>
+<area shape="poly" id="edge45_Node000032_Node000038" title=" " alt="" coords="751,1304,792,1315,840,1329,949,1340,1050,1343,1050,1348,949,1345,839,1334,791,1321,749,1309"/>
+<area shape="rect" id="Node000039" href="$class_c_beam.html#a951e0fd315edc3ee8eb8271b9ceaeda9" title=" " alt="" coords="1082,1254,1204,1281"/>
+<area shape="poly" id="edge46_Node000032_Node000039" title=" " alt="" coords="757,1304,812,1314,878,1321,948,1323,1017,1315,1061,1303,1101,1286,1103,1291,1063,1308,1019,1321,948,1328,878,1327,812,1319,756,1309"/>
+<area shape="rect" id="Node000046" href="$class_c_sprite.html#a4bb51e452b892cbb8c6b6d65da96d80f" title=" " alt="" coords="871,1431,987,1458"/>
+<area shape="poly" id="edge44_Node000032_Node000046" title=" " alt="" coords="771,1303,793,1316,812,1340,819,1364,825,1388,842,1411,858,1422,855,1427,838,1415,820,1390,814,1366,807,1342,790,1320,768,1307"/>
+<area shape="rect" id="Node000047" href="$class_c_beam.html#ac24cc4e5d062e14132700c552b31ba61" title=" " alt="" coords="857,1482,1001,1509"/>
+<area shape="poly" id="edge47_Node000032_Node000047" title=" " alt="" coords="771,1301,793,1316,809,1335,816,1355,818,1394,821,1432,827,1450,842,1468,846,1472,842,1476,838,1472,823,1453,815,1433,813,1394,811,1356,804,1338,790,1320,768,1306"/>
+<area shape="rect" id="Node000048" href="$class_c_beam.html#a7201afb4de74ed1dfb21adcf0e56287b" title=" " alt="" coords="866,1178,992,1205"/>
+<area shape="poly" id="edge48_Node000032_Node000048" title=" " alt="" coords="720,1276,773,1246,839,1214,857,1207,859,1212,841,1219,776,1251,723,1281"/>
+<area shape="rect" id="Node000049" href="$hl__baseentity_8cpp.html#ad0abb0f108fe6d6579780dfa1ae17e71" title=" " alt="" coords="875,1279,983,1306"/>
+<area shape="poly" id="edge49_Node000032_Node000049" title=" " alt="" coords="770,1290,859,1290,859,1295,770,1295"/>
+<area shape="poly" id="edge41_Node000033_Node000003" title=" " alt="" coords="997,1229,1016,1215,1030,1193,1041,1165,1055,1096,1060,1013,1060,923,1055,745,1056,668,1063,608,1077,559,1094,510,1126,433,1131,435,1099,512,1082,560,1069,609,1062,669,1061,745,1066,923,1066,1013,1060,1096,1046,1167,1035,1195,1020,1219,1001,1234"/>
+<area shape="poly" id="edge40_Node000033_Node000006" title=" " alt="" coords="988,1226,1017,1214,1070,1182,1114,1149,1117,1153,1073,1187,1019,1219,990,1231"/>
+<area shape="poly" id="edge42_Node000033_Node000038" title=" " alt="" coords="988,1253,1019,1265,1110,1319,1107,1324,1017,1270,986,1258"/>
+<area shape="poly" id="edge43_Node000033_Node000039" title=" " alt="" coords="999,1248,1067,1256,1066,1261,999,1253"/>
+<area shape="poly" id="edge52_Node000051_Node000003" title=" " alt="" coords="756,364,812,354,878,347,948,345,1019,353,1063,366,1103,383,1101,388,1061,371,1017,358,948,350,878,352,812,360,757,369"/>
+<area shape="rect" id="Node000052" href="$dlls_2util_8cpp.html#a14f6abef35ca551e25ed0ce9577c8ea7" title="Converts a float value to a fixed unsigned 16&#45;bit integer." alt="" coords="868,367,990,394"/>
+<area shape="poly" id="edge53_Node000051_Node000052" title=" " alt="" coords="765,378,852,378,852,383,765,383"/>
+<area shape="rect" id="Node000053" href="$class_vector.html#afc6eac4e8c3e7c245c8e6771bea657f6" title=" " alt="" coords="876,519,982,546"/>
+<area shape="poly" id="edge54_Node000051_Node000053" title=" " alt="" coords="766,391,793,404,809,416,819,428,842,455,901,507,897,511,838,459,815,431,805,420,790,408,764,396"/>
+<area shape="rect" id="Node000054" href="$enginecallback_8h.html#a407a1bc1bd792191cde8cffea2b00234" title=" " alt="" coords="862,418,996,445"/>
+<area shape="poly" id="edge56_Node000051_Node000054" title=" " alt="" coords="763,392,851,412,850,417,762,397"/>
+<area shape="rect" id="Node000055" href="$dlls_2util_8cpp.html#a635672430658b60f1b5123f296b47b2b" title="Retrieves a player entity by its index." alt="" coords="860,215,998,242"/>
+<area shape="poly" id="edge57_Node000051_Node000055" title=" " alt="" coords="750,364,790,346,842,305,901,251,905,255,846,309,793,351,752,369"/>
+<area shape="poly" id="edge55_Node000053_Node000027" title=" " alt="" coords="960,544,1109,615,1106,620,958,549"/>
+<area shape="poly" id="edge58_Node000055_Node000016" title=" " alt="" coords="998,226,1052,226,1052,231,998,231"/>
+<area shape="rect" id="Node000060" href="$com__weapons_8cpp.html#ae77f42717e12fae99a5de062f745719c" title="Plays a sound at the player&#39;s location." alt="" coords="639,1330,757,1357"/>
+<area shape="poly" id="edge64_Node000059_Node000060" title=" " alt="" coords="536,706,558,724,572,748,581,777,589,848,588,932,582,1023,576,1114,575,1197,584,1267,593,1295,606,1316,626,1331,622,1335,602,1320,588,1297,579,1268,570,1197,571,1113,576,1023,582,932,584,848,576,778,567,750,554,728,533,710"/>
+</map>
